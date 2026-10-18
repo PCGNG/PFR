@@ -1,16 +1,16 @@
 ### Concept of LEGAL SEPARATION
 	Legal separation is a legal remedy available to parties in a failed marriage for the purpose of obtaining a decree from the court entitling him or her to certain reliefs such as 
-  	the right to live separately from the other spouse (without affecting the marital bond that exists between them)
-  	the dissolution and liquidation of their ACP or CPP regime 
-  	have custody of the minor children
+    	the right to live separately from the other spouse (without affecting the marital bond that exists between them)
+    	the dissolution and liquidation of their ACP or CPP regime 
+    	have custody of the minor children
 	This REMEDY is available only if there is a ground for doing so (Art. 55 of FC)
 	Legal separation does not dissolve the marriage; the spouses remain married to each other.
 
-	Types of Divorce
+*Types of Divorce*
   	Absolute Divorce (a vinculo matrimonii)- breaks the marital bond entirely, allowing parties to remarry
   	A mensa et thoro (limited divorce) / “from be and board” - It relaxes the marital obligations of cohabitation but leaves the marriage bond intact
 
-	Historical Evolution
+*Historical Evolution*
   	Las Siete Partidas (Spanish Colonial Era) 
     	 absolute divorce was strictly prohibited. 
     	 relative divorce (divorce a mensa et thoro) is recognized
@@ -25,12 +25,12 @@
   o	Family Code (1988) 
     	Legal separation with 10 grounds
 
-	P.D. 1083 (Code of Muslim Personal Laws) 
+*P.D. 1083 (Code of Muslim Personal Laws)*    
   	recognizes absolute divorce (Art 45-55)
   	Forms of divorce:
     •	Divorce by Talaq. May be effected by the husband in a single repudiation of his wife during her non-menstrual period (tuhr) within which he has totally abstained from carnal relation with her.
     •	Divorce by lla. A husband makes a vow to abstain from any carnal relations (ila) with his wife and keeps such ila for a period of not less than four months.
-    •	Divorce by zihar. Where the husband has injuriously assimilated (zihar) his wife to any of his relatives within the prohibited degrees of marriage, they shall mutually refrain from having carnal relation until he shall have performed the prescribed expiation.
+    •	Divorce by zihar. Where the husband has injuriously assimilated (zihar) his wife to any of his relatives within the prohibited degrees of marriage, they shall mutually refrain from having carnal relation until he shall have       performed the prescribed expiation.
     •	Divorce by li'an. Where the husband accuses his wife in court of adultery, a decree of perpetual divorce may be granted by the court after due hearing and after the parties shall have performed the prescribed acts of imprecation (li'an)
     •	Divorce by khul'. The wife may, after having offered to return or renounce her dower or to pay any other lawful consideration for her release (khul') from the marriage bond, petition the court for divorce.
     •	Divorce by tafwid. If the husband has delegated (tafwid) to the wife the right to effect a talaq at the time of the celebration of the marriage or thereafter, she may repudiate the marriage and the repudiation would have the same effect as if it were pronounced by the husband himself.
@@ -42,4 +42,54 @@
         o	(e)Insanity or affliction with an incurable disease 
         o	(f) Unusual cruelty 
         o	(g)Any other cause either at the instance of the wife or the proper wali
+
+*Legal Separation*
+  •	dissolves property regime 
+  •	alters personal relations 
+  •	judicial based only on grounds provided under the law
+
+*Separation of Properties*
+  •	dissolves property regime 
+  •	no effect on personal obligations of support, living together, or fidelity 
+  •	judicial for sufficient cause AND can be voluntary (joint petition in court)
+
+*Sufficient Cause for Separation of Property*
+  	spouse of the petitioner has been sentenced to a penalty which carries with it civil interdiction 
+  	spouse of the petitioner has been judicially declared an absentee 
+  	loss of parental authority of the spouse of petitioner has been decreed by the court 
+  	the spouse of the petitioner has abandoned the latter or failed to comply with his or her obligations to the family 
+  	the spouse granted the power of administration in the marriage settlements has abused that power 
+  	at the time of the petition, the spouses have been separated in fact for at least one year and reconciliation is highly improbable
+
+*Legal Separation*
+  •	requires full judicial process and a formal decree 
+  •	alters specific legal rights
+
+*Separation de facto*
+  •	purely situational and lacks legal sanction 
+  •	does not affect the property regime except that a spouse who leaves without just cause loses the right to be supported, and sole administration may be granted to the abandoned spouse via court petition
+
+*Effects of Separation de facto*
+  • spouse who leaves the conjugal home or refuses to live therein, without just cause, shall not have the right to be supported; 
+  • when the consent of one spouse to any transaction of the other is required by law, judicial authorization shall be obtained in a summary proceeding; 
+  • in the absence of sufficient community property, the separate property of both spouses shall be solidarily liable for the support of the family.
+
+*Effect of Abandonment by one spouse*
+  • the aggrieved spouse may petition the court for receivership, for judicial separation of property, or for authority to be the sole administrator of the absolute community 
+  • prima facie presumption of abandonment: he or she has left the conjugal dwelling without intention of returning (spouse left the conjugal dwelling for a period of 3 months or has failed within 3 months to give any information as to his or her whereabouts)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
