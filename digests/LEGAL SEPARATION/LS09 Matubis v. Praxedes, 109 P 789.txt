@@ -1,0 +1,21 @@
+### Facts:
+Socorro and Zoilo were legally married. Years into their marriage, they agreed to live separately and executed a notarized public document titled "Agreement," wherein they mutually relinquished marital rights, renounced claims to conjugal property, and stipulated that each was free to remarry or cohabit with any other person without interference or complaint from the other.
+
+Subsequently, Zoilo cohabited with Asuncion Rebolado and gave birth to a child who was recorded as the child of Zoilo. Socorro became aware of the illicit cohabitation shortly after it began, but only filed an action for legal separation years later, well past the statutory period for filing the action. In defense, Zoilo asserted that the action was barred because Socorro had consented to and pardoned any adulterous relation or concubinage under their notarized agreement, and that her right of action had prescribed.
+
+### Issue:
+Does an agreement executed by the spouses authorizing each other to live separately and remarry or cohabit with another person constitute consent or condonation/pardon that bars an action for legal separation?
+
+### Ruling: 
+"Article 100 of the Civil Code provides that 'the legal separation may be claimed only by the innocent spouse, provided there has been no condonation of or consent to the adultery or concubinage.' Having consented to the concubinage, plaintiff cannot successfully file this action for legal separation."
+"The extrajudicial agreement, it is true, is void under Article 221 of the Civil Code, but it nevertheless shows that plaintiff consented to the concubinage or had condoned the offense. And under Article 100 of the Civil Code, such consent or condonation deprives her of the right to obtain legal separation."
+"Furthermore, the action was filed out of time. Under Article 102 of the Civil Code, an action for legal separation must be instituted within one year after the date on which the plaintiff became aware of the cause and within five years from and after the date when such cause occurred."
+
+### Ratio decidendi:
+Under Article 56(1) and (2) of the Family Code (formerly Article 100 of the Civil Code), an action for legal separation can only be maintained by an innocent spouse where there has been no consent to or condonation/pardon of the marital offense.
+Although an extrajudicial contract providing for personal separation or permitting the spouses to cohabit with other partners is void ab initio for being contrary to law, morals, and public policy, its execution nevertheless serves as conclusive factual evidence that the aggrieved spouse consented to or condoned the marital misconduct. Consequently, having granted prior consent to the extrajudicial union, the spouse is barred from claiming legal separation.
+
+### Class Notes:
+
+### Dispositive portion:
+
