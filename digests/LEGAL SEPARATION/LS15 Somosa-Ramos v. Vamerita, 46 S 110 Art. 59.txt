@@ -1,0 +1,23 @@
+### Facts:
+Lucy Somosa-Ramos filed a petition for legal separation against her husband, Clemente Ramos, on the grounds of concubinage and an attempt against her life. As an ancillary remedy, she also sought a writ of preliminary mandatory injunction to compel her husband to return her paraphernal (exclusive) property, which he was managing. (By seeking the injunction, Lucy Somosa-Ramos was asking the court to order her husband to immediately stop managing and return control of her separate property to her, rather than waiting until the legal separation case was fully decided)
+
+The respondent judge, citing Article 103 of the Civil Code, suspended the hearing on the motion for preliminary mandatory injunction. He agreed with Clemente Ramos's argument that hearing the motion would hinder the possibility of reconciliation between the spouses, as Article 103 prohibits the hearing of a legal separation case within six months of its filing. 
+
+### Issue:
+Whether or not the "cooling-off" period before a legal separation case can be heard, also prohibits the court from acting on ancillary remedies, such as a motion for preliminary mandatory injunction, during that same period.
+
+### Ruling: 
+The prohibition under Article 103 of the Civil Code is not an absolute bar to hearing a motion for a preliminary injunction or other provisional remedies. The intent of the six-month ban is to encourage reconciliation by preventing the court from hearing the main legal separation case prematurely. The court has the authority to protect the spouses' property rights during this period, especially when immediate action is necessary to prevent injustice.
+
+In Araneta v. Concepcion:
+
+"It is conceded that the period of six months fixed therein Article 103 (Civil Code) is evidently intended as a cooling off period to make possible a reconciliation between the spouses. The recital of their grievances against each other in court may only fan their already inflamed passions against one another, and the lawmaker has imposed the period to give them opportunity for dispassionate reflection. But this practical expedient, necessary to carry out legislative policy, does not have the effect of overriding other provisions such as the determination of the custody of the children and alimony and support pendente lite according to the circumstance ... The law expressly enjoins that these should be determined by the court according to the circumstances. If these are ignored or the courts close their eyes to actual facts, rank injustice may be caused."
+
+The high court ordered the trial judge to proceed with hearing the motion for the preliminary mandatory injunction, recognizing the potential injustice of leaving the property in the husband's hands during the six-month period.
+
+### Ratio decidendi:
+
+### Class Notes:
+
+### Dispositive portion:
+
