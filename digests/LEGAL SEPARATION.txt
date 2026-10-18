@@ -1,5 +1,5 @@
 ### Art. 45. 
-A marriage may be annulled for any of the following causes, existing at the time of the marriage:
+*A marriage may be annulled for any of the following causes, existing at the time of the marriage:*
 
 (1)	That the party in whose behalf it is sought to have the marriage annulled was eighteen years of age or over but below twenty-one, and the marriage was solemnized without the consent of the parents, guardian or person having substitute parental authority over the party, in that order, unless after attaining the age of twenty-one, such party freely cohabited with the other and both lived together as husband and wife;
 
@@ -12,7 +12,8 @@ A marriage may be annulled for any of the following causes, existing at the time
 (5)	That either party was physically incapable of consummating the marriage with the other, and such incapacity continues and appears to be incurable; or
 (6) That either party was afflicted with a sexually-transmissible disease found to be serious and appears to be incurable. 
 
-Art. 46. Any of the following circumstances shall constitute fraud referred to in Number 3 of the preceding Article:
+### Art. 46. 
+*Any of the following circumstances shall constitute fraud referred to in Number 3 of the preceding Article:*
 
 (1)	Non-disclosure of a previous conviction by final judgment of the other party of a crime involving moral turpitude;
 (2)	Concealment by the wife of the fact that at the time of the marriage, she was pregnant by a man other than her husband;
@@ -22,7 +23,7 @@ Art. 46. Any of the following circumstances shall constitute fraud referred to i
 No other misrepresentation or deceit as to character, health, rank, fortune or chastity shall constitute such fraud as will give grounds for action for the annulment of marriage.
 
 ### Art. 47. 
-The action for annulment of marriage must be filed by the following persons and within the periods indicated herein:
+*The action for annulment of marriage must be filed by the following persons and within the periods indicated herein:*
 
 (1) For causes mentioned in number 1 of Article 45 by the party whose parent or guardian did not give his or her consent, within five years after attaining the age of twenty-one, or by the parent or guardian or person having legal charge of the minor, at any time before such party has reached the age of twenty-one;
 (2) For causes mentioned in number 2 of Article 45, by the same spouse, who had no knowledge of the other’s insanity; or by any relative or guardian or person having legal charge of the insane, at any time before the death of either party, or by the insane spouse during a lucid interval or after regaining sanity;
@@ -60,7 +61,7 @@ Children conceived or born before the judgment of annulment or absolute nullity 
 ### ART. 55 in relation to ART. 134-136
 
 ### Art. 55. 
-A petition for legal separation may be filed on any of the following grounds:
+*A petition for legal separation may be filed on any of the following grounds:*
 
 (1)	Repeated physical violence or grossly abusive conduct directed against the petitioner, a common child, or a child of the petitioner;
 
@@ -85,7 +86,7 @@ A petition for legal separation may be filed on any of the following grounds:
 For purposes of this Article, the term “child” shall include a child by nature or by adoption.
 
 ### Art. 56. 
-The petition for legal separation shall be denied on any of the following grounds:
+*The petition for legal separation shall be denied on any of the following grounds:*
 
 (1) Where the aggrieved party has condoned the offense or act complained of;
 
@@ -101,7 +102,7 @@ The petition for legal separation shall be denied on any of the following ground
 
 
 ### Art. 100. 
-The separation in fact between husband and wife shall not affect the regime of absolute community except that:
+*The separation in fact between husband and wife shall not affect the regime of absolute community except that:*
 
 (1) The spouse who leaves the conjugal home or refuses to live therein, without just cause, shall not have the right to be supported;
 
@@ -125,7 +126,7 @@ A spouse is deemed to have abandoned the other when he or she has left the conju
 In the absence of an express declaration in the marriage settlements, the separation of property between spouses during the marriage shall not take place except by judicial order. Such judicial separation of property may either be voluntary or for sufficient cause. 
 
 ### Art. 135. 
-Any of the following shall be considered sufficient cause for judicial separation of property:
+*Any of the following shall be considered sufficient cause for judicial separation of property:*
 
 (1)	That the spouse of the petitioner has been sentenced to a penalty which carries with it civil interdiction;
 
