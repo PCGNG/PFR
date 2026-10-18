@@ -1,0 +1,40 @@
+### Facts:
+Dr. Neri filed a complaint for adultery against his wife Ruby and Eduardo after discovering their illicit relations. The RTC convicted Ruby and Eduardo of adultery, which conviction the CA affirmed. 
+
+While the cases were pending review before the SC, Dr. Neri executed an affidavit of desistance and subsequently filed a manifestation praying for the dismissal of the charges, stating that he had tacitly consented to his wife’s infidelity and had forgiven her. Ruby and Eduardo then moved for the dismissal of the case or for a new trial, invoking condonation and consent, and further claimed that Dr. Neri’s own alleged marital misconduct and extra-marital cohabitation barred him from maintaining the prosecution under the doctrine of in pari delicto. 
+
+### Issue:
+Does a spouse's post-filing affidavit of desistance, pardon, or tacit consent—as well as the alleging spouse's own subsequent marital misconduct—operate as a valid condonation or consent that bars the action and justifies dismissal or a new trial?
+
+### Ruling: 
+It should also be noted that while Article 344 of the Revise Penal Code provides that the crime of adultery cannot be prosecuted without the offended spouse's complaint, once the complaint has been filed, the control of the case passes to the public prosecutor.
+
+Enforcement of our law on adultery is not exclusively, nor even principally, a matter of vindication of the private honor of the offended spouse; much less is it a matter merely of personal or social hypocrisy. Such enforcement relates, more importantly, to protection of the basic social institutions of marriage and the family in the preservation of which the State has the strongest interest; the public policy here involved is of the most fundamental kind.
+In Article II, Section 12 of the Constitution there is set forth the following basic state policy: 
+The State recognizes the sanctity of family life and shall protect find strengthen the family as a basic autonomous social institution ... 
+
+The same sentiment has been expressed in the Family Code of the Philippines in Article 149: 
+The family, being the foundation of the nation, is a basic social institution which public policy cherishes and protects. Consequently, family relations are governed by law and no custom, practice or agreement destructive of the family shall be recognized or given effect.
+
+In U.S. v. Topiño, the Court held that: ... 
+
+The husband being the head of the family and the only person who could institute the prosecution and control its effects, it is quite clear that the principal object in penalizing the offense by the state was to protect the purity of the family and the honor of the husband, but now the conduct of the prosecution, after it is once commenced by the husband, and the enforcement of the penalties imposed is also a matter of public policy in which the Government is vitally interested to the extent of preserving the public peace and providing for the general welfare of the community.
+
+A pardon or consent given by the offended spouse in an adultery case is valid only if granted prior to the filing of the criminal complaint. A post-filing withdrawal or desistance by the complainant does not automatically dismiss the case.
+
+The state has a fundamental interest in protecting the institutions of marriage and the family. The prosecution of adultery is not solely a private matter but also an issue of public policy.
+
+### Ratio decidendi:
+"While there is a conceptual difference between consent and pardon in the sense that consent is granted prior to the adulterous act while pardon is given after the illicit affair, nevertheless, for either consent or pardon to benefit the accused, it must be given prior to the filing of a criminal complaint." 
+"Once the complaint has been filed, the control of the case passes to the public prosecutor. Enforcement of our law on adultery is not exclusively, nor even principally, a matter of vindication of the private honor of the offended spouse. Such enforcement relates to protection of the basic social institutions of marriage and the family in the preservation of which the State has the strongest interest; the public policy here involved is of the most fundamental kind." 
+"Moreover, the concept of pari delicto is not found in the Revised Penal Code, but only in Article 1411 of the Civil Code. The Court notes that Article 1411 of the Civil Code relates only to contracts with illegal consideration. The case at bar does not involve any illegal contract which either of the contracting parties is now seeking to enforce." 
+
+Consent and condonation (pardon) are distinct legal concepts. Consent is granted prior to the commission of the marital offense, whereas pardon or condonation is extended after the illicit act has taken place. 
+
+Under the law, an offended spouse's pardon or condonation can only bar the prosecution if it was granted prior to the formal institution of the complaint. A pardon or affidavit of desistance executed after the action has already been filed, tried, and decided cannot divest the court of jurisdiction or extinguish the offense, because marriage and the family are basic social institutions protected by public policy. 
+
+Furthermore, the civil contract doctrine of in pari delicto applies only to void contracts with illegal consideration under Article 1411 of the Civil Code; it cannot be invoked as a valid defense to nullify charges arising from marital infidelity where the aggrieved spouse promptly instituted the action upon discovery and did not consent to the illicit acts beforehand. 
+### Class Notes:
+
+### Dispositive portion:
+MR denied. 
