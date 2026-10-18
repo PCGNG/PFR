@@ -1,0 +1,44 @@
+### Facts:
+ Elvira filed a petition for legal separation against Alfredo. A notice of lis pendens (pending suit) was annotated on the property's title to warn potential buyers. 
+
+While the legal separation case was ongoing, Alfredo entered into an Agreement to Buy and Sell the property to Mario Siochi for ₱18 million. The agreement was made without Elvira's consent.
+
+After receiving a partial payment from Siochi, Alfredo failed to secure Elvira's consent. Instead, he later donated the property to his daughter, Winifred. Winifred subsequently sold the property to Inter-Dimensional Realty, Inc. (IDRI) for P18M.
+
+Siochi filed a complaint to enforce his agreement with Alfredo and nullify the subsequent transactions involving Winifred and IDRI.
+
+### Issue:
+Was the sale valid? 
+
+### Ruling: 
+The sale to Siochi was void from the beginning because Elvira did not provide her written consent, as required by Article 124 of the Family Code.
+
+Art. 124. The administration and enjoyment of the conjugal partnership shall belong to both spouses jointly. In case of disagreement, the husband’s decision shall prevail, subject to recourse to the court by the wife for proper remedy, which must be availed of within five years from the date of the contract implementing such decision.
+
+In the event that one spouse is incapacitated or otherwise unable to participate in the administration of the conjugal properties, the other spouse may assume sole powers of administration. These powers do not include disposition or encumbrance without authority of the court or the written consent of the other spouse. In the absence of such authority or consent, the disposition or encumbrance shall be void. However, the transaction shall be construed as a continuing offer on the part of the consenting spouse and the third person, and may be perfected as a binding contract upon the acceptance by the other spouse or authorization by the court before the offer is withdrawn by either or both offerors.
+
+In the case at bar, Alfredo was the sole administrator of the property because Elvira, with whom Alfredo was separated in fact, was unable to participate in the administration of the conjugal property. However, as sole administrator of the property, Alfredo still cannot sell the property without the written consent of Elvira or the authority of the court. Without such consent or authority, the sale is void.
+
+Even if the other spouse actively participated in negotiating for the sale of the property, that other spouse's written consent to the sale is still required by law for its validity. The Agreement entered into by Alfredo and Mario was without the written consent of Elvira. Thus, the Agreement is entirely void. As regards Mario's contention that the Agreement is a continuing offer which may be perfected by Elvira's acceptance before the offer is withdrawn, the fact that the property was subsequently donated by Alfredo to Winifred and then sold to IDRI clearly indicates that the offer was already withdrawn.
+
+The Court clarified that even during legal separation, spousal consent or court approval is needed to dispose of conjugal property.
+
+Under Article 63(2) of the Family Code, the offending spouse forfeits their share of the net profits of the conjugal partnership in legal separation cases; this forfeiture does not apply to the conjugal property itself.
+
+Art. 63. The decree of legal separation shall have the following effects:
+x x x;
+(2) The absolute community or the conjugal partnership shall be dissolved and liquidated but the offending spouse shall have no right to any share of the net profits earned by the absolute community or the conjugal partnership, which shall be forfeited in accordance with the provisions of Article 43(2);xxx
+
+Art. 43. The termination of the subsequent marriage referred to in the preceding Article shall produce the following effects:
+
+xxx;
+(2) The absolute community of property or the conjugal partnership, as the case may be, shall be dissolved and liquidated, but if either spouse contracted said marriage in bad faith, his or her share of the net profits of the community property or conjugal partnership property shall be forfeited in favor of the common children or, if there are none, the children of the guilty spouse by a previous marriage or in default of children, the innocent spouse;xxx
+
+Among the effects of the decree of legal separation is that the conjugal partnership is dissolved and liquidated and the offending spouse would have no right to any share of the net profits earned by the conjugal partnership. It is only Alfredo's share in the net profits which is forfeited in favor of Winifred.
+
+### Ratio decidendi:
+
+### Class Notes:
+
+### Dispositive portion:
+
