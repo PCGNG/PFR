@@ -1,0 +1,40 @@
+### Facts:
+The Luis brought an action for legal separation against his wife on the ground of adultery. The wife filed an omnibus petition to secure custody of their 3 minor children, P5K monthly support, and the return of her passport.
+
+The Luis contended that defendant is not entitled to the custody of the children as she had abandoned them and had committed adultery, that by her conduct she had become unfit to educate her children, being unstable in her emotions and unable to give the children the love, respect and care of a true mother and without means to educate them.
+
+The respondent judge granted custody to the wife and a monthly allowance of P2.3K for her and the children, P300 for a house and P2k as attorney’s fees.
+
+The main reason given by the judge, for refusing plaintiff 's request that evidence be allowed to be introduced on the issues, is the prohibition contained in Article 103 of the Civil Code:
+
+ART. 103. An action for legal separation shall in no case be tried before six months shall have elapsed since the filing of the petition.
+
+The respondent judge held:
+This case cannot be tried within the period of six months from the filing of the complaint. The law, up to the last minute, exerts efforts at preserving the family and the home from utter ruin. Interpreting the intent of said article, the court understands that every step it should take within the period of six months above stated should be taken toward reconciling the parties. Admitting evidence now will make reconciliation difficult if not impossible. In this case the court should act as if nothing yet had happened. The children must be given for custody to him or her who by family custom and tradition is the custodian of the children. The court should ignore that defendant had committed any act of adultery or the plaintiff, any act of cruelty to his wife. The status quo of the family must be restorad as much as possible.
+
+Luis Ma. Araneta filed a petition for certiorari and mandamus with the Supreme Court, arguing that the trial judge should be compelled to hear evidence before deciding on custody and support. 
+
+### Issue:
+Whether the six-month cooling-off period for legal separation prevented a court from determining incidental matters like alimony and child custody, which requires the presentation of evidence. 
+
+### Ruling: 
+Article 103 of the Civil Code provides that "an action for legal separation shall in no case be tried before six months shall have elapsed since the filing of the petition." 
+
+“The period of six months fixed therein is evidently intended as a cooling off period to make possible a reconciliation between the spouses. But this practical expedient does not have the effect of overriding other provisions such as the determination of the custody of the children and alimony and support pendente lite according to the circumstances. (Article 105, Civil Code.) 
+
+The law expressly enjoins that these should be determined by the court according to the circumstances. If these are ignored or the courts close their eyes to actual facts, rank injustice may be caused. 
+
+The determination of the custody and alimony should be given effect and force provided it does not go to the extent of violating the policy of the cooling off period. That is, evidence not affecting the cause of the separation, like the actual custody of the children, the means conducive to their welfare and convenience during the pendency of the case, these should be allowed that the court may determine which is best for their custody.”
+
+The six-month cooling-off period prescribed by law for legal separation is meant to encourage reconciliation between the spouses and prevent the early public airing of marital grievances. To harmonize the legal provisions, the Court must hear evidence regarding incidental matters like custody and support. It should not ignore specific factual allegations, such as a spouse's alleged abandonment or adultery, if they are relevant to a decision on custody.
+
+The Supreme Court ordered the trial court to proceed with hearing evidence on the issues of custody and support pendente lite.
+
+### Ratio decidendi:
+The mandatory six-month cooling-off period under Article 58 of the Family Code (formerly Article 103 of the Civil Code) is designed to afford the parties an opportunity to reconcile and prohibits trials on the merits of the legal separation itself. However, this cooling-off period does not suspend or override the court's statutory obligation to resolve urgent incidental matters during the pendency of the suit, such as the temporary custody of minor children and support pendente lite. 
+The court cannot decide child custody and support purely by tradition or assumption without receiving evidence. While evidence regarding the principal grounds for legal separation cannot be heard during this period, parties must be permitted to present evidence on matters directly bearing upon the best interest and welfare of the children and the appropriate amount of support. 
+
+### Class Notes:
+
+### Dispositive portion:
+
