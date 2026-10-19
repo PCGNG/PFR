@@ -6,16 +6,85 @@ It is a conditional forgiveness because the condonation is subject to an implied
 A breach of this condition revives the right of suit for the original misconduct. But while the condition remains unbroken, condonation on whatever motive it proceeded, is an absolute bar to the remedy for the particular injury condoned.
 
 Condonation may either be express or implied from the conduct of the parties.
+The forgiveness of a marital offense. Express condonation is rare; it is usually implied.
+
+Single voluntary act of marital intercourse between the parties ordinarily is sufficient to constitute condonation, and where the parties live in the same house, it is presumed that they live on terms of matrimonial cohabitation. *(Bugayong v. Ginez, G.R. No. L-10033, December 28, 1956 [En Banc])*
+
+Even if the husband should pardon his adulterous wife, such pardon would not exempt the wife and her paramour from criminal liability for adulterous acts committed after the pardon was granted because the pardon refers to previous and not to subsequent adulterous acts.*(People v. Zapata and Bondoc, G.R. No. L-3047, May 16, 1951 [En Banc])*
+
+Failure to actively to search and take the spouse home do not constitute condonation or consent to her adulterous relation.(Ocampo v. Florenciano, G.R. No. L-13553, February 23, 1960 [En Banc])
 
 *2. CONSENT*
 Consent is an agreement or conformity in advance of the commission of the act which would be a ground for legal separation. It may be given expressly or impliedly.
 
 Consent differs from condonation in that consent is given in advance or prior to the commission of the act while condonation is the forgiveness of a matrimonial offense after its commission.	
 
+Prior agreement or permission granted to commit the marital wrong. 
+
+It differs from condonation because consent occurs before the offense, while condonation happens after.	
+
+While there is a conceptual difference between consent and pardon in the sense that consent is granted prior to the adulterous act while pardon is given after the illicit affair, nevertheless, for either consent or pardon to benefit the accused, it must be given prior to the filing of a criminal complaint.*(Arroyo v. CA and Pp, G.R. No. 96602, November 19, 1991)*
+
+The law specifically provides that legal separation may be claimed only by the innocent spouse, provided there has been no condonation of or consent to the adultery or concubinage. Having condoned and/or consented in writing, the plaintiff is now undeserving of the court's sympathy. (Matubis v. Praxedes, G.R. No. L-11766, October 25, 1960 [En Banc] citing People vs. Scheneckenburger, 73 Phil., 413)
+
 *3. CONNIVANCE*
 Connivance implies agreement, express or implied, by both spouses to the ground for legal separation.
+
 *4. RECRIMINATION / MUTUAL GUILT*
+   - Occurs when both parties have committed grounds for legal separation. The grounds do not need to be identical. 
+   - Neither of the parties are permitted to sue each other. 
+   - Pari delicto doctrine: the parties to a controversy are equally culpable or guilty; they shall have no action against each other; it shall leave the parties where it finds them.
 
 *5. COLLUSION*
+  - 	An agreement between the spouses to fabricate or simulate a ground, or to suppress a valid defense, to deceive the court into granting a decree. 
+  - 	A confession of guilt by the defendant spouse does not automatically mean collusion exists. The court must still evaluate independent evidence to rule out an illicit agreement.	
 
 *6. PRESCRIPTION*
+  - An action for legal separation must be filed within five (5) years from the time of the occurrence of the cause. 
+  - Prescriptive period is absolute and mandatory. The state's interest in preserving marriage requires a timely filing; otherwise, the action is barred by law.
+
+*Cooling-Off Period:*
+An action for legal separation shall in no case be tried before six months shall have elapsed since the filing of the petition.
+
+Purpose: to make possible a reconciliation between the spouses; an opportunity for dispassionate reflection 
+General Rule: six months from the filing of the petition. 
+EXCEPTION: Section 19, R.A. No. 9262 - where violence as specified in [R.A. No. 9262] is alleged, Article 58 of the Family Code shall not apply.
+
+*No Confession of Judgment:* 
+No decree shall be issued based on stipulation of facts or based solely on the admission of the defendant that he/ she has committed a marital offense constituting a ground for legal separation.
+
+*Effects of Legal Separation Pendente Lite:*
+    •	Spouses are entitled to live separately from each other 
+    •	Administration of the property -written agreement; if none, court will designate either or a third person 
+    •	Support for spouse and children - written agreement; if none, court will determine
+    •	Custody of children - written agreement; if none, determined by the court (moral and material welfare, choice of children) 
+    •	Visitation rights
+
+*Effects of Decree of Separation:* 
+    •	Spouses are entitled to live separately from each other, but the marriage bonds shall not be severed; 
+    •	Dissolution and liquidation of absolute community or the conjugal partnership 
+        -	offending spouse has no right to any share of the net profits (for common children OR children of the guilty spouse OR innocent spouse)
+    •	Custody of the minor children - innocent spouse BUT mother is preferred if children are below 7 years old unless unfit (court will determine) 
+    •	Disqualification to inherit - offending spouse is disqualified to inherit from the innocent spouse (intestate); provisions in favor of the offending spouse made in the will of the innocent spouse shall be revoked
+    •	Donations propter nuptias may be revoked by the innocent spouse (within 5 years from the finality of decree) 
+    •	Designation as beneficiary in an insurance policy may be revoked by the innocent spouse even if designated as irrevocable beneficiary
+    •	Vested rights 
+        - alienations, liens and encumbrances registered in good faith before the recording of the complaint for revocation in the registries of property shall be respected
+    •	Recording of Revocation of Donation - Registry of Deeds in places where properties are located  
+    •	Recording of Decree of Legal Separation - Local Civil Registry
+
+
+	*Effects of Decree of Reconciliation*
+    •	Spouses shall no longer be entitled to live separately 
+    •	In case of adoption, they are required to adopt jointly 
+    •	Reproductive health procedures (ligation, vasectomy) - mutual consent 
+    •	Right of consortium is restored 
+    •	Right to exercise joint parental authority, legal guardianship, custody over common children
+    •	The offending spouse is entitled to inherit from the innocent spouse; provision in the will favoring offending spouse shall be revived 
+    •	Donation and designation as beneficiary in any insurance policy, if not revoked, the innocent spouse will lose the right to revoke. If revoked, cannot be set aside by the decree od reconciliation. 
+    •	Separation of property or any forfeiture of the share of the guilty spouse in the net profits already effected shall subsist, unless the spouses agree to revive their former property regime.
+
+*Effect of Death pending litigation* - it shall be dismissed
+
+
+
