@@ -1,0 +1,52 @@
+Sps. Cano, et. al., v. Sps. Cano, et.al., GR No. 190750, 14 December 2017
+Facts:
+The original owner, Feliza Baun, allegedly donated the land to the petitioners in 1962 as an unregistered donation propter nuptias. In 1982, Feliza Baun sold the same land to the respondents, who registered their Deed of Absolute Sale and had it annotated on the title. The petitioners filed suit based on the unregistered donation.
+
+The CA invalidated the donation propter nuptias because of petitioners' failure to comply with the formal requirement of acceptance.
+
+Issue:
+Was the donation propter nuptias executed in favor of petitioners valid?
+Ruling: 
+Yes, but it is not binding as to third persons.
+
+Written acceptance and notification to the donor are not required for donations propter nuptias executed under the Civil Code.
+
+It is settled that only laws existing at the time of the execution of a contract are applicable thereto. The donation propter nuptias in this case was executed on 30 May 1962, while the provisions on such donations under the Civil Code were still in force and before the Family Code took effect on 3 August 1988. The formal requisites for the validity of the donation should therefore be determined in accordance with the following provisions of the Civil Code:
+
+ARTICLE 126. Donations by reason of marriage are those which are made before its celebration, in consideration of the same and in favor of one or both of the future spouses.
+
+ARTICLE 127. These donations are governed by the rules on ordinary donations established in Title III of Book III, except as to their form which shall be regulated by the Statute of Frauds; and insofar as they are not modified by the following articles.
+
+ARTICLE 129. Express acceptance is not necessary for the validity of these donations.
+
+Under the New Civil Code, the rules are different. 
+
+Article 127 thereof provides that the form of donations propter nuptias are [sic] regulated by the Statute of Frauds. Article 1403, paragraph 2, which contains the Statute of Frauds requires that the contracts mentioned thereunder need be in writing only to be enforceable. However, as provided in Article 129, express acceptance "is not necessary for the validity of these donations." Thus, implied acceptance is sufficient.
+
+Given that this old rule governs this case, it is evident that the CA erroneously invalidated the donation propter nuptias in favor of petitioners. The absence of proof that the gift was accepted in a public instrument is not controlling, since implied acceptance - such as the celebration of marriage and the annotation of this fact in the OCT - must be deemed sufficient.
+
+The court clarified that the foregoing rule applies only to donations propter nuptias made prior to the Family Code (as in this case). At the time, Article 129 of the Civil Code allowed acceptance of those donations to be made impliedly. Since that provision is no longer part of the current Family Code, donations propter nuptias made thereafter are now subject to the rules on ordinary donations including those on the formal requisites for validity. As a result, donations of immovables under the Family Code, including those made by reason of marriage, must now be expressly accepted by the donee in a public instrument.
+
+The validity of the donation propter nuptias executed by Feliza in favor of petitioners, however, does not detract from the Court’s ultimate conclusion that respondents are the rightful owners of the property. The Court agreed with the CA that the prior unregistered donation does not bind respondents, who are innocent purchasers for value. Hence, it correctly declared them the rightful owners of the subject property.
+
+Pursuant to Article 709 of the Civil Code, all rights over immovable property must be duly inscribed or annotated on the Registry of Deeds before they can affect the rights of third persons. The provision states:
+
+Art. 709. The titles of ownership, or other rights over immovable property, which are not duly inscribed or annotated in the Registry of Property shall not prejudice third persons.
+
+The same rule is enunciated in Presidential Decree No. (P.D.) 1529, or the Property Registration Decree, specifically Sections 51 and 52 thereof, which provide:
+
+SECTION 51. Conveyance and other dealings by registered owner — 
+
+x x x 
+
+sBut no deed, mortgage, lease, or other voluntary instn1ment, except a will purporting to convey or affect registered land, shall take effect as a conveyance or bind the land, but shall operate only as a contract between the parties and as evidence of authority to the Register of Deeds to make registration.
+
+The act of registration shall be the operative act to convey or affect the land insofar as third persons are concerned.
+
+
+Ratio decidendi:
+
+Class Notes:
+
+Dispositive portion:
+
