@@ -1,1 +1,111 @@
+Art. 82. Donations by reason of marriage are those which are made before its celebration, in consideration of the same, and in favor of one or both of the future spouses.
+
+Donations by reason of marriage or donations propter nuptias are those which are made before its celebration, in consideration of the same, and in favor of one or both of the future spouses. The following REQUISITES must be present:
+1.	It must be made before celebration of the marriage;
+2.	It must be made in consideration of the marriage; and 
+3.	It must be made in favor of one or both of the future spouses
+(the donor may either be one of the future spouses or a third person)
+
+*In donations propter nuptias, the fact that the marriage did not take place does not render the donation void, except if the donation is contained in the marriage settlement itself. 
+
+*The fact that the marriage did not take place shall only give rise to a cause or ground to revoke a donation propter nuptias. If the same is not revoked, it continues to be valid.
+
+Art. 83. These donations are governed by the rules on ordinary donations established in Title III of Book III of the Civil Code, insofar as they are not modified by the following articles.
+
+Art. 84. If the future spouses agree upon a regime other than the absolute community of property, they cannot donate to each other in their marriage settlements more than one-fifth of their present property. Any excess shall be considered void.
+
+Donations of future property shall be governed by the provisions on testamentary succession and the formalities of wills.
+
+*If donation exceeds the limitation, only the excess us considered void but the remainder thereof remains valid. 
+
+Art. 85. Donations by reason of marriage of property subject to encumbrances shall be valid. In case of foreclosure of the encumbrance and the property is sold for less than the total amount of the obligation secured, the donee shall not be liable for the deficiency. If the property is sold for more than the total amount of said obligation, the donee shall be entitled to the excess.
+
+Art. 86. A donation by reason of marriage may be revoked by the donor in the following cases:
+
+(1) If the marriage is not celebrated or judicially declared void ab initio except donations made in the marriage settlements, which shall be governed by Article 81;
+
+(2) When the marriage takes place without the consent of the parents or guardian, as required by law;
+
+(3) When the marriage is annulled, and the donee acted in bad faith;
+
+(4) Upon legal separation, the donee being the guilty spouse;
+
+(5) If it is with a resolutory condition and the condition is complied with;
+
+(6) When the donee has committed an act of ingratitude as specified by the provisions of the Civil Code on donations in general.
+
+Art. 87. Every donation or grant of gratuitous advantage, direct or indirect, between the spouses during the marriage shall be void, except moderate gifts which the spouses may give each other on the occasion of any family rejoicing. The prohibition shall also apply to persons living together as husband and wife without a valid marriage.
+
+(NCC) ARTICLE 725. Donation is an act of liberality whereby a person disposes gratuitously of a thing or right in favor of another, who accepts it.
+
+
+(NCC) ARTICLE 1490. The husband and the wife cannot sell property to each other, except:
+
+(1) When a separation of property was agreed upon in the marriage settlements; or temuim
+
+(2) When there has been a judicial separation of property under article 191.
+	
+ARTICLE 191. The husband or the wife may ask for the separation of property, and it shall be decreed when the spouse of the petitioner has been sentenced to a penalty which carries with it civil interdiction, or has been declared absent, or when legal separation has been granted.
+
+In case of abuse of powers of administration of the conjugal partnership property by the husband, or in case of abandonment by the husband, separation of property may also be ordered by the court, according to the provisions of articles 167 and 178, No. 3.
+
+In all these cases, it is sufficient to present the final judgment which has been entered against the guilty or absent spouse. (1433a)
+
+The husband and the wife may agree upon the dissolution of the conjugal partnership during the marriage, subject to judicial approval. All the creditors of the husband and of the wife, as well as of the conjugal partnership, shall be notified of any petition for judicial approval of the voluntary dissolution of the conjugal partnership, so that any such creditors may appear at the hearing to safeguard his interests. Upon approval of the petition for dissolution of the conjugal partnership, the court shall take such measures as may protect the creditors and other third persons.
+
+After dissolution of the conjugal partnership, the provisions of articles 214 and 215 shall apply. The provisions of this Code concerning the effect of partition stated in articles 498 to 501 shall be applicable.
+
+ARTICLE 1782. Persons who are prohibited from giving each other any donation or advantage cannot enter into universal partnership. 
+
+DONATIONS PROPTER NUPTIAS 
+	Requisites: 
+1. Made before the celebration of marriage 
+2. Made in consideration of the marriage 
+3. In favor of one or both spouses by either spouse or by a third person
+	Formalities Required 
+o	Present property (inter vivos) - rules on ordinary donations 
+o	Future property (mortis causa) - law on testamentary succession and formalities of a will
+	Formalities Required (Rules on Ordinary Donations) 
+o	Personal property 
+	orally or in writing 
+	value is more than PhP 5,000 donation and acceptance shall be in writing
+o	Real property 
+	in a public instrument 
+	acceptance - same deed of donation or is a separate public document (during the lifetime of the donor and donor must be notified in an authentic form)
+	Formalities Required (Formalities of a Will) 
+o	Holographic Will 
+	Entirely handwritten, dated, and signed by the testator
+o	Notarial Will 
+	In writing using a language or dialect known and understood by the testator 
+	Marginal signature and subscription at the end - testator and three credible witnesses 
+	Page numbering correlatively in letters written on the upper part of each page 
+	Attestation clause 
+	Notarization
+	Limitations
+o	They cannot donate to each other in their marriage settlement more than 1/5 of their present property EXCEPT if the property regime chosen is absolute community property regime
+	Donations Subject to Encumbrance
+o	VALID but in case of foreclosure:
+	Property is sold for less than the total amount - donee is NOT liable for the deficiency; it remains to be the obligation of the donor 
+	Property is sold for more than the total amount - donee is entitled to the excess
+
+REVOCATION of Donation Propter Nuptias (Grounds)
+
+	Non-celebration of marriage 
+o	Made in another instrument 
+o	If made in the marriage settlement – VOID
+	Judicial declaration of nullity of marriage 
+o	The right arises by the mere fact that the marriage was declared void 
+o	The issue of bad faith or good faith of the parties are immaterial 
+o	EXCEPTION - void marriage under Art 40 and Art 44 (donor is one spouse to the other) where the donation is REVOKED BY OPERATION OF LAW if the donee contracted the marriage in bad faith
+	Marriage takes place without the consent of the parents or guardian 
+o	contracting parties are 18 but below 21 years old
+	Annulment of marriage and the donee acted in bad faith
+	Legal separation and the donee being the guilty spouse
+	If it is with a resolutory condition and the condition is complied
+	When the donee has committed an act of ingratitude 
+o	the donee should commit some offense against the person, the honor or the property of the donor, or of his wife or children under his parental authority 
+o	donee imputes to the donor any criminal offense, or any act involving moral turpitude, even though he should prove it, unless the crime or the act has been committed against the donee himself, his wife or children under his authority 
+o	donee unduly refuses the donor support when the donee is legally or morally bound to give support to the donor
+	Inofficious donations 
+o	If made by a third person involving his present property and the donation turns out to be inofficious (if it exceeds what the donor may give by will; it prejudices the legitime of compulsory heirs)
 
