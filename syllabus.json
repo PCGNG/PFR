@@ -120,5 +120,69 @@
         ]
       }
     ]
+  },
+  {
+    "topic_id": "IV",
+    "topic_title": "IV. MARRIAGE INCIDENTS AND CONSEQUENCES",
+    "subtopics": [
+      {
+        "subtopic_id": "IV_A",
+        "subtopic_title": "A. Rights and Obligations of Spouses",
+        "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/A. Rights and Obligations of Spouses.txt",
+        "cases": [
+          {
+            "id": "iv-a1",
+            "title": "Pp. v. Jumawan, 21 April 2014",
+            "file": "digests/Pp. v. Jumawan, 21 April 2014.txt"
+          },
+          {
+            "id": "iv-a2",
+            "title": "Imbong v. Ochoa, 8 April 2014",
+            "file": "digests/Imbong v. Ochoa, 8 April 2014.txt"
+          },
+          {
+            "id": "iv-a3",
+            "title": "Ilusorio v. Ilusorio, 12 May 2000",
+            "file": "digests/Ilusorio v. Ilusorio, 12 May 2000.txt"
+          },
+          {
+            "id": "iv-a4",
+            "title": "Arroyo v. Vasquez-Arroyo, 42 P 54",
+            "file": "digests/Arroyo v. Vasquez-Arroyo, 42 P 54.txt"
+          },
+          {
+            "id": "iv-a5",
+            "title": "Goitia v. Campos Rueda, 35 P 252",
+            "file": "digests/Goitia (Eloisa) v. Campos Rueda (Jose), 35 P 252.txt"
+          },
+          {
+            "id": "iv-a6",
+            "title": "Tenchavez v. Escano, 15 S 335, 17 S 674",
+            "file": "digests/Tenchavez v. Escano, 15 S 335, 17 S 674.txt"
+          },
+          {
+            "id": "iv-a7",
+            "title": "Go v. CA, 272 S 752",
+            "file": "digests/Go v. CA, 272 S 752.txt"
+          },
+          {
+            "id": "iv-a8",
+            "title": "Valino v. Adriano, 22 April 2014",
+            "file": "digests/Valino v. Adriano, 22 April 2014.txt"
+          },
+          {
+            "id": "iv-a9",
+            "title": "Chan v. Chan, 24 July 2013",
+            "file": "digests/Chan v. Chan, 24 July 2013.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "IV_B",
+        "subtopic_title": "B. Property Relations Between Spouses",
+        "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B. Property Relations Between Spouses.txt",
+        "cases": []
+      }
+    ]
   }
 ]
