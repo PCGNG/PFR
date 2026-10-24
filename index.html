@@ -3,274 +3,464 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Persons and Family Law Review by PCGNG</title>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <title>PERSONS AND FAMILY LAW REVIEWER BY PCGNG</title>
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
-    body { display: flex; flex-direction: column; height: 100vh; background: #0b1329; color: #f1f5f9; }
-    header { padding: 12px 24px; background: #111e38; border-bottom: 1px solid #1e3a8a; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
-    header h1 { font-size: 1.15rem; color: #f472b6; }
-    .controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-    select, button.nav-btn, label.upload-btn { padding: 8px 12px; border-radius: 6px; background: #1d283a; color: #f1f5f9; border: 1px solid #3b82f6; cursor: pointer; font-size: 0.88rem; }
-    select:hover, button.nav-btn:hover, label.upload-btn:hover { background: #25344f; border-color: #f472b6; }
-    button.nav-btn:disabled { opacity: 0.4; cursor: not-allowed; border-color: #1e3a8a; }
-    input[type="file"] { display: none; }
-    .split-container { display: flex; flex: 1; overflow: hidden; }
-    .pane { flex: 1; overflow-y: auto; padding: 28px; line-height: 1.7; text-align: justify; }
-    .left-pane { border-right: 1px solid #1e3a8a; background: #111e38; }
-    .right-pane { background: #111e38; }
-    .digest-card { max-width: 760px; margin: 0 auto; background: #0b1329; padding: 28px; border-radius: 8px; border: 1px solid #1e3a8a; white-space: pre-wrap; font-size: 0.95rem; }
-    .digest-card h1, .digest-card h2, .digest-card h3, .left-pane h2, .left-pane h3 { color: #f472b6; margin-bottom: 8px; margin-top: 14px; text-align: left; }
-    .digest-card strong, .left-pane strong { color: #60a5fa; }
-    .digest-card em, .left-pane em { font-style: italic; color: #fbcfe8; }
-    .back-overview-btn { display: inline-block; margin-top: 24px; padding: 10px 16px; background: #1d283a; color: #f472b6; border: 1px solid #3b82f6; border-radius: 6px; cursor: pointer; font-size: 0.9rem; text-decoration: none; font-weight: 500; }
-    .back-overview-btn:hover { background: #25344f; color: #ffffff; border-color: #f472b6; }
-    @media (max-width: 800px) { .split-container { flex-direction: column; } .left-pane { border-right: none; border-bottom: 1px solid #1e3a8a; } }
+    :root {
+      --bg-canvas: #070b13;
+      --pane-dark: #0d1524;
+      --border-line: #1c2a3f;
+      --accent-yellow: #f59e0b;
+      --accent-cyan: #38bdf8;
+      --accent-pink: #f472b6;
+      --cream-card: #f8f6f0;
+      --cream-text: #1a1a1a;
+      --text-main: #f1f5f9;
+      --text-muted: #8492a6;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: var(--bg-canvas);
+      color: var(--text-main);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* Top Bar */
+    header {
+      background-color: #0b111c;
+      border-bottom: 1px solid var(--border-line);
+      padding: 0 16px;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+    }
+    .brand-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .app-title {
+      font-size: 0.88rem;
+      font-weight: 800;
+      letter-spacing: 0.5px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .badge-mode {
+      font-size: 0.62rem;
+      color: #34d399;
+      border: 1px solid #059669;
+      background: rgba(5, 150, 105, 0.15);
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-weight: 700;
+    }
+    .btn-print {
+      background: var(--accent-yellow);
+      color: #000;
+      font-weight: 700;
+      font-size: 0.72rem;
+      padding: 5px 12px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    /* 3-Pane Responsive Grid */
+    .reviewer-workspace {
+      display: grid;
+      grid-template-columns: 290px 1.15fr 1.35fr;
+      gap: 12px;
+      padding: 12px;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .pane-card {
+      background: var(--pane-dark);
+      border: 1px solid var(--border-line);
+      border-radius: 8px;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .pane-titlebar {
+      height: 38px;
+      padding: 0 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--border-line);
+      background: rgba(11, 17, 28, 0.7);
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      flex-shrink: 0;
+    }
+
+    .pane-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 14px;
+    }
+
+    /* Pane 1: Syllabus Tree */
+    .module-group { margin-bottom: 16px; }
+    .module-header {
+      font-size: 0.73rem;
+      font-weight: 700;
+      color: var(--accent-yellow);
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .subtopic-btn {
+      display: block;
+      width: 100%;
+      text-align: left;
+      font-size: 0.75rem;
+      color: var(--accent-cyan);
+      background: transparent;
+      border: none;
+      padding: 5px 8px;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-left: 6px;
+    }
+    .subtopic-btn:hover, .subtopic-btn.active {
+      background: rgba(56, 189, 248, 0.12);
+      font-weight: 700;
+    }
+    .case-tree-list {
+      list-style: none;
+      margin-left: 18px;
+      margin-top: 4px;
+      margin-bottom: 6px;
+    }
+    .case-tree-item {
+      font-size: 0.7rem;
+      color: #94a3b8;
+      padding: 3px 6px;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    .case-tree-item:hover, .case-tree-item.active {
+      color: var(--accent-pink);
+      background: rgba(244, 114, 182, 0.15);
+      font-weight: 600;
+    }
+
+    /* Pane 2: Overview Parchment Card */
+    .overview-container {
+      background-color: #0b111c;
+      padding: 10px;
+      height: 100%;
+    }
+    .parchment-sheet {
+      background: var(--cream-card);
+      color: var(--cream-text);
+      height: 100%;
+      border-radius: 8px;
+      padding: 24px;
+      overflow-y: auto;
+      font-size: 0.88rem;
+      line-height: 1.7;
+      white-space: pre-wrap;
+    }
+
+    /* Pane 3: Digest View */
+    .digest-path {
+      font-size: 0.68rem;
+      color: var(--accent-yellow);
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .case-headline {
+      font-family: Georgia, serif;
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 18px;
+      line-height: 1.3;
+    }
+    .badge-label {
+      font-size: 0.73rem;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .color-facts { color: #f59e0b; }
+    .color-issue { color: #ec4899; }
+    .color-held  { color: #10b981; }
+    .color-ratio { color: #38bdf8; }
+    .color-fallo { color: #a78bfa; }
+    .digest-block {
+      margin-bottom: 18px;
+      font-size: 0.85rem;
+      color: #cbd5e1;
+      line-height: 1.6;
+      white-space: pre-wrap;
+    }
+    .btn-copy-ratio {
+      background: transparent;
+      border: 1px solid var(--border-line);
+      color: var(--text-muted);
+      font-size: 0.65rem;
+      padding: 2px 7px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .btn-copy-ratio:hover { color: #fff; border-color: #64748b; }
   </style>
 </head>
 <body>
 
   <header>
-    <h1>⚖️ Persons and Family Law Review by PCGNG</h1>
-    <div class="controls">
-      <!-- Dropdown 1: Topics -->
-      <select id="topicSelector" onchange="onTopicChange()">
-        <option value="">Loading topics...</option>
-      </select>
-
-      <!-- Prev / Next Navigation -->
-      <button class="nav-btn" id="prevBtn" onclick="changeCase(-1)" title="Previous Case">◀ Prev</button>
-      
-      <!-- Dropdown 2: Cases -->
-      <select id="caseSelector" onchange="displaySelectedCase()">
-        <option value="">-- All Cases / Topic Overview --</option>
-      </select>
-
-      <button class="nav-btn" id="nextBtn" onclick="changeCase(1)" title="Next Case">Next ▶</button>
-
-      <label class="upload-btn">
-        📄 Upload Digest
-        <input type="file" accept=".txt,.md" onchange="uploadDigest(event)">
-      </label>
+    <div class="brand-group">
+      <div class="app-title">⚖️ PERSONS AND FAMILY LAW REVIEWER BY PCGNG</div>
+      <div class="badge-mode">3-PANE SYLLABUS VIEW</div>
     </div>
+    <button class="btn-print" onclick="window.print()">Print / PDF</button>
   </header>
 
-  <div class="split-container">
-    <!-- Left Pane: Topic Notes wrapped in digest-card style -->
-    <div class="pane left-pane">
-      <div class="digest-card" id="leftPaneContent">
-        <h2 style="color:#f472b6;">📚 Topic Overview</h2>
-        <p style="color:#93c5fd;">Select a topic to view notes.</p>
+  <main class="reviewer-workspace">
+    <!-- Col 1: Syllabus Navigation -->
+    <section class="pane-card">
+      <div class="pane-titlebar">
+        <span>📁 Syllabus Hierarchy</span>
       </div>
-    </div>
+      <div class="pane-content" id="syllabusTree">Loading syllabus...</div>
+    </section>
 
-    <!-- Right Pane: Case List or Case Digest -->
-    <div class="pane right-pane">
-      <div class="digest-card" id="digestContent">Select a topic to begin.</div>
-    </div>
-  </div>
+    <!-- Col 2: Overview Card -->
+    <section class="pane-card">
+      <div class="pane-titlebar">
+        <span>• Topic & Sub-Topic Overview</span>
+        <span style="color: var(--accent-yellow); font-size: 0.67rem;" id="activeSubtopicLabel">OVERVIEW OUTLINE</span>
+      </div>
+      <div class="overview-container">
+        <div class="parchment-sheet" id="overviewDisplay">
+          Select a topic or subtopic from the syllabus tree on the left.
+        </div>
+      </div>
+    </section>
+
+    <!-- Col 3: Case Digest Display -->
+    <section class="pane-card">
+      <div class="pane-titlebar">
+        <span># Case Digest</span>
+        <button class="btn-copy-ratio" id="btnCopyRatio">Copy Ratio</button>
+      </div>
+      <div class="pane-content" id="digestDisplay">
+        <p style="color: var(--text-muted); font-size: 0.85rem;">Select any case from the syllabus to view its digest.</p>
+      </div>
+    </section>
+  </main>
 
   <script>
-    const USER = "PCGNG";
-    const REPO = "PFR";
-    let topicsData = {};
+    let currentSyllabus = [];
+    let currentRatioText = "";
 
-    async function loadTopics() {
-      const topicSelector = document.getElementById('topicSelector');
+    async function initializeReviewer() {
       try {
-        const res = await fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/digests`);
-        if (!res.ok) throw new Error("Could not access digests directory");
-        const items = await res.json();
+        const response = await fetch('syllabus.json');
+        currentSyllabus = await response.json();
+        renderTree();
 
-        const folders = items.filter(i => i.type === "dir");
-        if (folders.length === 0) {
-          topicSelector.innerHTML = '<option>No topic folders found in digests/</option>';
-          return;
-        }
-
-        topicsData = {};
-        topicSelector.innerHTML = '';
-
-        for (const folder of folders) {
-          const topicName = folder.name;
-          topicsData[topicName] = { cases: [], topicNotePath: `digests/${topicName}.txt` };
-
-          const subRes = await fetch(folder.url);
-          if (subRes.ok) {
-            const subFiles = await subRes.json();
-            const txtFiles = subFiles.filter(f => /\.txt$/i.test(f.name));
-
-            txtFiles.forEach(txt => {
-              const rawTitle = txt.name.replace(/\.[^/.]+$/, "");
-              topicsData[topicName].cases.push({
-                title: rawTitle,
-                topic: topicName,
-                digestPath: txt.path
-              });
-            });
+        // Automatically open the first available subtopic and case
+        if (currentSyllabus.length > 0 && currentSyllabus[0].subtopics.length > 0) {
+          const firstSub = currentSyllabus[0].subtopics[0];
+          loadOverviewText(firstSub);
+          if (firstSub.cases && firstSub.cases.length > 0) {
+            loadCaseFile(firstSub.cases[0], firstSub.subtopic_title);
           }
-
-          const opt = document.createElement('option');
-          opt.value = topicName;
-          opt.textContent = topicName;
-          topicSelector.appendChild(opt);
         }
-
-        if (folders.length > 0) {
-          topicSelector.value = folders[0].name;
-          onTopicChange();
-        }
-
-      } catch (e) {
-        topicSelector.innerHTML = '<option>Failed to load topics</option>';
-        console.error(e);
+      } catch (err) {
+        document.getElementById('syllabusTree').innerHTML = `<p style="color:#f87171;">Failed to load syllabus.json. Please verify the file is committed to your repo root.</p>`;
       }
     }
 
-    async function onTopicChange() {
-      const topicSelector = document.getElementById('topicSelector');
-      const caseSelector = document.getElementById('caseSelector');
-      const selectedTopic = topicSelector.value;
+    function renderTree() {
+      const container = document.getElementById('syllabusTree');
+      container.innerHTML = '';
 
-      caseSelector.innerHTML = '<option value="overview">📂 [View Topic Overview / Case List]</option>';
-      if (!selectedTopic || !topicsData[selectedTopic]) return;
+      currentSyllabus.forEach(topic => {
+        const group = document.createElement('div');
+        group.className = 'module-group';
 
-      const topicInfo = topicsData[selectedTopic];
-      topicInfo.cases.forEach((item, index) => {
-        const opt = document.createElement('option');
-        opt.value = index;
-        opt.textContent = item.title;
-        caseSelector.appendChild(opt);
+        const tTitle = document.createElement('div');
+        tTitle.className = 'module-header';
+        tTitle.textContent = `📁 ${topic.topic_title}`;
+        group.appendChild(tTitle);
+
+        topic.subtopics.forEach(sub => {
+          const sBtn = document.createElement('button');
+          sBtn.className = 'subtopic-btn';
+          sBtn.textContent = `▪ ${sub.subtopic_title}`;
+          sBtn.onclick = () => {
+            document.querySelectorAll('.subtopic-btn').forEach(b => b.classList.remove('active'));
+            sBtn.classList.add('active');
+            loadOverviewText(sub);
+          };
+          group.appendChild(sBtn);
+
+          if (sub.cases && sub.cases.length > 0) {
+            const ul = document.createElement('ul');
+            ul.className = 'case-tree-list';
+
+            sub.cases.forEach(c => {
+              const li = document.createElement('li');
+              li.className = 'case-tree-item';
+              li.textContent = `# ${c.title}`;
+              li.onclick = (e) => {
+                e.stopPropagation();
+                document.querySelectorAll('.case-tree-item').forEach(i => i.classList.remove('active'));
+                li.classList.add('active');
+                loadCaseFile(c, sub.subtopic_title);
+              };
+              ul.appendChild(li);
+            });
+            group.appendChild(ul);
+          }
+        });
+        container.appendChild(group);
       });
-
-      caseSelector.value = "overview";
-      loadTopicNotesIntoLeftPane(selectedTopic);
-      displayTopicOverviewRightPane();
     }
 
-    async function loadTopicNotesIntoLeftPane(topicName) {
-      const topicInfo = topicsData[topicName];
-      const leftPane = document.getElementById('leftPaneContent');
-      leftPane.innerHTML = `<h2 style="color:#f472b6;">📚 ${topicName}</h2><p style="color:#93c5fd;">Loading topic notes...</p>`;
+    async function loadOverviewText(subtopic) {
+      const display = document.getElementById('overviewDisplay');
+      document.getElementById('activeSubtopicLabel').textContent = subtopic.subtopic_title;
+      display.textContent = 'Loading outline...';
 
       try {
-        const res = await fetch(topicInfo.topicNotePath);
-        if (res.ok) {
-          const text = await res.text();
-          leftPane.innerHTML = `<h2 style="color:#f472b6;">📚 ${topicName}</h2><hr style="margin:16px 0; border-color:#1e3a8a;">` + marked.parse(text);
-        } else {
-          throw new Error("No custom notes");
-        }
-      } catch (err) {
-        leftPane.innerHTML = `
-          <h2 style="color:#f472b6;">📚 ${topicName}</h2>
-          <hr style="margin:16px 0; border-color:#1e3a8a;">
-          <p style="color:#93c5fd;">No custom overview text file found for this topic yet.</p>
-          <p style="color:#94a3b8; font-size:0.85rem; margin-top:10px;">Tip: Create a text file named <b>${topicName}.txt</b> inside your root <b>digests/</b> folder on GitHub to display your notes here.</p>
-        `;
-      }
-    }
-
-    function displayTopicOverviewRightPane() {
-      const topicSelector = document.getElementById('topicSelector');
-      const selectedTopic = topicSelector.value;
-      const topicInfo = topicsData[selectedTopic];
-
-      document.getElementById('prevBtn').disabled = true;
-      document.getElementById('nextBtn').disabled = true;
-
-      let caseListHTML = topicInfo.cases.length > 0 
-        ? topicInfo.cases.map((c, i) => `<li style="margin-bottom: 10px;"><a href="#" onclick="selectCaseFromOverview(${i}); return false;" style="color: #60a5fa; text-decoration: none; font-weight: 500;">${c.title}</a></li>`).join('')
-        : '<li>No cases uploaded for this topic yet.</li>';
-
-      const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `
-        <h2 style="color:#f472b6;">📋 Case List for ${selectedTopic}</h2>
-        <p style="color:#93c5fd; font-size:0.9rem; margin-bottom:16px;">Select any case below to view its full text digest on this screen. Your topic notes remain visible on the left!</p>
-        <hr style="margin:12px 0; border-color:#1e3a8a;">
-        <ul style="padding-left: 20px; line-height: 1.8; margin-top: 14px; text-align: left;">${caseListHTML}</ul>
-      `;
-    }
-
-    function selectCaseFromOverview(caseIndex) {
-      const caseSelector = document.getElementById('caseSelector');
-      caseSelector.value = caseIndex;
-      displaySelectedCase();
-    }
-
-    async function displaySelectedCase() {
-      const caseSelector = document.getElementById('caseSelector');
-      if (caseSelector.value === "overview") {
-        displayTopicOverviewRightPane();
-        return;
-      }
-
-      const topicSelector = document.getElementById('topicSelector');
-      const selectedTopic = topicSelector.value;
-      const idx = parseInt(caseSelector.value);
-
-      if (!selectedTopic || isNaN(idx) || !topicsData[selectedTopic]) return;
-      const cases = topicsData[selectedTopic].cases;
-      const item = cases[idx];
-
-      document.getElementById('prevBtn').disabled = (idx === 0);
-      document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
-
-      const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `<h2 style="color:#f472b6;">${item.title}</h2><p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><p style="color:#93c5fd;">Loading case digest file...</p>`;
-
-      try {
-        const res = await fetch(item.digestPath);
-        if (!res.ok) throw new Error("File not found");
+        const res = await fetch(encodeURI(subtopic.overview_file));
+        if (!res.ok) throw new Error('File not found');
         const text = await res.text();
-        
-        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
-        
-        contentBox.innerHTML = `<h2 style="color:#f472b6;">${item.title}</h2><p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><hr style="margin:12px 0; border-color:#1e3a8a;">` + marked.parse(text) + backButtonHTML;
+        display.textContent = text;
       } catch (err) {
-        contentBox.innerHTML = `
-          <h2 style="color:#f472b6;">${item.title}</h2>
-          <p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p>
-          <hr style="margin:12px 0; border-color:#1e3a8a;">
-          <p style="color:#f87171;">Digest file not found at <code>${item.digestPath}</code></p>
-          <button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>
+        display.textContent = `Could not load overview file: "${subtopic.overview_file}".\nCheck if the file name matches your Overviews folder exactly.`;
+      }
+    }
+
+    async function loadCaseFile(caseItem, breadcrumb) {
+      const display = document.getElementById('digestDisplay');
+      display.innerHTML = '<p style="color:var(--text-muted);">Loading case digest...</p>';
+
+      try {
+        const res = await fetch(encodeURI(caseItem.file));
+        if (!res.ok) throw new Error('File not found');
+        const raw = await res.text();
+        display.innerHTML = parseDigestText(raw, caseItem.title, breadcrumb);
+      } catch (err) {
+        display.innerHTML = `<p style="color:#f87171;">Could not load digest: "${caseItem.file}".\nVerify that the file is in the digests/ folder and the name matches.</p>`;
+      }
+    }
+
+    // Parses standard case digest sections directly from .txt files
+    function parseDigestText(rawText, title, breadcrumb) {
+      currentRatioText = "";
+      
+      const sections = {
+        facts: "",
+        issue: "",
+        held: "",
+        ratio: "",
+        fallo: "",
+        general: ""
+      };
+
+      // Split text on common case digest headers
+      const pattern = /(?:^|\n)\s*(RELEVANT FACTS|FACTS|ISSUE|ISSUES|HELD|RULING|RATIO DECIDENDI|RATIO|FALLO|DISPOSITIVE PORTION)[:\s-]*/i;
+      const parts = rawText.split(pattern);
+
+      if (parts.length > 1) {
+        sections.general = parts[0].trim();
+        for (let i = 1; i < parts.length; i += 2) {
+          const header = parts[i].toUpperCase();
+          const content = (parts[i + 1] || "").trim();
+
+          if (header.includes("FACT")) sections.facts = content;
+          else if (header.includes("ISSUE")) sections.issue = content;
+          else if (header.includes("HELD") || header.includes("RULING")) sections.held = content;
+          else if (header.includes("RATIO")) {
+            sections.ratio = content;
+            currentRatioText = content;
+          }
+          else if (header.includes("FALLO") || header.includes("DISPOSITIVE")) sections.fallo = content;
+        }
+      } else {
+        sections.general = rawText.trim();
+      }
+
+      let html = `
+        <div class="digest-path">${breadcrumb}</div>
+        <div class="case-headline">${title}</div>
+      `;
+
+      if (sections.general) {
+        html += `<div class="digest-block">${sections.general}</div>`;
+      }
+      if (sections.facts) {
+        html += `
+          <div class="badge-label color-facts">◼ RELEVANT FACTS</div>
+          <div class="digest-block">${sections.facts}</div>
         `;
       }
-    }
-
-    function goToOverview() {
-      const caseSelector = document.getElementById('caseSelector');
-      caseSelector.value = "overview";
-      displayTopicOverviewRightPane();
-    }
-
-    function changeCase(direction) {
-      const caseSelector = document.getElementById('caseSelector');
-      if (caseSelector.value === "overview") return;
-
-      const topicSelector = document.getElementById('topicSelector');
-      const cases = topicsData[topicSelector.value].cases;
-      
-      let newIdx = parseInt(caseSelector.value) + direction;
-      if (cases && newIdx >= 0 && newIdx < cases.length) {
-        caseSelector.value = newIdx;
-        displaySelectedCase();
+      if (sections.issue) {
+        html += `
+          <div class="badge-label color-issue">? ISSUE</div>
+          <div class="digest-block">${sections.issue}</div>
+        `;
       }
-    }
-
-    function uploadDigest(event) {
-      const file = event.target.files[0];
-      if (file) {
-        const reader = new FileReader();
-        reader.onload = e => {
-          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
-          document.getElementById('digestContent').innerHTML = `<h2 style="color:#f472b6;">${file.name}</h2><hr style="margin:12px 0; border-color:#1e3a8a;">` + marked.parse(e.target.result) + backButtonHTML;
-        };
-        reader.readAsText(file);
+      if (sections.held) {
+        html += `
+          <div class="badge-label color-held">✓ HELD</div>
+          <div class="digest-block">${sections.held}</div>
+        `;
       }
+      if (sections.ratio) {
+        html += `
+          <div class="badge-label color-ratio">⚖ RATIO DECIDENDI</div>
+          <div class="digest-block">${sections.ratio}</div>
+        `;
+      }
+      if (sections.fallo) {
+        html += `
+          <div class="badge-label color-fallo">▶ FALLO</div>
+          <div class="digest-block">${sections.fallo}</div>
+        `;
+      }
+
+      return html;
     }
 
-    loadTopics();
+    document.getElementById('btnCopyRatio').onclick = () => {
+      if (currentRatioText) {
+        navigator.clipboard.writeText(currentRatioText);
+        alert("Ratio decidendi copied to clipboard!");
+      } else {
+        alert("No ratio found to copy.");
+      }
+    };
+
+    window.addEventListener('DOMContentLoaded', initializeReviewer);
   </script>
 </body>
 </html>
