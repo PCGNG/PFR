@@ -1,1 +1,91 @@
-
+[
+  {
+    "topic_id": "III",
+    "topic_title": "III. MARRIAGE - INCEPTION AND TERMINATION",
+    "subtopics": [
+      {
+        "subtopic_id": "F1",
+        "subtopic_title": "F 1. Legal Separation",
+        "overview_file": "Overviews/III. MARRIAGE-INCEPTION AND TERMINATION/F 1. Legal Separation.txt",
+        "cases": [
+          {
+            "id": "c1",
+            "title": "Concept of Legal Separation",
+            "file": "digests/Concept of Legal Separation.txt"
+          },
+          {
+            "id": "c2",
+            "title": "Goitia (Eloisa) v. Campos Rueda (Jose), 35 P 252",
+            "file": "digests/Goitia (Eloisa) v. Campos Rueda (Jose), 35 P 252.txt"
+          },
+          {
+            "id": "c3",
+            "title": "Arroyo v. Vasquez-Arroyo, 42 P 54",
+            "file": "digests/Arroyo v. Vasquez-Arroyo, 42 P 54.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "F2",
+        "subtopic_title": "F 2. Grounds for Legal Separation",
+        "overview_file": "Overviews/III. MARRIAGE-INCEPTION AND TERMINATION/F 2. Grounds for Legal Separation.txt",
+        "cases": [
+          {
+            "id": "c4",
+            "title": "Gandionco v. Penaranda, 27 November 1987",
+            "file": "digests/Gaudionco v. Penaranda, 27 November 1987.txt"
+          },
+          {
+            "id": "c5",
+            "title": "Benedicto (Agueda) v. Dela Rama (Esteban)",
+            "file": "digests/Benedicto (Agueda) v. Dela Rama (Esteban).txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "F3",
+        "subtopic_title": "F 3. Grounds for Denial of Legal Separation",
+        "overview_file": "Overviews/III. MARRIAGE-INCEPTION AND TERMINATION/F 3. Grounds for Denial of Legal Separation.txt",
+        "cases": [
+          {
+            "id": "c6",
+            "title": "Brown v. Yambao, 102 P 168",
+            "file": "digests/Brown v. Yambao, 102 P 168.txt"
+          },
+          {
+            "id": "c7",
+            "title": "Ginez v. Bugayong, 100 P 616",
+            "file": "digests/Ginez v. Bugayong, 100 P 616.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "F4",
+        "subtopic_title": "F 4. Action for Legal Separation Procedure",
+        "overview_file": "Overviews/III. MARRIAGE-INCEPTION AND TERMINATION/F 4. Action for Legal Separation Procedure.txt",
+        "cases": [
+          {
+            "id": "c8",
+            "title": "Araneta (Luis) v. Concepcion and Araneta",
+            "file": "digests/Araneta (Luis) v. Concepcion and Araneta.txt"
+          },
+          {
+            "id": "c9",
+            "title": "Arroyo v. CA, 19 November 1991",
+            "file": "digests/Arroyo v. CA, 19 November 1991.txt"
+          },
+          {
+            "id": "c10",
+            "title": "Banez v. Banez, 374 S 340",
+            "file": "digests/Banez v. Banez, 374 S 340.txt"
+          },
+          {
+            "id": "c11",
+            "title": "Espiritu and Layug v. CA, 15 March 1995",
+            "file": "digests/Espiritu and Layug v. CA, 15 March 1995.txt"
+          }
+        ]
+      }
+    ]
+  }
+]
