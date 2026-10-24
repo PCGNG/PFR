@@ -1,12 +1,12 @@
-### Facts:
+Facts:
 In 1901, Agueda Benedicto filed for divorce against her husband, Esteban de la Rama, in the Court of First Instance (CFI) of Iloilo, alleging adultery and abandonment. The husband, Esteban, denied the charges and filed a counter-complaint for divorce, also on the ground of adultery.
 
 The CFI ruled in favor of the wife, granting her the divorce and a share of the conjugal property. Esteban appealed the decision to the Supreme Court of the Philippines. 
 
-### Issue:
+Issue:
 May a decree of legal separation be granted in favor of either spouse when both spouses are guilty of committing marital infidelity?
 
-### Ruling: 
+Ruling: 
 
 The court found sufficient evidence that both the husband and wife had committed adultery. Based on this mutual guilt, the doctrine of recrimination applied. This common law principle states that if both parties are equally guilty of the same offense, neither is entitled to a divorce. The court found that because of their mutual guilt, neither party was entitled to a divorce. 
 
@@ -27,11 +27,11 @@ Condonation in suits for divorce is recognized by Law 6, title 9, partida 4, and
 That either spouse has been guilty of adultery is a defense to his or her suit (Law 8, title 2, partida 4), so is the fact that he has pardoned her (Law 6, title 9, partida 4). And if, after a divorce has been granted to the husband, he commit adultery, there is a waiver of the judgment (Law 6, title 10, partida 4)
 
 
-### Ratio decidendi:
+Ratio decidendi:
 Under the doctrine of recrimination—codified in Article 56(4) of the Family Code—where both spouses have given ground for legal separation, neither is entitled to a decree. 
 Legal separation (divorce a mensa et thoro) is a remedy created exclusively for an innocent spouse. When both spouses have committed adultery, their mutual guilt cancels out their respective causes of action. The marital offense of one constitutes a complete bar to an accusation against the other, leaving neither party with the clean hands required to seek judicial relief. 
 
-### Class Notes:
+Class Notes:
 
-### Dispositive portion:
+Dispositive portion:
 
