@@ -1,0 +1,22 @@
+Harding v. Commercial Union, 38 P 464
+Facts:
+Henry Harding purchased a Studebaker automobile and later gifted it to his wife, Mrs. Harding. While the car was at a garage for repairs, an agent from the garage, who was also an agent for the Commercial Union Assurance Co., solicited fire insurance for the vehicle. The agent filled out the insurance proposal form, and Mrs. Harding signed it. The form listed the "present value" as P3,000, a figure the insurer's own examiner agreed upon after inspection. 
+
+The automobile was later totally destroyed by fire. Commercial Union Assurance Co. refused to pay the P3,000 claim, arguing: Mrs. Harding had no insurable interest because the gift from her husband was void under the Civil Code citing: citing article 1334 of the Civil Code which provides that:
+"All gifts between spouses during the marriage shall be void. Moderate gifts which the spouses bestow on each other on festive days of the family are not included in this rule."
+
+Issue:
+Did Mrs. Harding have a valid insurable interest in the car?
+Ruling: 
+Yes
+
+The Court held that the insurance company was a third party and not the proper entity to challenge the validity of the gift between husband and wife. Furthermore, there was no evidence the gift was immoderate, which would have made it an exception to the prohibition on interspousal donations. Therefore, Mrs. Harding was deemed the rightful owner with a valid insurable interest.
+
+The position taken by appellants is untenable. They are not in a position to challenge the validity of the transfer, if it may be called such, They bore absolutely no relation to the parties to the transfer at the time it occurred and had no rights or interests inchoate, present, remote, or otherwise, in the property in question at the time the transfer occurred. Although certain transfers from husband to wife or from wife to husband are prohibited in the article ref erred to, such prohibition can be taken advantage of only by persons who bear such a relation to the parties making the transfer or to the property itself that such transfer interferes with their rights or interests. Unless such a relationship appears the transfer cannot be attacked.
+
+Ratio decidendi:
+
+Class Notes:
+
+Dispositive portion:
+
