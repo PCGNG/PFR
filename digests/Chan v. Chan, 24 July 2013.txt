@@ -1,0 +1,22 @@
+CHAN (Josielene Lara) v. CHAN (Johnny), 24 July 2013
+Facts:
+Josielene Lara Chan filed a petition for the declaration of nullity of her marriage to respondent Johnny Chan (Johnny), the dissolution of their conjugal partnership of gains, and the award of custody of their children to her. Josielene claimed that Johnny failed to care for and support his family and that a psychiatrist diagnosed him as mentally deficient due to incessant drinking and excessive use of prohibited drugs. Indeed, she had convinced him to undergo hospital confinement for detoxification and rehabilitation.
+
+Johnny claimed that it was Josielene who failed her wifely duties and to save their marriage, he agreed to undergo marriage counseling. However, he alleged that he was forcibly held by 2 men when they got to the hospital. 
+
+Josielene filed with the RTC a request for the issuance of a subpoena duces tecum addressed to Medical City, covering Johnny’s medical records when he was there confined. The request was accompanied by a motion to “be allowed to submit in evidence” the records sought by subpoena duces tecum.
+
+Johnny opposed the motion, arguing that the medical records were covered by physician-patient privilege.
+Issue:
+Should the issuance of a subpoena duces tecum covering Johnny’s hospital records be denied on the ground that these are covered by the privileged character of the physician-patient communication? YES
+Ruling: 
+The physician patient privileged communication rule essentially means that a physician who gets information while professionally attending a patient cannot in a civil case be examined without the patient’s consent as to any facts which would blacken the latter’s reputation. This rule is intended to encourage the patient to open up to the physician, relate to him the history of his ailment, and give him access to his body, enabling the physician to make a correct diagnosis of that ailment and provide the appropriate cure. Any fear that a physician could be compelled in the future to come to court and narrate all that had transpired between him and the patient might prompt the latter to clam up, thus putting his own health at great risk.
+
+No Waiver Occurred: Johnny had attached a PhilHealth claim form to his answer, which Josielene pre-marked as evidence. However, the Court determined that merely attaching the form did not constitute a waiver of the privilege, as the trial had not yet begun and the document was not formally offered as evidence in court.
+
+Ratio decidendi:
+
+Class Notes:
+
+Dispositive portion:
+
