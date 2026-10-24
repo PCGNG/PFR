@@ -1,14 +1,14 @@
-### FACTS
+FACTS
 RTC Cebu decreed the legal separation between petitioner Aida Bañez and respondent Gabriel Bañez on the ground of the latter’s sexual infidelity; the dissolution of their conjugal property relations and the division of the net conjugal assets; the forfeiture of respondent’s one-half share in the net conjugal assets in favor of the common children; the payment to petitioner’s counsel of the sum of ₱100,000 as attorney’s fees to be taken from petitioner’s share in the net assets; and the surrender by respondent of the use and possession of a Mazda motor vehicle and the smaller residential house located at Maria Luisa Estate Park Subdivision to petitioner and the common children within 15 days from receipt of the decision.
 
 Aida subsequently filed a motion with the RTC for execution of the judgment pending Gabriel's appeal. The RTC granted the motion, issuing a writ of execution.
 
 Gabriel appealed this order to the Court of Appeals (CA), which set aside the writ of execution issued by the RTC. Aida appealed the CA's decision to the Supreme Court.
 
-### ISSUE
+ISSUE
 Whether execution of judgment pending appeal was justified. NO
 
-### HELD & DOCTRINE 
+HELD & DOCTRINE 
 
 In Echaus vs. Court of Appeals: Execution pending appeal is allowed when superior circumstances demanding urgency outweigh the damages that may result from the issuance of the writ. Otherwise, instead of being an instrument of solicitude and justice, the writ may well become a tool of oppression and inequity. 
 
@@ -16,10 +16,10 @@ In this case, considering the reasons cited by petitioner, we are of the view th
 
 The issues involved in the case will necessarily relate to the same marital relationship between the parties. The effects of legal separation, such as entitlement to live separately, dissolution and liquidation of the absolute community or conjugal partnership, and custody of the minor children, follow from the decree of legal separation. They are not separate or distinct matters that may be resolved by the court and become final prior to or apart from the decree of legal separation. Rather, they are mere incidents of legal separation. Thus, they may not be subject to multiple appeals.
 
-### RATIO
+RATIO
 The effects of legal separation specified by law—including separate domicile, dissolution and liquidation of absolute community or conjugal partnership gains, and custody of children—are purely incidental to the decree itself. They do not possess independent standing capable of reaching finality apart from the primary decree of legal separation. Because all these consequences arise from the same single marital cause of action, an action for legal separation cannot be fragmented into multiple appeals.
 
-### CLASS NOTES
+CLASS NOTES
 
-### DISPOSITIVE
+DISPOSITIVE
 
