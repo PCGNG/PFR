@@ -187,25 +187,244 @@
         "subtopic_id": "IV_B2",
         "subtopic_title": "B 2. Donations Propter Nuptias",
         "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B 2. Donations Propter Nuptias.txt",
-        "cases": []
+        "cases": [
+          {
+            "id": "iv-b2-c1",
+            "title": "Arcaba v. Vda. De Batocael, 370 S 414",
+            "file": "digests/Arcaba v. Vda. De Batocael, 370 S 414.txt"
+          },
+          {
+            "id": "iv-b2-c2",
+            "title": "Matabuena v. Cervantes, 38 S 284",
+            "file": "digests/Matabuena v. Cervantes, 38 S 284.txt"
+          },
+          {
+            "id": "iv-b2-c3",
+            "title": "Grecio v. Sun Life, 48 P 53",
+            "file": "digests/Grecio v. Sun Life, 48 P 53.txt"
+          },
+          {
+            "id": "iv-b2-c4",
+            "title": "Harding v. Commercial Union, 38 P 464",
+            "file": "digests/Harding v. Commercial Union, 38 P 464.txt"
+          },
+          {
+            "id": "iv-b2-c5",
+            "title": "Perez v. Perez-Senerpida, G.R. No. 233365, 24 March 2021",
+            "file": "digests/Perez v. Perez-Senerpida, G.R. No. 233365, 24 March 2021.txt"
+          },
+          {
+            "id": "iv-b2-c6",
+            "title": "Sps. Cano, et al. v. Sps. Cano, et al., GR No. 190750, 14 December 2017",
+            "file": "digests/Sps. Cano, et. al., v. Sps. Cano, et.al., GR No. 190750, 14 December 2017.txt"
+          }
+        ]
       },
       {
         "subtopic_id": "IV_B3",
         "subtopic_title": "B 3. Absolute Community of Property (Arts. 88-104)",
         "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B 3. Absolute Community of Property.txt",
-        "cases": []
+        "cases": [
+          {
+            "id": "iv-b3-c1",
+            "title": "Imani v. Metrobank, 17 November 2010",
+            "file": "digests/Imani v. Metrobank, 17 November 2010.txt"
+          },
+          {
+            "id": "iv-b3-c2",
+            "title": "Navarro v. Judge Escobido and Go, 27 November 2009",
+            "file": "digests/Navarro v. Judge Escobido and Go, 27 November 2009.txt"
+          },
+          {
+            "id": "iv-b3-c3",
+            "title": "Villanueva v. CA, 427 S 439",
+            "file": "digests/Villanueva v. CA, 427 S 439.txt"
+          },
+          {
+            "id": "iv-b3-c4",
+            "title": "Ching v. CA, 423 S 371",
+            "file": "digests/Ching v. CA, 423 S 371.txt"
+          },
+          {
+            "id": "iv-b3-c5",
+            "title": "Tan v. CA, 273 S 229",
+            "file": "digests/Tan v. CA, 273 S 229.txt"
+          },
+          {
+            "id": "iv-b3-c6",
+            "title": "Ros and Aguete v. PNB Laoag, 6 April 2011",
+            "file": "digests/Ros and Aguete v. PNB Laoag, 6 April 2011.txt"
+          },
+          {
+            "id": "iv-b3-c7",
+            "title": "Go v. CA, 272 S 752",
+            "file": "digests/Go v. CA, 272 S 752.txt"
+          },
+          {
+            "id": "iv-b3-c8",
+            "title": "Siochi vs. Gozon, et al., 18 March 2010",
+            "file": "digests/Siochi vs. Gozon, 18 March 2010.txt"
+          },
+          {
+            "id": "iv-b3-c9",
+            "title": "The Commoner Lending v. Balandra, GR 247646, 29 March 2023",
+            "file": "digests/The Commoner Lending v. Balandra, GR 247646, 29 March 2023.txt"
+          },
+          {
+            "id": "iv-b3-c10",
+            "title": "Santos v. Santos, G.R. No. 250774, June 16, 2021",
+            "file": "digests/Santos v. Santos, G.R. No. 250774, June 16, 2021.txt"
+          },
+          {
+            "id": "iv-b3-c11",
+            "title": "Alexander v. Escalona, GR 256141, 19 July 2022",
+            "file": "digests/Alexander v. Escalona, GR 256141, 19 July 2022.txt"
+          },
+          {
+            "id": "iv-b3-c12",
+            "title": "Matthews v. Taylor, 22 June 2009",
+            "file": "digests/Matthews v. Taylor, 22 June 2009.txt"
+          },
+          {
+            "id": "iv-b3-c13",
+            "title": "Muller v. Muller, 500 S 65",
+            "file": "digests/Muller v. Muller, 500 S 65.txt"
+          },
+          {
+            "id": "iv-b3-c14",
+            "title": "Beumer v. Amores, 3 December 2012",
+            "file": "digests/Beumer v. Amores, 3 December 2012 Effect of Separation De Facto.txt"
+          },
+          {
+            "id": "iv-b3-c15",
+            "title": "De Ocampo v. Delizo, 69 S 216",
+            "file": "digests/De Ocampo v. Delizo, 69 S 216.txt"
+          },
+          {
+            "id": "iv-b3-c16",
+            "title": "Vda. De Consuegra v. GSIS, 37 S 315",
+            "file": "digests/Vda. De Consuegra v. GSIS, 37 S 315.txt"
+          },
+          {
+            "id": "iv-b3-c17",
+            "title": "Domingo v. Molina, GR No. 200274, 20 April 2016",
+            "file": "digests/Domingo v. Molina, GR No. 200274, 20 April 2016.txt"
+          }
+        ]
       },
       {
         "subtopic_id": "IV_B4",
         "subtopic_title": "B 4. Conjugal Partnership of Gains",
         "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B 4. Conjugal Partnership of Gains.txt",
-        "cases": []
+        "cases": [
+          {
+            "id": "iv-b4-c1",
+            "title": "Gonzales-Asdala v. Metrobank, G.R. No. 257982, Feb 22, 2023",
+            "file": "digests/FATIMA B. GONZALES-ASDALA v METROPOLITAN BANK AND TRUST COMPANY, G.R. No. 257982 February 22, 2023.txt"
+          },
+          {
+            "id": "iv-b4-c2",
+            "title": "Salvador v. CA, 243 S 239",
+            "file": "digests/Salvador v. CA, 243 S 239.txt"
+          },
+          {
+            "id": "iv-b4-c3",
+            "title": "Nayve-Pua v. Union Bank, G.R. No. 253450, Jan 22, 2024",
+            "file": "digests/Nayve-Pua v. Union Bank, G.R. No. 253450, January 22, 2024.txt"
+          },
+          {
+            "id": "iv-b4-c4",
+            "title": "Ravina v. Abrille, 16 October 2009",
+            "file": "digests/Ravina v. Abrille, 16 October 2009.txt"
+          },
+          {
+            "id": "iv-b4-c5",
+            "title": "Titan Construction Corp. v. David, 15 March 2010",
+            "file": "digests/Titan Construction Corporation v. David, 15 March 2010.txt"
+          },
+          {
+            "id": "iv-b4-c6",
+            "title": "Sps. Cueno v. Sps. Bautista, G.R. No. 246445, March 2, 2021",
+            "file": "digests/Sps. Cueno v. Sps. Bautista, G.R. No. 246445, March 02, 2021.txt"
+          },
+          {
+            "id": "iv-b4-c7",
+            "title": "Uy v. CA, 346 S 246",
+            "file": "digests/Uy v. CA, 346 S 246.txt"
+          },
+          {
+            "id": "iv-b4-c8",
+            "title": "Sabalones v. CA, 230 S 79",
+            "file": "digests/Sabalones v. CA, 230 S 79.txt"
+          },
+          {
+            "id": "iv-b4-c9",
+            "title": "Relucio v. Lopez, 16 January 2002",
+            "file": "digests/Relucio v. Lopez, 16 January 2002.txt"
+          },
+          {
+            "id": "iv-b4-c10",
+            "title": "Uy v. Estate of Fernandez, 5 April 2017",
+            "file": "digests/Uy v. Estate of Fernandez, 5 April 2017.txt"
+          },
+          {
+            "id": "iv-b4-c11",
+            "title": "Nable-Jose v. Nable-Jose, 41 P 713",
+            "file": "digests/Nable-Jose v. Nable-Jose, 41 P 713.txt"
+          },
+          {
+            "id": "iv-b4-c12",
+            "title": "Abalos v. Macatangay, 439 S 649",
+            "file": "digests/Abalos v. Macatangay, 439 S 649.txt"
+          },
+          {
+            "id": "iv-b4-c13",
+            "title": "Belinda Alexander v. Sps. Escalona, G.R. No 256141, July 19, 2022",
+            "file": "digests/BELINDA ALEXANDER v SPOUSES ESCALONA et al., G.R. No 256141 July 19, 2022.txt"
+          },
+          {
+            "id": "iv-b4-c14",
+            "title": "Commoner Lending Corp. v. Balandra, G.R. No. 247646, March 29, 2023",
+            "file": "digests/THE COMMONER LENDING CORPORATION v RAFAEL BALANDRA, G.R. No. 247646 March 29, 2023.txt"
+          },
+          {
+            "id": "iv-b4-c15",
+            "title": "Maquilan v. Maquilan, 8 June 2007",
+            "file": "digests/Maquilan v. Maquilan, 8 June 2007.txt"
+          }
+        ]
       },
       {
         "subtopic_id": "IV_B5",
         "subtopic_title": "B 5. Property Regime of Unions Without Marriage",
         "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B 5. Property Regime of Unions Without Marriage.txt",
-        "cases": []
+        "cases": [
+          {
+            "id": "iv-b5-c1",
+            "title": "Paterno v. Paterno, 8 January 2020",
+            "file": "digests/Paterno v. Paterno, 8 January 2020.txt"
+          },
+          {
+            "id": "iv-b5-c2",
+            "title": "Dino v. Dino, 19 January 2011",
+            "file": "digests/Dino v. Dino, 19 January 2011.txt"
+          },
+          {
+            "id": "iv-b5-c3",
+            "title": "Bernard B. Benasa v. Presentacion R. Mahor, G.R. No. 236659, Aug 31, 2022",
+            "file": "digests/BERNARD B. BENASA VS. PRESENTACION R. MAHOR, G.R. No. 236659 August 31, 2022.txt"
+          },
+          {
+            "id": "iv-b5-c4",
+            "title": "Josef v. Ursua, GR No. 267469, February 5, 2025",
+            "file": "digests/Josef v. Ursua, GR No. 267469, February 5, 2025.txt"
+          },
+          {
+            "id": "iv-b5-c5",
+            "title": "Bangayan v. Bangayan, 3 July 2013",
+            "file": "digests/Bangayan v. Bangayan, 3 July 2013.txt"
+          }
+        ]
       }
     ]
   }
