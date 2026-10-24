@@ -100,7 +100,7 @@
       align-items: center;
       justify-content: space-between;
       border-bottom: 1px solid var(--border-line);
-      background: rgba(11, 17, 28, 0.7);
+      background: rgba(11, 17, 28, 0.85);
       font-size: 0.72rem;
       font-weight: 800;
       letter-spacing: 0.05em;
@@ -114,7 +114,7 @@
       padding: 14px;
     }
 
-    /* Pane 1: Syllabus Tree */
+    /* Column 1: Syllabus Tree */
     .module-group { margin-bottom: 16px; }
     .module-header {
       font-size: 0.73rem;
@@ -161,11 +161,12 @@
       font-weight: 600;
     }
 
-    /* Pane 2: Overview Parchment Card */
+    /* Column 2: Overview (Parchment Card) */
     .overview-container {
       background-color: #0b111c;
       padding: 10px;
       height: 100%;
+      overflow: hidden;
     }
     .parchment-sheet {
       background: var(--cream-card);
@@ -174,12 +175,13 @@
       border-radius: 8px;
       padding: 24px;
       overflow-y: auto;
-      font-size: 0.88rem;
+      font-size: 0.90rem;
       line-height: 1.7;
       white-space: pre-wrap;
+      word-break: break-word;
     }
 
-    /* Pane 3: Digest View */
+    /* Column 3: Case Digest */
     .digest-path {
       font-size: 0.68rem;
       color: var(--accent-yellow);
@@ -200,6 +202,7 @@
       font-size: 0.73rem;
       font-weight: 800;
       letter-spacing: 0.05em;
+      margin-top: 14px;
       margin-bottom: 6px;
       text-transform: uppercase;
       display: flex;
@@ -212,7 +215,7 @@
     .color-ratio { color: #38bdf8; }
     .color-fallo { color: #a78bfa; }
     .digest-block {
-      margin-bottom: 18px;
+      margin-bottom: 16px;
       font-size: 0.85rem;
       color: #cbd5e1;
       line-height: 1.6;
@@ -241,7 +244,7 @@
   </header>
 
   <main class="reviewer-workspace">
-    <!-- Col 1: Syllabus Navigation -->
+    <!-- Col 1: Left Pane (Syllabus Hierarchy) -->
     <section class="pane-card">
       <div class="pane-titlebar">
         <span>📁 Syllabus Hierarchy</span>
@@ -249,7 +252,7 @@
       <div class="pane-content" id="syllabusTree">Loading syllabus...</div>
     </section>
 
-    <!-- Col 2: Overview Card -->
+    <!-- Col 2: Middle Pane (Topic Overview) -->
     <section class="pane-card">
       <div class="pane-titlebar">
         <span>• Topic & Sub-Topic Overview</span>
@@ -262,7 +265,7 @@
       </div>
     </section>
 
-    <!-- Col 3: Case Digest Display -->
+    <!-- Col 3: Right Pane (Case Digest) -->
     <section class="pane-card">
       <div class="pane-titlebar">
         <span># Case Digest</span>
@@ -281,10 +284,11 @@
     async function initializeReviewer() {
       try {
         const response = await fetch('syllabus.json');
+        if (!response.ok) throw new Error('syllabus.json not found');
         currentSyllabus = await response.json();
         renderTree();
 
-        // Automatically open the first available subtopic and case
+        // Default open the first subtopic overview and first case digest
         if (currentSyllabus.length > 0 && currentSyllabus[0].subtopics.length > 0) {
           const firstSub = currentSyllabus[0].subtopics[0];
           loadOverviewText(firstSub);
@@ -293,7 +297,7 @@
           }
         }
       } catch (err) {
-        document.getElementById('syllabusTree').innerHTML = `<p style="color:#f87171;">Failed to load syllabus.json. Please verify the file is committed to your repo root.</p>`;
+        document.getElementById('syllabusTree').innerHTML = `<p style="color:#f87171;">Failed to load syllabus.json. Please ensure syllabus.json is committed in the root directory.</p>`;
       }
     }
 
@@ -310,9 +314,9 @@
         tTitle.textContent = `📁 ${topic.topic_title}`;
         group.appendChild(tTitle);
 
-        topic.subtopics.forEach(sub => {
+        topic.subtopics.forEach((sub, sIndex) => {
           const sBtn = document.createElement('button');
-          sBtn.className = 'subtopic-btn';
+          sBtn.className = 'subtopic-btn' + (sIndex === 0 ? ' active' : '');
           sBtn.textContent = `▪ ${sub.subtopic_title}`;
           sBtn.onclick = () => {
             document.querySelectorAll('.subtopic-btn').forEach(b => b.classList.remove('active'));
@@ -325,14 +329,16 @@
             const ul = document.createElement('ul');
             ul.className = 'case-tree-list';
 
-            sub.cases.forEach(c => {
+            sub.cases.forEach((c, cIndex) => {
               const li = document.createElement('li');
-              li.className = 'case-tree-item';
+              li.className = 'case-tree-item' + (sIndex === 0 && cIndex === 0 ? ' active' : '');
               li.textContent = `# ${c.title}`;
               li.onclick = (e) => {
                 e.stopPropagation();
                 document.querySelectorAll('.case-tree-item').forEach(i => i.classList.remove('active'));
                 li.classList.add('active');
+                // Ensure overview updates when case is clicked
+                loadOverviewText(sub);
                 loadCaseFile(c, sub.subtopic_title);
               };
               ul.appendChild(li);
@@ -349,13 +355,25 @@
       document.getElementById('activeSubtopicLabel').textContent = subtopic.subtopic_title;
       display.textContent = 'Loading outline...';
 
+      if (!subtopic.overview_file) {
+        display.textContent = 'No overview file linked for this topic.';
+        return;
+      }
+
       try {
-        const res = await fetch(encodeURI(subtopic.overview_file));
-        if (!res.ok) throw new Error('File not found');
+        const fileUrl = encodeURI(subtopic.overview_file);
+        const res = await fetch(fileUrl);
+        if (!res.ok) {
+          throw new Error(`HTTP ${res.status}: Failed to fetch ${subtopic.overview_file}`);
+        }
         const text = await res.text();
-        display.textContent = text;
+        display.textContent = text.trim() || "(Overview file is empty)";
       } catch (err) {
-        display.textContent = `Could not load overview file: "${subtopic.overview_file}".\nCheck if the file name matches your Overviews folder exactly.`;
+        display.innerHTML = `
+          <strong style="color: #b91c1c;">Overview Not Found</strong><br><br>
+          Could not load: <code>${subtopic.overview_file}</code><br><br>
+          <em>Please check that the file path and folder name in your repository match exactly (case-sensitive).</em>
+        `;
       }
     }
 
@@ -364,31 +382,35 @@
       display.innerHTML = '<p style="color:var(--text-muted);">Loading case digest...</p>';
 
       try {
-        const res = await fetch(encodeURI(caseItem.file));
-        if (!res.ok) throw new Error('File not found');
+        const fileUrl = encodeURI(caseItem.file);
+        const res = await fetch(fileUrl);
+        if (!res.ok) throw new Error(`HTTP ${res.status}: Could not load file`);
         const raw = await res.text();
         display.innerHTML = parseDigestText(raw, caseItem.title, breadcrumb);
       } catch (err) {
-        display.innerHTML = `<p style="color:#f87171;">Could not load digest: "${caseItem.file}".\nVerify that the file is in the digests/ folder and the name matches.</p>`;
+        display.innerHTML = `
+          <p style="color:#f87171;">Could not load digest: <code>${caseItem.file}</code></p>
+          <p style="color:var(--text-muted); font-size:0.75rem; margin-top:8px;">Verify file existence inside the <code>digests/</code> folder.</p>
+        `;
       }
     }
 
-    // Parses standard case digest sections directly from .txt files
+    // Parses markdown style headers (### Facts:, ### Issue:, etc.) or plain text
     function parseDigestText(rawText, title, breadcrumb) {
       currentRatioText = "";
-      
-      const sections = {
+
+      // Regex matches: ### Facts:, ### Issue:, ### Ruling:, Facts:, Held:, etc.
+      const pattern = /(?:^|\n)\s*(?:###\s*)?(RELEVANT FACTS|FACTS|ISSUE|ISSUES|HELD|RULING|RATIO DECIDENDI|RATIO|FALLO|DISPOSITIVE PORTION)[:\s-]*/i;
+      const parts = rawText.split(pattern);
+
+      let sections = {
+        general: "",
         facts: "",
         issue: "",
         held: "",
         ratio: "",
-        fallo: "",
-        general: ""
+        fallo: ""
       };
-
-      // Split text on common case digest headers
-      const pattern = /(?:^|\n)\s*(RELEVANT FACTS|FACTS|ISSUE|ISSUES|HELD|RULING|RATIO DECIDENDI|RATIO|FALLO|DISPOSITIVE PORTION)[:\s-]*/i;
-      const parts = rawText.split(pattern);
 
       if (parts.length > 1) {
         sections.general = parts[0].trim();
@@ -407,6 +429,10 @@
         }
       } else {
         sections.general = rawText.trim();
+      }
+
+      if (!currentRatioText && sections.held) {
+        currentRatioText = sections.held;
       }
 
       let html = `
@@ -431,7 +457,7 @@
       }
       if (sections.held) {
         html += `
-          <div class="badge-label color-held">✓ HELD</div>
+          <div class="badge-label color-held">✓ HELD / RULING</div>
           <div class="digest-block">${sections.held}</div>
         `;
       }
