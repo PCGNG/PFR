@@ -1,0 +1,29 @@
+Ching v. CA, 423 S 371
+Facts:
+Alfredo Ching (petitioner husband) executed a continuing guaranty/suretyship agreement for loans obtained by Philippine Blooming Mills Company, Inc. (PBMCI) from Allied Banking Corporation (ABC).  When PBMCI defaulted on the loans, ABC filed a case to recover the debt and subsequently levied on 100,000 shares of stock registered in Alfredo Ching's name. Encarnacion Ching (petitioner wife) filed a motion to set aside the levy, arguing that the shares were acquired during their marriage with conjugal funds and that the debt incurred by her husband did not redound to the benefit of the conjugal partnership.
+
+Issue:
+•	Were the shares of stock conjugal property?
+•	Was the conjugal partnership liable for the debt incurred by the husband as a surety for another corporation?
+
+Ruling: 
+Article 160 of the New Civil Code provides that all the properties acquired during the marriage are presumed to belong to the conjugal partnership, unless it be proved that it pertains exclusively to the husband, or to the wife. 
+
+In Tan v. Court of Appeals, we held that it is not even necessary to prove that the properties were acquired with funds of the partnership. As long as the properties were acquired by the parties during the marriage, they are presumed to be conjugal in nature. In fact, even when the manner in which the properties were acquired does not appear, the presumption will still apply, and the properties will still be considered conjugal. The presumption of the conjugal nature of the properties acquired during the marriage subsists in the absence of clear, satisfactory and convincing evidence to overcome the same.
+
+In this case, the evidence adduced by the petitioners in the RTC is that the 100,000 shares of stocks in the Citycorp Investment Philippines were issued to and registered in its corporate books in the name of the petitioner-husband when the said corporation was incorporated on May 14, 1979. This was done during the subsistence of the marriage of the petitioner-spouses. The shares of stocks are, thus, presumed to be the conjugal partnership property of the petitioners. The private respondent failed to adduce evidence that the petitioner-husband acquired the stocks with his exclusive money. The barefaced fact that the shares of stocks were registered in the corporate books of Citycorp Investment Philippines solely in the name of the petitioner-husband does not constitute proof that the petitioner-husband, not the conjugal partnership, owned the same.
+
+Article 161(1) of the New Civil Code (now Article 121[2 and 3] of the Family Code of the Philippines) provides:
+
+Art. 161. The conjugal partnership shall be liable for:
+
+(1)	All debts and obligations contracted by the husband for the benefit of the conjugal partnership, and those contracted by the wife, also for the same purpose, in the cases where she may legally bind the partnership.
+
+In this case, the private respondent failed to prove that the conjugal partnership of the petitioners was benefited by the petitioner-husband’s act of executing a continuing guaranty and suretyship agreement with the private respondent for and in behalf of PBMCI. The contract of loan was between the private respondent and the PBMCI, solely for the benefit of the latter. No presumption can be inferred from the fact that when the petitioner-husband entered into an accommodation agreement or a contract of surety, the conjugal partnership would thereby be benefited. The private respondent was burdened to establish that such benefit redounded to the conjugal partnership. The benefits must be those directly resulting from the loan. They cannot merely be a by-product or a spin-off of the loan itself.
+
+Ratio decidendi:
+
+Class Notes:
+
+Dispositive portion:
+
