@@ -4,24 +4,46 @@
     "topic_title": "III. MARRIAGE - INCEPTION AND TERMINATION",
     "subtopics": [
       {
+        "subtopic_id": "MIC_A",
+        "subtopic_title": "Marriage Incidents and Consequences: Rights & Obligations",
+        "overview_file": "digests/Marriage Incidents and Consequences_A. Rights and Obligations of Spouses.txt",
+        "cases": [
+          {
+            "id": "mic-01",
+            "title": "Goitia (Eloisa) v. Campos Rueda (Jose), 35 P 252",
+            "file": "digests/Goitia (Eloisa) v. Campos Rueda (Jose), 35 P 252.txt"
+          },
+          {
+            "id": "mic-02",
+            "title": "Arroyo v. Vasquez-Arroyo, 42 P 54",
+            "file": "digests/Arroyo v. Vasquez-Arroyo, 42 P 54.txt"
+          },
+          {
+            "id": "mic-03",
+            "title": "Ilusorio v. Ilusorio, 12 May 2000",
+            "file": "digests/Ilusorio v. Ilusorio, 12 May 2000.txt"
+          }
+        ]
+      },
+      {
         "subtopic_id": "F1",
         "subtopic_title": "F 1. Legal Separation",
         "overview_file": "Overviews/III. MARRIAGE-INCEPTION AND TERMINATION/F 1. Legal Separation.txt",
         "cases": [
           {
-            "id": "c1",
+            "id": "ls-00",
+            "title": "General: Legal Separation",
+            "file": "digests/LEGAL SEPARATION.txt"
+          },
+          {
+            "id": "ls-01",
             "title": "Concept of Legal Separation",
             "file": "digests/Concept of Legal Separation.txt"
           },
           {
-            "id": "c2",
-            "title": "Goitia (Eloisa) v. Campos Rueda (Jose), 35 P 252",
-            "file": "digests/Goitia (Eloisa) v. Campos Rueda (Jose), 35 P 252.txt"
-          },
-          {
-            "id": "c3",
-            "title": "Arroyo v. Vasquez-Arroyo, 42 P 54",
-            "file": "digests/Arroyo v. Vasquez-Arroyo, 42 P 54.txt"
+            "id": "ls-02",
+            "title": "Laperal v. Republic, 6 S 357",
+            "file": "digests/Laperal v. Republic, 6 S 357.txt"
           }
         ]
       },
@@ -31,14 +53,14 @@
         "overview_file": "Overviews/III. MARRIAGE-INCEPTION AND TERMINATION/F 2. Grounds for Legal Separation.txt",
         "cases": [
           {
-            "id": "c4",
-            "title": "Gandionco v. Penaranda, 27 November 1987",
+            "id": "ls-03",
+            "title": "Gaudionco v. Penaranda, 27 November 1987",
             "file": "digests/Gaudionco v. Penaranda, 27 November 1987.txt"
           },
           {
-            "id": "c5",
-            "title": "Benedicto (Agueda) v. Dela Rama (Esteban)",
-            "file": "digests/Benedicto (Agueda) v. Dela Rama (Esteban).txt"
+            "id": "ls-04",
+            "title": "Benedicto (Agueda) v. Dela Rama, 3 P 34 (1902)",
+            "file": "digests/Benedicto (Agueda) v. Dela Rama, 3 P 34 (1902).txt"
           }
         ]
       },
@@ -48,12 +70,12 @@
         "overview_file": "Overviews/III. MARRIAGE-INCEPTION AND TERMINATION/F 3. Grounds for Denial of Legal Separation.txt",
         "cases": [
           {
-            "id": "c6",
+            "id": "ls-05",
             "title": "Brown v. Yambao, 102 P 168",
             "file": "digests/Brown v. Yambao, 102 P 168.txt"
           },
           {
-            "id": "c7",
+            "id": "ls-06",
             "title": "Ginez v. Bugayong, 100 P 616",
             "file": "digests/Ginez v. Bugayong, 100 P 616.txt"
           }
@@ -65,22 +87,22 @@
         "overview_file": "Overviews/III. MARRIAGE-INCEPTION AND TERMINATION/F 4. Action for Legal Separation Procedure.txt",
         "cases": [
           {
-            "id": "c8",
-            "title": "Araneta (Luis) v. Concepcion and Araneta",
-            "file": "digests/Araneta (Luis) v. Concepcion and Araneta.txt"
+            "id": "ls-07",
+            "title": "Araneta (Luis) v. Concepcion and ARANETA (Emma), 99 P 709",
+            "file": "digests/Araneta (Luis) v. Concepcion and ARANETA (Emma), 99 P 709.txt"
           },
           {
-            "id": "c9",
+            "id": "ls-08",
             "title": "Arroyo v. CA, 19 November 1991",
             "file": "digests/Arroyo v. CA, 19 November 1991.txt"
           },
           {
-            "id": "c10",
+            "id": "ls-09",
             "title": "Banez v. Banez, 374 S 340",
             "file": "digests/Banez v. Banez, 374 S 340.txt"
           },
           {
-            "id": "c11",
+            "id": "ls-10",
             "title": "Espiritu and Layug v. CA, 15 March 1995",
             "file": "digests/Espiritu and Layug v. CA, 15 March 1995.txt"
           }
