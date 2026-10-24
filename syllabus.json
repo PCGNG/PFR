@@ -178,9 +178,33 @@
         ]
       },
       {
-        "subtopic_id": "IV_B",
-        "subtopic_title": "B. Property Relations Between Spouses",
-        "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B. Property Relations Between Spouses.txt",
+        "subtopic_id": "IV_B1",
+        "subtopic_title": "B 1. Marriage Settlement / Ante-Nuptial Agreement",
+        "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B 1. Marriage Settlement.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "IV_B2",
+        "subtopic_title": "B 2. Donations Propter Nuptias",
+        "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B 2. Donations Propter Nuptias.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "IV_B3",
+        "subtopic_title": "B 3. Absolute Community of Property (Arts. 88-104)",
+        "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B 3. Absolute Community of Property.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "IV_B4",
+        "subtopic_title": "B 4. Conjugal Partnership of Gains",
+        "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B 4. Conjugal Partnership of Gains.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "IV_B5",
+        "subtopic_title": "B 5. Property Regime of Unions Without Marriage",
+        "overview_file": "Overviews/IV. MARRIAGE INCIDENTS AND CONSEQUENCES/B 5. Property Regime of Unions Without Marriage.txt",
         "cases": []
       }
     ]
