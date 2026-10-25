@@ -30,12 +30,12 @@
       overflow: hidden;
     }
 
-    /* Top Bar */
+    /* Top Bar - Scaled 1.5x */
     header {
       background-color: #0b111c;
       border-bottom: 1px solid var(--border-line);
-      padding: 0 16px;
-      height: 48px;
+      padding: 0 20px;
+      height: 60px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -44,42 +44,42 @@
     .brand-group {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 12px;
     }
     .app-title {
-      font-size: 0.88rem;
+      font-size: 1.32rem; /* 0.88 * 1.5 */
       font-weight: 800;
       letter-spacing: 0.5px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 8px;
     }
     .badge-mode {
-      font-size: 0.62rem;
+      font-size: 0.93rem; /* 0.62 * 1.5 */
       color: #34d399;
       border: 1px solid #059669;
       background: rgba(5, 150, 105, 0.15);
-      padding: 2px 8px;
-      border-radius: 12px;
+      padding: 3px 10px;
+      border-radius: 14px;
       font-weight: 700;
     }
     .btn-print {
       background: var(--accent-yellow);
       color: #000;
       font-weight: 700;
-      font-size: 0.72rem;
-      padding: 5px 12px;
+      font-size: 1.08rem; /* 0.72 * 1.5 */
+      padding: 7px 16px;
       border: none;
-      border-radius: 4px;
+      border-radius: 5px;
       cursor: pointer;
     }
 
     /* 3-Pane Responsive Grid */
     .reviewer-workspace {
       display: grid;
-      grid-template-columns: 290px 1.15fr 1.35fr;
-      gap: 12px;
-      padding: 12px;
+      grid-template-columns: 340px 1.15fr 1.35fr;
+      gap: 14px;
+      padding: 14px;
       flex: 1;
       overflow: hidden;
     }
@@ -94,14 +94,14 @@
     }
 
     .pane-titlebar {
-      height: 38px;
-      padding: 0 14px;
+      height: 48px;
+      padding: 0 16px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       border-bottom: 1px solid var(--border-line);
       background: rgba(11, 17, 28, 0.85);
-      font-size: 0.72rem;
+      font-size: 1.08rem; /* 0.72 * 1.5 */
       font-weight: 800;
       letter-spacing: 0.05em;
       text-transform: uppercase;
@@ -111,60 +111,62 @@
     .pane-content {
       flex: 1;
       overflow-y: auto;
-      padding: 14px;
+      padding: 16px;
     }
 
-    /* Column 1: Syllabus Tree */
-    .module-group { margin-bottom: 16px; }
+    /* Column 1: Syllabus Tree - Scaled 1.5x */
+    .module-group { margin-bottom: 20px; }
     .module-header {
-      font-size: 0.73rem;
+      font-size: 1.10rem; /* 0.73 * 1.5 */
       font-weight: 700;
       color: var(--accent-yellow);
-      margin-bottom: 6px;
+      margin-bottom: 8px;
       display: flex;
       align-items: center;
-      gap: 5px;
+      gap: 6px;
     }
     .subtopic-btn {
       display: block;
       width: 100%;
       text-align: left;
-      font-size: 0.75rem;
+      font-size: 1.12rem; /* 0.75 * 1.5 */
       color: var(--accent-cyan);
       background: transparent;
       border: none;
-      padding: 5px 8px;
-      border-radius: 4px;
+      padding: 7px 10px;
+      border-radius: 5px;
       cursor: pointer;
       margin-left: 6px;
+      line-height: 1.35;
     }
     .subtopic-btn:hover, .subtopic-btn.active {
-      background: rgba(56, 189, 248, 0.12);
+      background: rgba(56, 189, 248, 0.15);
       font-weight: 700;
     }
     .case-tree-list {
       list-style: none;
-      margin-left: 18px;
-      margin-top: 4px;
-      margin-bottom: 6px;
+      margin-left: 20px;
+      margin-top: 6px;
+      margin-bottom: 8px;
     }
     .case-tree-item {
-      font-size: 0.7rem;
+      font-size: 1.05rem; /* 0.70 * 1.5 */
       color: #94a3b8;
-      padding: 3px 6px;
-      border-radius: 3px;
+      padding: 5px 8px;
+      border-radius: 4px;
       cursor: pointer;
+      line-height: 1.35;
     }
     .case-tree-item:hover, .case-tree-item.active {
       color: var(--accent-pink);
-      background: rgba(244, 114, 182, 0.15);
+      background: rgba(244, 114, 182, 0.18);
       font-weight: 600;
     }
 
-    /* Column 2: Overview (Parchment Card) */
+    /* Column 2: Overview (Parchment Card) - Scaled 1.5x */
     .overview-container {
       background-color: #0b111c;
-      padding: 10px;
+      padding: 12px;
       height: 100%;
       overflow: hidden;
     }
@@ -173,41 +175,41 @@
       color: var(--cream-text);
       height: 100%;
       border-radius: 8px;
-      padding: 24px;
+      padding: 28px;
       overflow-y: auto;
-      font-size: 0.90rem;
-      line-height: 1.7;
+      font-size: 1.35rem; /* 0.90 * 1.5 */
+      line-height: 1.75;
       white-space: pre-wrap;
       word-break: break-word;
     }
 
-    /* Column 3: Case Digest */
+    /* Column 3: Case Digest - Scaled 1.5x */
     .digest-path {
-      font-size: 0.68rem;
+      font-size: 1.02rem; /* 0.68 * 1.5 */
       color: var(--accent-yellow);
       font-weight: 800;
       letter-spacing: 0.05em;
       text-transform: uppercase;
-      margin-bottom: 4px;
+      margin-bottom: 6px;
     }
     .case-headline {
       font-family: Georgia, serif;
-      font-size: 1.35rem;
+      font-size: 2.02rem; /* 1.35 * 1.5 */
       font-weight: 700;
       color: #fff;
-      margin-bottom: 18px;
-      line-height: 1.3;
+      margin-bottom: 22px;
+      line-height: 1.35;
     }
     .badge-label {
-      font-size: 0.73rem;
+      font-size: 1.10rem; /* 0.73 * 1.5 */
       font-weight: 800;
       letter-spacing: 0.05em;
-      margin-top: 14px;
-      margin-bottom: 6px;
+      margin-top: 18px;
+      margin-bottom: 8px;
       text-transform: uppercase;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 8px;
     }
     .color-facts { color: #f59e0b; }
     .color-issue { color: #ec4899; }
@@ -215,18 +217,18 @@
     .color-ratio { color: #38bdf8; }
     .color-fallo { color: #a78bfa; }
     .digest-block {
-      margin-bottom: 16px;
-      font-size: 0.85rem;
+      margin-bottom: 20px;
+      font-size: 1.28rem; /* 0.85 * 1.5 */
       color: #cbd5e1;
-      line-height: 1.6;
+      line-height: 1.7;
       white-space: pre-wrap;
     }
     .btn-copy-ratio {
       background: transparent;
       border: 1px solid var(--border-line);
       color: var(--text-muted);
-      font-size: 0.65rem;
-      padding: 2px 7px;
+      font-size: 0.98rem; /* 0.65 * 1.5 */
+      padding: 4px 10px;
       border-radius: 4px;
       cursor: pointer;
     }
@@ -256,7 +258,7 @@
     <section class="pane-card">
       <div class="pane-titlebar">
         <span>• Topic & Sub-Topic Overview</span>
-        <span style="color: var(--accent-yellow); font-size: 0.67rem;" id="activeSubtopicLabel">OVERVIEW OUTLINE</span>
+        <span style="color: var(--accent-yellow); font-size: 1.00rem;" id="activeSubtopicLabel">OVERVIEW OUTLINE</span>
       </div>
       <div class="overview-container">
         <div class="parchment-sheet" id="overviewDisplay">
@@ -272,7 +274,7 @@
         <button class="btn-copy-ratio" id="btnCopyRatio">Copy Ratio</button>
       </div>
       <div class="pane-content" id="digestDisplay">
-        <p style="color: var(--text-muted); font-size: 0.85rem;">Select any case from the syllabus to view its digest.</p>
+        <p style="color: var(--text-muted); font-size: 1.25rem;">Select any case from the syllabus to view its digest.</p>
       </div>
     </section>
   </main>
@@ -288,7 +290,6 @@
         currentSyllabus = await response.json();
         renderTree();
 
-        // Default open the first subtopic overview and first case digest
         if (currentSyllabus.length > 0 && currentSyllabus[0].subtopics.length > 0) {
           const firstSub = currentSyllabus[0].subtopics[0];
           loadOverviewText(firstSub);
@@ -297,7 +298,7 @@
           }
         }
       } catch (err) {
-        document.getElementById('syllabusTree').innerHTML = `<p style="color:#f87171;">Failed to load syllabus.json. Please ensure syllabus.json is committed in the root directory.</p>`;
+        document.getElementById('syllabusTree').innerHTML = `<p style="color:#f87171; font-size:1.15rem;">Failed to load syllabus.json. Please ensure syllabus.json is committed in the root directory.</p>`;
       }
     }
 
@@ -337,7 +338,6 @@
                 e.stopPropagation();
                 document.querySelectorAll('.case-tree-item').forEach(i => i.classList.remove('active'));
                 li.classList.add('active');
-                // Ensure overview updates when case is clicked
                 loadOverviewText(sub);
                 loadCaseFile(c, sub.subtopic_title);
               };
@@ -379,7 +379,7 @@
 
     async function loadCaseFile(caseItem, breadcrumb) {
       const display = document.getElementById('digestDisplay');
-      display.innerHTML = '<p style="color:var(--text-muted);">Loading case digest...</p>';
+      display.innerHTML = '<p style="color:var(--text-muted); font-size:1.25rem;">Loading case digest...</p>';
 
       try {
         const fileUrl = encodeURI(caseItem.file);
@@ -389,17 +389,15 @@
         display.innerHTML = parseDigestText(raw, caseItem.title, breadcrumb);
       } catch (err) {
         display.innerHTML = `
-          <p style="color:#f87171;">Could not load digest: <code>${caseItem.file}</code></p>
-          <p style="color:var(--text-muted); font-size:0.75rem; margin-top:8px;">Verify file existence inside the <code>digests/</code> folder.</p>
+          <p style="color:#f87171; font-size:1.2rem;">Could not load digest: <code>${caseItem.file}</code></p>
+          <p style="color:var(--text-muted); font-size:1.05rem; margin-top:8px;">Verify file existence inside the <code>digests/</code> folder.</p>
         `;
       }
     }
 
-    // Parses markdown style headers (### Facts:, ### Issue:, etc.) or plain text
     function parseDigestText(rawText, title, breadcrumb) {
       currentRatioText = "";
 
-      // Regex matches: ### Facts:, ### Issue:, ### Ruling:, Facts:, Held:, etc.
       const pattern = /(?:^|\n)\s*(?:###\s*)?(RELEVANT FACTS|FACTS|ISSUE|ISSUES|HELD|RULING|RATIO DECIDENDI|RATIO|FALLO|DISPOSITIVE PORTION)[:\s-]*/i;
       const parts = rawText.split(pattern);
 
