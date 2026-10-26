@@ -1,25 +1,52 @@
-Arcaba v. Vda. De Batocael, 370 S 414
-Facts:
-Having no children to take care of him after his retirement, Francisco asked his niece Leticia Bellosillo, latter’s cousin, Luzviminda Paghacian, the and petitioner Cirila Arcaba, then a widow, to take care of his house, as well as the store inside.
+Araneta v. Concepcion
+G.R. No. L-9667 | 99 Phil. 709 | July 31, 1956 | Labrador, J.
 
-Francisco Comille, a property owner in Dipolog City, executed a "Deed of Donation Inter Vivos" in 1991, shortly before his death, ceding a portion of his land to Cirila Arcaba. The deed stated the donation was in consideration of the "faithful services" Arcaba had rendered to Comille over the past ten years, during which she also managed his house and store.
+I. Facts
+Luis Ma. Araneta filed an action for legal separation against his wife, Emma Benitez Araneta, before the Court of First Instance (CFI) of Manila, Branch VI, presided over by Judge Hermogenes Concepcion, on the ground of adultery.   
 
-After Francisco's death, his nieces and nephews, the respondents in the case and his legal heirs, contested the donation's validity. They argued that Arcaba was Francisco's common-law wife, and therefore the donation was prohibited by law.
 
-Conflicting testimonies were offered as to the nature of the relationship between Cirila and Francisco. Leticia Bellosillo said Francisco and Cirila were lovers since they slept in the same room, while Erlinda Tabancura, another niece of Francisco, claimed that the latter had told her that Cirila was his mistress. On the other hand, Cirila said she was a mere helper who could enter the master’s bedroom only when the old man asked her to and that Francisco in any case was too old for her. She denied they ever had sexual intercourse.
+After issues were joined, the wife filed an omnibus petition supported by affidavits seeking:
 
-Issue:
-Was the donation valid?
-Ruling: 
-In Bitangcor v. Tan, : “cohabitation” or “living together as husband and wife” means not only residing under one roof, but also having repeated sexual intercourse. Cohabitation, of course, means more than sexual intercourse, especially when one of the parties is already old and may no longer be interested in sex. At the very least, cohabitation is the public assumption by a man and a woman of the marital relation, and dwelling together as man and wife, thereby holding themselves out to the public as such. Secret meetings or nights clandestinely spent together, even if often repeated, do not constitute such kind of cohabitation; they are merely meretricious.
+Custody of their three minor children;
 
-In the case at bar, Cirila used Francisco's surname ("Cirila Comille") in several official documents, such as business and sanitary permits and Francisco's death certificate, indicating they presented themselves to the public as a married couple. The fact that Arcaba never demanded wages for her decade of service further suggested the relationship was personal and not a professional one. 
+Monthly alimony pendente lite of ₱5,000 for herself and the children;
 
-Applying Article 87 of the Family Code, which voids donations between persons living exclusively with each other as husband and wife without a valid marriage, the Court voided the donation, thus protecting the rights of Francisco's legal heirs.
+Return of her passport;
 
-Ratio decidendi:
+Injunctive relief against the petitioner and his agents; and
 
-Class Notes:
+Attorney’s fees.   
 
-Dispositive portion:
 
+The husband opposed the omnibus petition, denying the accusations against him, disputing the valuation of the conjugal assets, alleging that the wife had abandoned the family home and children, and praying that the court receive oral evidence before ruling on the incidents.   
+
+
+The trial judge refused to admit evidence on the omnibus petition, citing the mandatory six-month cooling-off period under Article 103 of the Civil Code (which prohibited trying an action for legal separation within six months from the filing of the petition). The judge reasoned that introducing evidence during this period would inflame passions, defeat the legislative policy favoring marital reconciliation, and run counter to traditional Filipino family values. Proceeding solely on the basis of the wife’s affidavits and documents, the trial court issued an order granting her custody of the children, awarding ₱2,300 per month as support, ₱300 monthly for house rent, and ₱2,000 for attorney’s fees.   
+
+
+The husband filed a petition for certiorari and mandamus before the Supreme Court to annul the order and compel the trial court to receive evidence.   
+
+
+II. Issue
+Whether Article 103 of the Civil Code (the six-month cooling-off period) bars the trial court from hearing and admitting evidence on provisional matters, such as custody of minor children and support pendente lite, in an action for legal separation.   
+
+
+III. Held
+No. The prohibition in Article 103 against trying an action for legal separation within six months from filing refers exclusively to the trial on the merits of the main case (i.e., whether the decree of legal separation should be granted). It does not bar the court from hearing, receiving evidence on, and determining preliminary and ancillary matters, such as the custody of children and alimony pendente lite.   
+
+
+IV. Ratio Decidendi
+The Supreme Court held that statutory provisions must be harmonized rather than construed in isolation:   
+Jur
+
+Scope of the Cooling-Off Period: While Article 103 establishes a six-month cooling-off period as a practical expedient to facilitate reconciliation, this legislative policy does not override other explicit statutory mandates, specifically Article 105 of the Civil Code, which directs that during the pendency of the legal separation proceedings, the custody of minor children and support must be determined by the court according to the circumstances.   
+pdfcoffee.com
+
+Necessity of Evidence: Determining the welfare of minor children and the reasonable amount of support cannot be decided arbitrarily or based on unexamined affidavits when factual assertions are vigorously contested. Closing judicial eyes to actual facts and refusing to receive evidence can cause manifest injustice.   
+Jur
+
+Distinction Between Ancillary Relief and Main Merits: Receiving evidence to determine provisional custody and support does not amount to a trial of the legal separation action itself. The court must ascertain facts sufficient to protect the best interests of the children and calibrate support to the financial capacity of the parties without adjudicating the principal cause of action on the merits.   
+
+
+V. Fallo
+"The writ prayed for is hereby issued and the respondent judge or whosoever takes his place is ordered to proceed on the question of custody and support pendente lite in accordance with this opinion. The court's order fixing the alimony and requiring payment is reversed. Without costs."   
