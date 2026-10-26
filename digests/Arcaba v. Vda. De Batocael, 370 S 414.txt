@@ -1,7 +1,7 @@
 Arcaba v. Vda. De Batocael
 G.R. No. 146683 | 370 SCRA 414 | November 22, 2001 | Mendoza, J.
 
-I. Facts
+Facts:
 Francisco Comille and his wife, Zosima Montallana, became the registered owners of Lot No. 437-A (418 sq. m.) in Dipolog City. After Zosima died childless in 1980, Francisco executed an extrajudicial partition with his mother-in-law, who waived her share, vesting sole title in Francisco.
 
 In his advanced age, Francisco took in petitioner Cirila Arcaba (then a 34-year-old widow; Francisco was 75) along with his nieces to take care of his house and store. Later, Francisco's health deteriorated, leaving him bedridden. Cirila looked after him continuously without receiving a regular cash wage, though she and her children were provided lodging and sustenance.
@@ -10,13 +10,13 @@ On January 24, 1991, Francisco executed a notarized Deed of Donation Inter Vivos
 
 Respondents (heirs of Francisco) filed an action for declaration of nullity of the deed of donation, recovery of possession, and damages. They alleged that Cirila was Francisco’s common-law wife and that the donation was void under Article 87 of the Family Code. Cirila maintained that she was merely a housekeeper/caregiver receiving gratuitous maintenance rather than a concubine or common-law partner. Both the Regional Trial Court (RTC) and the Court of Appeals (CA) ruled in favor of respondents, holding that Cirila and Francisco had cohabited as husband and wife without a valid marriage, rendering the donation null and void.
 
-II. Issue
+Issue:
 Whether the deed of donation inter vivos executed by Francisco in favor of Cirila is null and void under Article 87 of the Family Code for having been made between persons living together as husband and wife without a valid marriage.
 
-III. Held
+Held:
 Yes. The donation is null and void. Under Article 87 of the Family Code, the prohibition against donations between spouses during marriage explicitly applies to persons living together as husband and wife without a valid marriage. A preponderance of evidence established that Francisco and Cirila maintained a common-law relationship; hence, the donation is void.
 
-IV. Ratio Decidendi
+Ratio Decidendi:
 Statutory Policy under Article 87: Article 87 of the Family Code provides:
 
 "Every donation or grant of gratuitous advantage, direct or indirect, between the spouses during the marriage shall be void, except moderate gifts which the spouses may give each other on the occasion of any family rejoicing. The prohibition shall also apply to persons living together as husband and wife without a valid marriage."   
@@ -35,5 +35,5 @@ Cirila was never paid wages as a domestic helper throughout her ten years of ser
 
 Inapplicability of Onerous Donation Exception: Although the deed stated that the conveyance was made in consideration of past "faithful services," this attempt to characterize the conveyance as a remuneratory or onerous donation cannot circumvent the statutory ban under Article 87. A prohibited direct or indirect donation between cohabitants cannot be validated by framing past cohabitation or domestic services as legal consideration.
 
-V. Fallo
+Fallo:
 "WHEREFORE, the decision of the Court of Appeals affirming the decision of the Regional Trial Court of Dipolog City (Branch 6) is AFFIRMED."
