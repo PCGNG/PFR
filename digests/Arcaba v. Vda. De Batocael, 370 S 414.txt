@@ -1,52 +1,39 @@
-Araneta v. Concepcion
-G.R. No. L-9667 | 99 Phil. 709 | July 31, 1956 | Labrador, J.
+Arcaba v. Vda. De Batocael
+G.R. No. 146683 | 370 SCRA 414 | November 22, 2001 | Mendoza, J.
 
 I. Facts
-Luis Ma. Araneta filed an action for legal separation against his wife, Emma Benitez Araneta, before the Court of First Instance (CFI) of Manila, Branch VI, presided over by Judge Hermogenes Concepcion, on the ground of adultery.   
+Francisco Comille and his wife, Zosima Montallana, became the registered owners of Lot No. 437-A (418 sq. m.) in Dipolog City. After Zosima died childless in 1980, Francisco executed an extrajudicial partition with his mother-in-law, who waived her share, vesting sole title in Francisco.
 
+In his advanced age, Francisco took in petitioner Cirila Arcaba (then a 34-year-old widow; Francisco was 75) along with his nieces to take care of his house and store. Later, Francisco's health deteriorated, leaving him bedridden. Cirila looked after him continuously without receiving a regular cash wage, though she and her children were provided lodging and sustenance.
 
-After issues were joined, the wife filed an omnibus petition supported by affidavits seeking:
+On January 24, 1991, Francisco executed a notarized Deed of Donation Inter Vivos conveying a 150-square-meter portion of Lot No. 437-A and the residential house to Cirila. The deed recited that the grant was made in consideration of the "faithful services [Cirila Arcaba] had rendered over the past ten (10) years." Francisco died a few months later.
 
-Custody of their three minor children;
-
-Monthly alimony pendente lite of ₱5,000 for herself and the children;
-
-Return of her passport;
-
-Injunctive relief against the petitioner and his agents; and
-
-Attorney’s fees.   
-
-
-The husband opposed the omnibus petition, denying the accusations against him, disputing the valuation of the conjugal assets, alleging that the wife had abandoned the family home and children, and praying that the court receive oral evidence before ruling on the incidents.   
-
-
-The trial judge refused to admit evidence on the omnibus petition, citing the mandatory six-month cooling-off period under Article 103 of the Civil Code (which prohibited trying an action for legal separation within six months from the filing of the petition). The judge reasoned that introducing evidence during this period would inflame passions, defeat the legislative policy favoring marital reconciliation, and run counter to traditional Filipino family values. Proceeding solely on the basis of the wife’s affidavits and documents, the trial court issued an order granting her custody of the children, awarding ₱2,300 per month as support, ₱300 monthly for house rent, and ₱2,000 for attorney’s fees.   
-
-
-The husband filed a petition for certiorari and mandamus before the Supreme Court to annul the order and compel the trial court to receive evidence.   
-
+Respondents (heirs of Francisco) filed an action for declaration of nullity of the deed of donation, recovery of possession, and damages. They alleged that Cirila was Francisco’s common-law wife and that the donation was void under Article 87 of the Family Code. Cirila maintained that she was merely a housekeeper/caregiver receiving gratuitous maintenance rather than a concubine or common-law partner. Both the Regional Trial Court (RTC) and the Court of Appeals (CA) ruled in favor of respondents, holding that Cirila and Francisco had cohabited as husband and wife without a valid marriage, rendering the donation null and void.
 
 II. Issue
-Whether Article 103 of the Civil Code (the six-month cooling-off period) bars the trial court from hearing and admitting evidence on provisional matters, such as custody of minor children and support pendente lite, in an action for legal separation.   
-
+Whether the deed of donation inter vivos executed by Francisco in favor of Cirila is null and void under Article 87 of the Family Code for having been made between persons living together as husband and wife without a valid marriage.
 
 III. Held
-No. The prohibition in Article 103 against trying an action for legal separation within six months from filing refers exclusively to the trial on the merits of the main case (i.e., whether the decree of legal separation should be granted). It does not bar the court from hearing, receiving evidence on, and determining preliminary and ancillary matters, such as the custody of children and alimony pendente lite.   
-
+Yes. The donation is null and void. Under Article 87 of the Family Code, the prohibition against donations between spouses during marriage explicitly applies to persons living together as husband and wife without a valid marriage. A preponderance of evidence established that Francisco and Cirila maintained a common-law relationship; hence, the donation is void.
 
 IV. Ratio Decidendi
-The Supreme Court held that statutory provisions must be harmonized rather than construed in isolation:   
-Jur
+Statutory Policy under Article 87: Article 87 of the Family Code provides:
 
-Scope of the Cooling-Off Period: While Article 103 establishes a six-month cooling-off period as a practical expedient to facilitate reconciliation, this legislative policy does not override other explicit statutory mandates, specifically Article 105 of the Civil Code, which directs that during the pendency of the legal separation proceedings, the custody of minor children and support must be determined by the court according to the circumstances.   
-pdfcoffee.com
+"Every donation or grant of gratuitous advantage, direct or indirect, between the spouses during the marriage shall be void, except moderate gifts which the spouses may give each other on the occasion of any family rejoicing. The prohibition shall also apply to persons living together as husband and wife without a valid marriage."   
 
-Necessity of Evidence: Determining the welfare of minor children and the reasonable amount of support cannot be decided arbitrarily or based on unexamined affidavits when factual assertions are vigorously contested. Closing judicial eyes to actual facts and refusing to receive evidence can cause manifest injustice.   
-Jur
+The policy behind the rule—reiterated from Matabuena v. Cervantes and Bienvenido v. Court of Appeals—is rooted in public policy and morality: to prevent the undue influence, pressure, or insidious machinations that one partner may exert upon the other, and to protect the integrity of the family and legitimes of compulsory heirs. If donations between non-married cohabitants were permitted, illicit relationships would be favored over legitimate marriages.
 
-Distinction Between Ancillary Relief and Main Merits: Receiving evidence to determine provisional custody and support does not amount to a trial of the legal separation action itself. The court must ascertain facts sufficient to protect the best interests of the children and calibrate support to the financial capacity of the parties without adjudicating the principal cause of action on the merits.   
+Standard and Nature of Cohabitation: Cohabitation means more than merely engaging in sexual intercourse, especially where an elderly or infirm partner may no longer be sexually active. It signifies a public assumption of marital status—living together under the same roof, sharing domestic life, and holding themselves out to the public as husband and wife.
 
+Evidentiary Basis of Common-Law Union: The respondents proved the common-law relationship by a preponderance of evidence:
+
+Cirila used the surname "Comille" in official public documents, including business and sanitary permit applications and Francisco's death certificate.
+
+Pleadings and records from an ejectment case filed by Francisco against lessees identified Cirila as his common-law wife receiving rent on his behalf.
+
+Cirila was never paid wages as a domestic helper throughout her ten years of service, demonstrating that her domestic support was rendered as a partner rather than an employee.
+
+Inapplicability of Onerous Donation Exception: Although the deed stated that the conveyance was made in consideration of past "faithful services," this attempt to characterize the conveyance as a remuneratory or onerous donation cannot circumvent the statutory ban under Article 87. A prohibited direct or indirect donation between cohabitants cannot be validated by framing past cohabitation or domestic services as legal consideration.
 
 V. Fallo
-"The writ prayed for is hereby issued and the respondent judge or whosoever takes his place is ordered to proceed on the question of custody and support pendente lite in accordance with this opinion. The court's order fixing the alimony and requiring payment is reversed. Without costs."   
+"WHEREFORE, the decision of the Court of Appeals affirming the decision of the Regional Trial Court of Dipolog City (Branch 6) is AFFIRMED."
