@@ -1,0 +1,25 @@
+Facts:
+Alita mortgaged their conjugal property to Commoner Lending to secure a loan using a General Power of Attorney (GPA) where Rafael's signature was forged. Rafael was out of the country at the time and did not consent. 
+
+Issue:
+
+Ruling: 
+The Court has consistently held that a disposition or encumbrance of a conjugal property made by a spouse, without the written consent of the other, during the effectivity of the Family Code is void.35 Article 124 thereof reads:
+
+Article 124. The administration and enjoyment of the conjugal partnership property shall belong to both spouses jointly. In case of disagreement, the husband's decision shall prevail, subject to recourse to the court by the wife for proper remedy, which must be availed of within five years from the date of the contract implementing such decision.
+
+In the event that one spouse is incapacitated or otherwise unable to participate in the administration of the conjugal properties, the other spouse may assume sole powers of administration. These powers do not include disposition or encumbrance without authority of the court or the written consent of the other spouse. In the absence of such authority or consent, the disposition or encumbrance shall be void. However, the transaction shall be construed as a continuing offer on the part of the consenting spouse and the third person, and may be perfected as a binding contract upon the acceptance by the other spouse or authorization by the court before the offer is withdrawn by either or both offerors. (Italics and underscoring supplied)
+
+The contemplated encumbrance or disposition, albeit categorized as a "void" transaction, is further characterized distinctly from void contracts under Article 1409 of the Civil Code that are deemed inexistent and, consequently, incapable of ratification. Notably, void dispositions under Article 124 of the Family Code are expressly deemed as a continuing offer which may be perfected and accepted by consent of the previously non-consenting spouse.
+
+In Spouses Cueno v. Spouses Bautista the Court noted the special nature of the void transactions under the Family Code, i.e., they can become binding contracts upon the acceptance by the other spouse or authorization by the court before the continuing offers are withdrawn by either or both spouses.39 In other words, a void contract under Article 124 of the Family, while not capable of ratification, is distinctively susceptible of perfection through acceptance by the non-consenting spouse.
+
+In the case, the REM executed by Alita without the written consent or authority of respondent partook of a continuing offer from petitioner and Alita that a mortgage be constituted over the subject conjugal properties to secure the questioned loan. Respondent had the option of accepting or rejecting the offer before its withdrawal either by petitioner or Alita. As found by both the RTC and CA, respondent, instead of rejecting the offer, undertook to pay the outstanding loan obligation and made partial payments thereon. The circumstances establish respondent's acceptance of the offer, thereby perfecting the previously unauthorized REM into a binding undertaking on his part to constitute the mortgage over the subject conjugal properties as security for the loan.
+It bears underscoring that respondent's undertaking to settle the questioned loan, making partial payments thereon to prevent foreclosure, was relied upon by the petitioner. Pursuant to Article 1431 of the Civil Code,41 a representation is rendered conclusive upon the party making it, and this representation cannot be denied as against the person relying thereon. That respondent's undertaking to pay the loan proceeded from his vain effort to save the mortgaged properties from being foreclosed—is immaterial and irrelevant. There is nothing special or compelling about this reason as the foreclosure of a mortgage is a necessary consequence of the failure to settle the loan it secures.
+
+Ratio decidendi:
+
+Class Notes:
+
+Dispositive portion:
+
