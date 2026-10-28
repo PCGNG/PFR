@@ -1,0 +1,33 @@
+Alexander v. Escalona, GR 256141, 19 July 2022
+Facts:
+The case centered on two parcels of unregistered land acquired by Spouses Jorge and Hilaria Escalona during their marriage, which was celebrated under the Civil Code in 1960. The key transactions occurred after the Family Code took effect in 1988: 
+1.	In 1998, Jorge, without Hilaria's consent, executed a waiver of rights for one lot in favor of his illegitimate son, Reygan.
+2.	In 2005, Reygan sold both properties to Belinda Alexander (the petitioner). 
+The Spouses Escalona filed a complaint to annul these transactions.
+
+Issue:
+
+Ruling: 
+The Supreme Court used this case to settle conflicting jurisprudence regarding which law applies and the nature of the contract (voidable vs. void) when conjugal property is alienated without spousal consent:
+
+Applicable Law is determined by the date of the transaction: The Court ruled that the law in effect at the time of the alienation governs the transaction's validity, not the date of the marriage.
+
+Transactions under the Family Code are Void:
+The waiver of rights over the first lot by Jorge without Hilaria's written consent was declared void under Article 124 of the Family Code. The Family Code explicitly states that such dispositions are void in the absence of spousal consent.
+
+The sale of the second lot was found to be inexistent because both spouses had not given their consent.
+
+Prescriptive Period:
+
+The Court clarified a distinction: transactions without consent before the Family Code are merely voidable and an action for annulment must be filed within 10 years (under the Civil Code).
+
+Transactions after the Family Code without consent are void, and actions to declare the inexistence of a void contract are generally imprescriptible (can be challenged at any time).
+
+Buyer in Good Faith is irrelevant for unregistered land: The petitioner, Belinda Alexander, could not claim the status of a "buyer in good faith" because the properties were unregistered lands. The good faith rule in land registration law only applies to registered lands.
+
+Ratio decidendi:
+
+Class Notes:
+
+Dispositive portion:
+
