@@ -988,3 +988,438 @@
     ]
   }
 ]
+{
+    "topic_id": "VII",
+    "topic_title": "VII. SUPPORT",
+    "subtopics": [
+      {
+        "subtopic_id": "VII_A1",
+        "subtopic_title": "A 1. Concept and Extent",
+        "overview_file": "Overviews/VII. SUPPORT/A 1. Concept and Extent.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "VII_A2",
+        "subtopic_title": "A 2. Actual Need v. Capacity to Pay Arts. 201-202",
+        "overview_file": "Overviews/VII. SUPPORT/A 2. Actual Need v. Capacity to Pay.txt",
+        "cases": [
+          {
+            "id": "vii-a2-c1",
+            "title": "Lim-Lua v. Lua, 5 June 2013",
+            "file": "digests/Lim-Lua v. Lua, 5 June 2013.txt"
+          },
+          {
+            "id": "vii-a2-c2",
+            "title": "Montefalcon v. Vasquez, 17 June 2008",
+            "file": "digests/Montefalcon v. Vasquez, 17 June 2008.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VII_A3",
+        "subtopic_title": "A 3. Who Is Entitled to Support Arts. 195-197, When Demandable, Exemption from Levy and Attachment",
+        "overview_file": "Overviews/VII. SUPPORT/A 3. Who Is Entitled to Support.txt",
+        "cases": [
+          {
+            "id": "vii-a3-c1",
+            "title": "Lacson v. Lacson, 499 S 677",
+            "file": "digests/Lacson v. Lacson, 499 S 677.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VII_A4",
+        "subtopic_title": "A 4. Who Must Pay Support Arts. 195-197, 199-200",
+        "overview_file": "Overviews/VII. SUPPORT/A 4. Who Must Pay Support.txt",
+        "cases": [
+          {
+            "id": "vii-a4-c1",
+            "title": "Altobano-Ruiz v. Atty. Ruiz, A.C. No. 13132, January 31, 2023",
+            "file": "digests/Altobano-Ruiz v. Atty. Ruiz, A.C. No. 13132. January 31, 2023.txt"
+          },
+          {
+            "id": "vii-a4-c2",
+            "title": "Sps. Lim v. Lim, 30 October 2009",
+            "file": "digests/Sps. Lim v. Lim, 30 October 2009.txt"
+          },
+          {
+            "id": "vii-a4-c3",
+            "title": "Verceles v. Posada, 27 April 2007",
+            "file": "digests/Verceles v. Posada, 27 April 2007.txt"
+          },
+          {
+            "id": "vii-a4-c4",
+            "title": "Mangonon v. CA, 494 S 1",
+            "file": "digests/Mangonon v. CA, 494 S 1.txt"
+          },
+          {
+            "id": "vii-a4-c5",
+            "title": "De Guzman v. Perez, 496 S 474",
+            "file": "digests/De Guzman v. Perez, 496 S 474.txt"
+          },
+          {
+            "id": "vii-a4-c6",
+            "title": "Lam v. Chua, 426 S 29",
+            "file": "digests/Lam v. Chua, 426 S 29.txt"
+          },
+          {
+            "id": "vii-a4-c7",
+            "title": "Reyes v. Ines-Luciano, 28 February 1979",
+            "file": "digests/Reyes v. Ines-Luciano, 28 February 1979.txt"
+          },
+          {
+            "id": "vii-a4-c8",
+            "title": "Santero v. CFI, 14 September 1987",
+            "file": "digests/Santero v. CFI, 14 September 1987.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VII_A5",
+        "subtopic_title": "A 5. How Given",
+        "overview_file": "Overviews/VII. SUPPORT/A 5. How Given.txt",
+        "cases": [
+          {
+            "id": "vii-a5-c1",
+            "title": "Lacson v. Lacson, 499 S 677",
+            "file": "digests/Lacson v. Lacson, 499 S 677.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VII_A6",
+        "subtopic_title": "A 6. Contractual Support or Testamentary Support",
+        "overview_file": "Overviews/VII. SUPPORT/A 6. Contractual Support or Testamentary Support.txt",
+        "cases": []
+      }
+    ]
+  },
+  {
+    "topic_id": "VIII",
+    "topic_title": "VIII. PARENTAL AUTHORITY AND CUSTODY",
+    "subtopics": [
+      {
+        "subtopic_id": "VIII_A1",
+        "subtopic_title": "A 1. Concept and Evolution",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 1. Concept and Evolution.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "VIII_A2",
+        "subtopic_title": "A 2. Characteristics of Parental Authority",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 2. Characteristics of Parental Authority.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "VIII_A3",
+        "subtopic_title": "A 3. Who Exercises Parental Authority and Custody",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 3. Who Exercises Parental Authority and Custody.txt",
+        "cases": [
+          {
+            "id": "viii-a3-c1",
+            "title": "CCC v. DDD, EEE, FFF, GGG & HHH, G.R. No. 264846, February 05, 2024",
+            "file": "digests/CCC, v. DDD, EEE, FFF, GGG & HHH, G.R. No. 264846, February 05, 2024.txt"
+          },
+          {
+            "id": "viii-a3-c2",
+            "title": "Masbate v. Relucio, G.R. No. 235498, July 30, 2018",
+            "file": "digests/Masbate v. Relucio, G.R. No. 235498, 30 July 2018.txt"
+          },
+          {
+            "id": "viii-a3-c3",
+            "title": "Sps. Gabun v. Stolk, G.R. No. 234660, June 26, 2023",
+            "file": "digests/Sps. Gabun v. Stolk, G.R. No. 234660. June 26, 2023.txt"
+          },
+          {
+            "id": "viii-a3-c4",
+            "title": "Bucal v. Bucal, 17 June 2015",
+            "file": "digests/Bucal v. Bucal, 17 June 2015.txt"
+          },
+          {
+            "id": "viii-a3-c5",
+            "title": "Beckett v. Olegario, 30 January 2013",
+            "file": "digests/Beckett v. Olegario, 30 January 2013.txt"
+          },
+          {
+            "id": "viii-a3-c6",
+            "title": "In Re: Thornton, 16 August 2004",
+            "file": "digests/In Re: Thornton, 16 August 2004.txt"
+          },
+          {
+            "id": "viii-a3-c7",
+            "title": "Recto v. Trocino, A.M. No. RTJ-17-2508, 7 November 2017",
+            "file": "digests/Recto v. Trocino, A.M. No. RTJ-17-2508, 7 November 2017 (En Banc).txt"
+          },
+          {
+            "id": "viii-a3-c8",
+            "title": "St. Luke's College of Medicine v. Perez, G.R. No. 222740, 28 Sept 2016",
+            "file": "digests/St. Luke's College of Medicine-William H. Quasha Memorial Foundation v. Perez, G.R. No. 222740, 28 September 2016.txt"
+          },
+          {
+            "id": "viii-a3-c9",
+            "title": "Ang v. Hon. Sanchez-Fernandez, GR No. 272461, 21 April 2025",
+            "file": "digests/Ang v. Hon. Sanchez-Fernandez, GR No. 272461, 21 April 2025.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VIII_A4",
+        "subtopic_title": "A 4. Effect of Disagreement, Absence & Death, Separation or Termination of Marriage",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 4. Effect of Disagreement Absence Death.txt",
+        "cases": [
+          {
+            "id": "viii-a4-c1",
+            "title": "Dacasin v. Dacasin, 5 February 2010",
+            "file": "digests/Dacasin v. Dacasin, 5 February 2010.txt"
+          },
+          {
+            "id": "viii-a4-c2",
+            "title": "Gamboa-Hirsch v. CA, 11 July 2007",
+            "file": "digests/Gamboa-Hirsch v. CA, 11 July 2007.txt"
+          },
+          {
+            "id": "viii-a4-c3",
+            "title": "Gualberto v. Gualberto, 28 June 2005",
+            "file": "digests/Gualberto v. Gualberto, 28 June 2005.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VIII_A5",
+        "subtopic_title": "A 5. Art. 211, par. 2, Duties of Children Art. 215, Filial Privilege Rule",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 5. Duties of Children Filial Privilege.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "VIII_A6",
+        "subtopic_title": "A 6. Substitute Parental Authority: When Applicable, Who May Exercise, Extent",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 6. Substitute Parental Authority.txt",
+        "cases": [
+          {
+            "id": "viii-a6-c1",
+            "title": "Sps. Lim v. Lim, 30 October 2009",
+            "file": "digests/Sps Lim v. Lim, 30 October 2009.txt"
+          },
+          {
+            "id": "viii-a6-c2",
+            "title": "Santos v. CA, 242 S 407",
+            "file": "digests/Santos v. CA, 242 S 407.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VIII_A7",
+        "subtopic_title": "A 7. Effects of Parental Authority Upon the Persons of the Children",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 7. Effects Upon Persons of Children.txt",
+        "cases": [
+          {
+            "id": "viii-a7-c1",
+            "title": "Libi v. IAC, 18 September 1992",
+            "file": "digests/Libi v. IAC, 18 September 1992.txt"
+          },
+          {
+            "id": "viii-a7-c2",
+            "title": "Tamargo v. CA, 209 S 518",
+            "file": "digests/Tamargo v. CA, 209 S 5180.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VIII_A8",
+        "subtopic_title": "A 8. Disciplinary Measures",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 8. Disciplinary Measures.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "VIII_A9",
+        "subtopic_title": "A 9. Effects of Parental Authority Upon Property of Children",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 9. Effects Upon Property of Children.txt",
+        "cases": [
+          {
+            "id": "viii-a9-c1",
+            "title": "Hebron v. Loyola, 5 July 2010",
+            "file": "digests/Hebron v. Loyola, 5 July 2010.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VIII_A10",
+        "subtopic_title": "A 10. Termination and Suspension of Parental Authority: Grounds",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 10. Termination and Suspension.txt",
+        "cases": [
+          {
+            "id": "viii-a10-c1",
+            "title": "Landingin v. RP, 493 S 415",
+            "file": "digests/Landingin v. RP, 493 S 415.txt"
+          },
+          {
+            "id": "viii-a10-c2",
+            "title": "Sombong v. CA, 31 January 1996",
+            "file": "digests/Sombong v. CA, 31 January 1996.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VIII_A11",
+        "subtopic_title": "A 11. Special Parental Authority Arts. 218-219",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 11. Special Parental Authority.txt",
+        "cases": [
+          {
+            "id": "viii-a11-c1",
+            "title": "Sister Pilar Versoza v. People, G.R. No. 184535, September 03, 2019",
+            "file": "digests/Sister Pilar Versoza v. People, G.R. No. 184535. September 03, 2019.txt"
+          },
+          {
+            "id": "viii-a11-c2",
+            "title": "Pascua y Bulan v. People, G.R. No. 240883, April 26, 2023",
+            "file": "digests/Pascua Y Bulan v. People, G.R. No. 240883. April 26, 2023.txt"
+          },
+          {
+            "id": "viii-a11-c3",
+            "title": "Briñas y Del Ferro v. People, G.R. No. 254005, June 23, 2021",
+            "file": "digests/Brinas Y Del Ferro v. People, G.R. No. 254005. June 23, 2021.txt"
+          },
+          {
+            "id": "viii-a11-c4",
+            "title": "Aquinas School v. Sps. Inton, 26 January 2011",
+            "file": "digests/Aquinas School v. Sps. Inton, 26 January 2011.txt"
+          },
+          {
+            "id": "viii-a11-c5",
+            "title": "St. Joseph's College v. Miranda, 29 June 2010",
+            "file": "digests/St. Joseph’s College v. Miranda, 29 June 2010.txt"
+          },
+          {
+            "id": "viii-a11-c6",
+            "title": "St. Mary's Academy v. Carpitanos, 6 February 2002",
+            "file": "digests/St. Mary’s Academy v. Carpitanos, 6 February 2002.txt"
+          },
+          {
+            "id": "viii-a11-c7",
+            "title": "Vivares v. St. Theresa's College Cebu, G.R. No. 202666, September 29, 2014",
+            "file": "digests/Vivares v. St. Theresa’s College Cebu, G.R. No. 202666, September 29, 2014.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VIII_A12",
+        "subtopic_title": "A 12. Extent of Special Parental Authority Art. 233, par. 2",
+        "overview_file": "Overviews/VIII. PARENTAL AUTHORITY AND CUSTODY/A 12. Extent of Special Parental Authority.txt",
+        "cases": []
+      }
+    ]
+  },
+  {
+    "topic_id": "IX",
+    "topic_title": "IX. EMANCIPATION AND AGE OF MAJORITY",
+    "subtopics": [
+      {
+        "subtopic_id": "IX_A1",
+        "subtopic_title": "A 1. Concept: R.A. 6809 Effects Art. 236",
+        "overview_file": "Overviews/IX. EMANCIPATION AND AGE OF MAJORITY/A 1. Concept RA 6809 Effects.txt",
+        "cases": []
+      }
+    ]
+  },
+  {
+    "topic_id": "X",
+    "topic_title": "X. NAMES AND SURNAMES",
+    "subtopics": [
+      {
+        "subtopic_id": "X_A1",
+        "subtopic_title": "A 1. Use of Surname by Women",
+        "overview_file": "Overviews/X. NAMES AND SURNAMES/A 1. Use of Surname by Women.txt",
+        "cases": [
+          {
+            "id": "x-a1-c1",
+            "title": "Remo v. Secretary of Foreign Affairs, 5 March 2010",
+            "file": "digests/Remo v. The Honorable Secretary of Foreign Affairs, 5 March 2010.txt"
+          },
+          {
+            "id": "x-a1-c2",
+            "title": "Yasin v. Shari'a District Court, 23 February 1995",
+            "file": "digests/Yasin v. Shai’a District Court, 23 February 1995.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "X_A2",
+        "subtopic_title": "A 2. Use of Surname by Children",
+        "overview_file": "Overviews/X. NAMES AND SURNAMES/A 2. Use of Surname by Children.txt",
+        "cases": [
+          {
+            "id": "x-a2-c1",
+            "title": "In Re: Julian Lin Wang, 30 March 2005",
+            "file": "digests/In Re: Julian Lin Wang, 30 March 2005.txt"
+          },
+          {
+            "id": "x-a2-c2",
+            "title": "In Re: Adoption of Stephanie Garcia, 454 S 541",
+            "file": "digests/In the Re: Adoption of Stephanie Garcia, 454 S 541.txt"
+          },
+          {
+            "id": "x-a2-c3",
+            "title": "RP v. Annabelle Ontuca y Peleno, G.R. No. 232053, July 15, 2020",
+            "file": "digests/REPUBLIC OF THE PHILIPPINES v ANNABELLE ONTUCA Y PELENO, G.R. NO. 232053 JULY 15, 2020.txt"
+          },
+          {
+            "id": "x-a2-c4",
+            "title": "Ballaho v. CA, GR No. 216425, 11 November 2020",
+            "file": "digests/Ballaho v. CA, GR No. 216425, 11 November 2020.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "X_A3",
+        "subtopic_title": "A 3. Similarity/Identity of Names and Surnames; Usurpation of Name (CA 142)",
+        "overview_file": "Overviews/X. NAMES AND SURNAMES/A 3. Similarity and Usurpation.txt",
+        "cases": [
+          {
+            "id": "x-a3-c1",
+            "title": "Pp. v. Joseph Estrada, 2 April 2009",
+            "file": "digests/Pp v. Joseph Estrada, 2 April 2009.txt"
+          },
+          {
+            "id": "x-a3-c2",
+            "title": "Ursua v. CA, 10 April 1996",
+            "file": "digests/Ursua v. CA, 10 April 1996.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic_id": "XI",
+    "topic_title": "XI. CIVIL REGISTER",
+    "subtopics": [
+      {
+        "subtopic_id": "XI_A1",
+        "subtopic_title": "A 1. Arts. 407-413 in rel. to R.A. 3753",
+        "overview_file": "Overviews/XI. CIVIL REGISTER/A 1. Arts 407-413 RA 3753.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "XI_A2",
+        "subtopic_title": "A 2. R.A. 10172 and R.A. 9048 (Clerical Error Law)",
+        "overview_file": "Overviews/XI. CIVIL REGISTER/A 2. RA 10172 and RA 9048.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "XI_A3",
+        "subtopic_title": "A 3. Probative Value of Civil Register Amendments (Arts. 376 & 412 in rel. to R.A. 9048)",
+        "overview_file": "Overviews/XI. CIVIL REGISTER/A 3. Probative Value and Corrections.txt",
+        "cases": [
+          {
+            "id": "xi-a3-c1",
+            "title": "Miller v. Miller, G.R. No. 200344, August 28, 2019",
+            "file": "digests/Miller v. Miller, G.R. No. 200344, August 28, 2019.txt"
+          },
+          {
+            "id": "xi-a3-c2",
+            "title": "Republic v. Coseteng-Magpayo, 2 February 2011",
+            "file": "digests/Republic v. Coseteng-Magpayo, 2 February 2011.txt"
+          }
+        ]
+      }
+    ]
+  }
