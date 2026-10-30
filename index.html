@@ -47,7 +47,7 @@
       gap: 12px;
     }
     .app-title {
-      font-size: 1.32rem; /* 0.88 * 1.5 */
+      font-size: 1.32rem;
       font-weight: 800;
       letter-spacing: 0.5px;
       display: flex;
@@ -55,7 +55,7 @@
       gap: 8px;
     }
     .badge-mode {
-      font-size: 0.93rem; /* 0.62 * 1.5 */
+      font-size: 0.93rem;
       color: #34d399;
       border: 1px solid #059669;
       background: rgba(5, 150, 105, 0.15);
@@ -67,14 +67,14 @@
       background: var(--accent-yellow);
       color: #000;
       font-weight: 700;
-      font-size: 1.08rem; /* 0.72 * 1.5 */
+      font-size: 1.08rem;
       padding: 7px 16px;
       border: none;
       border-radius: 5px;
       cursor: pointer;
     }
 
-    /* 3-Pane Responsive Grid */
+    /* 3-Pane Grid Container */
     .reviewer-workspace {
       display: grid;
       grid-template-columns: 340px 1.15fr 1.35fr;
@@ -101,7 +101,7 @@
       justify-content: space-between;
       border-bottom: 1px solid var(--border-line);
       background: rgba(11, 17, 28, 0.85);
-      font-size: 1.08rem; /* 0.72 * 1.5 */
+      font-size: 1.08rem;
       font-weight: 800;
       letter-spacing: 0.05em;
       text-transform: uppercase;
@@ -114,10 +114,10 @@
       padding: 16px;
     }
 
-    /* Column 1: Syllabus Tree - Scaled 1.5x */
+    /* Column 1: Syllabus Tree */
     .module-group { margin-bottom: 20px; }
     .module-header {
-      font-size: 1.10rem; /* 0.73 * 1.5 */
+      font-size: 1.10rem;
       font-weight: 700;
       color: var(--accent-yellow);
       margin-bottom: 8px;
@@ -129,7 +129,7 @@
       display: block;
       width: 100%;
       text-align: left;
-      font-size: 1.12rem; /* 0.75 * 1.5 */
+      font-size: 1.12rem;
       color: var(--accent-cyan);
       background: transparent;
       border: none;
@@ -150,7 +150,7 @@
       margin-bottom: 8px;
     }
     .case-tree-item {
-      font-size: 1.05rem; /* 0.70 * 1.5 */
+      font-size: 1.05rem;
       color: #94a3b8;
       padding: 5px 8px;
       border-radius: 4px;
@@ -163,7 +163,7 @@
       font-weight: 600;
     }
 
-    /* Column 2: Overview (Parchment Card) - Scaled 1.5x */
+    /* Column 2: Overview (Parchment Card) */
     .overview-container {
       background-color: #0b111c;
       padding: 12px;
@@ -177,15 +177,15 @@
       border-radius: 8px;
       padding: 28px;
       overflow-y: auto;
-      font-size: 1.35rem; /* 0.90 * 1.5 */
+      font-size: 1.35rem;
       line-height: 1.75;
       white-space: pre-wrap;
       word-break: break-word;
     }
 
-    /* Column 3: Case Digest - Scaled 1.5x */
+    /* Column 3: Case Digest */
     .digest-path {
-      font-size: 1.02rem; /* 0.68 * 1.5 */
+      font-size: 1.02rem;
       color: var(--accent-yellow);
       font-weight: 800;
       letter-spacing: 0.05em;
@@ -194,14 +194,14 @@
     }
     .case-headline {
       font-family: Georgia, serif;
-      font-size: 2.02rem; /* 1.35 * 1.5 */
+      font-size: 2.02rem;
       font-weight: 700;
       color: #fff;
       margin-bottom: 22px;
       line-height: 1.35;
     }
     .badge-label {
-      font-size: 1.10rem; /* 0.73 * 1.5 */
+      font-size: 1.10rem;
       font-weight: 800;
       letter-spacing: 0.05em;
       margin-top: 18px;
@@ -218,7 +218,7 @@
     .color-fallo { color: #a78bfa; }
     .digest-block {
       margin-bottom: 20px;
-      font-size: 1.28rem; /* 0.85 * 1.5 */
+      font-size: 1.28rem;
       color: #cbd5e1;
       line-height: 1.7;
       white-space: pre-wrap;
@@ -227,7 +227,7 @@
       background: transparent;
       border: 1px solid var(--border-line);
       color: var(--text-muted);
-      font-size: 0.98rem; /* 0.65 * 1.5 */
+      font-size: 0.98rem;
       padding: 4px 10px;
       border-radius: 4px;
       cursor: pointer;
@@ -285,11 +285,15 @@
 
     async function initializeReviewer() {
       try {
-        const response = await fetch('syllabus.json');
-        if (!response.ok) throw new Error('syllabus.json not found');
+        // Cache-busting fetch query to prevent browser caching of syllabus.json
+        const response = await fetch('syllabus.json?t=' + Date.now());
+        if (!response.ok) {
+          throw new Error('HTTP ' + response.status + ' (' + response.statusText + ')');
+        }
         currentSyllabus = await response.json();
         renderTree();
 
+        // Default open the first available subtopic and its case digest
         if (currentSyllabus.length > 0 && currentSyllabus[0].subtopics.length > 0) {
           const firstSub = currentSyllabus[0].subtopics[0];
           loadOverviewText(firstSub);
@@ -298,7 +302,16 @@
           }
         }
       } catch (err) {
-        document.getElementById('syllabusTree').innerHTML = `<p style="color:#f87171; font-size:1.15rem;">Failed to load syllabus.json. Please ensure syllabus.json is committed in the root directory.</p>`;
+        document.getElementById('syllabusTree').innerHTML = `
+          <div style="color:#f87171; font-size:1.05rem; padding:10px;">
+            <strong>Failed to load syllabus.json</strong><br><br>
+            <span style="font-size:0.9rem; color:#cbd5e1;">Error: ${err.message}</span><br><br>
+            <span style="font-size:0.8rem; color:#94a3b8;">
+              ${err.message.includes('JSON') 
+                ? 'Check syllabus.json for a syntax error (missing comma, unmatched quote, or unclosed bracket).' 
+                : 'Ensure syllabus.json exists in the root folder and is committed to GitHub.'}
+            </span>
+          </div>`;
       }
     }
 
