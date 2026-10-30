@@ -436,8 +436,550 @@
             "title": "Bangayan v. Bangayan, 3 July 2013",
             "file": "digests/Bangayan v. Bangayan, 3 July 2013.txt"
           }
+ {
+    "topic_id": "V",
+    "topic_title": "V. FAMILY RELATIONS AND ITS CONSEQUENCES",
+    "subtopics": [
+      {
+        "subtopic_id": "V_A_MAIN",
+        "subtopic_title": "A. The Family",
+        "overview_file": "Overviews/V. FAMILY RELATIONS AND ITS CONSEQUENCES/A. The Family.txt",
+        "cases": [
+          {
+            "id": "v-a-c1",
+            "title": "Guerrero v. RTC, G.R. No. 109068, January 10, 1994, 229 S 274",
+            "file": "digests/Guerrero v. RTC, G.R. No. 109068, January 10, 1994, 229 S 274.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "V_A1",
+        "subtopic_title": "A 1. Suit Among Members of the Same Family",
+        "overview_file": "Overviews/V. FAMILY RELATIONS AND ITS CONSEQUENCES/A 1. Suit Among Members of the Same Family.txt",
+        "cases": [
+          {
+            "id": "v-a1-c1",
+            "title": "Hiyas Savings v. Acuna, G.R. No. 154132, August 31, 2006, 500 S 514",
+            "file": "digests/Hiyas Savings v. Acuna, G.R. NO. 154132. August 31, 2006, 500 S 514.txt"
+          },
+          {
+            "id": "v-a1-c2",
+            "title": "Martinez v. Martinez, 461 S 562",
+            "file": "digests/Martinez v. Martinez, 461 S 562.txt"
+          },
+          {
+            "id": "v-a1-c3",
+            "title": "Hontiveros v. RTC of Iloilo City, 309 S 340",
+            "file": "digests/Hontiveros v. RTC of Iloilo City, 309 S 340.txt"
+          },
+          {
+            "id": "v-a1-c4",
+            "title": "Vda. De Manalo v. CA, 16 January 2001",
+            "file": "digests/Vda. De Manalo v. CA, 16 January 2001.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "V_A2",
+        "subtopic_title": "A 2. Prohibited Compromise",
+        "overview_file": "Overviews/V. FAMILY RELATIONS AND ITS CONSEQUENCES/A 2. Prohibited Compromise.txt",
+        "cases": [
+          {
+            "id": "v-a2-c1",
+            "title": "Uy v. Chua, 18 September 2009",
+            "file": "digests/Uy v. Chua, 18 September 2009.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "V_A3",
+        "subtopic_title": "A 3. Family Home",
+        "overview_file": "Overviews/V. FAMILY RELATIONS AND ITS CONSEQUENCES/A 3. Family Home.txt",
+        "cases": [
+          {
+            "id": "v-a3-c1",
+            "title": "Trinidad-Ramos v. Pangilinan, 20 July 2010",
+            "file": "digests/Trinidad-Ramos v. Pangilinan, 20 July 2010.txt"
+          },
+          {
+            "id": "v-a3-c2",
+            "title": "Patricio v. Dario III and CA, G.R. No. 170829, November 20, 2006",
+            "file": "digests/Patricio v. Dario III and CA, G.R. NO. 170829, November 20, 2006.txt"
+          },
+          {
+            "id": "v-a3-c3",
+            "title": "Modequillo v. Breva, 31 May 1990",
+            "file": "digests/Modequillo v. Breva, 31 May 1990.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "V_A4",
+        "subtopic_title": "A 4. Beneficiaries of Family Home Benefits / Exemptions / Executability",
+        "overview_file": "Overviews/V. FAMILY RELATIONS AND ITS CONSEQUENCES/A 4. Beneficiaries of Family Home Benefits.txt",
+        "cases": [
+          {
+            "id": "v-a4-c1",
+            "title": "Ortiz-Aquino v. Ortillo, G.R. No. 257235, November 08, 2023",
+            "file": "digests/Ortiz-Aquino v. Ortillo, G.R. No. 257235, November 08, 2023.txt"
+          },
+          {
+            "id": "v-a4-c2",
+            "title": "Taruc v. Maximo, GR 227728, September 28, 2022",
+            "file": "digests/Taruc v. Maximo, GR227728, September 28, 2022.txt"
+          },
+          {
+            "id": "v-a4-c3",
+            "title": "Salazar v. Felias, 5 February 2018",
+            "file": "digests/Salazar v. Felias, 5 February 2018.txt"
+          },
+          {
+            "id": "v-a4-c4",
+            "title": "Sps. Fortaleza v. Sps Lapitan, 15 August 2012",
+            "file": "digests/Sps. Fortaleza v. Sps Lapitan, 15 August 2012.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic_id": "VI",
+    "topic_title": "VI. PATERNITY, MATERNITY AND FILIATION",
+    "subtopics": [
+      {
+        "subtopic_id": "VI_LEGITIMATE_MAIN",
+        "subtopic_title": "Legitimate Children (General)",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/Legitimate Children.txt",
+        "cases": [
+          {
+            "id": "vi-leg-c1",
+            "title": "De Asis v. CA, 303 S 176",
+            "file": "digests/De Asis v. CA, 303 S 176.txt"
+          },
+          {
+            "id": "vi-leg-c2",
+            "title": "Fernandez v. Fernandez, 363 S 811",
+            "file": "digests/Fernandez v. Fernandez, 363 S 811.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_A1",
+        "subtopic_title": "A 1. Action to Impugn Legitimacy Art. 166-169, Grounds",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/A 1. Action to Impugn Legitimacy.txt",
+        "cases": [
+          {
+            "id": "vi-a1-c1",
+            "title": "Andal v. Macaraig, 89 P 165",
+            "file": "digests/Andal v. Macaraig, 89 P 165.txt"
+          },
+          {
+            "id": "vi-a1-c2",
+            "title": "Concepcion v. CA, 468 S 438",
+            "file": "digests/Concepcion v. CA, 468 S 438.txt"
+          },
+          {
+            "id": "vi-a1-c3",
+            "title": "Yap v. Yap, 17 October 2022",
+            "file": "digests/Yap v. Yap, 17 October 2022.txt"
+          },
+          {
+            "id": "vi-a1-c4",
+            "title": "Santiago v. Jornacion, G.R. No. 230049, October 06, 2021",
+            "file": "digests/Santiago v. Jornacion, G.R. No. 230049. October 06, 2021.txt"
+          },
+          {
+            "id": "vi-a1-c5",
+            "title": "Cua-Ko v. RP, G.R. No. 210984, April 12, 2023",
+            "file": "digests/Cua-Ko v. RP, G.R. No. 210984. April 12, 2023.txt"
+          },
+          {
+            "id": "vi-a1-c6",
+            "title": "In Re: Cancellation and Correction of Entries, Rita K. Lee, et al. v. Emma Lee, G.R. No. 180802, August 1, 2022",
+            "file": "digests/Rita K. Lee v Emma Lee, G.R. No. 180802 August 1, 2022.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_A2",
+        "subtopic_title": "A 2. Action to Declare a Person Not Child of Husband and Wife",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/A 2. Action to Declare Not Child.txt",
+        "cases": [
+          {
+            "id": "vi-a2-c1",
+            "title": "Babiera v. Catotal, 333 S 487",
+            "file": "digests/Babiera v. Catotal, 333 S 487.txt"
+          },
+          {
+            "id": "vi-a2-c2",
+            "title": "Benitez-Badua v. CA, 229 S 468",
+            "file": "digests/Benitez-Badua v. CA, 229 S 468.txt"
+          },
+          {
+            "id": "vi-a2-c3",
+            "title": "Geronimo v. Santos, 8 September 2015",
+            "file": "digests/Geronimo v. Santos, 8 September 2015.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_A3",
+        "subtopic_title": "A 3. Who May File, Within What Period Arts. 170-171",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/A 3. Who May File Within What Period.txt",
+        "cases": [
+          {
+            "id": "vi-a3-c1",
+            "title": "Liyao v. Tanhoti-Liyao, 7 March 2002",
+            "file": "digests/Liyao v. Tanhoti-Liyao, 7 March 2002.txt"
+          },
+          {
+            "id": "vi-a3-c2",
+            "title": "Estate of Juan Dizon v. CA, 366 S 499",
+            "file": "digests/Estate of Juan Dizon v. CA, 366 S 499.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_A4",
+        "subtopic_title": "A 4. Action to Claim Legitimacy Proof of Legitimacy",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/A 4. Action to Claim Legitimacy.txt",
+        "cases": [
+          {
+            "id": "vi-a4-c1",
+            "title": "Ende v. Roman Catholic, 6 December 2021",
+            "file": "digests/Ende v. Roman Catholic, 6 December 2021.txt"
+          },
+          {
+            "id": "vi-a4-c2",
+            "title": "Chiong Bernardo v. Fernando, G.R. No. 211034, November 18, 2020",
+            "file": "digests/Chiong Bernardo v. Fernando, G.R. No. 211034. November 18, 2020.txt"
+          },
+          {
+            "id": "vi-a4-c3",
+            "title": "Tijing v. CA, 8 March 2001",
+            "file": "digests/Tijing v. CA, 8 March 2001.txt"
+          },
+          {
+            "id": "vi-a4-c4",
+            "title": "Go Kim Huy v. Go Kim Huy, 365 S 490",
+            "file": "digests/Go Kim Huy v. Go Kim Huy, 365 S 490.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_A5",
+        "subtopic_title": "A 5. Rights of Legitimate Children",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/A 5. Rights of Legitimate Children.txt",
+        "cases": [
+          {
+            "id": "vi-a5-c1",
+            "title": "Tecson v. COMELEC, 3 March 2004",
+            "file": "digests/Tecson v. COMELEC, 3 March 2004.txt"
+          },
+          {
+            "id": "vi-a5-c2",
+            "title": "In Re: Julian Lin Wang, 30 March 2005",
+            "file": "digests/In Re: Julian Lin Wang, 30 March 2005.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_B1",
+        "subtopic_title": "B 1. Voluntary Recognition of Illegitimate Children",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/B 1. Voluntary Recognition.txt",
+        "cases": [
+          {
+            "id": "vi-b1-c1",
+            "title": "Balintec v. Tubera, G.R. No. 235701, February 15, 2023",
+            "file": "digests/Balintec v. Tubera, G.R. No. 235701. February 15, 2023.txt"
+          },
+          {
+            "id": "vi-b1-c2",
+            "title": "Uy v. Chua, 18 September 2009",
+            "file": "digests/Uy v. Chua, 18 September 2009.txt"
+          },
+          {
+            "id": "vi-b1-c3",
+            "title": "Tayag v. Tayag-Gallor, 549 S 68",
+            "file": "digests/Tayag v. Tayag-Gailor, 549 S 68.txt"
+          },
+          {
+            "id": "vi-b1-c4",
+            "title": "Verceles v. Posada, 522 S 518",
+            "file": "digests/Verceles v. Posada, 522 S 518.txt"
+          },
+          {
+            "id": "vi-b1-c5",
+            "title": "Rodriguez v. Lim, 509 S 68",
+            "file": "digests/Rodriguez v. Lim, 509 S 68.txt"
+          },
+          {
+            "id": "vi-b1-c6",
+            "title": "Cabatania v. Regodos, 441 S 96",
+            "file": "digests/Cabatania v. Regodos, 441 S 96.txt"
+          },
+          {
+            "id": "vi-b1-c7",
+            "title": "Eceta v. Eceta, 428 S 782",
+            "file": "digests/Eceta v. Eceta, 428 S 782.txt"
+          },
+          {
+            "id": "vi-b1-c8",
+            "title": "Alberto v. CA, 232 S 745",
+            "file": "digests/Alberto v. CA, 232 S 745.txt"
+          },
+          {
+            "id": "vi-b1-c9",
+            "title": "De Jesus v. Estate of Dizon, 2 October 2001",
+            "file": "digests/De Jesus v. Estate of Dizon , 2 October 2001.txt"
+          },
+          {
+            "id": "vi-b1-c10",
+            "title": "Aparicio v. Paraguya, 29 May 1987",
+            "file": "digests/Aparicho v. Parugaya, 29 May 1987.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_B2",
+        "subtopic_title": "B 2. Compulsory Recognition",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/B 2. Compulsory Recognition.txt",
+        "cases": [
+          {
+            "id": "vi-b2-c1",
+            "title": "Gotardo v. Buling, 15 August 2012",
+            "file": "digests/Gotardo v. Buling, 15 August 2012.txt"
+          },
+          {
+            "id": "vi-b2-c2",
+            "title": "Rivero v. CA, 458 S 715",
+            "file": "digests/Rivero v. CA, 458 S 715.txt"
+          },
+          {
+            "id": "vi-b2-c3",
+            "title": "Pp. v. Abella, 6 January 2010",
+            "file": "digests/Pp. v. Abella, 6 January 2010.txt"
+          },
+          {
+            "id": "vi-b2-c4",
+            "title": "People v. Bayani, 8 October 1996",
+            "file": "digests/People v. Bayani, 8 October 1996.txt"
+          },
+          {
+            "id": "vi-b2-c5",
+            "title": "People v. Manahan, 29 September 1999",
+            "file": "digests/People v. Manahan, 29 September 1999.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_B3",
+        "subtopic_title": "B 3. Proof of Illegitimacy (Art. 172)",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/B 3. Proof of Illegitimacy.txt",
+        "cases": [
+          {
+            "id": "vi-b3-c1",
+            "title": "Ara v. Pizzaro, 15 February 2017",
+            "file": "digests/Ara v. Pizzaro, 15 February 2017.txt"
+          },
+          {
+            "id": "vi-b3-c2",
+            "title": "Heirs of Roldan v. Heirs of Roldan, G.R. No. 202578, September 27, 2017",
+            "file": "digests/Heirs of Roldan v Heirs of Roldan, G.R. No. 202578. September 27, 2017.txt"
+          },
+          {
+            "id": "vi-b3-c3",
+            "title": "Nepomuceno v. Lopez, 18 March 2010",
+            "file": "digests/Nepomuceno v. Lopez, 18 March 2010.txt"
+          },
+          {
+            "id": "vi-b3-c4",
+            "title": "Pe Lim v. CA, 270 S 1",
+            "file": "digests/Pe Lim v. CA, 270 S 1.txt"
+          },
+          {
+            "id": "vi-b3-c5",
+            "title": "Vizcarra, et al. v. Vizcarra-Nocillado, et al., G.R. No. 205241, January 11, 2023",
+            "file": "digests/CONCEPCION A. VIZCARRA et al. v LILIA VIZCARRA-NOCILLADO et al. G.R. No. 205241 January 11, 2023.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_B4",
+        "subtopic_title": "B 4. DNA Tests: Probative Value in Paternity Cases",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/B 4. DNA Tests Probative Value.txt",
+        "cases": [
+          {
+            "id": "vi-b4-c1",
+            "title": "Tijing v. CA, 8 March 2001",
+            "file": "digests/Tijing v. CA, 8 March 2001.txt"
+          },
+          {
+            "id": "vi-b4-c2",
+            "title": "Agustin v. CA, 460 S 315 (DNA Testing)",
+            "file": "digests/Agustin v. CA, 460 S 315 (DNA Testing).txt"
+          },
+          {
+            "id": "vi-b4-c3",
+            "title": "Herrera v. Alba, 460 S 197",
+            "file": "digests/Herrera v. Alba, 460 S 197.txt"
+          },
+          {
+            "id": "vi-b4-c4",
+            "title": "Rules on DNA Evidence, A.M. No. 06-11-05-SC",
+            "file": "digests/Rules on DNA Evidence, Admin. Matter 06-11-05-SC, effective 15 Oct 2007.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_B5",
+        "subtopic_title": "B 5. Action for Compulsory Recognition: Who and When to File",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/B 5. Compulsory Recognition Filing.txt",
+        "cases": [
+          {
+            "id": "vi-b5-c1",
+            "title": "Aquino v. Aquino, G.R. No. 208912, December 07, 2021",
+            "file": "digests/Aquino v. Aquino, G.R. No. 208912. December 07, 2021.txt"
+          },
+          {
+            "id": "vi-b5-c2",
+            "title": "Reyes v. Mauricio, 24 November 2010",
+            "file": "digests/Reyes v. Mauricio, 24 November 2010.txt"
+          },
+          {
+            "id": "vi-b5-c3",
+            "title": "Estate of Ong v. Diaz, 540 S 480",
+            "file": "digests/Estate of Ong v. Diaz, 540 S 480.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_B6",
+        "subtopic_title": "B 6. Rights of Illegitimate Children (Art. 176 / R.A. 9255)",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/B 6. Rights of Illegitimate Children.txt",
+        "cases": [
+          {
+            "id": "vi-b6-c1",
+            "title": "Abella v. Cabanero, G.R. No. 206647, August 09, 2017",
+            "file": "digests/Abella v. Cabanero, G.R. No. 206647. August 09, 2017.txt"
+          },
+          {
+            "id": "vi-b6-c2",
+            "title": "In re Minors Barcelote v. RP, 7 August 2017",
+            "file": "digests/In re Minors Barcelote v. RP, 7 August 2017.txt"
+          },
+          {
+            "id": "vi-b6-c3",
+            "title": "Grande v. Antonio, G.R. No. 206248, February 18, 2014",
+            "file": "digests/Grande v. Antonio, G.R. No. 206248 February 18, 2014.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_C1",
+        "subtopic_title": "C 1. Legitimated Children: Rationale and Requisites",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/C 1. Legitimated Children.txt",
+        "cases": [
+          {
+            "id": "vi-c1-c1",
+            "title": "RP v. Boquiren, G.R. No. 250199, February 13, 2023",
+            "file": "digests/RP v. Boquiren, G.R. No. 250199. February 13, 2023.txt"
+          },
+          {
+            "id": "vi-c1-c2",
+            "title": "PSA v. Ferolino, G.R. No. 238021, June 14, 2021",
+            "file": "digests/Phil. Stat. Authority v. Ferolino, G.R. No. 238021. June 14, 2021.txt"
+          },
+          {
+            "id": "vi-c1-c3",
+            "title": "De Santos v. Angeles, 12 December 1995",
+            "file": "digests/De Santos v. Angeles, 12 December 1995.txt"
+          },
+          {
+            "id": "vi-c1-c4",
+            "title": "Abadilla v. Tabiliran, 249 S 448",
+            "file": "digests/Abadilla v. Tabiliran, 249 S 448.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_C2",
+        "subtopic_title": "C 2. Effects & Rights of Legitimated Children; Action to Impugn",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/C 2. Effects and Rights.txt",
+        "cases": []
+      },
+      {
+        "subtopic_id": "VI_D1",
+        "subtopic_title": "D 1. Adopted Children: Who May be Adopted",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/D 1. Who May be Adopted.txt",
+        "cases": [
+          {
+            "id": "vi-d1-c1",
+            "title": "Joon Hyung Park v. Liwanag, G.R. No. 248035, November 27, 2019",
+            "file": "digests/Joon Hyung Park v. Liwanag, G.R. No. 248035, November 27, 2019.txt"
+          },
+          {
+            "id": "vi-d1-c2",
+            "title": "In re Adoption of Jan Aurel Maghanoy Bulayo, G.R. No. 205752, Oct 1, 2019",
+            "file": "digests/In re Petition for Adoption of Jan Aurel Maghanoy Bulayo, G.R. No. 205752, October 01, 2019.txt"
+          },
+          {
+            "id": "vi-d1-c3",
+            "title": "Cang v. CA and Sps. Clavano, G.R. No. 105308, September 25, 1998",
+            "file": "digests/Cang v. CA and Sps Clavano, G.R. No. 105308. September 25, 1998.txt"
+          },
+          {
+            "id": "vi-d1-c4",
+            "title": "Suzuki v. OSG, G.R. No. 212302, 2 September 2020",
+            "file": "digests/Suzuki v. OSG, G.R. No. 212302, 2 September 2020.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_D2",
+        "subtopic_title": "D 2. Substantive and Procedural Requirements",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/D 2. Requirements.txt",
+        "cases": [
+          {
+            "id": "vi-d2-c1",
+            "title": "In Re: Michelle and Michael Lim, 21 May 2009",
+            "file": "digests/In Re: Michelle and Michael Lim, 21 May 2009.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_D3",
+        "subtopic_title": "D 3. Nature and Effects of Adoption",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/D 3. Nature and Effects.txt",
+        "cases": [
+          {
+            "id": "vi-d3-c1",
+            "title": "In Re: Adoption of Stephanie Garcia, 454 S 541",
+            "file": "digests/In Re: Adoption of Stephanie Garcia, 454 S 541.txt"
+          },
+          {
+            "id": "vi-d3-c2",
+            "title": "DSWD v. Belen, 275 S 645",
+            "file": "digests/DSWD v. Belen, 275 S 645.txt"
+          },
+          {
+            "id": "vi-d3-c3",
+            "title": "Teotico v. Del Val, 13 S 406",
+            "file": "digests/Teotico v. Del Val, 13 S 406.txt"
+          }
+        ]
+      },
+      {
+        "subtopic_id": "VI_D4",
+        "subtopic_title": "D 4. Rescission of Adoption: Grounds & Who May File",
+        "overview_file": "Overviews/VI. PATERNITY, MATERNITY AND FILIATION/D 4. Rescission of Adoption.txt",
+        "cases": [
+          {
+            "id": "vi-d4-c1",
+            "title": "Lahom v. Sibulo, 14 July 2003",
+            "file": "digests/Lahom v. Sibulo, 14 July 2003.txt"
+          }
         ]
       }
     ]
   }
-]
