@@ -1,0 +1,40 @@
+*(Note: Per your standing instruction, your Google Workspace and Drive folders were not accessed or searched to verify the file.)*
+
+---
+
+### Facts
+
+Alberto and Angelina were legally married under the regime of conjugal partnership of gains. During their coverture, Alberto abandoned Angelina and their children, lived illicitly with Imelda, and purchased several real and personal properties that were titled either in Alberto's name, Imelda's name, or both.
+
+Angelina filed a petition before the trial court against Alberto and Imelda for legal separation, dissolution and liquidation of the conjugal partnership of gains, separation of property, and accounting with damages. Imelda moved to dismiss the complaint against her for failure to state a cause of action, asserting that as Alberto's alleged paramour, she was not an indispensable or proper party in an action exclusively concerning the liquidation of the marital partnership and marital relations between the married spouses. Angelina opposed the motion, contending that Imelda was a necessary party since conjugal assets were illicitly transferred and registered in Imelda's name.
+
+---
+
+### Issue
+
+Is the alleged paramour of a married spouse an indispensable or real party-in-interest in an action for judicial separation of property and liquidation of the conjugal partnership of gains instituted by the abandoned spouse?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "A real party in interest is one who stands to be benefited or injured by the judgment in the suit, or the party entitled to the avails of the suit."
+> "The first cause of action is for legal separation. The second cause of action is for separation of property. They are both directed against Alberto alone. Respondent Alberto and petitioner Imelda are not married to each other. They cannot be subject of an action for legal separation or separation of property. The right to enforce the rights of a wife belongs to Angelina alone and can be asserted only against her husband, Alberto."
+> "The second cause of action for separation of property refers to the properties acquired by Alberto and Angelina during their marriage. Petitioner Imelda has no legal interest in the conjugal property of Alberto and Angelina. Petitioner cannot be said to be an indispensable party, whose interest in the subject matter of the action and in the relief sought is so inextricably intertwined with the other parties' that a final decree cannot be entered into without either affecting such interest or leaving the controversy in such a condition that its final determination may be wholly inconsistent with equity and good conscience."
+> "The administration and liquidation of the conjugal property is governed by the Family Code. Under Article 124 of the Family Code, the administration of the conjugal property belongs to both spouses jointly. Under Article 128 of the same Code, if a spouse abandons the other without just cause or fails to comply with his obligations to the family, the aggrieved spouse may petition the court for receivership, for judicial separation of property, or for authority to be the sole administrator of the conjugal property. In all these, the only proper parties are the spouses themselves."
+> "A court cannot determine the rights of third persons over properties claimed to be conjugal in an action for legal separation or separation of property. A separate action must be filed against the third person to recover property claimed to belong to the conjugal partnership."
+
+#### Ratio Decidendi
+
+An action for legal separation, judicial separation of property, and the liquidation of the conjugal partnership of gains is strictly an intra-spousal proceeding governed by the provisions of the Family Code. The real parties-in-interest in such proceedings are limited exclusively to the husband and the wife.
+
+The alleged paramour of a spouse has no legal standing, marital status, or direct interest in the dissolution and liquidation of the marital partnership between the legally married spouses. A trial court adjudicating the dissolution and liquidation of a conjugal partnership has no jurisdiction to determine the title, ownership, or rights of third persons over properties registered in their names.
+
+If conjugal funds were fraudulently used by an erring spouse to purchase properties registered under the name of a third party or paramour, the aggrieved spouse cannot implead the third party in the intra-spousal petition for separation of property; rather, the appropriate remedy is to institute an ordinary independent civil action for reconveyance, recovery of property, or annulment of title against such third party.
+
+#### Fallo
+
+> "WHEREFORE, the petition is GRANTED. The Decision dated July 17, 1998 and the Resolution dated May 21, 1999 of the Court of Appeals in CA-G.R. SP No. 47348 are REVERSED and SET ASIDE. The Regional Trial Court of Makati City, Branch 141 is DIRECTED to DISMISS the complaint in Civil Case No. 93-4199 as against petitioner Imelda Relucio.
+> SO ORDERED."
