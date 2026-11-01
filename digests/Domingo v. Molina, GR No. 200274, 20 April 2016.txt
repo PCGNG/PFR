@@ -1,0 +1,43 @@
+### Facts
+
+Anastacio and Flora were married and acquired an undivided one-half portion of a parcel of land during their coverture. Flora subsequently died, leaving Anastacio and their children, including Melecio, as surviving heirs. No judicial or extrajudicial settlement and liquidation of the marital property was ever conducted.
+
+Years after Flora’s death, Anastacio sold his interest over the property to Genaro and Elena to answer for his personal obligations, resulting in the annotation of the sale on the title and the eventual issuance of a new certificate of title transferring the undivided portion in the buyers' names.
+
+Melecio filed an action against Genaro and Elena for annulment of title and recovery of ownership, contending that the property belonged to the common marital regime and that Anastacio could not validly convey the land without the required spousal consent or prior liquidation. Genaro and Elena countered that Anastacio only conveyed his undivided interest in the property, of which he was a co-owner.
+
+---
+
+### Issue
+
+Does the sale by a surviving spouse of his undivided share in the unliquidated common marital property after the dissolution of the marriage by death render the disposition completely void for lack of consent and prior liquidation?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Anastacio and Flora Domingo married before the Family Code's effectivity which was on August 3, 1988 and so their property relation was that of conjugal partnership of gains.
+> The conjugal partnership of Anastacio and Flora was dissolved when Flora died in 1968, pursuant to Article 175 (1) of the Civil Code (now Article 126 (1) of the Family Code)."
+> "Article 130 of the Family Code provides:
+> 'Article 130. Upon the termination of the marriage by death, the conjugal partnership property shall be liquidated in the same proceeding for the settlement of the estate of the deceased.
+> If no judicial settlement proceeding is instituted, the surviving spouse shall liquidate the conjugal partnership property either judicially or extrajudicially within six months from the death of the deceased spouse. If upon the lapse of the six-month period no liquidation is made, any disposition or encumbrance involving the conjugal partnership property of the terminated marriage shall be void. x x x'"
+> *(Note: The Court pointed out that Article 103 of the Family Code contains an identical requirement and sanction for absolute community of property).*
+> "While Article 130 of the Family Code provides that any disposition involving the conjugal property without prior liquidation shall be void, this rule does not apply since the marriage of Anastacio and Flora was dissolved prior to the effectivity of the Family Code."
+> "In the case of *Taningco v. Register of Deeds of Laguna*, we held that the properties of a dissolved conjugal partnership fall under the regime of co-ownership among the surviving spouse and the heirs of the deceased spouse until final liquidation and partition."
+> "An undivided one-half (1/2) portion and subject to all other conditions specified in the document. Anastacio, as a co-owner, had the right to freely sell and dispose of his undivided interest, but not the interest of his co-owners. Consequently, Anastacio's sale to the spouses Molina without the consent of the other co-owners was not totally void, for Anastacio's rights or a portion thereof were thereby effectively transferred, making the spouses Molina a co-owner of the subject property to the extent of Anastacio's interest. This result conforms with the well-established principle that the binding force of a contract must be recognized as far as it is legally possible to do so (*quando res non valet ut ago, valeat quantum valere potest*)."
+> "The spouses Molina would be a trustee for the benefit of the co-heirs of Anastacio in respect of any portion that might belong to the co-heirs after liquidation and partition."
+
+#### Ratio Decidendi
+
+Upon the dissolution of the marital property regime by the death of a spouse, the community or partnership is terminated, and an ordinary implied co-ownership arises among the surviving spouse and the heirs of the deceased spouse pending formal liquidation and partition.
+
+Under the rules on co-ownership (Article 493 of the Civil Code), each co-owner exercises absolute ownership over his ideal or undivided share and may validly alienate, assign, or mortgage it. While a co-owner has no legal right to dispose of a divided or concrete portion of the common property without the consent of the other co-owners, any alienation made by him affects only his undivided ideal share.
+
+Consequently, the disposition made by the surviving spouse is not void *ab initio* in its entirety. The alienation remains valid up to the extent of the surviving spouse's ideal share, substituting the buyer as co-owner and constituting him as a constructive trustee for the benefit of the remaining co-heirs as to any excess determined upon actual partition. The appropriate remedy of the aggrieved co-heirs is not an action for the declaration of total nullity or annulment of title, but an action for partition under Rule 69 of the Rules of Court.
+
+#### Fallo
+
+> "WHEREFORE, the petition is DENIED. The decision dated August 9, 2011 of the Court of Appeals in CA-G.R. CV No. 94160 is AFFIRMED. Costs against the petitioner.
+> SO ORDERED."
