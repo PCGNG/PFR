@@ -1,13 +1,39 @@
-Tan v. CA, 273 S 229
-Facts:
+### Facts
 
-Issue:
+Alfonso and Eteria were married. A parcel of land and its improvements were covered by a Transfer Certificate of Title registered under the names of Alfonso, married to Eteria; Celestino, married to Rosario; and Maximo, single, in equal shares. The title bore an annotation that the property remained subject to liabilities under Section 4, Rule 74 of the Rules of Court against the estate of the deceased mother of Alfonso, Celestino, and Maximo.
 
-Ruling: 
+Eteria filed an action for partition and accounting against Celestino, Maximo, and their respective spouses, claiming that the one-third undivided share registered in Alfonso’s name formed part of their absolute community of property because it was titled during their marriage. The brothers opposed the partition, asserting that the property was acquired exclusively through inheritance from their deceased mother. Eteria failed to present evidence that the property was acquired with common marital funds or that marital funds were used in constructing the improvements thereon.
 
-Ratio decidendi:
+---
 
-Class Notes:
+### Issue
 
-Dispositive portion:
+Does the one-third undivided share of the property registered in the name of a spouse who is described as "married to" the other spouse form part of the absolute community of property when the title itself shows that it was acquired through inheritance?
 
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Article 160 of the New Civil Code provides that all property of the marriage is presumed to belong to the conjugal partnership, unless it be proved that it pertains exclusively to the husband or to the wife. However, the presumption refers only to the property acquired during the marriage and does not operate when there is no showing as to when the property alleged to be conjugal was acquired. The presumption may be rebutted by strong, clear, categorical and convincing evidence - there must be strict proof of ownership of one of the spouses, and the burden of proof rests upon the party asserting it."
+> "Article 148 of the New Civil Code provides:
+> Art. 148. The following shall be the exclusive property of each spouse:
+> (1) That which is brought to the marriage as his own;
+> (2) That which each acquires, during the marriage, by lucrative title;
+> (3) That which is acquired by right of redemption or by exchange with other property belonging to only one of the spouses;
+> (4) That which is purchased with exclusive money of the wife or of the husband."
+> "The lot in question was not acquired by Alfonso Tan and Eteria Teves Tan during their marriage. It is the former's exclusive property which he had inherited from his mother, Trinidad Uy, the original owner of the property."
+> "The phrase 'married to Eteria Teves' in the certificate of title is merely descriptive of the civil status of Alfonso Tan and does not necessarily make the property conjugal."
+> "The condition in the title that the property is subject to 'liabilities imposed by Section 4, Rule 74 of the Rules of Court, for a period of two (2) years, from January 9, 1970, against the estate of the deceased Trinidad Uy' supports the contention of the respondents that the lot was inherited by Alfonso, Celestino and Maximo from their late mother."
+
+#### Ratio Decidendi
+
+Property acquired during the marriage by gratuitous or lucrative title (such as inheritance) is excluded from the community/partnership and remains the exclusive property of the inheriting spouse. While properties acquired during marriage are generally presumed to belong to the marital regime, this presumption is rebuttable by clear and convincing evidence.
+
+The statutory annotation on the title subjecting the real estate to liabilities against the deceased mother's estate under Section 4, Rule 74 of the Rules of Court proves that the property was acquired by succession. Furthermore, the addition of the words "married to" in the certificate of title is merely descriptive of the civil status of the registered owner and does not confer co-ownership upon the spouse or convert exclusive inherited property into common marital property. Because the claimant spouse failed to prove that the property was acquired with marital funds, the one-third undivided share belongs exclusively to the inheriting spouse.
+
+#### Fallo
+
+> "ACCORDINGLY, the petition is hereby DENIED and the decision of the Court of Appeals dated June 20, 1994 is AFFIRMED.
+> SO ORDERED."
