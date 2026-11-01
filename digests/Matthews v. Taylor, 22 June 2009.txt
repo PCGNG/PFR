@@ -1,19 +1,39 @@
-Matthews v. Taylor, 22 June 2009
-Facts:
-The case involved Benjamin Taylor, a British national, and his Filipino wife, Joselyn C. Taylor. During their marriage, Joselyn purchased a parcel of land in Boracay, allegedly using funds provided by Benjamin. The property was titled in Joselyn's name. 
-Later, Joselyn entered into a 25-year lease agreement for the property with Philip Matthews (the petitioner), without Benjamin's explicit consent on the main document. Benjamin filed an action to nullify the lease agreement, arguing that the property was conjugal property and thus required his consent for disposition.
-Issue:
+### Facts
 
-Ruling: 
-No Ownership Interest for Alien Spouse: Even if Benjamin provided the funds for the acquisition, he acquired no right or interest over the property. The Court ruled that allowing an alien to claim ownership (even indirectly, through a claim of conjugal property rights) would be a circumvention of the constitutional prohibition.
+Benjamin, a British national, married Joselyn, a Filipina. During their marriage, Joselyn purchased a parcel of land in Boracay, with the Deed of Sale executed in her favor, while Benjamin allegedly provided the purchase funds. Joselyn subsequently executed an Agreement of Lease over the land to Philip for a term of twenty-five years.
 
-Sole Ownership by Filipino Spouse: Since Joselyn, as a Filipino citizen, was the designated vendee in the Deed of Sale, she acquired sole ownership of the property.
+Benjamin filed an action to declare the lease null and void with damages, alleging that the land was community/conjugal property and that the lease was executed without his marital consent. Philip resisted the action, contending that because Benjamin was an alien, he was constitutionally barred from acquiring land and thus could not claim any ownership or community rights over the property.
 
-Consent Not Required: Consequently, since the property was Joselyn's exclusive property and not part of the conjugal assets in a way that would grant Benjamin a decisive say in its disposition, his consent was not required for the lease agreement to be valid.
+---
 
-Ratio decidendi:
+### Issue
 
-Class Notes:
+Does a parcel of land acquired during marriage form part of the absolute community/conjugal property so as to require the consent of the foreign spouse in its lease, where such spouse is an alien constitutionally disqualified from owning land in the Philippines?
 
-Dispositive portion:
+---
 
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Section 7, Article XII of the 1987 Constitution states:
+> Section 7. Save in cases of hereditary succession, no private lands shall be transferred or conveyed except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain.
+> Aliens, whether individuals or corporations, have been disqualified from acquiring lands of the public domain. Hence, by virtue of the aforecited constitutional provision, they are also disqualified from acquiring private lands. The primary purpose of this constitutional provision is the conservation of the national patrimony."
+> "The rule is clear and inflexible: aliens are absolutely not allowed to acquire public or private lands in the Philippines, save only in constitutionally recognized exceptions."
+> "In Cheesman v. Intermediate Appellate Court, the petitioner (an American citizen) and the first wife (a Filipina) acquired a parcel of land that was registered in the latter's name. When the wife sold the property to a third person, the petitioner sought to annul the sale on the ground that the transaction was executed without his knowledge and consent. The Court held that:
+> 'Finally, the fundamental law prohibits the sale to aliens of residential land. Section 14, Article XIV of the 1973 Constitution documents this policy, xxx
+> These constitutional provisions are answered with equal vigor by Article 49 of the Civil Code: 'Save in cases of hereditary succession, no private land shall be transferred or conveyed to individuals, corporations or associations qualified to acquire or hold lands of the public domain.'
+> The trial court found that it had 'satisfactorily overcome the disputable presumption that all property of the marriage belongs to the conjugal partnership' and that the questioned property was in reality the paraphernal property of the wife. It was also of the view that 'the said presumption could not apply to petitioner, being an American citizen, disqualified under the Constitution from owning and acquiring alienable public and private lands in the Philippines.'
+> The trial court is right. Assuming that it was his intention to co-own the property, the same cannot be permitted because that is a clear violation of the constitutional provision. If the property were to be declared conjugal, this would accord the alien husband a substantial interest and right over the land, as he would then have a decisive vote as to its transfer or disposition. This is a right that the Constitution does not permit him to have.'"
+> "Benjamin has no right to nullify the Agreement of Lease between Joselyn and petitioner. Benjamin, being an alien, is absolutely prohibited from acquiring private and public lands in the Philippines. Considering that Joselyn appeared to be the designated 'buyer' in the Deed of Conditional Sale of Property with Assumption of Mortgage, she acquired sole ownership of the Boracay property. This being the case, she could validly dispose of it, including the lease thereof, without the consent of Benjamin."
+
+#### Ratio Decidendi
+
+Under Section 7, Article XII of the Constitution, aliens are absolutely prohibited from acquiring private lands in the Philippines, save in cases of hereditary succession. The statutory regimes of marital property (such as the absolute community of property or conjugal partnership of gains) cannot operate in a manner that defeats this fundamental constitutional injunction.
+
+Declaring land acquired during marriage as community or conjugal property would accord the alien spouse a substantial co-ownership interest and a decisive vote over its administration, encumbrance, and disposition—rights that the Constitution categorically denies to non-citizens. Consequently, even where the acquisition was allegedly financed by the alien spouse, the property is deemed the exclusive paraphernal property of the Filipino spouse, who possesses the sole legal capacity to lease, encumber, or dispose of the property without requiring the consent of the foreign spouse.
+
+#### Fallo
+
+> "WHEREFORE, premises considered, the December 19, 2003 Decision and July 14, 2004 Resolution of the Court of Appeals in CA-G.R. CV No. 59573, are REVERSED and SET ASIDE and a new one is entered DISMISSING the complaint against petitioner Philip Matthews.
+> SO ORDERED."
