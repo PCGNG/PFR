@@ -1,0 +1,40 @@
+### Facts
+
+Benjamin married Resurreccion under the regime of conjugal partnership of gains. During the subsistence of this valid first marriage, Benjamin cohabited with Sally. To appease Sally’s father, Benjamin and Sally orchestrated a fictitious marriage ceremony using a falsified marriage license; no actual marriage was celebrated, and no marriage contract was registered with the local civil registry or the National Statistics Office.
+
+During their cohabitation, Benjamin and Sally acquired two real properties: a parcel of land in Pasig City titled in the names of "Sally, married to Benjamin," and another parcel in Caloocan City titled in the name of "Benjamin, married to Sally."
+
+Benjamin subsequently filed a petition against Sally before the RTC to declare their union and alleged marriage non-existent, and to declare him the exclusive owner of the two real properties. Sally asserted that their marriage was valid and contended that the properties were acquired during their union through their joint industry, making her a co-owner entitled to partition under the property regime of unions without marriage.
+
+---
+
+### Issue
+
+Does the property regime of unions without marriage under Article 148 of the Family Code govern properties acquired during the illicit cohabitation of parties whose purported marriage was non-existent due to a prior, subsisting marriage of one partner, and does co-ownership arise over such properties without proof of actual joint contribution?
+
+---
+
+### Ruling
+
+#### Legal Basis and Principles
+
+* **Article 148 of the Family Code:**
+Where a man and a woman cohabit as husband and wife but suffer from a legal impediment to marry each other—such as an existing prior marriage—the regime of special co-ownership under Article 148 applies exclusively, to the exclusion of Article 147. Under Article 148, only properties acquired by both parties through their actual joint contribution of money, goods, or industry are owned by them in common, in proportion to their respective contributions.
+* **Rebuttal of Presumptions in Cohabitation with Legal Impediment:**
+Unlike Article 147, Article 148 does not presume that properties acquired during cohabitation were obtained through joint efforts, nor does it recognize care of the home and family as a compensable contribution to property acquisition. A party claiming a co-ownership share must establish actual, tangible contribution by clear and convincing evidence.
+* **Descriptive Nature of Marital Annotations:**
+The notation "married to" appearing on a certificate of title is merely descriptive of the civil status of the registered owner and does not confer title or create a co-ownership interest in favor of the named spouse/partner.
+* **Protection of the Prior Conjugal Partnership:**
+Under Article 148, if one of the cohabiting parties is validly married to another, the share of that married partner in any property acquired during the illicit cohabitation automatically accrues to the absolute community or conjugal partnership of gains of the subsisting marriage.
+
+#### Ratio Decidendi
+
+When parties live together while one of them is bound by a prior, undissolved marriage, their property relations are governed exclusively by Article 148 of the Family Code. Under this regime, the law does not presume equal sharing or joint acquisition merely from the fact of cohabitation.
+
+Co-ownership is recognized only to the extent that a party proves actual material contribution in money, goods, or industry toward the acquisition of the asset. The phrase "married to" appearing in the title does not create or vest property rights in the named cohabitant; it is merely descriptive of the registered holder's supposed civil status.
+
+Because Sally failed to present competent evidence showing actual financial or material contribution to the purchase of the Caloocan property registered in Benjamin's name, she acquired no co-ownership interest in it, and Benjamin's share in that property accrued to the conjugal partnership of his valid, subsisting marriage with Resurreccion. Conversely, with respect to the Pasig property registered in Sally's name, because Benjamin failed to disprove her acquisition or establish his own exclusive funding, the title stood in her favor.
+
+#### Fallo
+
+The Supreme Court partially granted the petition, declared the non-existence of the marriage between Benjamin and Sally, declared the Caloocan City property as belonging to the conjugal partnership of gains of Benjamin and his lawful wife Resurreccion, declared the Pasig City property as owned by Sally, and set aside the contrary rulings of the Court of Appeals regarding the properties.
