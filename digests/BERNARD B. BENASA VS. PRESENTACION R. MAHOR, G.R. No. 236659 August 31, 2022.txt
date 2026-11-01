@@ -1,0 +1,36 @@
+### Facts
+
+Bernard and Presentacion lived together as husband and wife without the benefit of marriage. At the time of their cohabitation, Bernard had a prior, valid, and subsisting marriage with another woman. During the period of their cohabitation, a parcel of land was acquired and titled in their names, and a residential house was constructed on the property.
+
+Following the termination of their illicit relationship, a dispute arose regarding the ownership, possession, and partition of the land and the improvements built thereon. Bernard asserted ownership over the property, claiming that Presentacion had no lawful right or title because their union was adulterous and bigamous. Presentacion, on the other hand, sought recognition of her co-ownership share in the acquired property, asserting that she contributed to the purchase and maintenance of the home.
+
+---
+
+### Issue
+
+Does the property regime of unions without marriage under Article 148 of the Family Code apply to parties cohabiting despite a legal impediment, and does a party acquire an undivided co-ownership interest in properties acquired during the cohabitation absent clear proof of actual joint financial or material contribution?
+
+---
+
+### Ruling
+
+#### Legal Basis and Governing Provisions
+
+* **Article 148 of the Family Code:**
+In cases where a man and a woman cohabit as husband and wife but suffer from a legal impediment to marry each other—such as an existing prior marriage—their property relations are governed strictly by Article 148, and not Article 147. Under Article 148, only the properties acquired by both of the parties through their *actual joint contribution of money, goods, or industry* shall be owned by them in common in proportion to their respective contributions.
+* **Absence of the Presumption of Joint Effort:**
+Unlike Article 147, Article 148 does not recognize a presumption of equal contribution, nor does it credit efforts in the care and maintenance of the family and household as a valid contribution to property acquisition. If actual joint contribution is not proven by competent evidence, no co-ownership is created.
+* **Protection of the Prior Conjugal Partnership/Absolute Community:**
+If one of the cohabiting parties is legally married to another, the share of that party in the properties acquired during the illicit cohabitation accrues to the absolute community or conjugal partnership of gains of the valid, subsisting marriage. If the illicit partner acted in bad faith, his or her share is forfeited in accordance with the provisions of law.
+
+#### Ratio Decidendi
+
+Where parties cohabit while one or both of them are legally incapacitated to marry due to a prior existing marriage, their property regime is governed exclusively by Article 148 of the Family Code.
+
+Under this provision, co-ownership does not arise by the mere fact of cohabitation. To establish an enforceable interest in any asset acquired during the union, a party must present clear and convincing evidence of actual financial or material contribution toward its acquisition. The statutory presumption of equal sharing found under Article 147 is inapplicable, and contributions in the form of household services or family care cannot be credited to establish a property share under Article 148.
+
+If a party fails to demonstrate actual monetary or material contribution, that party acquires no co-ownership interest in the property. Conversely, whatever share is proven to have been acquired through the contribution of the married party automatically pertains to the conjugal partnership or absolute community of his or her valid, subsisting marriage, protecting the innocent legal spouse from the dissipation of marital assets.
+
+#### Fallo
+
+The Supreme Court partially granted the petition, ruled that the property relations of the parties were governed by Article 148 of the Family Code, held that ownership of the subject property corresponds only to the extent of actual contributions duly substantiated by evidence, and remanded the case to determine and segregate the verified contributions, with the married spouse's lawful share accruing to the property regime of his valid subsisting marriage.
