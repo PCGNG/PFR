@@ -1,0 +1,36 @@
+### Facts
+
+Virgilio and Norma were spouses whose property relations were governed by the conjugal partnership of gains. Norma filed a petition for legal separation against Virgilio on the ground of an attempt on her life. During the pendency of the legal separation proceedings, Virgilio and Norma entered into a Compromise Agreement providing for the extrajudicial partition and settlement of their conjugal partnership of gains, wherein Virgilio waived and ceded his share in specific conjugal properties in favor of Norma and their common children.
+
+The RTC approved the Compromise Agreement and subsequently granted the decree of legal separation. Sometime later, Virgilio sought to repudiate the Compromise Agreement, claiming that it was void *ab initio* because it was executed during the pendency of the legal separation case prior to the finality of the decree, and that under Article 63(2) and Article 43(2) of the Family Code, the offending spouse's share in the net profits of the community property or conjugal partnership must be forfeited by operation of law in favor of the common children.
+
+---
+
+### Issue
+
+May spouses in a pending legal separation case enter into a valid compromise agreement providing for the voluntary partition and disposition of their conjugal partnership of gains before a final decree of legal separation is issued?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Under Article 134 of the Family Code, '[i]n the absence of an express declaration in the marriage settlements, the separation of property between spouses during the marriage shall not take place except by judicial order. Such judicial separation of property may either be voluntary or for a sufficient cause.'
+> Article 136 of the same Code also provides that '[t]he spouses may jointly file a verified petition with the court for the voluntary dissolution of the absolute community or the conjugal partnership of gains, and for the separation of their common properties.'"
+> "The trial court's approval of the Compromise Agreement had the effect of granting the voluntary separation of property between the spouses. In this case, the Compromise Agreement was submitted to the trial court for approval during the pendency of the legal separation case. The trial court's approval converted the Compromise Agreement into a judicial order within the contemplation of Article 134."
+> "Article 63(2) of the Family Code provides that upon the decree of legal separation, '[t]he absolute community or the conjugal partnership shall be dissolved and liquidated, but the offending spouse shall have no right to any share of the net profits earned by the absolute community or the conjugal partnership, which shall be forfeited in accordance with the provisions of Article 43(2).'
+> What the law provides is that the forfeiture refers only to the *net profits* earned by the conjugal partnership, and not to the spouse's share in the conjugal partnership property itself. It is the net profits, if any, that are forfeited in favor of the common children, and not the whole of the conjugal share of the guilty spouse."
+
+#### Ratio Decidendi
+
+Under Articles 134 and 136 of the Family Code, separation of property between spouses during the marriage cannot take place except by judicial order, which may be granted upon a joint petition for voluntary dissolution and liquidation of the conjugal partnership. When spouses submit a compromise agreement partitioning their conjugal assets during the pendency of a legal separation suit and the trial court approves it, such judicial approval satisfies the requirement of a judicial order under Article 134.
+
+Furthermore, under Article 63(2) in relation to Article 43(2) of the Family Code, the sanction imposed upon the offending spouse in legal separation is strictly limited to the forfeiture of his or her share in the **net profits** earned by the conjugal partnership, and not the forfeiture of his or her capital, paraphernal property, or fundamental one-half share in the mass of the conjugal property.
+
+Consequently, the voluntary cession or assignment by a spouse of his share in the conjugal assets to the other spouse or their children through a judicially approved compromise agreement is valid, binding, and enforceable.
+
+#### Fallo
+
+> "WHEREFORE, the petition is DENIED. The Decision dated January 26, 2005 and the Resolution dated June 8, 2005 of the Court of Appeals in CA-G.R. SP No. 74610 are AFFIRMED. Costs against petitioner.
+> SO ORDERED."
