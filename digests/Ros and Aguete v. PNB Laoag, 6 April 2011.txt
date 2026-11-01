@@ -1,13 +1,53 @@
-Ros and Aguete v. PNB Laoag, 6 April 2011
-Facts:
+### Case Brief: *Joe A. Ros and Estrella Aguete v. Philippine National Bank - Laoag Branch*
 
-Issue:
+**Citation:** G.R. No. 170166, April 6, 2011 (647 SCRA 334)
 
-Ruling: 
+**Ponente:** Carpio, *J.*
 
-Ratio decidendi:
+**Subject Matter:** Conjugal Partnership of Gains; Charges Upon and Obligations of the Partnership; Debts Contracted by the Husband for Family Business (Civil Code, Arts. 161 & 166 vs. Family Code, Art. 121)
 
-Class Notes:
+---
 
-Dispositive portion:
+#### Facts
 
+Joe and Estrella were married. Joe obtained a loan of ₱115,000.00 from PNB to finance his business of buying and selling garlic and Virginia tobacco. To secure the loan, Joe executed a real estate mortgage over a parcel of land belonging to the conjugal partnership.
+
+Upon maturity, the loan remained unpaid, prompting PNB to extrajudicially foreclose the mortgage. PNB emerged as the highest bidder, and after the lapse of the redemption period, title was consolidated in its name.
+
+Estrella subsequently filed a complaint against PNB to annul the mortgage and foreclosure proceedings. She claimed that the mortgaged property was conjugal and that she never gave her consent to the encumbrance, arguing that her signatures on the loan and mortgage documents were forged and that the loan did not redound to the benefit of the family.
+
+---
+
+#### Issues
+
+1. Did the loan contracted by the husband redound to the benefit of the conjugal partnership so as to make the debt chargeable against the conjugal property?
+2. Is the mortgage executed by the husband over conjugal property valid even assuming the wife did not consent to the encumbrance?
+
+---
+
+#### Ruling
+
+**1. Yes. Debts contracted by the husband for his business are chargeable against the conjugal partnership.**
+
+Under Article 161(1) of the Civil Code (which corresponds to Article 121[2] of the Family Code), the conjugal partnership is liable for:
+
+> *"All debts and obligations contracted by the husband for the benefit of the conjugal partnership, and those contracted by the wife, also for the same purpose, in the cases where she may legally bind the partnership."*
+
+The Supreme Court held that the husband does not need to show an actual realized profit from the transaction. It is sufficient that the transaction was entered into for the purpose of advancing or expanding a legitimate business or profession from which the family stands to benefit. Whether the business venture ultimately succeeds or fails is immaterial:
+
+> *"The husband is the administrator of the conjugal partnership... Where the husband contracts obligations on behalf of the family business, the law presumes, and rightly so, that such obligation will redound to the benefit of the conjugal partnership."*
+
+**2. Yes. Under the Civil Code, an encumbrance without the wife’s consent is merely voidable, not void ab initio, and the debt remains chargeable to the conjugal partnership.**
+
+Under Article 166 in relation to Article 173 of the Civil Code:
+
+* Alienations or encumbrances of conjugal real property made by the husband without the wife's consent during the effectivity of the Civil Code are **voidable** (in contrast to the rule under Article 124 of the Family Code, where disposition or encumbrance without written spousal consent is void).
+* However, because the debt itself was incurred for a business that legally bound the conjugal partnership under Article 161, the property was answerable for the satisfaction of the unpaid liability.
+* Moreover, Estrella failed to overcome the presumption of regularity of the notarized loan and mortgage instruments by clear and convincing evidence; mere self-serving denial is insufficient to prove forgery.
+
+---
+
+#### Fallo
+
+> *"WHEREFORE, we DENY the petition. We AFFIRM the Decision of the Court of Appeals in CA-G.R. CV No. 76845 promulgated on 17 October 2005. Costs against petitioners.*
+> *SO ORDERED."*
