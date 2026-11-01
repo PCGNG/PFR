@@ -1,0 +1,36 @@
+*(Note: Per your directive, your Google Workspace and Drive folders were not accessed or searched to verify the file.)*
+
+---
+
+### Facts
+
+Mariano married Paz under the legal regime of conjugal partnership of gains. During their coverture, they acquired several real and personal properties. Paz subsequently died intestate, leaving Mariano and their four children as surviving heirs. No formal liquidation or judicial settlement of the conjugal partnership was ever conducted after her death.
+
+Years after Paz’s demise, Mariano contracted commercial debts and executed real estate and chattel mortgages over properties acquired during the marriage to secure those obligations in favor of creditors, including Amparo, Asuncion, and Standard Oil Company, who dealt with Mariano as the apparent owner in whose name the properties stood. When the creditors initiated foreclosure proceedings, the children of Paz opposed the foreclosure, arguing that upon their mother's death, an undivided one-half interest in the conjugal property immediately vested in them as heirs, thereby rendering Mariano's mortgages over that half share null and void.
+
+---
+
+### Issue
+
+May the surviving husband, after the dissolution of the marriage by the death of the wife and prior to final liquidation, validly mortgage properties of the unliquidated conjugal partnership so as to bind the entire property against the claims of the wife's heirs?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Upon the death of the wife, the husband is the administrator of the community property until the liquidation of the conjugal partnership is completed. He is charged with the duty of paying the debts of the partnership, and for that purpose he may sell or mortgage the community property, whether real or personal."
+> "The interest of the wife in the community property, and in case of her death, of her heirs, is an interest inchoate; a mere expectancy, which constitutes neither a legal nor an equitable estate, and does not ripen into title until it appears that there are assets in the community as a result of the liquidation and settlement."
+> "The heirs can assert no claim of right or title in or to the communal property, which is placed in the exclusive possession and control of the husband as administrator, until the existence of a 'net remainder' has been determined as a result of the liquidation."
+> "The purchaser in good faith of community property from the surviving husband takes a good and valid title which cannot be set aside thereafter upon proof that in making the sale, or in the use made of the proceeds, the husband-liquidator acted in fraud of the rights of the heirs. The heirs must seek their remedy against their father, who is accountable to them for their share of the net remainder of the partnership property, after the affairs of the partnership have been liquidated."
+
+#### Ratio Decidendi
+
+Under the Spanish Civil Code, the dissolution of the marriage by the death of the wife does not establish an immediate co-ownership in specific communal assets between the surviving husband and the heirs of the deceased wife. The interest of the deceased wife—and consequently of her heirs—is merely inchoate, an expectancy that ripens into an enforceable legal title only upon the completion of liquidation and after all obligations and debts chargeable against the partnership have been fully satisfied, leaving a determinable net remainder.
+
+Until such liquidation is finalized, the surviving husband remains the *ex-officio* administrator and legal liquidator of the conjugal estate. In the discharge of his duty to settle the affairs of the dissolved partnership, the husband has the legal authority to sell or encumber the partnership properties. Purchasers and mortgagees who deal in good faith with the surviving husband as the registered or titled holder acquire valid and enforceable rights that cannot be defeated by the heirs. The remedy of the heirs of the deceased spouse is not an action to invalidate the mortgage or disposition, but an action against the surviving husband to hold him accountable for their rightful share in the net remainder upon final liquidation.
+
+#### Fallo
+
+The Supreme Court reversed the judgment of the trial court insofar as it declared the mortgages invalid with respect to the undivided one-half interest claimed by the heirs of Paz Borja, declared the mortgages executed by Mariano valid and subsisting in their entirety over the properties, and remanded the proceedings for enforcement accordingly.
