@@ -1,0 +1,38 @@
+### Facts
+
+Alain and Rosalinda were married without executing a marriage settlement. Years later, Alain filed an action before the RTC for the declaration of nullity of their marriage under Article 36 of the Family Code on the ground of psychological incapacity.
+
+The RTC declared the marriage void *ab initio*, dissolved their property regime, and ordered that a decree of absolute nullity be issued only after the liquidation, partition, and distribution of the parties' properties, as well as the delivery of the children's presumptive legitimes, pursuant to Articles 50 and 51 of the Family Code. Alain questioned this condition, asserting that Articles 50 and 51 apply only to marriages declared void under Articles 40 and 45, whereas marriages declared void *ab initio* under Article 36 are governed strictly by the property regime of unions without marriage under Article 147 of the Family Code, which does not require the delivery of presumptive legitimes as a prerequisite for the issuance of the decree.
+
+---
+
+### Issue
+
+Do the provisions of Articles 50 and 51 of the Family Code—requiring the liquidation, partition, and delivery of presumptive legitimes prior to the issuance of a decree of nullity—apply to the termination and liquidation of the property regime of a marriage declared void *ab initio* under Article 36 of the Family Code?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "In *Valdes v. Regional Trial Court, Branch 102, Quezon City*, the Court ruled:
+> 'The trial court correctly applied the law. In a void marriage, regardless of the cause thereof, the property relations of the parties during the period of cohabitation is governed by Article 147 or Article 148, such as the case may be, of the Family Code. Article 147 is a remake of Article 144 of the Civil Code as interpreted and applied in addressing the situations therein envisioned. x x x'
+> The Court further explained in *Valdes*:
+> 'The first paragraph of Articles 50 of the Family Code, applied marked by the trial court, provides that '[t]he effects provided for by paragraphs (2), (3), (4) and (5) of Article 43 and by Article 44 shall also apply in the proper cases to marriages which are declared void ab initio or annulled by final judgment under Articles 40 and 45, respectively.'
+> It is clear that the above provisions of the Family Code apply only to marriages which are declared void ab initio or annulled by final judgment under Articles 40 and 45 of the Family Code, and not to marriages declared void under Article 36 of the Family Code.
+> In this case, petitioner's marriage to respondent was declared void under Article 36 of the Family Code and not under Article 40 or 45. Thus, what applies to the liquidation of the properties of the spouses is Article 147 of the Family Code and not Articles 50 and 51 of the Family Code.'"
+> "Section 19(1) of the Rule on Declaration of Absolute Nullity of Null Marriages and Annulment of Voidable Marriages does not apply to a marriage declared void under Article 36 of the Family Code on the ground of psychological incapacity, as the property relations of the spouses is governed by Article 147 of the Family Code. The decree of absolute nullity of marriage shall be issued upon finality of the decision declaring the marriage of the parties void ab initio."
+
+#### Ratio Decidendi
+
+For marriages declared void *ab initio* under Article 36 of the Family Code due to psychological incapacity, the property relations of the parties during their cohabitation are governed strictly by the rules on special co-ownership under Article 147 of the Family Code (property regime of unions without marriage), and not by the regime of absolute community or conjugal partnership of gains.
+
+Articles 50 and 51 of the Family Code—which require the liquidation, partition, and delivery of the children's presumptive legitimes as a condition precedent to the issuance of the decree of absolute nullity—apply exclusively to marriages declared void under Article 40 (subsequent marriage contracted without judicial declaration of nullity of a previous marriage) and annulled voidable marriages under Article 45. They have no application to marriages declared void under Article 36.
+
+Consequently, in actions for declaration of nullity under Article 36, the decree of absolute nullity must be issued immediately upon the finality of the decision declaring the marriage void, without awaiting the completion of the liquidation, partition, or delivery of presumptive legitimes under Article 147.
+
+#### Fallo
+
+> "WHEREFORE, we GRANT the petition. We REVERSE and SET ASIDE the Order dated 30 April 2009 of the Regional Trial Court of Pasig City, Branch 262 in JDRC No. 5928 insofar as it ordered that a decree of absolute nullity of the marriage shall be issued only after the liquidation, partition and distribution of the parties' properties under Article 147 of the Family Code. The decree of absolute nullity of marriage shall be issued upon finality of the Decision dated 21 October 2008 declaring the marriage of petitioner Alain M. Diño and respondent Rosalinda S. Diño void ab initio.
+> SO ORDERED."
