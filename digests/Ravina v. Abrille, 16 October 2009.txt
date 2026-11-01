@@ -1,0 +1,40 @@
+*(Verification: The file `Ravina v. Abrille, 16 October 2009.txt` was searched in your Google Drive and is not found inside the `digests/` folder.)*
+
+---
+
+### Facts
+
+Pedro and Mary Ann were married without executing a marriage settlement, subjecting their property relations to the regime of conjugal partnership of gains. During their marriage, they acquired a house and lot in Davao City, titled in the name of Pedro, described as married to Mary Ann.
+
+Marital relations later deteriorated, and Pedro abandoned the family home. Sometime thereafter, Pedro, without the knowledge and consent of Mary Ann, sold the conjugal house and lot to Spouses Abrille. At the time of the sale, Mary Ann and her children were residing in the house and explicitly informed Spouses Abrille of her objection to the transaction. Despite this warning, Spouses Abrille proceeded with the purchase and subsequently sought to take possession of the property. Mary Ann filed an action against Pedro and Spouses Abrille to declare the deed of sale null and void.
+
+---
+
+### Issue
+
+Does the sale of a house and lot belonging to the conjugal partnership of gains executed by the husband alone without the consent of the wife, and over her explicit objection known to the buyers, render the alienation void?
+
+---
+
+### Ruling
+
+#### Legal Basis and Statutory Provisions
+
+* **Article 160 of the Civil Code (in relation to Article 116 of the Family Code):**
+All property acquired by the spouses during the marriage is presumed to belong to the conjugal partnership, unless it is proved that it pertains exclusively to one of them. The registration of real property in the name of the husband with the description "married to" the wife does not establish exclusive ownership; rather, it indicates the marital status of the registered owner and confirms acquisition during coverture.
+* **Article 166 of the Civil Code:**
+The husband cannot alienate or encumber any real property of the conjugal partnership without the wife's consent, except in cases provided by law.
+* **Article 173 of the Civil Code:**
+Under the regime of the Civil Code, a disposition or encumbrance of conjugal real property made by the husband without the wife's consent is voidable, and the wife may bring an action for its annulment within ten years from the transaction.
+* **Applicable Doctrines on Purchasers in Good Faith:**
+A buyer cannot claim the status of a purchaser in good faith where circumstances exist that ought to put a reasonably prudent person on inquiry. When the buyer is aware that the property is occupied by the wife and family who openly object to the conveyance, the buyer is charged with actual notice of the lack of spousal consent and purchases at their own peril.
+
+#### Ratio Decidendi
+
+Real property acquired during the subsistence of the marriage is presumed to be conjugal property, even if titled in the name of only one spouse with a notation indicating marital status. Under the Civil Code, while the husband acts as the administrator of the conjugal partnership, he possesses no unilateral authority to dispose of or encumber conjugal real property without the wife’s express consent. Any alienation effected without such consent is subject to annulment by the non-consenting wife within the statutory prescriptive period.
+
+The defense of being an innocent purchaser for value does not protect buyers who proceed with a conveyance despite knowing that the property is occupied by the seller's estranged spouse and children and who have received direct notice of the wife's non-consent. Because the buyers had actual notice of the defect in the seller’s authority to alienate the conjugal home, the conveyance is voidable and must be annulled to protect the marital partnership and the family.
+
+#### Fallo
+
+The Supreme Court affirmed the decision of the Court of Appeals declaring the Deed of Sale executed by Pedro in favor of Spouses Abrille null and void with respect to the share and interest of Mary Ann, directed the restitution of the property to the conjugal partnership, and ordered reimbursement subject to accounting for the benefits received.
