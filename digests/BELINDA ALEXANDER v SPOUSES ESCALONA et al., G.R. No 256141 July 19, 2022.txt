@@ -1,0 +1,44 @@
+*(Note: Per your instruction, your Google Workspace and Drive folders were not accessed or searched to verify the file.)*
+
+---
+
+### Facts
+
+Jorge and Hilaria were married under the regime of conjugal partnership of gains under the Civil Code. During their marriage, they acquired two unregistered parcels of land, designated as Lot Nos. 1 and 2.
+
+Years later, while the Family Code was already in effect, Jorge executed a Waiver and Quitclaim over Lot No. 1 in favor of his illegitimate son, Reygan, without the knowledge and written consent of Hilaria. Thereafter, Reygan sold both Lot No. 1 and Lot No. 2 to Belinda for a valuable consideration. Jorge and Hilaria never executed any document conveying Lot No. 2 to Reygan.
+
+Upon learning of the transactions, Jorge and Hilaria filed an action against Belinda and Reygan for annulment of documents with damages, claiming that the properties were conjugal assets and could not be alienated without Hilaria’s written consent. Belinda resisted the action, asserting that the lots were Jorge's exclusive property, that she was a buyer in good faith, and that the action was barred by prescription.
+
+---
+
+### Issue
+
+Does the alienation of real property belonging to the conjugal partnership of gains—contracted during the effectivity of the Family Code by one spouse without the written consent of the other spouse—render the disposition void *ab initio* or merely voidable, when the marriage was solemnized under the Civil Code?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "In this case, Spouses Escalona were married on November 14, 1960, or during the effectivity of the Civil Code. Under the Civil Code, the system of relative community or conjugal partnership of gains governed the property relations between husband and wife in the absence of any marriage settlement. Article 160 of the Civil Code provides that '[a]ll property of the marriage is presumed to belong to the conjugal partnership, unless it be proved that it pertains exclusively to the husband or to the wife.' The presumption applies absent proof that Lot Nos. 1 and 2 are excluded from Spouses Escalona's conjugal partnership."
+> "The alienation of Lot No. 1 is void under Article 124 of the Family Code because it was made without Hilaria's consent. ... Significantly, any alienation or encumbrance of the conjugal property concluded after the effectivity of the Family Code requires the other spouse's written consent or a court order allowing the transaction, otherwise, the disposition is void."
+> "Article 124. x x x These powers [of administration] do not include disposition or encumbrance without authority of the court or the written consent of the other spouse. In the absence of such authority or consent, the disposition or encumbrance shall be void. However, the transaction shall be construed as a continuing offer on the part of the consenting spouse and the third person, and may be perfected as a binding contract upon the acceptance by the other spouse or authorization by the court before the offer is withdrawn by either or both offerors."
+> "In this case, the contract is void notwithstanding the fact that Spouses Escalona were married during the effectivity of the Civil Code. The Family Code expressly repealed Title VI, Book I of the Civil Code on Property Relations between Husband and Wife. ... In *Spouses Cueno v. Spouses Bautista* (Cueno), the Court En Banc held that the sale of conjugal property without the consent of the wife is merely voidable. In that case, the marriage of the spouses and the alienations of their conjugal property transpired before the effectivity of the Family Code."
+> "The Court reiterates that the congruence of the wills of the spouses is essential for the valid disposition of conjugal properties. The absence of the written consent of one spouse renders the alienation void. Consequently, Spouses Escalona remained the lawful owners of Lot No. 1."
+> "Under the provisions of the Civil Code governing contracts, a void or inexistent contract has no force and effect from the very beginning. A void contract is equivalent to nothing and is absolutely wanting in civil effects. It cannot be validated either by ratification or prescription."
+> "Here, it is undisputed that Spouses Escalona did not transfer Lot No. 2 to Reygan. There is no document purporting to convey Lot No. 2 in favor of Reygan. ... Consequently, the transactions over Lot No. 2 is void because Reygan never acquired ownership which he can validly convey to Belinda."
+
+#### Ratio Decidendi
+
+Property acquired during coverture is presumed to belong to the conjugal partnership of gains unless proven otherwise by clear and convincing evidence. In determining the legal status and effects of an alienation of conjugal property without spousal consent, the controlling factor is the **time when the alienation was executed**, not the date of the celebration of the marriage.
+
+Where the disposition or encumbrance of conjugal property takes place after the effectivity of the Family Code (August 3, 1988), Article 124 of the Family Code strictly governs. Under Article 124, the disposition of conjugal property without the written consent of the other spouse or prior judicial authorization is null and void *ab initio*, operating merely as an unperfected continuing offer. The rule laid down in *Spouses Cueno v. Spouses Bautista*—which treated such sales as merely voidable under Articles 166 and 173 of the Civil Code—applies exclusively to transactions concluded prior to the effectivity of the Family Code.
+
+Because the alienation executed after the effectivity of the Family Code without written spousal consent is void *ab initio*, it confers no rights, transfers no title, cannot be cured by ratification or prescription, and may be assailed through an action for declaration of nullity that is imprescriptible under Article 1410 of the Civil Code. As between the transferees of the void transaction, mutual restitution is ordered under principles of equity to prevent unjust enrichment.
+
+#### Fallo
+
+> "FOR THESE REASONS, the Petition for Review on Certiorari is PARTIALLY GRANTED. The Decision dated October 26, 2020 and the Resolution dated March 5, 2021 of the Court of Appeals in CA-G.R. CV No. 110958 are AFFIRMED with MODIFICATION in that respondent Reygan Escalona is ORDERED to reimburse petitioner Belinda Alexander the amount of P1,600,000.00 representing the purchase price of Lot Nos. 1 and 2.
+> SO ORDERED."
