@@ -1,0 +1,33 @@
+### Facts
+
+Wynne and Fatima were married under the Civil Code regime of conjugal partnership of gains. During the marriage, a certificate of title over a parcel of land was issued in the name of "Wynne, married to Fatima". The spouses obtained a loan from Metrobank to finance the renovation of their house built on the land and executed a real estate mortgage over the property as security. In connection with the loan, Mortgage Redemption Insurance was procured, but the application and insurance documents were signed solely by Fatima, naming her as the insured.
+
+Following Wynne’s death, Fatima demanded that Metrobank discharge the mortgage, claiming that Wynne was the exclusive owner of the mortgaged property and that the loan should be deemed extinguished by the insurance. Metrobank refused, asserting that the property was conjugal and that Wynne was not the insured party under the policy. Fatima filed an action against Metrobank, asserting that the mortgaged property was Wynne's exclusive property and that the statutory presumption of conjugality did not apply. However, she presented no deed of acquisition or other evidence to show that Wynne acquired the property prior to the marriage or by lucrative title.
+
+---
+
+### Issue
+
+Does a parcel of land titled during the subsistence of the marriage in the name of one spouse, described as "married to" the other spouse, form part of the conjugal partnership of gains when no evidence is presented to prove that it was acquired prior to the marriage or by exclusive title?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Under the regime of conjugal partnership of gains, properties acquired during the marriage are presumed conjugal. The party claiming otherwise bears the burden of proof."
+> "Thus, absent any other proof of the exact date of acquisition of the subject property, this Court stands by its basic tenet that a property acquired during the marriage is presumed conjugal."
+> "The Court noted that the presumption of conjugality is rebuttable, but only with strong, clear, and convincing evidence, citing *Francisco v. Court of Appeals* (359 Phil. 519 [1998]). Since Fatima failed to present such proof, the property was deemed conjugal."
+> "As a co-mortgagor, petitioner could secure an MRI on her life alone without a similar action by her husband, pursuant to Section 3 of the Insurance Code, which provides that the consent of the spouse is not necessary for the validity of an insurance policy taken out by a married person on his or her life."
+
+#### Ratio Decidendi
+
+Under Article 160 of the Civil Code (and Article 116 of the Family Code), all property of the marriage is presumed to belong to the conjugal partnership of gains unless it is proved that it pertains exclusively to one spouse. The registration and issuance of a certificate of title during the coverture sufficiently establish that the property was acquired during the marriage, thereby triggering the statutory presumption of conjugality.
+
+This presumption can only be overcome by strong, clear, and convincing evidence showing that the property was acquired prior to the marriage or fell under the statutory exclusions of exclusive/paraphernal assets. The mere registration of the property in the name of one spouse with the phrase "married to" the other spouse does not make it exclusive, nor does it displace the presumption when the title itself was issued during the marriage. Since the claiming spouse failed to introduce any deed of conveyance or proof establishing separate ownership, the property remains conjugal. Consequently, both spouses acted as mortgagors of the conjugal asset.
+
+#### Fallo
+
+> "WHEREFORE, the Petition for Review on Certiorari is DENIED. The assailed January 3, 2020 Decision and the March 4, 2021 Resolution of the Court of Appeals in CA-G.R. CV No. 110479 are AFFIRMED.
+> SO ORDERED."
