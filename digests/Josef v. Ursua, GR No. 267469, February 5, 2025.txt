@@ -1,0 +1,38 @@
+### Facts
+
+Josef and Ursua, a same-sex couple who lived together without the legal capacity to marry under Philippine marriage laws, acquired a residential house and lot in Quezon City. The certificate of title was registered solely under Ursua's name, while Josef contributed funds to the acquisition, construction, and renovation expenses of the property.
+
+Following their separation, the parties agreed to sell the property and divide the proceeds equally. To formalize this arrangement, Ursua executed an Acknowledgment recognizing that Josef financed approximately 50% of the expenses in the acquisition, construction, and improvements of the property. Later, Ursua reneged on the agreement, refused to sell the house, and repudiated Josef's co-ownership claim, maintaining that the property was registered solely in her name and that Josef failed to present contemporaneous documentary receipts evidencing her monetary contributions. Josef filed a complaint for partition of real estate with damages.
+
+---
+
+### Issue
+
+Does Article 148 of the Family Code govern the property relations of a cohabiting same-sex couple, and is a partner's written acknowledgment recognizing the other's fifty percent financial contribution toward the acquisition and improvement of real property sufficient to establish co-ownership and entitle that partner to partition?
+
+---
+
+### Ruling
+
+#### Legal Basis and Governing Provisions
+
+* **Article 148 of the Family Code:**
+The Supreme Court ruled that Article 148 of the Family Code governs cohabitations not falling under Article 147. Under the Family Code, Article 147 applies exclusively to a man and a woman who are capacitated to marry each other and live together without the benefit of marriage or under a void marriage. Because Philippine marriage laws do not recognize marriage between persons of the same sex, same-sex couples do not possess the legal capacity to marry each other under the statutory definitions of marriage. Consequently, their property relations during cohabitation fall within the ambit of Article 148, which governs cohabitations where parties suffer from a legal impediment to marry.
+* **Requisites of Co-Ownership Under Article 148:**
+Under Article 148 of the Family Code, properties acquired during the union are not automatically presumed to be co-owned equally by the mere fact of cohabitation. Co-ownership arises only over properties acquired through the *actual joint contribution of money, property, or industry*, and the parties own such properties in proportion to their respective contributions. In the absence of proof to the contrary, their contributions and corresponding shares are presumed equal once actual contribution is established.
+* **Evidentiary Weight of an Acknowledgment and Estoppel:**
+Actual contribution need not be established exclusively by itemized receipts or formal bank records if there is a clear, voluntary written acknowledgment or admission executed by the registered owner recognizing the other partner's financial contribution. Under the rules on evidence and the doctrine of estoppel, a written acknowledgment confirming that the other partner financed 50% of the acquisition and construction costs constitutes an admission against interest and binds the author. Any ambiguity in such a document is construed against the party who prepared it (*contra proferentem*).
+* **Right to Partition Under Article 494 of the Civil Code:**
+Co-ownership exists when the ownership of an undivided thing belongs to different persons. Under Article 494 of the Civil Code, no co-owner is obliged to remain in the co-ownership, and each co-owner may demand at any time the partition of the common property insofar as their share is concerned.
+
+#### Ratio Decidendi
+
+While Philippine law does not extend civil marriage or the quasi-marital property regime of Article 147 to same-sex couples, their property rights during cohabitation are legally recognized and protected under Article 148 of the Family Code alongside the general provisions on co-ownership.
+
+Under Article 148, the establishment of co-ownership requires proof of actual contribution to the acquisition, construction, or improvement of the property. Where the registered titleholder executes a written instrument expressly acknowledging that her partner financed half of the purchase price and construction costs, such admission satisfies the evidentiary requirement of actual contribution.
+
+Once actual contribution is admitted or proven, the statutory presumption that their shares are equal applies, unless a different proportion is proven. The registered owner is estopped from subsequently disowning the contribution or asserting sole ownership simply because legal title was placed in her name. Consequently, the contributing partner is a lawful co-owner to the extent of a 50% undivided interest and possesses the enforceable legal right to demand judicial partition under Article 494 of the Civil Code.
+
+#### Fallo
+
+The Supreme Court granted the petition for review on certiorari, reversed and set aside the decision and resolution of the Court of Appeals in CA-G.R. CV No. 114459, declared Jennifer C. Josef as the owner of a 50% share of the subject property, and remanded the case to Branch 87 of the Regional Trial Court of Quezon City for further proceedings on the partition with dispatch.
