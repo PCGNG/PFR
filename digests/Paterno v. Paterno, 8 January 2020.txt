@@ -1,0 +1,36 @@
+### Facts
+
+Simon and Dina were married without an ante-nuptial agreement. During their coverture, they acquired several assets, including a condominium unit in Makati City titled in their names. Marital troubles later arose, leading Simon to file a petition for declaration of nullity of marriage under Article 36 of the Family Code before the RTC, with an ancillary prayer for the dissolution and liquidation of their property regime.
+
+The RTC declared the marriage void *ab initio* due to psychological incapacity and ordered the liquidation of their properties. In distributing the assets, the trial court applied Article 147 of the Family Code, determining that properties acquired during their union were owned in equal shares under a special co-ownership, while allocating the Makati condominium unit to Dina upon payment of Simon's half-share. Simon opposed this property disposition, arguing that their ante-nuptial arrangements and contributions dictated that the property was not co-owned equally and that Article 147 was misapplied in settling their assets.
+
+---
+
+### Issue
+
+Does Article 147 of the Family Code govern the property relations and liquidation of assets of spouses whose marriage has been judicially declared void *ab initio* under Article 36 of the Family Code?
+
+---
+
+### Ruling
+
+#### Legal Basis and Governing Provisions
+
+* **Article 147 of the Family Code:**
+When a man and a woman who are capacitated to marry each other live exclusively together as husband and wife without the benefit of marriage or under a void marriage, their wages and salaries shall be owned by them in equal shares and the property acquired by both of them through their work or industry shall be governed by the rules on co-ownership. In the absence of proof to the contrary, properties acquired while they lived together shall be presumed to have been obtained by their joint efforts, work, or industry, and shall be owned by them in equal shares. A party who did not participate in the acquisition of property will still be deemed to have contributed through the care and maintenance of the family and household.
+* **Applicability to Marriages Void under Article 36 (Doctrine in *Valdes v. RTC* and *Mercado-Fehr v. Fehr*):**
+In a void marriage, no absolute community of property or conjugal partnership of gains is formed. Where parties contract a marriage that is subsequently declared void *ab initio* due to psychological incapacity under Article 36, their property relations during the union are specifically governed by the property regime of unions without marriage under Article 147 of the Family Code, because neither party suffered from a legal impediment to marry at the time of the celebration of the marriage.
+* **Rebuttal of the Presumption of Equal Co-Ownership:**
+The presumption of equal co-ownership under Article 147 is disputable. However, the burden rests upon the party claiming a greater share or exclusive ownership to establish by competent evidence that the asset was purchased with exclusive funds or that the other party made no actual or statutory contribution (such as care and maintenance of the home) to its acquisition.
+
+#### Ratio Decidendi
+
+When a marriage is declared void *ab initio* on the ground of psychological incapacity, the property regime that governs the union is the special co-ownership provided under Article 147 of the Family Code, and not the rules on absolute community or conjugal partnership of gains. Because the marriage was void from the beginning and neither spouse was burdened by a legal impediment to marry, their cohabitation is legally treated as an exclusive union without marriage.
+
+Under Article 147, properties acquired by the parties during their cohabitation through their work or industry are presumed to have been acquired through their joint efforts and are co-owned in equal shares, even if registered in the name of only one spouse. The law explicitly recognizes non-monetary contributions: the efforts of a spouse in managing the household and caring for the family are legally credited as an active contribution to the acquisition of the properties.
+
+Unless a party overcomes this statutory presumption by clear and convincing evidence demonstrating exclusive acquisition or an unequal sharing agreed upon by the parties, the properties acquired during the union must be liquidated and partitioned equally between the parties as co-owners.
+
+#### Fallo
+
+The Supreme Court affirmed the decision of the Court of Appeals, upholding the ruling of the trial court that declared the marriage void *ab initio* under Article 36 of the Family Code and sustained the application of Article 147 of the Family Code in the liquidation and equal distribution of the properties acquired during the cohabitation of the parties.
