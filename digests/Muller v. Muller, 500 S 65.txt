@@ -1,13 +1,40 @@
-Muller v. Muller, 500 S 65
-Facts:
+### Facts
 
-Issue:
+Heinz, a German national, married Elena, a Filipina. During their marriage, the spouses acquired a parcel of land in Antipolo, Rizal, which was titled solely in Elena's name. Using funds inherited by Heinz from his parents in Germany, the spouses constructed a residential house and other improvements on the land.
 
-Ruling: 
+Following their separation, Heinz filed a petition for separation of property, demanding the partition of the Antipolo property as community property or, in the alternative, reimbursement of the funds he expended for its acquisition and construction. Elena opposed the claim, maintaining that Heinz, being an alien, is constitutionally disqualified from owning real property in the Philippines and cannot assert any community rights or claims for reimbursement over the land.
 
-Ratio decidendi:
+---
 
-Class Notes:
+### Issue
 
-Dispositive portion:
+Does real property acquired and improved during marriage using funds provided by an alien spouse form part of the absolute community of property, and may the alien spouse recover the funds expended on the property under the rules of equity?
 
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Section 7, Article XII of the 1987 Constitution provides:
+> Sec. 7. Save in cases of hereditary succession, no private lands shall be transferred or conveyed except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain."
+> "Aliens, whether individuals or corporations, have been disqualified from acquiring lands of the public domain. Hence, by virtue of the aforecited constitutional provision, they are also disqualified from acquiring private lands. The primary purpose of this constitutional provision is the conservation of the national patrimony. Our fundamental law cannot be any clearer. The prohibition against alien ownership of private lands is absolute and admits of no exception, save in cases of hereditary succession."
+> "Respondent was well-aware of the constitutional prohibition for aliens to acquire lands in the Philippines. He was, in fact, advised by a certain Atty. Jose S. Raymundo that an alien cannot acquire lands in the Philippines. Consequently, he had the Antipolo property titled in the name of petitioner. For the same reason, the Antipolo property cannot be declared as conjugal property, and respondent cannot be granted reimbursement of the amount he invested in the acquisition of the Antipolo property and the construction of the house and other improvements thereon."
+> "In *Cheesman v. Intermediate Appellate Court*, the petitioner, an American citizen, bought a parcel of land in Subic, Zambales and had it registered in the name of his Filipino wife. Later, the wife sold the property to a third person without the knowledge and consent of the husband. The Court held that the petitioner cannot seek the annulment of the sale as he had no right to the land:
+> 'The fundamental law prohibits the sale to aliens of residential land. Section 14, Article XIV of the 1973 Constitution documents this policy, xxx
+> The trial court found that it had 'satisfactorily overcome the disputable presumption that all property of the marriage belongs to the conjugal partnership' and that the questioned property was in reality the paraphernal property of the wife. It was also of the view that 'the said presumption could not apply to petitioner, being an American citizen, disqualified under the Constitution from owning and acquiring alienable public and private lands in the Philippines.'
+> The trial court is right. Assuming that it was his intention to co-own the property, the same cannot be permitted because that is a clear violation of the constitutional provision. If the property were to be declared conjugal, this would accord the alien husband a substantial interest and right over the land, as he would then have a decisive vote as to its transfer or disposition. This is a right that the Constitution does not permit him to have.'"
+> "Respondent cannot seek refuge in Article 22 of the New Civil Code which provides:
+> 'Art. 22. Every person who through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter without just or legal ground, shall return the same to him.'
+> Nor may he invoke the principle of equity to reimburse him the amounts he invested in the Antipolo property. He who seeks equity and enters into an equity court must do so with clean hands. He who has done inequity shall not have equity."
+
+#### Ratio Decidendi
+
+Under Section 7, Article XII of the Constitution, aliens are absolutely prohibited from acquiring private lands in the Philippines, except through hereditary succession. The statutory presumption of conjugality or absolute community under the Family Code cannot operate to defeat this fundamental constitutional prohibition.
+
+Declaring real property acquired during marriage as community property would confer substantial co-ownership rights, decisive administrative control, and proprietary interests upon an alien spouse—consequences strictly banned by the Constitution. Furthermore, an alien spouse who knowingly circumvents the constitutional bar by registering the land in the Filipino spouse's name cannot invoke equity or the principle against unjust enrichment under Article 22 of the Civil Code to claim reimbursement for the acquisition costs or value of the improvements. One who enters into a transaction designed to bypass the fundamental law comes to court with unclean hands and is entitled to neither co-ownership nor reimbursement.
+
+#### Fallo
+
+> "WHEREFORE, the petition is GRANTED. The Decision dated February 26, 2004 and the Resolution dated August 12, 2004 of the Court of Appeals in CA-G.R. CV No. 59571 are REVERSED and SET ASIDE. The Decision dated August 12, 1996 of the Regional Trial Court of Quezon City, Branch 86 in Civil Case No. Q-94-21875 is REINSTATED.
+> SO ORDERED."
