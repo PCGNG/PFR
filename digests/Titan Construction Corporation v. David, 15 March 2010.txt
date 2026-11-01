@@ -1,0 +1,43 @@
+*(Note: Per your previous instruction, your Google Workspace and Drive folders were not accessed or searched to verify the file.)*
+
+---
+
+### Facts
+
+Manuel and Martha were married without executing a marriage settlement, subjecting their property relations to the regime of conjugal partnership of gains. During their marriage, a parcel of land in Quezon City was purchased and titled under Transfer Certificate of Title in the name of "MARTHA S. DAVID, married to Manuel A. David."
+
+Without the knowledge and consent of Manuel, Martha executed a Deed of Absolute Sale conveying the property to Titan Construction Corporation. Manuel subsequently filed an action to declare the deed of sale null and void, asserting that the property was conjugal and could not be alienated by Martha alone. Titan Construction Corporation resisted the action, claiming that the property was Martha’s exclusive paraphernal property as shown by the title issued solely in her name, and that it was an innocent purchaser for value.
+
+---
+
+### Issue
+
+Does a parcel of land acquired during marriage and registered in the name of one spouse, described as "married to" the other spouse, form part of the conjugal partnership of gains so as to render its sale without the other spouse's consent invalid?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Under the Civil Code, which was in force at the time of the celebration of the marriage of Manuel and Martha, all property acquired during the marriage is presumed to belong to the conjugal partnership, unless it be proved that it pertains exclusively to the husband or to the wife. Article 160 thereof provides:
+> 'Art. 160. All property of the marriage is presumed to belong to the conjugal partnership, unless it be proved that it pertains exclusively to the husband or to the wife.'
+> The presumption of conjugality is not easily overcome. It cannot be rebutted by the mere fact that the certificate of title was issued only in the name of one of the spouses, as in this case where the TCT is in the name of 'Martha S. David, married to Manuel A. David.' The words 'married to Manuel A. David' are merely descriptive of Martha’s civil status."
+> "The property having been acquired during the marriage, the statutory presumption that it belongs to the conjugal partnership applies. Petitioner had the burden of proving that the property was Martha’s exclusive paraphernal property. Petitioner failed to discharge this burden."
+> "Under Article 165 of the Civil Code, the husband is the administrator of the conjugal partnership. Article 166 of the Civil Code provides that:
+> 'Art. 166. Unless the wife has been declared a *bona fide* absentee or a pauper, or is committed to a mental institution, or is judicially separated from her husband, the husband cannot alienate or encumber any real property of the conjugal partnership without the wife's consent. But litigation between the spouses, or other legal circumstances, may permit the husband to dispose of or encumber the conjugal property without such consent.'
+> While the law recognizes the husband as the administrator, it expressly prohibits the alienation or encumbrance of conjugal real property without the wife’s consent. Conversely, the wife cannot alienate or encumber conjugal real property without the husband’s consent. Under Article 173 of the Civil Code, the husband may, during the marriage and within ten years from the transaction questioned, ask for the annulment of any contract of the wife involving the conjugal real property entered into without his consent."
+> "Petitioner cannot claim to be an innocent purchaser for value. The property was titled in the name of 'Martha S. David, married to Manuel A. David.' This was sufficient to put petitioner on inquiry as to the marital status of Martha and the conjugal nature of the property. A purchaser cannot close its eyes to facts which should put a reasonable man upon his guard."
+
+#### Ratio Decidendi
+
+Under Article 160 of the Civil Code, all property acquired during the subsistence of the marriage is presumed to belong to the conjugal partnership of gains. This presumption stands unless overcome by strong, clear, and convincing evidence that the property was acquired through exclusive funds or gratuitous title.
+
+The fact that the certificate of title is registered in the name of only one spouse, followed by the description "married to" the other spouse, does not rebut the presumption of conjugality; such phrase is merely descriptive of the registered owner’s civil status. Consequently, neither spouse may unilaterally alienate conjugal real property without the consent of the other. Under Article 173 of the Civil Code, an alienation executed by the wife without the husband’s consent is voidable and may be annulled by the non-consenting husband within the ten-year prescriptive period.
+
+Furthermore, a corporate buyer cannot claim to be an innocent purchaser for value when the face of the title clearly indicates the seller's married status, as this notice requires the purchaser to look beyond the title and verify the consent and authority of both spouses.
+
+#### Fallo
+
+> "WHEREFORE, the Petition is DENIED. The September 19, 2005 Decision and the April 24, 2006 Resolution of the Court of Appeals in CA-G.R. CV No. 61474 are AFFIRMED.
+> SO ORDERED."
