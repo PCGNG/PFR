@@ -1,13 +1,34 @@
-Vda. De Consuegra v. GSIS, 37 S 315
-Facts:
+### Facts
 
-Issue:
+Jose married Rosario. During the subsistence of this marriage, Jose contracted a second marriage with Basilia, who was in good faith and had no knowledge of the prior existing marriage. Jose was an employee of the government and a member of the GSIS, contributing to its retirement insurance fund during his coverture with Basilia. Jose did not designate any beneficiary for his retirement insurance benefits.
 
-Ruling: 
+Upon Jose’s death, both Rosario and Basilia filed competing claims before the GSIS for the proceeds of his retirement insurance. Rosario claimed that the entirety of the benefits belonged exclusively to the absolute community/conjugal partnership of the first and only valid marriage. Basilia countered that the benefits accrued during her coverture with Jose, entitling her and their children to a share in the proceeds.
 
-Ratio decidendi:
+---
 
-Class Notes:
+### Issue
 
-Dispositive portion:
+Do the retirement insurance benefits earned by a deceased spouse who contracted a void, bigamous marriage in good faith with a second wife belong exclusively to the absolute community/conjugal partnership of the first valid marriage?
 
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "When two women innocently and in good faith are united in marriage to the same man, they are both entitled to share equally in the property acquired by their joint effort, and in the absence of contrary evidence, the property will be divided equally between them."
+> "In the case of *Lao, et al. v. Dee Tim, et al.*, 45 Phil. 739, where the deceased Yap Siong contracted two marriages, this Court held that the estate of the deceased was to be divided between his two families, one-half for each, thus:
+> 'x x x as the conjugal partnership formed by the second marriage was dissolved before judicial declaration of its nullity, "[t]he only just and equitable solution in this case would be to recognize the right of the second wife to her share of one-half in the property acquired by her and her husband and consider the other half as pertaining to the conjugal partnership of the first marriage."'"
+> "Inasmuch as the deceased Jose Consuegra did not designate any beneficiary when he applied for retirement insurance benefits, the said benefits formed part of the estate of the deceased, and the legal heirs are entitled to receive the benefits. ...[T]he proceeds of the retirement insurance of the late Jose Consuegra should be divided equally between his first living wife Rosario Diaz, on the one hand, and his second wife Basilia Berdin and his children by her, on the other..."
+
+#### Ratio Decidendi
+
+Retirement insurance benefits under the Government Service Insurance System form part of the estate of the deceased employee when no beneficiary is expressly designated.
+
+Where a person contracts a bigamous second marriage in good faith while the first marriage remains undissolved, the assets accumulated during the second union cannot be treated as exclusively belonging to the community or partnership of the first marriage. The first wife retains her status as a putative heir entitled to her conjugal/community interest in the deceased husband's share of the estate. In contrast, the second spouse in good faith is recognized as having acquired a one-half share in the property earned during the second coverture.
+
+Under principles of equity and established jurisprudence, the mass of unallocated retirement benefits representing the employee's earnings must be apportioned equally: one-half pertains to the first wife representing the undissolved first marital partnership, and the remaining one-half pertains to the second wife and her children under the dissolved second marital partnership.
+
+#### Fallo
+
+> "WHEREFORE, the decision appealed from is affirmed, with costs against petitioners-appellants. It is so ordered."
