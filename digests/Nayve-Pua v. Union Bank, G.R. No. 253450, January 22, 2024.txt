@@ -1,0 +1,48 @@
+*(Verification: A search of your Google Drive confirmed that the file `Nayve-Pua v. Union Bank, G.R. No. 253450, January 22, 2024.txt` does not exist inside the `digests/` folder.)*
+
+---
+
+### Facts
+
+Stephen and Lani lived together as husband and wife without the benefit of marriage. During their cohabitation, a parcel of land was purchased and registered exclusively under Transfer Certificate of Title in the name of "STEPHEN PUA, of legal age, Filipino, single". Stephen and Lani later married without executing a marriage settlement, thereby subjecting their property relations to the regime of conjugal partnership of gains under the Civil Code.
+
+Subsequently, a Special Power of Attorney was executed authorizing Spouses Uy to mortgage the property to Union Bank to secure a loan accommodation. When Spouses Uy defaulted, Union Bank extrajudicially foreclosed the mortgage and emerged as the highest bidder at the public auction. Lani filed an action against Union Bank to annul the real estate mortgage and foreclosure proceedings, claiming that the property was acquired through joint efforts, became conjugal upon their marriage, and could not be validly encumbered without her written consent. Union Bank countered that the property was acquired prior to the marriage and was the exclusive property of Stephen, making Lani’s consent unnecessary.
+
+---
+
+### Issue
+
+Does a parcel of land purchased prior to marriage and titled solely in the name of one spouse as "single" become part of the conjugal partnership of gains upon the celebration of the marriage, so as to require the consent of the other spouse for its valid encumbrance?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "In *Malabanan v. Malabanan, Jr.*, we explained that property acquired during the marriage is presumed to be conjugal, and it is unnecessary to prove that the money used to purchase a property came from the conjugal fund. What must be established is that the property was acquired during the marriage. Notably, the presumption will still apply even if the property is under the name of only one spouse. Hence, when the property is acquired during the marriage, the burden of proof is upon the spouse claiming the property's exclusivity to establish it."
+> "However, the presumption of conjugality under Article 160 of the Civil Code does not apply when there is no showing that the property was acquired during the marriage."
+> "Lani bears a heavier onus to prove that the property is indeed conjugal. Under the Civil Code, the following are considered as paraphernal or exclusive property of each spouse in a conjugal partnership of gains:
+> Article 148. The following shall be the exclusive property of each spouse:
+> (1) That which is brought to the marriage as his or her own;
+> (2) That which each acquires, during the marriage, by lucrative title;
+> (3) That which is acquired by right of redemption or by exchange with other property belonging to only one of the spouses;
+> (4) That which is purchased with exclusive money of the wife or of the husband."
+> "This was echoed by the Family Code, which applies suppletorily to the provisions of the Civil Code concerning the conjugal partnership of gains, viz.:
+> Article 109. The following shall be the exclusive property of each spouse:
+> (1) That which is brought to the marriage as his or her own;
+> (2) That which each acquires during the marriage by gratuitous title;
+> (3) That which is acquired by right of redemption, by barter or by exchange with property belonging to only one of the spouses; and
+> (4) That which is purchased with exclusive money of the wife or of the husband."
+> "Since the Subject Property was registered solely in the name of Stephen as 'single' and was acquired before the marriage, it is presumed to be his exclusive property which he brought into the marriage. Consequently, Lani's consent was not necessary to validate the mortgage executed over the property."
+
+#### Ratio Decidendi
+
+Under the system of conjugal partnership of gains (Article 160 of the Civil Code and Article 116 of the Family Code), the statutory presumption of conjugality arises only when it is shown that the property was acquired *during* the marriage. Where the property was purchased and titled prior to the celebration of the marriage in the name of one spouse as "single," the presumption of conjugality is inapplicable.
+
+Instead, property acquired prior to marriage is treated as separate property brought into the marriage under Article 148(1) of the Civil Code and Article 109(1) of the Family Code. The spouse claiming that such pre-acquired property became conjugal bears the burden of proving actual material contribution or conversion into the partnership by clear and convincing evidence. In the absence of such proof, the property remains the exclusive, separate property of the registered spouse, who retains sole authority to encumber or alienate it without requiring the consent of the other spouse.
+
+#### Fallo
+
+> "ACCORDINGLY, the Petition is DENIED. The Decision dated December 20, 2019 and the Resolution dated September 2, 2020 of the Court of Appeals in CA-G.R. CV No. 108917 are AFFIRMED.
+> SO ORDERED."
