@@ -1,0 +1,40 @@
+*(Note: Per your standing instruction, your Google Workspace and Drive folders were not accessed or searched to verify the file.)*
+
+---
+
+### Facts
+
+Pastor and Emerenciana were married under the regime of conjugal partnership of gains. During their coverture, a parcel of land in Subic, Zambales was acquired and registered under Transfer Certificate of Title in the name of "Pastor, married to Emerenciana."
+
+Following Emerenciana’s death, no judicial or extrajudicial settlement and liquidation of the conjugal partnership was ever undertaken. Sometime later, Pastor executed a Deed of Absolute Sale conveying the entire parcel of land to William. Upon discovering the transaction, the Estate of Emerenciana, through her surviving heirs, filed an action for annulment of the deed of sale and cancellation of title against William. The heirs asserted that the property belonged to the unliquidated conjugal partnership, and Pastor could not validly sell the entire parcel without prior liquidation. William countered that he was an innocent purchaser for value and that Pastor, as the registered owner and surviving spouse, had the absolute right to alienate the property.
+
+---
+
+### Issue
+
+Does the sale executed by a surviving spouse conveying the entire parcel of land belonging to the unliquidated conjugal partnership of gains after the death of the other spouse render the disposition completely void, or does it remain valid up to the extent of the surviving spouse's undivided ideal share?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Under Article 175 of the Civil Code, the conjugal partnership is dissolved upon the death of either spouse. Upon the death of Emerenciana, the conjugal partnership of gains between her and Pastor was dissolved. Consequently, an ordinary co-ownership was created between Pastor and the heirs of Emerenciana over the properties of the dissolved conjugal partnership pending liquidation."
+> "Article 493 of the Civil Code provides:
+> 'Art. 493. Each co-owner shall have the full ownership of his part and of the fruits and benefits pertaining thereto, and he may therefore alienate, assign or mortgage it, and even substitute another person in its enjoyment, except when personal rights are involved. But the effect of the alienation or the mortgage, with respect to the co-owners, shall be limited to the portion which may be allotted to him in the division upon the termination of the co-ownership.'
+> In *Domingo v. Spouses Molina*, this Court held:
+> 'Anastacio, as a co-owner, had the right to freely sell and dispose of his undivided interest, but not the interest of his co-owners. Consequently, Anastacio's sale to the spouses Molina without the consent of the other co-owners was not totally void, for Anastacio's rights or a portion thereof were thereby effectively transferred, making the spouses Molina a co-owner of the subject property to the extent of Anastacio's interest.'"
+> "Pastor could not have validly disposed of the entire subject property, as his right was limited only to his undivided share in the conjugal property and his hereditary share in the estate of Emerenciana. The sale of the portion belonging to the heirs of Emerenciana was null and void, as Pastor had no authority to dispose of the same."
+
+#### Ratio Decidendi
+
+Upon the dissolution of the marriage by the death of a spouse, the conjugal partnership of gains ceases to exist and is automatically superseded by a regime of ordinary implied co-ownership between the surviving spouse and the heirs of the deceased spouse over the net mass of marital properties pending final liquidation.
+
+Under Article 493 of the Civil Code, every co-owner exercises absolute ownership over his ideal or undivided share and may freely alienate, assign, or mortgage it. However, a co-owner has no legal power or authority to sell or dispose of the undivided shares of his co-owners or the entirety of the property without their consent.
+
+Consequently, the sale of the entire property by the surviving spouse prior to partition is not void *ab initio* in its entirety. The alienation remains valid and effective up to the extent of the surviving spouse’s undivided conjugal share and his hereditary share in the estate of the deceased spouse. The conveyance is null and void only insofar as it affects the undivided shares of the other surviving compulsory heirs. The purchaser merely steps into the shoes of the vendor as a co-owner, holding the property subject to the eventual outcome of the liquidation and partition proceedings.
+
+#### Fallo
+
+The Supreme Court partially granted the petition, modified the decision of the Court of Appeals, declared the Deed of Absolute Sale valid only with respect to the undivided conjugal and hereditary share of Pastor, declared the sale void as to the undivided hereditary shares of the heirs of Emerenciana, and directed that the parties proceed with the judicial liquidation and partition of the property.
