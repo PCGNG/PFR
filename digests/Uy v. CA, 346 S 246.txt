@@ -1,0 +1,38 @@
+*(Note: Per your earlier directive, your Google Workspace and Drive folders were not accessed or searched to verify the file.)*
+
+---
+
+### Facts
+
+Dr. Ernesto and Connie were married under the regime of conjugal partnership of gains. During their coverture, eight parcels of land located in Lapu-Lapu City were purchased through deeds of absolute sale from their registered owners. The deed of sale for one lot was executed in favor of "Dr. Ernesto, married to Connie", while the deeds of sale for the other seven parcels named "Connie, married to Dr. Ernesto" as the vendee. The corresponding certificates of title were subsequently issued reflecting the purchasers as indicated in the deeds.
+
+Dr. Ernesto later acquired an interest in a corporation and mortgaged the eight parcels of land to a bank to secure corporate loans, executing the mortgages solely in his name or on the basis of a special power of attorney ostensibly signed by Connie. When the corporate obligation was defaulted on, the bank foreclosed on the mortgaged properties. Connie filed an action against the bank and Dr. Ernesto to annul the mortgages and foreclosure sales, claiming that the properties were paraphernal in nature because they were purchased solely with her personal funds, and therefore could not be validly encumbered by Dr. Ernesto without her consent. The bank countered that the properties were acquired during the marriage and formed part of the conjugal partnership of gains, which Dr. Ernesto, as administrator, had authority to mortgage.
+
+---
+
+### Issue
+
+Do parcels of land acquired by onerous title during the marriage and registered in the name of one spouse with the description "married to" the other spouse form part of the conjugal partnership of gains, where the claiming spouse fails to present clear and convincing evidence that the properties were bought with her exclusive funds?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Under the Civil Code, which was in force at the time of the celebration of the marriage of Ernesto and Connie Uy, all property acquired during the marriage is presumed to belong to the conjugal partnership, unless it be proved that it pertains exclusively to the husband or to the wife. Article 160 thereof provides:
+> 'Art. 160. All property of the marriage is presumed to belong to the conjugal partnership, unless it be proved that it pertains exclusively to the husband or to the wife.'
+> The presumption of conjugality applies to property acquired during the lifetime of the husband and wife. The presumption is not rebutted by the mere fact that the certificate of title was issued in the name of one of the spouses only, as in this case where the certificates of title were issued in the name of 'Connie Uy, married to Dr. Ernesto Uy,' or 'Dr. Ernesto Uy, married to Connie Uy.' The words 'married to' are merely descriptive of the civil status of the registered owner."
+> "The party asserting exclusive ownership of property acquired during marriage has the burden of proving it by clear and convincing evidence. In the present case, Connie Uy failed to discharge this burden. There is no showing that the purchase price of the subject properties was paid out of her exclusive paraphernal funds. The acquisition of the properties having taken place during the subsistence of the marriage, the statutory presumption that they belong to the conjugal partnership of gains must prevail."
+> "Under Article 165 of the Civil Code, the husband is the administrator of the conjugal partnership. Article 166 of the same Code provides that the husband cannot alienate or encumber any real property of the conjugal partnership without the wife's consent, subject to certain exceptions."
+
+#### Ratio Decidendi
+
+Under Article 160 of the Civil Code, all property acquired during marriage is presumed to belong to the conjugal partnership of gains. The party alleging separate or paraphernal ownership must overcome this presumption with clear, categorical, and convincing evidence demonstrating that the assets were acquired by exclusive funds or gratuitous title.
+
+The issuance of a certificate of title in the name of only one spouse, followed by the phrase "married to" the other spouse, does not destroy or rebut the presumption of conjugality; rather, the phrase is merely descriptive of the civil status of the named spouse and confirms acquisition during the subsistence of the marriage. Because the claimant spouse failed to prove with concrete documentation that the properties were purchased with her exclusive paraphernal capital, the statutory presumption prevails, and the parcels of land form part of the conjugal partnership of gains.
+
+#### Fallo
+
+> "WHEREFORE, the petition is DENIED. The Decision of the Court of Appeals dated July 31, 1997 in CA-G.R. CV No. 43419 is hereby AFFIRMED. Costs against petitioner.
+> SO ORDERED."
