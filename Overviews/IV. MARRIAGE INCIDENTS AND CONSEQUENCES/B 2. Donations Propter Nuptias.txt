@@ -108,8 +108,10 @@ o	donee imputes to the donor any criminal offense, or any act involving moral tu
 o	donee unduly refuses the donor support when the donee is legally or morally bound to give support to the donor
 	Inofficious donations 
 o	If made by a third person involving his present property and the donation turns out to be inofficious (if it exceeds what the donor may give by will; it prejudices the legitime of compulsory heirs)
+	Subsequent appearance of child 
+o	If made by a third person involving his present property and subsequently a child appears (marital/non-marital, adopted, a child whom the donor believes to be dead but turns out to be living)
 
-Revocation
+### Revocation
 Art. 86 in rel. to Art. 50, 43 (3) and Arts. 134, 764, 769, 1144-1145, Civil Code
 	
 Art. 86. A donation by reason of marriage may be revoked by the donor in the following cases:
