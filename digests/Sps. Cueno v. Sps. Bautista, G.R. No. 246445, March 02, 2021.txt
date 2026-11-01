@@ -1,0 +1,42 @@
+*(Note: Per your directive, your Google Workspace and Drive folders were not accessed or searched to verify the file.)*
+
+---
+
+### Facts
+
+Eulalio and Flora were married while the Civil Code was in force, and their property relations were governed by the conjugal partnership of gains. During their marriage, the spouses acquired an undivided share in a parcel of land in Zamboanga City, which formed part of their conjugal partnership.
+
+Eulalio subsequently sold the conjugal share to his father-in-law, Luis, without the consent of his wife, Flora. Luis later caused the cancellation of the title and had the property registered solely in his name. Luis thereafter sold the property to Epifanio and Veronica, who took actual possession, introduced improvements, and later donated portions to their children.
+
+Decades after the conveyance executed by Eulalio, Eulalio and Flora filed an action for recovery of ownership and declaration of nullity of the sale against Epifanio and Veronica, contending that under Article 166 of the Civil Code, the husband’s alienation of conjugal real property without the wife’s consent is void *ab initio*, making the action imprescriptible. Epifanio and Veronica countered that the conveyance was merely voidable and that the action to annul it had long prescribed.
+
+---
+
+### Issue
+
+Is the sale of conjugal real property executed by the husband without the wife’s consent under the regime of the Civil Code void *ab initio* and imprescriptible, or is it merely voidable and subject to the ten-year prescriptive period under Article 173 of the Civil Code?
+
+---
+
+### Ruling
+
+#### Legal Basis and Governing Provisions
+
+* **Articles 165 and 166 of the Civil Code:**
+Under the Civil Code, the husband is the administrator of the conjugal partnership. However, Article 166 provides that unless the wife has been declared non compos mentis, a spendthrift, under civil interdiction, or confined in a leprosarium, the husband cannot alienate or encumber any real property of the conjugal partnership without the wife's consent.
+* **Article 173 of the Civil Code:**
+Article 173 expressly provides the remedy and prescriptive period available to the wife: she may, during the marriage and within ten years from the transaction questioned, ask the courts for the annulment of any contract of the husband entered into without her consent when such consent is required. Should the wife fail to exercise this right during the marriage, she or her heirs, after the dissolution of the marriage, may only demand the value of the property fraudulently alienated by the husband.
+* **Distinction between Civil Code and Family Code Regimes:**
+The Supreme Court clarified the long-standing conflict in jurisprudence regarding unauthorized dispositions of conjugal property. Under Article 124 of the Family Code, alienations or encumbrances of community or conjugal property without the written consent of the other spouse are void *ab initio* (constituting a continuing offer). In contrast, transactions executed prior to the effectivity of the Family Code under the Civil Code regime are governed by Articles 166 and 173 of the Civil Code, under which the alienation is not void, but merely **voidable**.
+
+#### Ratio Decidendi
+
+Under the Civil Code regime of conjugal partnership of gains, an alienation or encumbrance of conjugal real property executed by the husband without the wife's consent is merely voidable, not void *ab initio*.
+
+Because the transaction is voidable rather than inexistent, it produces binding legal effects until annulled by a competent court. The remedy afforded to the non-consenting wife is specifically defined and circumscribed by Article 173 of the Civil Code: she must institute the action for annulment **during the subsistence of the marriage and within ten years from the date of the questioned transaction**.
+
+The statutory period begins from the execution of the contract of sale, not from the date of discovery. If the non-consenting wife fails to bring the action for annulment within that ten-year prescriptive window, the voidable alienation is validated by prescription, and the right to seek recovery of the property is completely extinguished. Consequently, the claim of imprescriptibility applicable to void contracts cannot be invoked.
+
+#### Fallo
+
+The Supreme Court denied the petition and affirmed the decision of the Court of Appeals dismissing the complaint filed by Spouses Eulalio and Flora Cueno, upholding the validity of the transfer and the rights of the subsequent purchasers.
