@@ -1,0 +1,38 @@
+### Facts
+
+Rafael and Alita were married under the regime of conjugal partnership of gains. During their coverture, they acquired a parcel of land in Oton, Iloilo, covered by a Transfer Certificate of Title in the names of Spouses Rafael and Alita.
+
+Alita secured a loan accommodation from Commoner Lending and executed a Real Estate Mortgage over the conjugal lot as security. To facilitate the encumbrance, Alita presented a notarized General Power of Attorney ostensibly executed by Rafael granting her authority to mortgage the property. Upon default on the installment payments, Rafael negotiated with Commoner Lending, acknowledged the outstanding debt, promised to settle the balance in installments, and actually made partial payments toward the obligation.
+
+Notwithstanding these partial remittances, the loan remained delinquent, prompting Commoner Lending to extrajudicially foreclose the mortgage and purchase the property at public auction. Rafael subsequently filed an action against Commoner Lending and Alita for nullity of documents and damages, asserting that his signature on the General Power of Attorney was forged and that the mortgage over the conjugal property was void *ab initio* for want of his marital consent. Commoner Lending countered that even assuming lack of initial consent, Rafael’s subsequent undertaking to pay and actual partial payments perfected and validated the encumbrance under Article 124 of the Family Code.
+
+---
+
+### Issue
+
+May a real estate mortgage constituted over conjugal property by one spouse without the other spouse's consent—which is categorized as void under Article 124 of the Family Code—be perfected and transformed into a binding contract through the subsequent acceptance or partial performance of the non-consenting spouse?
+
+---
+
+### Ruling
+
+#### Legal Basis and Governing Provisions
+
+* **Article 124 of the Family Code:**
+The administration and enjoyment of the conjugal partnership property belong to both spouses jointly. These powers do not include disposition or encumbrance without the authority of the court or the written consent of the other spouse. In the absence of such authority or consent, the disposition or encumbrance shall be void. However, the transaction shall be construed as a continuing offer on the part of the consenting spouse and the third person, and may be perfected as a binding contract upon the acceptance by the other spouse or authorization by the court before the offer is withdrawn by either or both offerors.
+* **Reconciliation with *Alexander v. Spouses Escalona* (G.R. No. 256141, July 19, 2022):**
+The SC reiterated that when an alienation or encumbrance of conjugal property is executed after the effectivity of the Family Code without the requisite spousal consent, the transaction falls squarely under Article 124 of the Family Code. While commonly denominated as "void," the statutory consequence established by the text of Article 124 contains a sui generis rule: the unauthorized transaction operates as an unwithdrawn, continuing offer.
+* **Nature of Acceptance under Law on Contracts (Articles 1318 and 1320 of the Civil Code):**
+Acceptance of an offer may be express or implied. An implied acceptance is demonstrated by acts of the non-consenting spouse that manifest clear recognition and assumption of the agreement, such as making payments under the contracted obligation before the transaction is recalled or withdrawn.
+
+#### Ratio Decidendi
+
+While dispositions or encumbrances of conjugal property executed without the written consent of the other spouse after the effectivity of the Family Code are declared void under Article 124, the statute specifically creates an exception to the strict rule that void contracts can never be validated.
+
+Under the second paragraph of Article 124, an unauthorized disposition or mortgage operates legally as a continuing offer by the executing spouse and the third-party creditor. Prior to any formal withdrawal of that offer by either offeror, the non-consenting spouse possesses the legal option either to repudiate the transaction by assailing its validity, or to accept it.
+
+Where the non-consenting spouse, despite the initial lack of authority or forgery of his signature, actively intervenes, undertakes to assume the debt, and delivers partial payments to the mortgagee, such conduct constitutes an unequivocal implied acceptance of the continuing offer. By virtue of this acceptance, the previously unperfected encumbrance matures into a perfected, valid, and fully enforceable mortgage binding the conjugal partnership. Consequently, the non-consenting spouse is precluded from subsequently seeking the total annulment of the mortgage and its foreclosure.
+
+#### Fallo
+
+The Supreme Court granted the petition, reversed and set aside the decision and resolution of the Court of Appeals, and dismissed Rafael Balandra’s complaint for nullity of documents and damages for lack of merit, thereby sustaining the validity of the real estate mortgage and the ensuing foreclosure proceedings.
