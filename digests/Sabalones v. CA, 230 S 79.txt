@@ -1,0 +1,38 @@
+*(Note: Per your directive, your Google Workspace and Drive folders were not accessed or searched to verify the file.)*
+
+---
+
+### Facts
+
+Samson and Remedios were married without an ante-nuptial agreement, subjecting their property relations to the conjugal partnership of gains. During their coverture, they acquired two parcels of land with residential buildings in Forbes Park, Makati, and in Greenhills, San Juan.
+
+Samson retired from foreign diplomatic service, abandoned Remedios and their children, and cohabited with another woman. Samson subsequently instituted an action for judicial separation of property. Remedios opposed the partition and prayed that she be designated as sole administrator of the conjugal properties, showing that Samson had dissipated partnership assets, left the country, and transferred or encumbered properties to favor his paramour. The trial court designated Remedios as administrator of the conjugal assets during the pendency of the proceedings and issued a preliminary injunction enjoining Samson from alienating or encumbering the conjugal properties. Samson challenged the interim appointment and injunction, arguing that as the husband, the law grants him the exclusive right of administration over the conjugal partnership.
+
+---
+
+### Issue
+
+May the trial court, in an action for legal separation or judicial separation of property, designate the wife as sole administrator of the conjugal partnership assets *pendente lite* and enjoin the husband from disposing of the properties when the husband has abandoned the family and mismanaged the marital assets?
+
+---
+
+### Ruling
+
+#### Legal Basis and Governing Provisions
+
+* **Articles 163 and 165 of the Civil Code (in relation to Article 61 of the Family Code):**
+While the general rule under the Civil Code establishes the husband as the administrator of the conjugal partnership, this statutory prerogative is not absolute. It presupposes that the husband faithfully discharges his duties toward the marital partnership and the family.
+* **Article 167 of the Civil Code (in relation to Article 124 of the Family Code):**
+Where the husband abuses his powers of administration or abandons the common dwelling without just cause for at least one year, the court may divest him of administrative powers and appoint the wife as sole administrator of the conjugal partnership, or decree judicial separation of property.
+* **Article 61 in relation to Article 128 of the Family Code (Applied by Analogy/Doctrine):**
+During the pendency of proceedings for legal separation or separation of conjugal property, the court possesses the inherent authority to provide for the support of the spouses and their children and the administration of the common properties. To prevent dissipation, concealment, or fraudulent conveyance of marital assets to the detriment of the family, the court may designate one spouse as interim administrator and issue protective injunctive orders restraining unilateral dispositions.
+
+#### Ratio Decidendi
+
+Although the husband is designated by law as the administrator of the conjugal partnership of gains, this statutory authority is conditioned upon the proper management and conservation of the partnership assets for the benefit of the family. The administration of the conjugal property is not a personal license for one spouse to mismanage, conceal, or squander marital resources.
+
+Where the husband has abandoned the conjugal home to live with another woman and engages in acts that threaten the preservation of the conjugal estate, the trial court acts well within its equitable and statutory discretion in appointing the abandoned wife as administrator *pendente lite*. Furthermore, the issuance of a writ of preliminary injunction prohibiting the husband from alienating or encumbering conjugal assets during the trial is a necessary and valid exercise of judicial authority to preserve the *status quo*, ensure the sustenance of the family, and prevent the judgment of liquidation and partition from being rendered illusory.
+
+#### Fallo
+
+The Supreme Court dismissed the petition for lack of merit, affirmed the decision of the Court of Appeals sustaining the trial court's orders, and upheld the designation of Remedios as administrator of the conjugal properties *pendente lite* alongside the injunction restraining Samson from disposing of or encumbering the conjugal assets.
