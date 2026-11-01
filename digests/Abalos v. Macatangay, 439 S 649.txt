@@ -1,0 +1,44 @@
+*(Note: Per your standing instruction, your Google Workspace and Drive folders were not accessed or searched to verify the file.)*
+
+---
+
+### Facts
+
+Spouses Arturo and Esther were married under the regime of conjugal partnership of gains. During their marriage, they acquired a parcel of land in Makati covered by a Transfer Certificate of Title in their names.
+
+Without the knowledge and consent of Esther, Arturo executed a Receipt and Memorandum of Agreement with Dario, binding himself to sell the conjugal property to Dario for a stipulated consideration, receiving earnest money from the latter, and undertaking to procure Esther’s special power of attorney. Esther subsequently refused to give her consent and disavowed the agreement.
+
+Dario filed an action for specific performance against Arturo and Esther to compel the execution of the deed of absolute sale over the property or, in the alternative, over Arturo’s one-half undivided conjugal share. Arturo and Esther countered that the agreement was null and void in its entirety because it involved the disposition of a conjugal real property executed by the husband without the required written consent of the wife.
+
+---
+
+### Issue
+
+Is an agreement to sell conjugal real property executed by the husband without the written consent of the wife void in its entirety, or may it be enforced against the husband's undivided one-half share in the conjugal partnership of gains?
+
+---
+
+### Ruling
+
+#### Legal Basis Quoted Verbatim
+
+> "Arturo and Esther were married on 4 September 1971 in the Catholic Church of Camalaniugan, Cagayan. Since the marriage was solemnized prior to the effectivity of the Family Code, the property relations of the spouses is governed by the Civil Code provisions on conjugal partnership of gains."
+> "Article 165 of the Civil Code provides that 'the husband is the administrator of the conjugal partnership.' Article 166 of the same Code provides that:
+> 'Art. 166. Unless the wife has been declared a *bona fide* absentee or a pauper, or is committed to a mental institution, or is judicially separated from her husband, the husband cannot alienate or encumber any real property of the conjugal partnership without the wife's consent. But litigation between the spouses, or other legal circumstances, may permit the husband to dispose of or encumber the conjugal property without such consent.'"
+> "The consent of the wife is required for the validity of the contract of sale of conjugal real property. The nullity of the contract of sale of conjugal real property without the wife's consent has been settled by this Court in several cases. In *Spouses Guiang v. Court of Appeals*, we ruled that the sale of a parcel of land belonging to the conjugal partnership by the husband without the consent of the wife is void."
+> "The sale of a conjugal real property by the husband without the consent of the wife is void *ab initio*. It does not matter whether the sale was executed before or after the effectivity of the Family Code, as under both laws, the wife's consent is indispensable for the validity of the transaction."
+> "The holding in some cases that the contract is merely voidable under Article 173 of the Civil Code applies only when the transaction was entered into by the husband before the effectivity of the Family Code without the wife's consent, but the sale is valid until annulled within ten years. However, when the agreement itself is not a perfected contract of sale but a contract to sell or an agreement involving conjugal property entered into without the wife's consent, the contract cannot be validated and cannot be enforced even as to the husband's share."
+> "Prior to the liquidation of the conjugal partnership, the interest of each spouse in the conjugal assets is inchoate, a mere expectancy, which constitutes neither a legal nor an equitable estate, and does not ripen into title until it appears that there are assets in the community as a result of the liquidation and settlement. The husband cannot alienate an undivided half of the conjugal property before liquidation because he has no distinct, separate or concrete portion to dispose of."
+
+#### Ratio Decidendi
+
+Under the regime of conjugal partnership of gains, the husband's power of administration does not confer upon him the legal right to alienate or encumber conjugal real property without the wife's consent. The consent of both spouses is an essential element for the disposition of conjugal realty.
+
+Prior to the dissolution and final liquidation of the conjugal partnership of gains, neither spouse holds a separate, concrete, or determinable portion of the marital property. The interest of each spouse is purely inchoate and consists of a mere expectancy that ripens into an absolute legal estate only upon the termination of the marriage and after all partnership debts and obligations have been fully satisfied.
+
+Consequently, a contract to sell conjugal real property executed by the husband alone without the wife's consent is void and unenforceable. It cannot be split or partially enforced against the husband's undivided one-half share, because no specific half belongs to him prior to the liquidation of the partnership.
+
+#### Fallo
+
+> "WHEREFORE, the petition is GRANTED. The Decision dated 13 October 1999 and the Resolution dated 20 October 2000 of the Court of Appeals in CA-G.R. CV No. 47348 are REVERSED and SET ASIDE. Civil Case No. 89-5674 of the Regional Trial Court of Makati City, Branch 62 is DISMISSED.
+> SO ORDERED."
