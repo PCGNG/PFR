@@ -1,19 +1,36 @@
-Facts:
+### Facts
 
-Willem Beumer, a Dutch national, was married to Avelina Amores, a Filipina. During their marriage, several parcels of land were acquired using funds that Beumer claimed came from his disability benefits. Due to the constitutional prohibition on foreigners owning land, the properties were registered in Avelina's name. 
+Willem, a Dutch national, married Avelina, a Filipina. During the subsistence of their marriage, several parcels of land were acquired and registered exclusively in Avelina’s name. Following the declaration of nullity of their marriage, Willem filed a petition for the dissolution of their marital property regime and distribution of properties, alleging that the lands formed part of their common marital assets having been purchased using his personal funds. Alternatively, Willem demanded reimbursement of one-half of the value of the purchase price on grounds of equity and unjust enrichment, asserting that the properties were placed solely in Avelina's name only because of the constitutional prohibition against foreign land ownership. Avelina opposed, asserting that Willem acquired no right or title over the lands and was barred from demanding reimbursement.
 
-After their marriage was annulled, Beumer filed a petition to dissolve their conjugal partnership and sought a share in the properties, or at least reimbursement for the funds he used to purchase the land.
+---
 
-Issue:
+### Issue
 
-Ruling: 
-Surely, a contract that violates the Constitution and the law is null and void, vests no rights, creates no obligations and produces no legal effect at all. Corollary thereto, under Article 1412 of the Civil Code, petitioner cannot have the subject properties deeded to him or allow him to recover the money he had spent for the purchase thereof. The law will not aid either party to an illegal contract or agreement; it leaves the parties where it finds them. Indeed, one cannot salvage any rights from an unconstitutional transaction knowingly entered into.
+Does real property acquired during marriage using the funds of an alien spouse form part of the absolute community of property, and may the alien spouse claim reimbursement for the purchase price upon dissolution of the marital property regime?
 
-Neither can the Court grant petitioner’s claim for reimbursement on the basis of unjust enrichment.33 As held in Frenzel v. Catito, a case also involving a foreigner seeking monetary reimbursement for money spent on purchase of Philippine land, the provision on unjust enrichment does not apply if the action is proscribed by the Constitution.
+---
 
-Ratio decidendi:
+### Ruling
 
-Class Notes:
+#### Legal Basis Quoted Verbatim
 
-Dispositive portion:
+> "In *In Re: Petition For Separation of Property-Elena Buenaventura Muller v. Helmut Muller* the Court had already addressed a similar issue. In the said case, petitioner Elena Buenaventura Muller filed a petition for separation of property against her estranged German husband, respondent Helmut Muller. The RTC granted the petition and decreed the separation of property between them. It also included in the partition a parcel of land in Antipolo City which respondent Helmut had purchased with his inherited funds and had registered in the name of petitioner Elena. On appeal, the CA held that respondent Helmut was entitled to reimbursement of the funds he spent for the purchase of the said property. The SC reversed the CA and held that:
+> Respondent was well-aware of the constitutional prohibition for aliens to acquire lands in the Philippines. He was, in fact, advised by a certain Atty. Jose S. Raymundo that an alien cannot acquire lands in the Philippines. Consequently, he had the Antipolo property titled in the name of petitioner. For the same reason, the Antipolo property cannot be declared as conjugal property, and respondent cannot be granted reimbursement of the amount he invested in the acquisition of the Antipolo property and the construction of the house and other improvements thereon."
+> "Futile, too, is petitioner's reliance on Article 22 of the New Civil Code which reads:
+> Art. 22. Every person who through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter without just or legal ground, shall return the same to him."
+> "The principle of unjust enrichment cannot be validly invoked by a party who, through his own act or omission, took part in a void contract and seeks to enforce rights arising therefrom or to recover what he had given. Indeed, petitioner cannot seek refuge in equity to undo his illicit act. He who seeks equity must do equity, and he who comes into equity must come with clean hands. He who has done inequity shall not be accorded equity."
+> "Nor may petitioner rely on Article 1416 of the New Civil Code which provides:
+> Art. 1416. When the agreement is not illegal per se but is merely prohibited, and the prohibition by the law is designed for the protection of the plaintiff, he may, if public policy would be thereby enhanced, recover what he has paid or delivered."
+> "The constitutional prohibition against foreign ownership of land is designed to preserve the nation's land for Filipinos. As such, petitioner cannot be deemed to belong to that class of persons for whose protection the prohibition was designed. Therefore, he cannot be permitted to recover what he has given or paid under the doctrine of *in pari delicto*."
+> "Needless to state, the purpose of the prohibition is to conserve the national patrimony and it is this policy which the Court is duty-bound to protect."
 
+#### Ratio Decidendi
+
+Under Section 7, Article XII of the 1987 Constitution, aliens are absolutely disqualified from acquiring private lands in the Philippines, except through hereditary succession. The statutory regime of Absolute Community of Property (or Conjugal Partnership of Gains) under the Family Code cannot operate to override or circumvent this fundamental constitutional command.
+
+A foreign spouse acquires no ownership, community, or co-ownership interest in real property acquired in the Philippines during the marriage. Because the alien spouse knowingly participated in the transaction in direct evasion of the fundamental law, the contract of acquisition is null and void as to him. Consequently, the alien spouse cannot seek equitable refuge through reimbursement under Article 22 (unjust enrichment) or Article 1416 of the Civil Code. Under the clean hands doctrine and the principle of *in pari delicto*, the law leaves the parties where it finds them; allowing reimbursement would indirectly permit an alien to derive economic rights and claims from a transaction constitutionally prohibited.
+
+#### Fallo
+
+> "WHEREFORE, the petition is DENIED. Accordingly, the assailed October 8, 2009 Decision and January 24, 2011 Resolution of the Court of Appeals in CA-G.R. CV No. 01940 are AFFIRMED.
+> SO ORDERED."
