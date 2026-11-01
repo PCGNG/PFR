@@ -144,4 +144,32 @@ Article 195. Subject to the provisions of the succeeding articles, the following
 (4) Parents and their illegitimate children and the legitimate and illegitimate children of the latter; and
 (5) Legitimate brothers and sisters, whether of full or half-blood
 
+ABSOLUTE COMMUNITY OF PROPERTY REGIME  
+	Nature and Concept: 
+    o	The husband and wife become co-owners of all properties brought into the marriage or acquired during its subsistence, unless otherwise provided by law or marriage settlement.
+    o	The husband and wife become co-owners of all properties brought into the marriage or acquired during its subsistence, unless otherwise provided by law or marriage settlement. 
+    o	When the couple's marriage or community is dissolved, the common mass is divided between the spouses, or their respective heirs, equally or in the proportion the parties have established, irrespective of the value each may have originally owned.
+	When applicable
+    o	Applicable only to valid and voidable marriages and void marriages under Art 40, FC.
+	History and When Mandatory:
+    o	Civil Code - the default regime was the Conjugal Partnership of Gains (CPG). 
+    o	Family Code (effective August 3, 1988) - making ABSOLUTE Community of Property Regime (ACP) mandatory in the absence of a marriage settlement or when the regime agreed upon is void.
+	Properties INCLUDED
+    o	All properties owned by the spouses at the time of the celebration of the marriage or acquired thereafter, unless specifically excluded by law or in the marriage settlement.
+	Presumption in Favor of Community Property
+    o	Properties acquired before and during the marriage are presumed to belong to the community (rebuttable presumption)
+	Properties EXCLUDED
+    o	Properties acquired BEFORE the marriage which has been excluded from the ACP in the marriage settlement
+    o	Property acquired DURING the marriage by gratuitous title 
+	Donation/inheritance 
+	Including fruits or income 
+	No express provision by the donor, grantor, testator that it will belong to the ACP 
+	Made to either spouse.
+    o	Property for personal and exclusive use of either spouse acquired BEFORE or DURING marriage 
+	EXCEPT – jewelries
+    o	Property acquired by either spouse BEFORE marriage if either has legitimate descendants in prior marriage 
+	including fruits and income, if any
+    o	Q: What happens if the exclusive property is sold or exchanged? REMAINS EXCLUSIVE
+	Excluded by marriage settlement - proceeds will become part of the ACP (unless excluded in the marriage settlement) 
+	Excluded by operation of law - remains exclusive
 
