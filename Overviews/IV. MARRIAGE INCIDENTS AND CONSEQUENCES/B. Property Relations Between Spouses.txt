@@ -7,12 +7,18 @@ However, intestate and testamentary successions, both with respect to the order 
 PROPERTY RELATIONS BETWEEN SPOUSES  
 	Marriage Settlement 
 	Provisions of the Family Code (Absolute Community Property Regime; Conjugal Partnership of Gains; Separate Property) Local Customs
-
 	Governing Law (Property Relations) Philippine law regardless of place of celebration of marriage UNLESS there is a contrary stipulation in the marriage settlement 
-
 	The rule will not apply if: 
+    o	Both spouses are aliens 
+    o	Extrinsic validity of contract - executed where the property is situated and affecting properties outside the Philippines
+    o	 Extrinsic validity - executed in the Philippines but affecting properties situated outside the Philippines
 
-o	Both spouses are aliens 
-o	Extrinsic validity of contract - executed where the property is situated and affecting properties outside the Philippines
-o	 Extrinsic validity - executed in the Philippines but affecting properties situated outside the Philippines
+EFFECT OF NON CELEBRATION OF MARRIAGE
+The validity of marriage settlement is dependent upon the celebration of the marriage. If the marriage does not take place, everything stipulated in the marriage settlement, including donations between the prospective spouses made therein, shall be rendered void. The celebration if the marriage is a condition sine qua non for the validity of the marriage settlement.
+A MARRIAGE SETTLEMENT must be distinguished from a DONATION PROPTER NUPTIAS. While both are considered contracts in consideration of marriage, in DONATION PROPTER NUPTIAS, the fact that marriage did not take place does not render the donation void, with the exception of a donation propter nuptias contained in the marriage settlement itself.
 
+Art. 80. In the absence of a contrary stipulation in a marriage settlement, the property relations of the spouses shall be governed by Philippine laws, regardless of the place of the celebration of the marriage and their residence.
+This rule shall not apply:
+(1) Where both spouses are aliens;
+(2) With respect to the extrinsic validity of contracts affecting property not situated in the Philippines and executed in the country where the property is located; and
+(3) With respect to the extrinsic validity of contracts entered into in the Philippines but affecting property situated in a foreign country whose laws require different formalities for its extrinsic validity.
