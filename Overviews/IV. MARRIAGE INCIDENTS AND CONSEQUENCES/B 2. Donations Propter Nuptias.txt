@@ -6,17 +6,19 @@ Donations by reason of marriage or donations propter nuptias are those which are
 3.	It must be made in favor of one or both of the future spouses
 (the donor may either be one of the future spouses or a third person)
 
-*In donations propter nuptias, the fact that the marriage did not take place does not render the donation void, except if the donation is contained in the marriage settlement itself. 
+> In donations propter nuptias, the fact that the marriage did not take place does not render the donation void, except if the donation is contained in the marriage settlement itself. 
 
-*The fact that the marriage did not take place shall only give rise to a cause or ground to revoke a donation propter nuptias. If the same is not revoked, it continues to be valid.
+> The fact that the marriage did not take place shall only give rise to a cause or ground to revoke a donation propter nuptias. If the same is not revoked, it continues to be valid.
 
 Art. 83. These donations are governed by the rules on ordinary donations established in Title III of Book III of the Civil Code, insofar as they are not modified by the following articles.
+
+> Article 83 contemplates only of donations propter nuptias involving present property.As to donations propter nuptias of future property, the same shall be governed by the law on testamentary succession.
 
 Art. 84. If the future spouses agree upon a regime other than the absolute community of property, they cannot donate to each other in their marriage settlements more than one-fifth of their present property. Any excess shall be considered void.
 
 Donations of future property shall be governed by the provisions on testamentary succession and the formalities of wills.
 
-*If donation exceeds the limitation, only the excess us considered void but the remainder thereof remains valid. 
+> If donation exceeds the limitation, only the excess us considered void but the remainder thereof remains valid. 
 
 Art. 85. Donations by reason of marriage of property subject to encumbrances shall be valid. In case of foreclosure of the encumbrance and the property is sold for less than the total amount of the obligation secured, the donee shall not be liable for the deficiency. If the property is sold for more than the total amount of said obligation, the donee shall be entitled to the excess.
 
@@ -38,7 +40,6 @@ Art. 87. Every donation or grant of gratuitous advantage, direct or indirect, be
 
 (NCC) ARTICLE 725. Donation is an act of liberality whereby a person disposes gratuitously of a thing or right in favor of another, who accepts it.
 
-
 (NCC) ARTICLE 1490. The husband and the wife cannot sell property to each other, except:
 
 (1) When a separation of property was agreed upon in the marriage settlements; or temuim
@@ -59,57 +60,57 @@ ARTICLE 1782. Persons who are prohibited from giving each other any donation or 
 
 DONATIONS PROPTER NUPTIAS 
 	Requisites: 
-1. Made before the celebration of marriage 
-2. Made in consideration of the marriage 
-3. In favor of one or both spouses by either spouse or by a third person
+		1. Made before the celebration of marriage 
+		2. Made in consideration of the marriage 
+		3. In favor of one or both spouses by either spouse or by a third person
+
 	Formalities Required 
-o	Present property (inter vivos) - rules on ordinary donations 
-o	Future property (mortis causa) - law on testamentary succession and formalities of a will
+		o	Present property (inter vivos) - rules on ordinary donations 
+		o	Future property (mortis causa) - law on testamentary succession and formalities of a will
 	Formalities Required (Rules on Ordinary Donations) 
-o	Personal property 
-	orally or in writing 
-	value is more than PhP 5,000 donation and acceptance shall be in writing
-o	Real property 
-	in a public instrument 
+		o	Personal property 
+					orally or in writing 
+					value is more than PhP 5,000 donation and acceptance shall be in writing
+		o	Real property 
+					in a public instrument 
 	acceptance - same deed of donation or is a separate public document (during the lifetime of the donor and donor must be notified in an authentic form)
 	Formalities Required (Formalities of a Will) 
-o	Holographic Will 
+		o	Holographic Will 
 	Entirely handwritten, dated, and signed by the testator
-o	Notarial Will 
+		o	Notarial Will 
 	In writing using a language or dialect known and understood by the testator 
 	Marginal signature and subscription at the end - testator and three credible witnesses 
 	Page numbering correlatively in letters written on the upper part of each page 
 	Attestation clause 
 	Notarization
 	Limitations
-o	They cannot donate to each other in their marriage settlement more than 1/5 of their present property EXCEPT if the property regime chosen is absolute community property regime
+		o	They cannot donate to each other in their marriage settlement more than 1/5 of their present property EXCEPT if the property regime chosen is absolute community property regime
 	Donations Subject to Encumbrance
-o	VALID but in case of foreclosure:
+		o	VALID but in case of foreclosure:
 	Property is sold for less than the total amount - donee is NOT liable for the deficiency; it remains to be the obligation of the donor 
 	Property is sold for more than the total amount - donee is entitled to the excess
 
 REVOCATION of Donation Propter Nuptias (Grounds)
-
 	Non-celebration of marriage 
-o	Made in another instrument 
-o	If made in the marriage settlement – VOID
+		o	Made in another instrument 
+		o	If made in the marriage settlement – VOID
 	Judicial declaration of nullity of marriage 
-o	The right arises by the mere fact that the marriage was declared void 
-o	The issue of bad faith or good faith of the parties are immaterial 
-o	EXCEPTION - void marriage under Art 40 and Art 44 (donor is one spouse to the other) where the donation is REVOKED BY OPERATION OF LAW if the donee contracted the marriage in bad faith
+		o	The right arises by the mere fact that the marriage was declared void 
+		o	The issue of bad faith or good faith of the parties are immaterial 
+		o	EXCEPTION - void marriage under Art 40 and Art 44 (donor is one spouse to the other) where the donation is REVOKED BY OPERATION OF LAW if the donee contracted the marriage in bad faith
 	Marriage takes place without the consent of the parents or guardian 
-o	contracting parties are 18 but below 21 years old
+		o	contracting parties are 18 but below 21 years old
 	Annulment of marriage and the donee acted in bad faith
 	Legal separation and the donee being the guilty spouse
 	If it is with a resolutory condition and the condition is complied
 	When the donee has committed an act of ingratitude 
-o	the donee should commit some offense against the person, the honor or the property of the donor, or of his wife or children under his parental authority 
-o	donee imputes to the donor any criminal offense, or any act involving moral turpitude, even though he should prove it, unless the crime or the act has been committed against the donee himself, his wife or children under his authority 
-o	donee unduly refuses the donor support when the donee is legally or morally bound to give support to the donor
+		o	the donee should commit some offense against the person, the honor or the property of the donor, or of his wife or children under his parental authority 
+		o	donee imputes to the donor any criminal offense, or any act involving moral turpitude, even though he should prove it, unless the crime or the act has been committed against the donee himself, his wife or children under his authority 
+		o	donee unduly refuses the donor support when the donee is legally or morally bound to give support to the donor
 	Inofficious donations 
-o	If made by a third person involving his present property and the donation turns out to be inofficious (if it exceeds what the donor may give by will; it prejudices the legitime of compulsory heirs)
+		o	If made by a third person involving his present property and the donation turns out to be inofficious (if it exceeds what the donor may give by will; it prejudices the legitime of compulsory heirs)
 	Subsequent appearance of child 
-o	If made by a third person involving his present property and subsequently a child appears (marital/non-marital, adopted, a child whom the donor believes to be dead but turns out to be living)
+		o	If made by a third person involving his present property and subsequently a child appears (marital/non-marital, adopted, a child whom the donor believes to be dead but turns out to be living)
 
 PRESCRIPTIVE PERIOD OF REVOCATION
 LEGAL SEPARATION (Art. 86(4))- Within five years from the finality of the decree of legal separation
@@ -126,9 +127,7 @@ Prohibited Transactions Between Spouses
 		o	Except if the regime is separation of property (judicial or in marriage settlement) 
 	Leasing of property between husband and wife
 
-
-
-### Revocation
+REVOCATION
 Art. 86 in rel. to Art. 50, 43 (3) and Arts. 134, 764, 769, 1144-1145, Civil Code
 	
 Art. 86. A donation by reason of marriage may be revoked by the donor in the following cases:
