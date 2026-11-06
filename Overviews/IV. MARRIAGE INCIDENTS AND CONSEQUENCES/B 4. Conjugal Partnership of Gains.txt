@@ -348,5 +348,114 @@ o	CONJUGAL PARTNERSHIP PROPERTY - an accumulation or deductions from money earne
                     	abandoned the other spouse and children
 
 o	Presumption in favor of conjugal partnership
+        	All properties acquired during marriage is presumed to be conjugal (disputable presumption) BUT proof of acquisition within marriage is a condition sine qua non 
+        	Even if the acquisition appears to have been made, contracted, or registered in the name of one spouse
+        	What is the status of properties acquired by spouses during marriage if one spouse is a foreign citizen? EXCLUSIVE property of Filipino spouse (if real property)
+
+COMMENCEMENT OF PROPERTY REGIME
+        	Celebration of marriage  
+        	Any stipulation for the commencement of property regime at any other time shall be VOID
+
+Waiver of Rights, Interests, Shares, and Effects  
+        > PROHIBITED - the interest is inchoate, a mere expectancy; the right does not vest until dissolution of the marriage and liquidation of property regime
+        > EXCEPTION: judicial separation of property, dissolution of marriage (annulled) - public instrument and recorded in the Register of Deeds
+
+CHARGES AND OBLIGATIONS OF PROPERTY REGIME  
+    	LEGAL SUPPORT 
+            o	Spouses 
+            o	Common children 
+            o	Marital children of either spouse in previous marriage 
+            o	Adopted children
+                    Note: If insufficient - spouses are solidarily liable with their separate properties
+           
+            o	Non-marital children - separate properties (to be deducted upon liquidation)
+                    Note: If separate property is insufficient:
+                            ACP - automatically liable (advance) 
+                            CPG - responsibilities of the CPG should first be covered
+    
+    	DEBTS CONTRACTED DURING MARRIAGE 
+            o	Contracted by administrator-spouse or both spouses or one spouse with the consent of the other 
+            o	For the benefit of the community or partnership 
+            o	If profession, occupation, business, or activity has been objected by one spouse - and the benefit accrued prior to the objection  
+                        Note: If insufficient - spouses are solidarily liable with their separate properties
+            o	If contracted by one spouse WITHOUT the consent of the other - ONLY TO THE EXTENT THAT THE FAMILY MAY HAVE BEEN BENEFITED
+            o	Burden of proof - creditor EXCEPT if the obligation is contracted for the use of family business, it is presumed that the family benefited
+   
+    	ANTENUPTIAL DEBT 
+            o	If the same redounded to the benefit of the family 
+                        Note: If insufficient - spouses are solidarily liable with their separate properties  
+            
+            o	If it did not redound to the benefit of the family - charged against the separate property
+                        Note: If separate property is insufficient 
+                                > ACP - automatically liable (advance) 
+                                > CPG - responsibilities of the CPG should first be covered
+    
+    	TAXES, LIENS, EXPENSES FOR REPAIRS
+            o	community or partnership - includes major and minor repairs 
+            o	separate property - preservation only and if used by the family (ACP but not CPG)  
+                        Note: If insufficient - spouses are solidarily liable with their separate properties
+
+    	EXPENSES FOR EDUCATION AND SELF-IMPROVEMENT
+            o	Spouse
+            o	Common marital children – value of what is donated or promised by both spouses
+                    Note: there is missing slide here (if insufficient)
+    
+    	EXPENSES OF LITIGATION BETWEEN SPOUSES  
+            o	Except if the suit is found to be groundless 
+            Note: If insufficient - spouses are solidarily liable with their separate properties
+
+    	CIVIL LIABILITY FOR DELICT OR QUASI-DELICT  
+            o	NOT chargeable against the community/partnership 
+            o	Chargeable against the separate property  
+            Note: If separate property is insufficient 
+                        ACP - automatically liable (advance) 
+                        CPG - responsibilities of the CPG should first be covered before any civil liability is enforced against the partnership assets
+
+    	LOSSES IN GAMES OF CHANCES  
+            o	NOT chargeable against the community or partnership 
+            o	Winnings - part of community or partnership
+
+RULES on Administration, Disposition, and Encumbrance  
+    	Joint Administration and Management 
+            o	General Rule: Spouses as joint administrators 
+            o	In case of disagreement: Husband's decision will prevail 
+                    	Remedy of the wife - court for rescission of contract (within five years from the date of the contract implementing the decision)
+    	Sole Powers of Administration and Management 
+            o	In case of incapacity of inability to participate 
+            o	Do NOT include disposition and encumbrance
+                    NOTE: 
+                        No consent or authority - VOID but CONTINUING OFFER 
+                        Acceptance of the offer - perfection of the contract NOT ratification
+    	Disposition or Encumbrance 
+            o	Donation by one is not allowed without the consent of the other EXCEPT for moderate donations for charity or on occasions of family rejoicing or family distress
+            o	Q: Can one spouse validly dispose his/her share in the community or partnership?  A: NO.
+                     In Carlos v. Tolentino, G.R. No. 234533, June 27, 2018  
+                            "We deem it proper to uphold the validity of the Deed of Donation dated February 15, 2011 but only to the extent of Mercedes' one-half share in the subject property. And rightly so, because why invalidate Mercedes' disposition of her one-half portion of the conjugal property that will eventually be her share after the termination of the conjugal partnership? It will practically be absurd, especially in the instant case, since the conjugal partnership had already been terminated upon Mercedes' death."
+
+            o	Q: May buyers or mortgagees interpose the defense of good faith?  A: YES. 
+                    > Diligence in verifying the validity of the title covering the property 
+                    > Diligence in inquiring into the authority of the transacting spouse to sell community or partnership property in behalf of the other spouse
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
