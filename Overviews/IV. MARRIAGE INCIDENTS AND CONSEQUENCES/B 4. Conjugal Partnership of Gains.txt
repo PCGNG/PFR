@@ -4,21 +4,88 @@ CONJUGAL PARTNERSHIP OF GAINS
     o	No merger of separate properties; complete separation of capitals 
     o	Upon dissolution, the net gains or benefits shall be divided equally between them unless otherwise agreed marriage settlement. 
     o	Rules on partnership will apply (suppletory application)
+
 	When applicable
     o	Applicable only to valid and voidable marriages and void marriages under Art 40, FC. 
     o	Civil Code - default regime 
     o	Family Code - only if agreed upon in a marriage settlement
+
 	Properties INCLUDED
-    o	Properties acquired through onerous title DURING the marriage using conjugal funds 
+o	Properties acquired through onerous title DURING the marriage using conjugal funds 
 	Manner of acquisition - onerous 
 	Source of funds - conjugal funds 
 	Does not apply to a property purchased on installments prior to marriage and the payment was completed during marriage and paid partly by the conjugal funds (consider when was the full ownership was vested)
-    o	Properties obtained through labor, industry, work or profession DURING marriage 
-	Daily wages, periodic salaries, honoraria, professional fees, in come from business 
-	Debts contracted during marriage in the exercise of industry or profession - obligation of the conjugal partnership
-    o	Properties acquired through occupation DURING marriage (mode of acquisition of ownership) 
-	Properties not owned by anybody (hunting, fishing) 
-	Share in the hidden treasure
+  
+o	Properties obtained through labor, industry, work or profession DURING marriage 
+    	Daily wages, periodic salaries, honoraria, professional fees, in come from business 
+    	Debts contracted during marriage in the exercise of industry or profession - obligation of the conjugal partnership
+
+o	Properties acquired through occupation DURING marriage (mode of acquisition of ownership) 
+    	Properties not owned by anybody (hunting, fishing) 
+    	Share in the hidden treasure
+
+o	Properties acquired through installment payments before marriage 
+        	Payments - partly conjugal funds 
+        	Full ownership was vested DURING marriage
+
+o	Fruits and income of separate properties received DURING marriage 
+    	Natural (spontaneous products of the soil and the young of animals except livestock), industrial (produced by land through cultivation or labor), civil fruits (rent of buildings, etc) 
+        	Net fruits - income or fruits after deducting expenses of administration of the property
+
+o	Livestock 
+        	In excess of what was brought to the marriage (to be determined upon the dissolution of the partnership)
+
+o	Properties acquired by chance 
+        	From betting or gambling 
+        	Losses shall be borne by the loser-spouse
+
+o	Credit belonging to one spouse 
+        	Payable on several installments and amortizations are collected DURING marriage
+        	Interest - conjugal partnership (fruits or income) 
+        	Principal - exclusive property
+
+o	Improvement on separate property at the expense of partnership or through acts and efforts of one or both 
+        	Cost of improvement and increase in the value of the property are MORE THAN the value of the property at the time of improvement - entire property belongs to conjugal partnership (reimburse owner-spouse)
+
+	Properties EXCLUDED:
+o	Properties acquired BEFORE marriage 
+        	Fruits and income are part of the conjugal partnership 
+        	Young of livestock - not considered as fruits
+
+o	Properties acquired DURING marriage by GRATUITOUS title 
+        	if made in favor of both husband and wife - exclusive properties (share and share alike) 
+        	there is accretion (the share of donee who did or could not accept or who died before acceptance shall belong to the other donee) 
+        	the acceptance of one spouse is sufficient
+
+o	Properties acquired DURING marriage by GRATUITOUS title
+        	Q: What is the status of properties subject of an onerous donation? 
+        •	 Burden or charges imposed by the donor is inferior in value compared to the value of the thing given - exclusive even if the charges have been advanced by conjugal partnership
+
+o	Properties acquired by redemption, barter, or exchange
+        	Right of redemption pertains exclusively to the redemptioner-spouse regardless of the source of money used to redeem the property - subject to reimbursement 
+        	Property subject of the barter or exchange is the exclusive property of the spouse
+
+o	Properties purchased with exclusive money
+        	Includes properties acquired through dacion en pago (property as payment for indebtedness exclusively to one spouse)
+        	Retirement benefits, pensions, annuities, gratuities, usufructs, and similar benefits accumulating DURING marriage
+
+o	EXCLUSIVE – if obtained out of pure liberality
+
+o	CONJUGAL PARTNERSHIP PROPERTY - an accumulation or deductions from money earned during the marriage or from salaries of either spouse
+
+	Rights of the owner-spouse over exclusive property 
+        o	May mortgage, encumber, alienate, or otherwise dispose of the property WITHOUT the consent of the other spouse
+        o	Administration of the property is the responsibility of the owner-spouse but may be transferred to the other spouse VOLUNTARILY or THROUGH COURT ORDER
+        o	Voluntary transfer - public instrument and registered with the Register of Deeds
+        o	Through court order - if owner spouse: 
+                    	under guardianship and the other spouse is the guardian 
+                    	judicially declared as an absentee 
+                    	sentenced with a penalty that carries civil interdiction 
+                    	becomes a fugitive from justice or is in hiding as an accused in a criminal case 
+                    	abandoned the other spouse and children
+
+o	Presumption in favor of conjugal partnership
+
 
 Chapter 4. Conjugal Partnership of Gains
 
