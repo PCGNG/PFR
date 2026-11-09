@@ -235,6 +235,25 @@
       white-space: pre-wrap;
       word-break: break-word;
     }
+    .parchment-sheet strong {
+      font-weight: 800;
+      color: #000;
+    }
+    .parchment-sheet em {
+      font-style: italic;
+    }
+
+    /* Article Highlighter (Bold Blue text, Light Pink background) */
+    .article-badge {
+      color: #0369a1; 
+      background-color: #fce7f3;
+      border: 1px solid #fbcfe8;
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-weight: 800;
+      display: inline-block;
+      line-height: 1.35;
+    }
 
     /* Column 3: Case Digest */
     .digest-path {
@@ -249,7 +268,7 @@
       font-family: Georgia, serif;
       font-size: 2.02rem;
       font-weight: 700;
-      color: var(--accent-pink); /* Pink Case Title */
+      color: var(--accent-pink);
       margin-bottom: 22px;
       line-height: 1.35;
     }
@@ -337,6 +356,25 @@
     let currentSyllabus = [];
     let currentRatioText = "";
     let allCollapsed = false;
+
+    function formatMarkdown(text) {
+      return text
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        // Headings
+        .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.6rem; font-weight:800; margin:16px 0 10px; color:#1e293b;">$1</h3>')
+        .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.8rem; font-weight:800; margin:18px 0 12px; color:#0f172a;">$1</h2>')
+        .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:2.0rem; font-weight:900; margin:20px 0 14px; color:#0f172a;">$1</h1>')
+        // Bold: **text** (evaluated first)
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        // Italics: *text* (evaluated second)
+        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        // Automatic Article highlighter: Art., Arts., Article, Articles
+        .replace(/\b(Arts?\.|Articles?)\s*(\d+[\d\w\-,\s\(\)]*?\b)/gi, function(match) {
+          return `<span class="article-badge">${match}</span>`;
+        });
+    }
 
     async function initializeReviewer() {
       try {
@@ -464,7 +502,7 @@
           throw new Error(`HTTP ${res.status}: File not found`);
         }
         const text = await res.text();
-        display.textContent = text.trim() || "(Overview file is empty)";
+        display.innerHTML = formatMarkdown(text.trim()) || "(Overview file is empty)";
       } catch (err) {
         display.innerHTML = `
           <div style="color: #64748b; font-size: 1.15rem; line-height: 1.6;">
