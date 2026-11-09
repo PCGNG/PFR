@@ -53,6 +53,7 @@
       display: flex;
       align-items: center;
       gap: 8px;
+      color: var(--accent-pink);
     }
     .badge-mode {
       font-size: 0.93rem;
@@ -167,7 +168,6 @@
       flex-shrink: 0;
     }
 
-    /* Subtopics container */
     .module-subtopics {
       margin-top: 6px;
       margin-left: 8px;
@@ -249,7 +249,7 @@
       font-family: Georgia, serif;
       font-size: 2.02rem;
       font-weight: 700;
-      color: #fff;
+      color: var(--accent-pink); /* Pink Case Title */
       margin-bottom: 22px;
       line-height: 1.35;
     }
@@ -340,14 +340,13 @@
 
     async function initializeReviewer() {
       try {
-        const response = await fetch('syllabus.json?t=' + Date.now());
+        const response = await fetch('./syllabus.json?t=' + Date.now());
         if (!response.ok) {
           throw new Error('HTTP ' + response.status + ' (' + response.statusText + ')');
         }
         currentSyllabus = await response.json();
         renderTree();
 
-        // Default open the first topic, its first subtopic and first case
         if (currentSyllabus.length > 0 && currentSyllabus[0].subtopics.length > 0) {
           const firstSub = currentSyllabus[0].subtopics[0];
           loadOverviewText(firstSub);
@@ -372,7 +371,6 @@
         const group = document.createElement('div');
         group.className = 'module-group';
 
-        // Collapsible Header Row
         const tTitle = document.createElement('div');
         tTitle.className = 'module-header';
 
@@ -382,18 +380,15 @@
 
         const arrow = document.createElement('span');
         arrow.className = 'module-toggle-arrow';
-        // First topic open by default; others collapsed
         arrow.textContent = (tIndex === 0) ? '▼' : '▶';
 
         tTitle.appendChild(titleText);
         tTitle.appendChild(arrow);
         group.appendChild(tTitle);
 
-        // Subtopics Wrapper Container
         const subContainer = document.createElement('div');
         subContainer.className = 'module-subtopics' + (tIndex === 0 ? '' : ' collapsed');
 
-        // Toggle folder on click
         tTitle.onclick = () => {
           const isCollapsed = subContainer.classList.toggle('collapsed');
           arrow.textContent = isCollapsed ? '▶' : '▼';
@@ -435,7 +430,6 @@
         container.appendChild(group);
       });
 
-      // Header button toggles all topics open or shut
       const toggleAllBtn = document.getElementById('btnToggleAll');
       toggleAllBtn.onclick = () => {
         allCollapsed = !allCollapsed;
