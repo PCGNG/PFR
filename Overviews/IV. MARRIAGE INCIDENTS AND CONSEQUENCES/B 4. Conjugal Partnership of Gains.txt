@@ -261,180 +261,210 @@ The foregoing rules on forfeiture shall likewise apply even if both parties are 
 
 REVIEW NOTES:
 
+Conjugal Partnership of Gains Arts. 105-133 History and Concept
+Distinguished from Absolute Community Regime 
+When Applicable 
+Applicability of Ordinary Partnership Rules
+
 CONJUGAL PARTNERSHIP OF GAINS  
 	Nature and Concept: 
-    o	A special type of partnership 
-    o	No merger of separate properties; complete separation of capitals 
-    o	Upon dissolution, the net gains or benefits shall be divided equally between them unless otherwise agreed marriage settlement. 
-    o	Rules on partnership will apply (suppletory application)
-
+o	A special type of partnership 
+o	No merger of separate properties; complete separation of capitals 
+o	Upon dissolution, the net gains or benefits shall be divided equally between them unless otherwise agreed marriage settlement. 
+o	Rules on partnership will apply (suppletory application)
 	When applicable
-    o	Applicable only to valid and voidable marriages and void marriages under Art 40, FC. 
-    o	Civil Code - default regime 
-    o	Family Code - only if agreed upon in a marriage settlement
+o	Applicable only to valid and voidable marriages and void marriages under Art 40, FC. 
+o	Civil Code - default regime 
+o	Family Code - only if agreed upon in a marriage settlement
 
+COMMENCEMENT OF PROPERTY REGIME
+	Celebration of marriage  
+	Any stipulation for the commencement of property regime at any other time shall be VOID
+
+Waiver of Rights, Interests, Shares, and Effects  
+	PROHIBITED - the interest is inchoate, a mere expectancy; the right does not vest until dissolution of the marriage and liquidation of property regime
+	EXCEPTION: judicial separation of property, dissolution of marriage (annulled) - public instrument and recorded in the Register of Deeds
+
+
+Case: FATIMA B. GONZALES-ASDALA v METROPOLITAN BANK AND TRUST COMPANY, G.R. No. 257982 February 22, 2023,
+
+Exclusive Property of Each Spouse Art. 109, 113-115
+•	Salvador v. CA, 243 S 239
+	Properties EXCLUDED:
+o	Properties acquired BEFORE marriage 
+	Fruits and income are part of the conjugal partnership 
+	Young of livestock - not considered as fruits
+o	Properties acquired DURING marriage by GRATUITOUS title 
+	if made in favor of both husband and wife - exclusive properties (share and share alike) 
+	there is accretion (the share of donee who did or could not accept or who died before acceptance shall belong to the other donee) 
+	the acceptance of one spouse is sufficient
+o	Properties acquired DURING marriage by GRATUITOUS title
+	Q: What is the status of properties subject of an onerous donation? 
+•	 Burden or charges imposed by the donor is inferior in value compared to the value of the thing given - exclusive even if the charges have been advanced by conjugal partnership
+o	Properties acquired by redemption, barter, or exchange
+	Right of redemption pertains exclusively to the redemptioner-spouse regardless of the source of money used to redeem the property - subject to reimbursement 
+	Property subject of the barter or exchange is the exclusive property of the spouse
+o	Properties purchased with exclusive money
+	Includes properties acquired through dacion en pago (property as payment for indebtedness exclusively to one spouse)
+	Retirement benefits, pensions, annuities, gratuities, usufructs, and similar benefits accumulating DURING marriage
+o	EXCLUSIVE – if obtained out of pure liberality
+o	CONJUGAL PARTNERSHIP PROPERTY - an accumulation or deductions from money earned during the marriage or from salaries of either spouse
+
+	Rights of the owner-spouse over exclusive property 
+o	May mortgage, encumber, alienate, or otherwise dispose of the property WITHOUT the consent of the other spouse
+o	Administration of the property is the responsibility of the owner-spouse but may be transferred to the other spouse VOLUNTARILY or THROUGH COURT ORDER
+o	Voluntary transfer - public instrument and registered with the Register of Deeds
+o	Through court order - if owner spouse: 
+	under guardianship and the other spouse is the guardian 
+	judicially declared as an absentee 
+	sentenced with a penalty that carries civil interdiction 
+	becomes a fugitive from justice or is in hiding as an accused in a criminal case 
+	abandoned the other spouse and children
+o	Presumption in favor of conjugal partnership[pn1.1]
+	All properties acquired during marriage is presumed to be conjugal (disputable presumption) BUT proof of acquisition within marriage is a condition sine qua non 
+	Even if the acquisition appears to have been made, contracted, or registered in the name of one spouse
+	What is the status of properties acquired by spouses during marriage if one spouse is a foreign citizen?
+•	EXCLUSIVE property of Filipino spouse (if real property)
+
+
+Ownership, Possession, Enjoyment and Administration of Exclusive Property Arts. 110-112
+•	R.A. 10572 amending Art. 73 of Family Code of the Philippines
+
+Property Included in Conjugal Partnership of Gains Arts. 116-120
+•	Nayve-Pua v. Union Bank, G.R. No. 253450, January 22, 2024
+•	Ravina v. Abrille, 16 October 2009
+•	Titan Construction Corporation v. David, 15 March 2010.
+ 
 	Properties INCLUDED
 o	Properties acquired through onerous title DURING the marriage using conjugal funds 
 	Manner of acquisition - onerous 
 	Source of funds - conjugal funds 
 	Does not apply to a property purchased on installments prior to marriage and the payment was completed during marriage and paid partly by the conjugal funds (consider when was the full ownership was vested)
-  
 o	Properties obtained through labor, industry, work or profession DURING marriage 
-    	Daily wages, periodic salaries, honoraria, professional fees, in come from business 
-    	Debts contracted during marriage in the exercise of industry or profession - obligation of the conjugal partnership
-
+	Daily wages, periodic salaries, honoraria, professional fees, in come from business 
+	Debts contracted during marriage in the exercise of industry or profession - obligation of the conjugal partnership
 o	Properties acquired through occupation DURING marriage (mode of acquisition of ownership) 
-    	Properties not owned by anybody (hunting, fishing) 
-    	Share in the hidden treasure
-
-o	Properties acquired through installment payments before marriage 
-        	Payments - partly conjugal funds 
-        	Full ownership was vested DURING marriage
-
+	Properties not owned by anybody (hunting, fishing) 
+	Share in the hidden treasure
+o	Properties[pn2.1] acquired through installment payments before marriage 
+	Payments - partly conjugal funds 
+	Full ownership was vested DURING marriage
 o	Fruits and income of separate properties received DURING marriage 
-    	Natural (spontaneous products of the soil and the young of animals except livestock), industrial (produced by land through cultivation or labor), civil fruits (rent of buildings, etc) 
-        	Net fruits - income or fruits after deducting expenses of administration of the property
-
+	Natural (spontaneous products of the soil and the young of animals except livestock), industrial (produced by land through cultivation or labor), civil fruits (rent of buildings, etc) 
+	Net fruits - income or fruits after deducting expenses of administration of the property
 o	Livestock 
-        	In excess of what was brought to the marriage (to be determined upon the dissolution of the partnership)
-
+	In excess of what was brought to the marriage (to be determined upon the dissolution of the partnership)
 o	Properties acquired by chance 
-        	From betting or gambling 
-        	Losses shall be borne by the loser-spouse
-
+	From betting or gambling 
+	Losses shall be borne by the loser-spouse
 o	Credit belonging to one spouse 
-        	Payable on several installments and amortizations are collected DURING marriage
-        	Interest - conjugal partnership (fruits or income) 
-        	Principal - exclusive property
-
+	Payable on several installments and amortizations are collected DURING marriage
+	Interest - conjugal partnership (fruits or income) 
+	Principal - exclusive property
 o	Improvement on separate property at the expense of partnership or through acts and efforts of one or both 
-        	Cost of improvement and increase in the value of the property are MORE THAN the value of the property at the time of improvement - entire property belongs to conjugal partnership (reimburse owner-spouse)
+	Cost of improvement and increase in the value of the property are MORE THAN the value of the property at the time of improvement - entire property belongs to conjugal partnership (reimburse owner-spouse)
 
-	Properties EXCLUDED:
-o	Properties acquired BEFORE marriage 
-        	Fruits and income are part of the conjugal partnership 
-        	Young of livestock - not considered as fruits
-
-o	Properties acquired DURING marriage by GRATUITOUS title 
-        	if made in favor of both husband and wife - exclusive properties (share and share alike) 
-        	there is accretion (the share of donee who did or could not accept or who died before acceptance shall belong to the other donee) 
-        	the acceptance of one spouse is sufficient
-
-o	Properties acquired DURING marriage by GRATUITOUS title
-        	Q: What is the status of properties subject of an onerous donation? 
-        •	 Burden or charges imposed by the donor is inferior in value compared to the value of the thing given - exclusive even if the charges have been advanced by conjugal partnership
-
-o	Properties acquired by redemption, barter, or exchange
-        	Right of redemption pertains exclusively to the redemptioner-spouse regardless of the source of money used to redeem the property - subject to reimbursement 
-        	Property subject of the barter or exchange is the exclusive property of the spouse
-
-o	Properties purchased with exclusive money
-        	Includes properties acquired through dacion en pago (property as payment for indebtedness exclusively to one spouse)
-        	Retirement benefits, pensions, annuities, gratuities, usufructs, and similar benefits accumulating DURING marriage
-
-o	EXCLUSIVE – if obtained out of pure liberality
-
-o	CONJUGAL PARTNERSHIP PROPERTY - an accumulation or deductions from money earned during the marriage or from salaries of either spouse
-
-	Rights of the owner-spouse over exclusive property 
-        o	May mortgage, encumber, alienate, or otherwise dispose of the property WITHOUT the consent of the other spouse
-        o	Administration of the property is the responsibility of the owner-spouse but may be transferred to the other spouse VOLUNTARILY or THROUGH COURT ORDER
-        o	Voluntary transfer - public instrument and registered with the Register of Deeds
-        o	Through court order - if owner spouse: 
-                    	under guardianship and the other spouse is the guardian 
-                    	judicially declared as an absentee 
-                    	sentenced with a penalty that carries civil interdiction 
-                    	becomes a fugitive from justice or is in hiding as an accused in a criminal case 
-                    	abandoned the other spouse and children
-
-o	Presumption in favor of conjugal partnership
-        	All properties acquired during marriage is presumed to be conjugal (disputable presumption) BUT proof of acquisition within marriage is a condition sine qua non 
-        	Even if the acquisition appears to have been made, contracted, or registered in the name of one spouse
-        	What is the status of properties acquired by spouses during marriage if one spouse is a foreign citizen? EXCLUSIVE property of Filipino spouse (if real property)
-
-COMMENCEMENT OF PROPERTY REGIME
-        	Celebration of marriage  
-        	Any stipulation for the commencement of property regime at any other time shall be VOID
-
-Waiver of Rights, Interests, Shares, and Effects  
-        > PROHIBITED - the interest is inchoate, a mere expectancy; the right does not vest until dissolution of the marriage and liquidation of property regime
-        > EXCEPTION: judicial separation of property, dissolution of marriage (annulled) - public instrument and recorded in the Register of Deeds
+Charges Against / Obligations of Conjugal Partnership Property Arts. 121-123 in rel. to Arts. 194-195
+•	Ros and Aguete v. PNB Laoag, 6 April 2011
 
 CHARGES AND OBLIGATIONS OF PROPERTY REGIME  
-    	LEGAL SUPPORT 
-            o	Spouses 
-            o	Common children 
-            o	Marital children of either spouse in previous marriage 
-            o	Adopted children
-                    Note: If insufficient - spouses are solidarily liable with their separate properties
-           
-            o	Non-marital children - separate properties (to be deducted upon liquidation)
-                    Note: If separate property is insufficient:
-                            ACP - automatically liable (advance) 
-                            CPG - responsibilities of the CPG should first be covered
-    
-    	DEBTS CONTRACTED DURING MARRIAGE 
-            o	Contracted by administrator-spouse or both spouses or one spouse with the consent of the other 
-            o	For the benefit of the community or partnership 
-            o	If profession, occupation, business, or activity has been objected by one spouse - and the benefit accrued prior to the objection  
-                        Note: If insufficient - spouses are solidarily liable with their separate properties
-            o	If contracted by one spouse WITHOUT the consent of the other - ONLY TO THE EXTENT THAT THE FAMILY MAY HAVE BEEN BENEFITED
-            o	Burden of proof - creditor EXCEPT if the obligation is contracted for the use of family business, it is presumed that the family benefited
-   
-    	ANTENUPTIAL DEBT 
-            o	If the same redounded to the benefit of the family 
-                        Note: If insufficient - spouses are solidarily liable with their separate properties  
-            
-            o	If it did not redound to the benefit of the family - charged against the separate property
-                        Note: If separate property is insufficient 
-                                > ACP - automatically liable (advance) 
-                                > CPG - responsibilities of the CPG should first be covered
-    
-    	TAXES, LIENS, EXPENSES FOR REPAIRS
-            o	community or partnership - includes major and minor repairs 
-            o	separate property - preservation only and if used by the family (ACP but not CPG)  
-                        Note: If insufficient - spouses are solidarily liable with their separate properties
+	LEGAL SUPPORT 
+o	Spouses 
+o	Common children 
+o	Marital children of either spouse in previous marriage 
+o	Adopted children
+Note: If insufficient - spouses are solidarily liable with their separate properties
+o	Non-marital children - separate properties (to be deducted upon liquidation)
+Note: If separate property is insufficient
+ACP - automatically liable (advance) 
+CPG - responsibilities of the CPG should first be covered
 
-    	EXPENSES FOR EDUCATION AND SELF-IMPROVEMENT
-            o	Spouse
-            o	Common marital children – value of what is donated or promised by both spouses
-                    Note: there is missing slide here (if insufficient)
-    
-    	EXPENSES OF LITIGATION BETWEEN SPOUSES  
-            o	Except if the suit is found to be groundless 
-            Note: If insufficient - spouses are solidarily liable with their separate properties
+	DEBTS CONTRACTED DURING MARRIAGE 
+o	Contracted by administrator-spouse or both spouses or one spouse with the consent of the other 
+o	For the benefit of the community or partnership 
+o	If profession, occupation, business, or activity has been objected by one spouse - and the benefit accrued prior to the objection  
 
-    	CIVIL LIABILITY FOR DELICT OR QUASI-DELICT  
-            o	NOT chargeable against the community/partnership 
-            o	Chargeable against the separate property  
-            Note: If separate property is insufficient 
-                        ACP - automatically liable (advance) 
-                        CPG - responsibilities of the CPG should first be covered before any civil liability is enforced against the partnership assets
+Note: If insufficient - spouses are solidarily liable with their separate properties
+o	If contracted by one spouse WITHOUT the consent of the other - ONLY TO THE EXTENT THAT THE FAMILY MAY HAVE BEEN BENEFITED
+o	Burden of proof - creditor EXCEPT if the obligation is contracted for the use of family business, it is presumed that the family benefited
+	ANTENUPTIAL DEBT 
+o	If the same redounded to the benefit of the family 
+Note: If insufficient - spouses are solidarily liable with their separate properties  
 
-    	LOSSES IN GAMES OF CHANCES  
-            o	NOT chargeable against the community or partnership 
-            o	Winnings - part of community or partnership
+o	If it did not redound to the benefit of the family - charged against the separate property
+Note: If separate property is insufficient 
+> ACP - automatically liable (advance) 
+> CPG - responsibilities of the CPG should first be covered
+	TAXES, LIENS, EXPENSES FOR REPAIRS
+o	community or partnership - includes major and minor repairs 
+o	separate property - preservation only and if used by the family (ACP but not CPG)  
+Note: If insufficient - spouses are solidarily liable with their separate properties
+	EXPENSES FOR EDUCATION AND SELF-IMPROVEMENT
+o	Spouse
+o	Common marital children – value of what is donated or promised by both spouses
+o	Note: there is missing slide here (if insufficient)
+	EXPENSES OF LITIGATION BETWEEN SPOUSES  
+o	Except if the suit is found to be groundless 
+Note: If insufficient - spouses are solidarily liable with their separate properties
+	CIVIL LIABILITY FOR DELICT OR QUASI-DELICT  
+o	NOT chargeable against the community/partnership 
+o	Chargeable against the separate property  
+Note: If separate property is insufficient 
+ACP - automatically liable (advance) 
+CPG - responsibilities of the CPG should first be covered before any civil liability is enforced against the partnership assets
+	LOSSES IN GAMES OF CHANCES  
+o	NOT chargeable against the community or partnership 
+o	Winnings - part of community or partnership
+
+Ownership, Possession, Enjoyment and Administration of Conjugal Partnership Property
+Remedies in case of Disagreements Arts. 124-125
+•	Sps. Cueno v. Sps. Bautista, G.R. No. 246445, March 02, 2021
+
+Sole Administration, When Permissible Art. 124
+•	Uy v. CA, 346 S 246
+•	Sabalones v. CA, 230 S 79
+•	Relucio v. Lopez, 16 January 2002
+
 
 RULES on Administration, Disposition, and Encumbrance  
-    	Joint Administration and Management 
-            o	General Rule: Spouses as joint administrators 
-            o	In case of disagreement: Husband's decision will prevail 
-                    	Remedy of the wife - court for rescission of contract (within five years from the date of the contract implementing the decision)
-    	Sole Powers of Administration and Management 
-            o	In case of incapacity of inability to participate 
-            o	Do NOT include disposition and encumbrance
-                    NOTE: 
-                        No consent or authority - VOID but CONTINUING OFFER 
-                        Acceptance of the offer - perfection of the contract NOT ratification
-    	Disposition or Encumbrance 
-            o	Donation by one is not allowed without the consent of the other EXCEPT for moderate donations for charity or on occasions of family rejoicing or family distress
-            o	Q: Can one spouse validly dispose his/her share in the community or partnership?  A: NO.
-                     In Carlos v. Tolentino, G.R. No. 234533, June 27, 2018  
-                            "We deem it proper to uphold the validity of the Deed of Donation dated February 15, 2011 but only to the extent of Mercedes' one-half share in the subject property. And rightly so, because why invalidate Mercedes' disposition of her one-half portion of the conjugal property that will eventually be her share after the termination of the conjugal partnership? It will practically be absurd, especially in the instant case, since the conjugal partnership had already been terminated upon Mercedes' death."
+	Joint Administration and Management 
+o	General Rule: Spouses as joint administrators 
+o	In case of disagreement: Husband's decision will prevail 
+	Remedy of the wife - court for rescission of contract (within five years from the date of the contract implementing the decision)
+	Sole Powers of Administration and Management 
+o	In case of incapacity of inability to participate 
+o	Do NOT include disposition and encumbrance
+NOTE: 
+No consent or authority - VOID but CONTINUING OFFER 
+Acceptance of the offer - perfection of the contract NOT ratification
+	Disposition or Encumbrance 
+o	Donation by one is not allowed without the consent of the other EXCEPT for moderate donations for charity or on occasions of family rejoicing or family distress
+o	Q: Can one spouse validly dispose his/her share in the community or partnership?  A: NO.
+	Carlos v. Tolentino, G.R. No. 234533, June 27, 2018: "We deem it proper to uphold the validity of the Deed of Donation dated February 15, 2011 but only to the extent of Mercedes' one-half share in the subject property. And rightly so, because why invalidate Mercedes' disposition of her one-half portion of the conjugal property that will eventually be her share after the termination of the conjugal partnership? It will practically be absurd, especially in the instant case, since the conjugal partnership had already been terminated upon Mercedes' death."
+o	Q: May buyers or mortgagees interpose the defense of good faith?  A: YES. 
+o	Diligence in verifying the validity of the title covering the property 
+o	Diligence in inquiring into the authority of the transacting spouse to sell community or partnership property in behalf of the other spouse
 
-            o	Q: May buyers or mortgagees interpose the defense of good faith?  A: YES. 
-                    > Diligence in verifying the validity of the title covering the property 
-                    > Diligence in inquiring into the authority of the transacting spouse to sell community or partnership property in behalf of the other spouse
+
+
+
+Dissolution and Liquidation of Conjugal Partnership Grounds Art. 126 in rel. to Arts. 103, 63-64, 50-52, 134-138
+•	Uy v. Estate of Fernandez, 5 April 2017
+•	Nable-Jose v. Nable-Jose, 41 P 713
+
+Effect of Separation De Facto Art. 127-128
+•	Abalos v. Macatangay, 439 S 649
+
+Liquidation Procedure Arts. 129-133 Separation of Property
+•	Case: BELINDA ALEXANDER v SPOUSES ESCALONA et al., G.R. No 256141
+July 19, 2022 (sale without the other spouse’s consent
+•	THE	COMMONER LENDING CORPORATION v RAFAEL BALANDRA, G.R.
+No. 247646 March 29, 2023 (encumbrance without the other spouse’s consent)
+
+Voluntary Separation of Property Arts. 134, 143-146
+•	Maquilan v. Maquilan, 8 June 2007
+
+Judicial Separation of Property Art. 135-141 Grounds Procedure Revival
 
 
 
