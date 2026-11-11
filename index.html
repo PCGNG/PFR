@@ -266,7 +266,7 @@
       font-style: italic;
     }
 
-    /* Article Highlighter */
+    /* Article Highlighter (Active ONLY in Middle Pane) */
     .article-badge {
       color: #0369a1; 
       background-color: #fce7f3;
@@ -295,27 +295,33 @@
       margin-bottom: 22px;
       line-height: 1.35;
     }
+
+    /* Section Headings with Distinct Separator Line */
     .badge-label {
       font-size: 1.10rem;
       font-weight: 800;
       letter-spacing: 0.05em;
-      margin-top: 18px;
-      margin-bottom: 8px;
+      margin-top: 28px;
+      margin-bottom: 12px;
+      padding-top: 18px;
+      border-top: 1px solid rgba(255, 255, 255, 0.12);
       text-transform: uppercase;
       display: flex;
       align-items: center;
       gap: 8px;
     }
-    .color-facts { color: #f59e0b; }
-    .color-issue { color: #ec4899; }
-    .color-held  { color: #10b981; }
-    .color-ratio { color: #38bdf8; }
-    .color-fallo { color: #a78bfa; }
+    .color-doctrines { color: #f97316; }
+    .color-facts     { color: #f59e0b; }
+    .color-issue     { color: #ec4899; }
+    .color-held      { color: #10b981; }
+    .color-ratio     { color: #38bdf8; }
+    .color-fallo     { color: #a78bfa; }
+
     .digest-block {
-      margin-bottom: 20px;
+      margin-bottom: 24px;
       font-size: 1.28rem;
       color: #cbd5e1;
-      line-height: 1.7;
+      line-height: 1.75;
       white-space: pre-wrap;
       text-align: justify;
       text-justify: inter-word;
@@ -568,32 +574,39 @@
       });
     }
 
-    function formatMarkdown(text) {
+    /* 1. Parser for Middle Pane (Overview) -> Includes Article Highlighter */
+    function formatOverviewMarkdown(text) {
       if (!text) return "";
       return text
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
-        
-        // Headings (# through ####)
+        .replace(/^####\s+(.*$)/gim, '<h4 style="font-size:1.35rem; font-weight:800; margin:14px 0 8px; color:var(--accent-yellow);">$1</h4>')
+        .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.55rem; font-weight:800; margin:16px 0 10px; color:#1e293b;">$1</h3>')
+        .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.75rem; font-weight:800; margin:18px 0 12px; color:#0f172a;">$1</h2>')
+        .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:1.95rem; font-weight:900; margin:20px 0 14px; color:#0f172a;">$1</h1>')
+        .replace(/^\s*\*\s+(.*$)/gim, '<div style="margin-left: 18px; text-indent: -14px; margin-bottom: 6px;">• $1</div>')
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/(^|[^\*])\*([^\*\n]+?)\*([^\*]|$)/g, '$1<em>$2</em>$3')
+        .replace(/\b(Arts?\.|Articles?)\s*(\d+[\d\w\-,\s\(\)]*?\b)/gi, function(match) {
+          return `<span class="article-badge">${match}</span>`;
+        });
+    }
+
+    /* 2. Parser for Right Pane (Case Digest) -> Formats without Article Badges */
+    function formatDigestMarkdown(text) {
+      if (!text) return "";
+      return text
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
         .replace(/^####\s+(.*$)/gim, '<h4 style="font-size:1.35rem; font-weight:800; margin:14px 0 8px; color:var(--accent-yellow);">$1</h4>')
         .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.55rem; font-weight:800; margin:16px 0 10px; color:#f8fafc;">$1</h3>')
         .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.75rem; font-weight:800; margin:18px 0 12px; color:#f8fafc;">$1</h2>')
         .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:1.95rem; font-weight:900; margin:20px 0 14px; color:#f8fafc;">$1</h1>')
-        
-        // Unordered lists (* text) at start of lines
         .replace(/^\s*\*\s+(.*$)/gim, '<div style="margin-left: 18px; text-indent: -14px; margin-bottom: 6px;">• $1</div>')
-
-        // Bold: **text**
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-        
-        // Italics: *text*
-        .replace(/(^|[^\*])\*([^\*\n]+?)\*([^\*]|$)/g, '$1<em>$2</em>$3')
-        
-        // Automatic Article highlighter
-        .replace(/\b(Arts?\.|Articles?)\s*(\d+[\d\w\-,\s\(\)]*?\b)/gi, function(match) {
-          return `<span class="article-badge">${match}</span>`;
-        });
+        .replace(/(^|[^\*])\*([^\*\n]+?)\*([^\*]|$)/g, '$1<em>$2</em>$3');
     }
 
     async function initializeReviewer() {
@@ -745,7 +758,7 @@
           throw new Error(`HTTP ${res.status}: File not found`);
         }
         const text = await res.text();
-        display.innerHTML = formatMarkdown(text.trim()) || "(Overview file is empty)";
+        display.innerHTML = formatOverviewMarkdown(text.trim()) || "(Overview file is empty)";
       } catch (err) {
         display.innerHTML = `
           <div style="color: #64748b; font-size: 1.15rem; line-height: 1.6;">
@@ -802,11 +815,13 @@
     function parseDigestText(rawText, title, breadcrumb) {
       currentRatioText = "";
 
-      const pattern = /(?:^|\n)\s*(?:###\s*)?(RELEVANT FACTS|FACTS|ISSUE|ISSUES|HELD|RULING|RATIO DECIDENDI|RATIO|FALLO|DISPOSITIVE PORTION)[:\s-]*/i;
+      // Regex matches: KEY DOCTRINES, FACTS, ISSUE/ISSUES, HELD/RULING, RATIO, FALLO/DISPOSITIVE
+      const pattern = /(?:^|\n)\s*(?:###\s*)?(KEY DOCTRINES?|DOCTRINES?|RELEVANT FACTS|FACTS|ISSUES?|HELD|RULINGS?|RATIO DECIDENDI|RATIO|FALLO|DISPOSITIVE PORTION)[:\s-]*/i;
       const parts = rawText.split(pattern);
 
       let sections = {
         general: "",
+        doctrines: "",
         facts: "",
         issue: "",
         held: "",
@@ -820,7 +835,8 @@
           const header = parts[i].toUpperCase();
           const content = (parts[i + 1] || "").trim();
 
-          if (header.includes("FACT")) sections.facts = content;
+          if (header.includes("DOCTRINE")) sections.doctrines = content;
+          else if (header.includes("FACT")) sections.facts = content;
           else if (header.includes("ISSUE")) sections.issue = content;
           else if (header.includes("HELD") || header.includes("RULING")) sections.held = content;
           else if (header.includes("RATIO")) {
@@ -843,36 +859,42 @@
       `;
 
       if (sections.general) {
-        html += `<div class="digest-block">${formatMarkdown(sections.general)}</div>`;
+        html += `<div class="digest-block">${formatDigestMarkdown(sections.general)}</div>`;
+      }
+      if (sections.doctrines) {
+        html += `
+          <div class="badge-label color-doctrines">⚡ KEY DOCTRINES</div>
+          <div class="digest-block">${formatDigestMarkdown(sections.doctrines)}</div>
+        `;
       }
       if (sections.facts) {
         html += `
           <div class="badge-label color-facts">◼ RELEVANT FACTS</div>
-          <div class="digest-block">${formatMarkdown(sections.facts)}</div>
+          <div class="digest-block">${formatDigestMarkdown(sections.facts)}</div>
         `;
       }
       if (sections.issue) {
         html += `
-          <div class="badge-label color-issue">? ISSUE</div>
-          <div class="digest-block">${formatMarkdown(sections.issue)}</div>
+          <div class="badge-label color-issue">? ISSUE / ISSUES</div>
+          <div class="digest-block">${formatDigestMarkdown(sections.issue)}</div>
         `;
       }
       if (sections.held) {
         html += `
           <div class="badge-label color-held">✓ HELD / RULING</div>
-          <div class="digest-block">${formatMarkdown(sections.held)}</div>
+          <div class="digest-block">${formatDigestMarkdown(sections.held)}</div>
         `;
       }
       if (sections.ratio) {
         html += `
           <div class="badge-label color-ratio">⚖ RATIO DECIDENDI</div>
-          <div class="digest-block">${formatMarkdown(sections.ratio)}</div>
+          <div class="digest-block">${formatDigestMarkdown(sections.ratio)}</div>
         `;
       }
       if (sections.fallo) {
         html += `
-          <div class="badge-label color-fallo">▶ FALLO</div>
-          <div class="digest-block">${formatMarkdown(sections.fallo)}</div>
+          <div class="badge-label color-fallo">▶ FALLO / DISPOSITIVE</div>
+          <div class="digest-block">${formatDigestMarkdown(sections.fallo)}</div>
         `;
       }
 
