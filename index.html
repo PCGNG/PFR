@@ -202,7 +202,6 @@
       background: rgba(56, 189, 248, 0.15);
       font-weight: 700;
     }
-    /* Subtopic Marked as Read in Tree */
     .subtopic-btn.read-subtopic {
       color: var(--read-green);
       opacity: 0.9;
@@ -238,7 +237,7 @@
       color: #a7f3d0;
     }
 
-    /* Column 2: Overview (Parchment Card) */
+    /* Column 2: Overview (Parchment Card) - Justified Alignment */
     .overview-container {
       background-color: #0b111c;
       padding: 12px;
@@ -256,6 +255,8 @@
       line-height: 1.75;
       white-space: pre-wrap;
       word-break: break-word;
+      text-align: justify;
+      text-justify: inter-word;
     }
     .parchment-sheet strong {
       font-weight: 800;
@@ -265,7 +266,7 @@
       font-style: italic;
     }
 
-    /* Article Highlighter (Bold Blue text, Light Pink background) */
+    /* Article Highlighter */
     .article-badge {
       color: #0369a1; 
       background-color: #fce7f3;
@@ -277,7 +278,7 @@
       line-height: 1.35;
     }
 
-    /* Column 3: Case Digest */
+    /* Column 3: Case Digest - Justified Alignment */
     .digest-path {
       font-size: 1.02rem;
       color: var(--accent-yellow);
@@ -316,6 +317,8 @@
       color: #cbd5e1;
       line-height: 1.7;
       white-space: pre-wrap;
+      text-align: justify;
+      text-justify: inter-word;
     }
 
     .btn-pane-action {
@@ -417,7 +420,6 @@
     let flattenedCases = [];
     let allCollapsed = false;
 
-    // Load & Save Read Cases
     function getReadCases() {
       try {
         const stored = localStorage.getItem('pfr_read_cases');
@@ -430,7 +432,6 @@
       localStorage.setItem('pfr_read_cases', JSON.stringify([...set]));
     }
 
-    // Load & Save Read Overview Subtopics
     function getReadSubtopics() {
       try {
         const stored = localStorage.getItem('pfr_read_subtopics');
@@ -443,7 +444,6 @@
       localStorage.setItem('pfr_read_subtopics', JSON.stringify([...set]));
     }
 
-    // Toggle Read Status for Case
     function toggleCaseReadStatus(caseId) {
       const readSet = getReadCases();
       if (readSet.has(caseId)) {
@@ -456,7 +456,6 @@
       updateCaseTreeItem(caseId);
     }
 
-    // Toggle Read Status for Overview Subtopic
     function toggleSubtopicReadStatus(subId) {
       const readSet = getReadSubtopics();
       if (readSet.has(subId)) {
@@ -566,11 +565,15 @@
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
+        // Headings
         .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.6rem; font-weight:800; margin:16px 0 10px; color:#1e293b;">$1</h3>')
         .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.8rem; font-weight:800; margin:18px 0 12px; color:#0f172a;">$1</h2>')
         .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:2.0rem; font-weight:900; margin:20px 0 14px; color:#0f172a;">$1</h1>')
+        // Bold: **text**
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        // Italics: *text*
         .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        // Automatic Article highlighter
         .replace(/\b(Arts?\.|Articles?)\s*(\d+[\d\w\-,\s\(\)]*?\b)/gi, function(match) {
           return `<span class="article-badge">${match}</span>`;
         });
