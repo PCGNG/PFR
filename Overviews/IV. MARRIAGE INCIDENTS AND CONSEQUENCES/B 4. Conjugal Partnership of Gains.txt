@@ -259,6 +259,7 @@ If one of the parties is validly married to another, his or her share in the co-
 
 The foregoing rules on forfeiture shall likewise apply even if both parties are in bad faith. (144a)
 
+---
 REVIEW NOTES:
 
 Conjugal Partnership of Gains Arts. 105-133 History and Concept
@@ -290,6 +291,7 @@ Case: FATIMA B. GONZALES-ASDALA v METROPOLITAN BANK AND TRUST COMPANY, G.R. No. 
 
 Exclusive Property of Each Spouse Art. 109, 113-115
 •	Salvador v. CA, 243 S 239
+
 	Properties EXCLUDED:
 o	Properties acquired BEFORE marriage 
 	Fruits and income are part of the conjugal partnership 
@@ -326,7 +328,7 @@ o	Presumption in favor of conjugal partnership[pn1.1]
 	What is the status of properties acquired by spouses during marriage if one spouse is a foreign citizen?
 •	EXCLUSIVE property of Filipino spouse (if real property)
 
-
+---
 Ownership, Possession, Enjoyment and Administration of Exclusive Property Arts. 110-112
 •	R.A. 10572 amending Art. 73 of Family Code of the Philippines
 
@@ -364,9 +366,11 @@ o	Credit belonging to one spouse
 o	Improvement on separate property at the expense of partnership or through acts and efforts of one or both 
 	Cost of improvement and increase in the value of the property are MORE THAN the value of the property at the time of improvement - entire property belongs to conjugal partnership (reimburse owner-spouse)
 
+---
 Charges Against / Obligations of Conjugal Partnership Property Arts. 121-123 in rel. to Arts. 194-195
 •	Ros and Aguete v. PNB Laoag, 6 April 2011
 
+---
 CHARGES AND OBLIGATIONS OF PROPERTY REGIME  
 	LEGAL SUPPORT 
 o	Spouses 
@@ -379,6 +383,7 @@ Note: If separate property is insufficient
 ACP - automatically liable (advance) 
 CPG - responsibilities of the CPG should first be covered
 
+---
 	DEBTS CONTRACTED DURING MARRIAGE 
 o	Contracted by administrator-spouse or both spouses or one spouse with the consent of the other 
 o	For the benefit of the community or partnership 
@@ -416,16 +421,18 @@ CPG - responsibilities of the CPG should first be covered before any civil liabi
 o	NOT chargeable against the community or partnership 
 o	Winnings - part of community or partnership
 
+---
 Ownership, Possession, Enjoyment and Administration of Conjugal Partnership Property
 Remedies in case of Disagreements Arts. 124-125
 •	Sps. Cueno v. Sps. Bautista, G.R. No. 246445, March 02, 2021
 
+---
 Sole Administration, When Permissible Art. 124
 •	Uy v. CA, 346 S 246
 •	Sabalones v. CA, 230 S 79
 •	Relucio v. Lopez, 16 January 2002
 
-
+---
 RULES on Administration, Disposition, and Encumbrance  
 	Joint Administration and Management 
 o	General Rule: Spouses as joint administrators 
@@ -445,26 +452,113 @@ o	Q: May buyers or mortgagees interpose the defense of good faith?  A: YES.
 o	Diligence in verifying the validity of the title covering the property 
 o	Diligence in inquiring into the authority of the transacting spouse to sell community or partnership property in behalf of the other spouse
 
+Q: What is the remedy of the non-consenting spouse?  
+A: Action for declaration of nullity of the contract and the return of the property to the community or partnership (imprescriptible)
+
+Termination of Property Regime (ACP & CPG)
+1.	Upon the death of either spouse
+2.	When there is a decree of legal separation 
+3.	When the marriage is annulled (Art 45)
+4.	When the marriage is declared void under Art 40
+5.	In case of judicial separation of property during the marriage
+6.	Upon the termination of subsequent marriage as contemplated under Art 41 (recording of affidavit of reappearance of an absentee spouse/judicial declaration of termination of subsequent marriage)
+7.	Recognition of divorce decree
 
 
-
+---
 Dissolution and Liquidation of Conjugal Partnership Grounds Art. 126 in rel. to Arts. 103, 63-64, 50-52, 134-138
 •	Uy v. Estate of Fernandez, 5 April 2017
 •	Nable-Jose v. Nable-Jose, 41 P 713
 
+---
 Effect of Separation De Facto Art. 127-128
 •	Abalos v. Macatangay, 439 S 649
+Q: Will the property regime be terminated in case of separation de facto or abandonment?  
+A: NO, but judicial authorization may be obtained in a summary proceeding in case of disposition or encumbrance of properties.
 
+---
 Liquidation Procedure Arts. 129-133 Separation of Property
 •	Case: BELINDA ALEXANDER v SPOUSES ESCALONA et al., G.R. No 256141
 July 19, 2022 (sale without the other spouse’s consent
 •	THE	COMMONER LENDING CORPORATION v RAFAEL BALANDRA, G.R.
 No. 247646 March 29, 2023 (encumbrance without the other spouse’s consent)
 
+LIQUIDATION OF PROPERTIES 
+
+A. Procedures in ACP: 
+	Preparation of inventory (list of community properties and separate properties, if any) 
+	Payment of debts and obligations of the absolute community shall be paid out of its assets. If insufficient, spoused shall be solidarily liable with their separate properties. 
+	Delivery of exclusive properties 
+	Division of net assets - equally or in accordance to the marriage settlement 
+	Delivery of presumptive legitimes 
+	Conjugal dwelling and lot on which it is situated shall be adjudicated to the spouse with whom the majority of the common children choose to remain
+
+B. Procedures in CPG:
+	Preparation of inventory (list of partnership and separate properties) 
+	Credit as an asset - amounts advanced by the partnership 
+	Reimbursement of spouse for the use of his or her exclusive funds in the acquisition of property or value of exclusive property which became part of the conjugal property (onerous donation) 
+	Payment of debts and obligations of partnership shall be paid out of the conjugal assets. If insufficient, spoused shall be solidarily liable with their separate properties. 
+	Delivery of exclusive properties
+	Indemnification of spouse-owner for the loss or deterioration of movables used for the benefit of the family 
+	Division of net profits - equally or in accordance to the marriage settlement 
+	Delivery of presumptive legitimes 
+	Conjugal dwelling and lot on which it is situated shall be adjudicated to the spouse with whom the majority of the common children choose to remain
+
+FORFEITURE OF NET PROFITS – share shall be forfeited in favor of: 
+	the common children 
+	the children of the guilty spouse by a previous marriage 
+	the innocent spouse
+Forfeiture of NET PROFITS 
+	Spouse in bad faith in subsequent marriage referred to in Article 41 of the Family Code / 
+	Offending spouse in case of legal separation 
+	Guilty spouse in annulment of a voidable marriage 
+	Guilty spouse in judicial declaration of nullity of a marriage if the ground is Article 40 of the Family Code
+
+LIQUIDATION OF PROPERTIES  
+	Liquidation in case of Termination of Property Regime upon Death (within one year from death)
+o	Liquidation in judicial settlement in a testate or intestate proceeding 
+o	Judicial action or ordinary action for partition 
+o	Extrajudicial settlement of estate
+	Q: What happens if there is no liquidation within one year from death? 
+o	A: Any disposition or encumbrance involving the community or partnership property shall be VOID (for portions pertaining to non-disposing co-heirs)  
+o	Should the surviving spouse contract marriage, a mandatory regime of separation of property shall govern the property relations of the subsequent marriage
+
+---
 Voluntary Separation of Property Arts. 134, 143-146
 •	Maquilan v. Maquilan, 8 June 2007
 
+COMPLETE SEPARATION OF PROPERTY  
+When applicable: 
+	By virtue of marriage settlement 
+	By virtue of decree of legal separation 
+	By virtue of judicial separation of property 
+	Mandatory regime of complete separation
+
+Effects:
+	Each spouse shall own, possess, administer, and enjoy property 
+	Each spouse can dispose or encumber property without the consent of the other 
+	All earnings, income, or fruits shall belong to the owner of the separate property 
+	Family expenses - both spouses will contribute in proportion to their income; solidarily liable to the creditors in connection with the expense
+
+---
 Judicial Separation of Property Art. 135-141 Grounds Procedure Revival
+
+JUDICIAL SEPARATION OF PROPERTY  
+	Voluntary 
+	For Sufficient Cause
+
+Voluntary 
+	The spouses may jointly file a verified petition with the court 
+	All creditors, as well as the personal creditors of the spouse, shall be listed in the petition and notified of the filing thereof.
+
+Sufficient Cause:
+	civil interdiction 
+	judicial declaration of absence (2/5yrs) 
+	loss of parental authority 
+	abandonment or failure to comply with obligations to family 
+	abuse of power of administration 
+	separation in fact for at least one year
+
 
 
 
