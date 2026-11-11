@@ -237,7 +237,7 @@
       color: #a7f3d0;
     }
 
-    /* Column 2: Overview (Parchment Card) - Justified Alignment */
+    /* Column 2: Overview (Parchment Card) */
     .overview-container {
       background-color: #0b111c;
       padding: 12px;
@@ -278,7 +278,7 @@
       line-height: 1.35;
     }
 
-    /* Column 3: Case Digest - Justified Alignment */
+    /* Column 3: Case Digest */
     .digest-path {
       font-size: 1.02rem;
       color: var(--accent-yellow);
@@ -319,6 +319,14 @@
       white-space: pre-wrap;
       text-align: justify;
       text-justify: inter-word;
+    }
+    .digest-block strong {
+      font-weight: 800;
+      color: #ffffff;
+    }
+    .digest-block em {
+      font-style: italic;
+      color: #e2e8f0;
     }
 
     .btn-pane-action {
@@ -561,18 +569,27 @@
     }
 
     function formatMarkdown(text) {
+      if (!text) return "";
       return text
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
-        // Headings
-        .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.6rem; font-weight:800; margin:16px 0 10px; color:#1e293b;">$1</h3>')
-        .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.8rem; font-weight:800; margin:18px 0 12px; color:#0f172a;">$1</h2>')
-        .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:2.0rem; font-weight:900; margin:20px 0 14px; color:#0f172a;">$1</h1>')
+        
+        // Headings (# through ####)
+        .replace(/^####\s+(.*$)/gim, '<h4 style="font-size:1.35rem; font-weight:800; margin:14px 0 8px; color:var(--accent-yellow);">$1</h4>')
+        .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.55rem; font-weight:800; margin:16px 0 10px; color:#f8fafc;">$1</h3>')
+        .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.75rem; font-weight:800; margin:18px 0 12px; color:#f8fafc;">$1</h2>')
+        .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:1.95rem; font-weight:900; margin:20px 0 14px; color:#f8fafc;">$1</h1>')
+        
+        // Unordered lists (* text) at start of lines
+        .replace(/^\s*\*\s+(.*$)/gim, '<div style="margin-left: 18px; text-indent: -14px; margin-bottom: 6px;">• $1</div>')
+
         // Bold: **text**
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        
         // Italics: *text*
-        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        .replace(/(^|[^\*])\*([^\*\n]+?)\*([^\*]|$)/g, '$1<em>$2</em>$3')
+        
         // Automatic Article highlighter
         .replace(/\b(Arts?\.|Articles?)\s*(\d+[\d\w\-,\s\(\)]*?\b)/gi, function(match) {
           return `<span class="article-badge">${match}</span>`;
@@ -826,36 +843,36 @@
       `;
 
       if (sections.general) {
-        html += `<div class="digest-block">${sections.general}</div>`;
+        html += `<div class="digest-block">${formatMarkdown(sections.general)}</div>`;
       }
       if (sections.facts) {
         html += `
           <div class="badge-label color-facts">◼ RELEVANT FACTS</div>
-          <div class="digest-block">${sections.facts}</div>
+          <div class="digest-block">${formatMarkdown(sections.facts)}</div>
         `;
       }
       if (sections.issue) {
         html += `
           <div class="badge-label color-issue">? ISSUE</div>
-          <div class="digest-block">${sections.issue}</div>
+          <div class="digest-block">${formatMarkdown(sections.issue)}</div>
         `;
       }
       if (sections.held) {
         html += `
           <div class="badge-label color-held">✓ HELD / RULING</div>
-          <div class="digest-block">${sections.held}</div>
+          <div class="digest-block">${formatMarkdown(sections.held)}</div>
         `;
       }
       if (sections.ratio) {
         html += `
           <div class="badge-label color-ratio">⚖ RATIO DECIDENDI</div>
-          <div class="digest-block">${sections.ratio}</div>
+          <div class="digest-block">${formatMarkdown(sections.ratio)}</div>
         `;
       }
       if (sections.fallo) {
         html += `
           <div class="badge-label color-fallo">▶ FALLO</div>
-          <div class="digest-block">${sections.fallo}</div>
+          <div class="digest-block">${formatMarkdown(sections.fallo)}</div>
         `;
       }
 
