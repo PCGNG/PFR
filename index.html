@@ -113,7 +113,7 @@
     .pane-actions {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
     }
 
     .pane-content {
@@ -201,6 +201,11 @@
     .subtopic-btn:hover, .subtopic-btn.active {
       background: rgba(56, 189, 248, 0.15);
       font-weight: 700;
+    }
+    /* Subtopic Marked as Read in Tree */
+    .subtopic-btn.read-subtopic {
+      color: var(--read-green);
+      opacity: 0.9;
     }
 
     .case-tree-list {
@@ -375,7 +380,10 @@
     <section class="pane-card">
       <div class="pane-titlebar">
         <span>• Topic & Sub-Topic Overview</span>
-        <span style="color: var(--accent-yellow); font-size: 1.00rem;" id="activeSubtopicLabel">OVERVIEW OUTLINE</span>
+        <div class="pane-actions">
+          <span style="color: var(--accent-yellow); font-size: 0.98rem; font-weight: 700;" id="activeSubtopicLabel">OVERVIEW OUTLINE</span>
+          <button class="btn-pane-action btn-read-toggle" id="btnMarkOverviewRead">Mark as Read</button>
+        </div>
       </div>
       <div class="overview-container">
         <div class="parchment-sheet" id="overviewDisplay">
@@ -404,11 +412,12 @@
     let currentSyllabus = [];
     let currentRatioText = "";
     let currentCaseItem = null;
+    let currentSubtopicItem = null;
     let currentCaseIndex = -1;
-    let flattenedCases = []; // Flattened list for sequential next-case traversal
+    let flattenedCases = [];
     let allCollapsed = false;
 
-    // Load read cases set from localStorage
+    // Load & Save Read Cases
     function getReadCases() {
       try {
         const stored = localStorage.getItem('pfr_read_cases');
@@ -417,11 +426,24 @@
         return new Set();
       }
     }
-
     function saveReadCases(set) {
       localStorage.setItem('pfr_read_cases', JSON.stringify([...set]));
     }
 
+    // Load & Save Read Overview Subtopics
+    function getReadSubtopics() {
+      try {
+        const stored = localStorage.getItem('pfr_read_subtopics');
+        return stored ? new Set(JSON.parse(stored)) : new Set();
+      } catch (e) {
+        return new Set();
+      }
+    }
+    function saveReadSubtopics(set) {
+      localStorage.setItem('pfr_read_subtopics', JSON.stringify([...set]));
+    }
+
+    // Toggle Read Status for Case
     function toggleCaseReadStatus(caseId) {
       const readSet = getReadCases();
       if (readSet.has(caseId)) {
@@ -434,6 +456,19 @@
       updateCaseTreeItem(caseId);
     }
 
+    // Toggle Read Status for Overview Subtopic
+    function toggleSubtopicReadStatus(subId) {
+      const readSet = getReadSubtopics();
+      if (readSet.has(subId)) {
+        readSet.delete(subId);
+      } else {
+        readSet.add(subId);
+      }
+      saveReadSubtopics(readSet);
+      updateOverviewReadButton(subId);
+      updateSubtopicTreeItem(subId);
+    }
+
     function updateReadButton(caseId) {
       const btn = document.getElementById('btnMarkRead');
       if (!caseId) {
@@ -443,6 +478,23 @@
       btn.style.display = 'inline-flex';
       const readSet = getReadCases();
       if (readSet.has(caseId)) {
+        btn.classList.add('is-read');
+        btn.textContent = '✓ Read';
+      } else {
+        btn.classList.remove('is-read');
+        btn.textContent = 'Mark as Read';
+      }
+    }
+
+    function updateOverviewReadButton(subId) {
+      const btn = document.getElementById('btnMarkOverviewRead');
+      if (!subId) {
+        btn.style.display = 'none';
+        return;
+      }
+      btn.style.display = 'inline-flex';
+      const readSet = getReadSubtopics();
+      if (readSet.has(subId)) {
         btn.classList.add('is-read');
         btn.textContent = '✓ Read';
       } else {
@@ -464,6 +516,22 @@
       } else {
         li.classList.remove('read-case');
         li.textContent = `# ${title}`;
+      }
+    }
+
+    function updateSubtopicTreeItem(subId) {
+      const btn = document.querySelector(`.subtopic-btn[data-sub-id="${subId}"]`);
+      if (!btn) return;
+      const readSet = getReadSubtopics();
+      const isRead = readSet.has(subId);
+      const title = btn.getAttribute('data-sub-title');
+
+      if (isRead) {
+        btn.classList.add('read-subtopic');
+        btn.textContent = `✓ ${title}`;
+      } else {
+        btn.classList.remove('read-subtopic');
+        btn.textContent = `▪ ${title}`;
       }
     }
 
@@ -498,15 +566,11 @@
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
-        // Headings
         .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.6rem; font-weight:800; margin:16px 0 10px; color:#1e293b;">$1</h3>')
         .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.8rem; font-weight:800; margin:18px 0 12px; color:#0f172a;">$1</h2>')
         .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:2.0rem; font-weight:900; margin:20px 0 14px; color:#0f172a;">$1</h1>')
-        // Bold: **text**
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-        // Italics: *text*
         .replace(/\*(.*?)\*/g, '<em>$1</em>')
-        // Automatic Article highlighter
         .replace(/\b(Arts?\.|Articles?)\s*(\d+[\d\w\-,\s\(\)]*?\b)/gi, function(match) {
           return `<span class="article-badge">${match}</span>`;
         });
@@ -526,6 +590,8 @@
           const first = flattenedCases[0];
           loadOverviewText(first.subtopic);
           loadCaseFile(first.caseItem, first.subtopic.subtopic_title);
+        } else if (currentSyllabus.length > 0 && currentSyllabus[0].subtopics.length > 0) {
+          loadOverviewText(currentSyllabus[0].subtopics[0]);
         }
       } catch (err) {
         document.getElementById('syllabusTree').innerHTML = `
@@ -539,7 +605,8 @@
     function renderTree() {
       const container = document.getElementById('syllabusTree');
       container.innerHTML = '';
-      const readSet = getReadCases();
+      const readCases = getReadCases();
+      const readSubtopics = getReadSubtopics();
 
       currentSyllabus.forEach((topic, tIndex) => {
         const group = document.createElement('div');
@@ -569,9 +636,17 @@
         };
 
         topic.subtopics.forEach((sub, sIndex) => {
+          const subKey = sub.subtopic_id || sub.subtopic_title;
+          const isSubRead = readSubtopics.has(subKey);
+
           const sBtn = document.createElement('button');
-          sBtn.className = 'subtopic-btn' + (tIndex === 0 && sIndex === 0 ? ' active' : '');
-          sBtn.textContent = `▪ ${sub.subtopic_title}`;
+          sBtn.className = 'subtopic-btn' + 
+                           (tIndex === 0 && sIndex === 0 ? ' active' : '') +
+                           (isSubRead ? ' read-subtopic' : '');
+          sBtn.setAttribute('data-sub-id', subKey);
+          sBtn.setAttribute('data-sub-title', sub.subtopic_title);
+          sBtn.textContent = isSubRead ? `✓ ${sub.subtopic_title}` : `▪ ${sub.subtopic_title}`;
+
           sBtn.onclick = () => {
             document.querySelectorAll('.subtopic-btn').forEach(b => b.classList.remove('active'));
             sBtn.classList.add('active');
@@ -585,7 +660,7 @@
 
             sub.cases.forEach((c, cIndex) => {
               const caseKey = c.id || c.title;
-              const isRead = readSet.has(caseKey);
+              const isRead = readCases.has(caseKey);
 
               const li = document.createElement('li');
               li.className = 'case-tree-item' + 
@@ -630,6 +705,10 @@
     }
 
     async function loadOverviewText(subtopic) {
+      currentSubtopicItem = subtopic;
+      const subKey = subtopic.subtopic_id || subtopic.subtopic_title;
+      updateOverviewReadButton(subKey);
+
       const display = document.getElementById('overviewDisplay');
       document.getElementById('activeSubtopicLabel').textContent = subtopic.subtopic_title;
       display.textContent = 'Loading outline...';
@@ -662,18 +741,15 @@
       currentCaseItem = caseItem;
       const caseKey = caseItem.id || caseItem.title;
       
-      // Determine index within flattened array
       currentCaseIndex = flattenedCases.findIndex(item => (item.caseItem.id || item.caseItem.title) === caseKey);
 
       updateReadButton(caseKey);
       updateNextButton();
 
-      // Highlight in the tree if not already highlighted
       document.querySelectorAll('.case-tree-item').forEach(i => i.classList.remove('active'));
       const activeTreeItem = document.querySelector(`.case-tree-item[data-case-id="${caseKey}"]`);
       if (activeTreeItem) {
         activeTreeItem.classList.add('active');
-        // Automatically expand the parent module container if it was collapsed
         const parentModule = activeTreeItem.closest('.module-subtopics');
         if (parentModule && parentModule.classList.contains('collapsed')) {
           parentModule.classList.remove('collapsed');
@@ -787,6 +863,13 @@
       if (currentCaseItem) {
         const caseKey = currentCaseItem.id || currentCaseItem.title;
         toggleCaseReadStatus(caseKey);
+      }
+    };
+
+    document.getElementById('btnMarkOverviewRead').onclick = () => {
+      if (currentSubtopicItem) {
+        const subKey = currentSubtopicItem.subtopic_id || currentSubtopicItem.subtopic_title;
+        toggleSubtopicReadStatus(subKey);
       }
     };
 
