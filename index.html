@@ -108,12 +108,14 @@
       letter-spacing: 0.05em;
       text-transform: uppercase;
       flex-shrink: 0;
+      gap: 10px;
     }
 
     .pane-actions {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
+      flex-shrink: 0;
     }
 
     .pane-content {
@@ -237,12 +239,14 @@
       color: #a7f3d0;
     }
 
-    /* Column 2: Overview (Parchment Card) */
+    /* Column 2: Overview (Parchment Card & PDF Viewer) */
     .overview-container {
       background-color: #0b111c;
       padding: 12px;
       height: 100%;
       overflow: hidden;
+      display: flex;
+      flex-direction: column;
     }
     .parchment-sheet {
       background: var(--cream-card);
@@ -266,7 +270,36 @@
       font-style: italic;
     }
 
-    /* Article Highlighter (Active ONLY in Middle Pane) */
+    /* Subtopic Divider (---) */
+    .subtopic-divider {
+      border: 0;
+      height: 2px;
+      background: linear-gradient(to right, #cbd5e1, #94a3b8, #cbd5e1);
+      margin: 26px 0 22px 0;
+    }
+
+    /* Bullet Lists in Overview */
+    .overview-bullet {
+      margin-left: 24px;
+      text-indent: -16px;
+      margin-bottom: 6px;
+    }
+    .overview-sub-bullet {
+      margin-left: 44px;
+      text-indent: -16px;
+      margin-bottom: 6px;
+    }
+
+    /* Embedded PDF Frame */
+    .pdf-viewer-frame {
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: 8px;
+      background: #1e293b;
+    }
+
+    /* Article Highlighter (Active ONLY at the start of lines in Middle Pane) */
     .article-badge {
       color: #0369a1; 
       background-color: #fce7f3;
@@ -276,6 +309,7 @@
       font-weight: 800;
       display: inline-block;
       line-height: 1.35;
+      text-indent: 0;
     }
 
     /* Column 3: Case Digest */
@@ -339,7 +373,7 @@
       background: transparent;
       border: 1px solid var(--border-line);
       color: var(--text-muted);
-      font-size: 0.95rem;
+      font-size: 0.90rem;
       font-weight: 600;
       padding: 4px 10px;
       border-radius: 4px;
@@ -347,6 +381,8 @@
       display: inline-flex;
       align-items: center;
       gap: 5px;
+      text-transform: none;
+      white-space: nowrap;
     }
     .btn-pane-action:hover { color: #fff; border-color: #64748b; }
     .btn-pane-action:disabled {
@@ -360,6 +396,21 @@
       background: rgba(16, 185, 129, 0.18);
       border-color: #059669;
       color: #34d399;
+    }
+
+    .btn-pdf-toggle {
+      color: var(--accent-pink);
+      border-color: rgba(244, 114, 182, 0.35);
+    }
+    .btn-pdf-toggle:hover {
+      background: rgba(244, 114, 182, 0.15);
+      border-color: var(--accent-pink);
+      color: #fff;
+    }
+    .btn-pdf-toggle.active-pdf {
+      background: rgba(244, 114, 182, 0.25);
+      border-color: var(--accent-pink);
+      color: #fff;
     }
 
     .btn-next-case {
@@ -393,16 +444,17 @@
       <div class="pane-content" id="syllabusTree">Loading syllabus...</div>
     </section>
 
-    <!-- Col 2: Middle Pane (Topic Overview) -->
+    <!-- Col 2: Middle Pane (Topic Overview & PDF Toggle) -->
     <section class="pane-card">
       <div class="pane-titlebar">
-        <span>• Topic & Sub-Topic Overview</span>
+        <span style="white-space: nowrap;">• Overview</span>
+        <span style="color: var(--accent-yellow); font-size: 0.92rem; font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" id="activeSubtopicLabel">OUTLINE</span>
         <div class="pane-actions">
-          <span style="color: var(--accent-yellow); font-size: 0.98rem; font-weight: 700;" id="activeSubtopicLabel">OVERVIEW OUTLINE</span>
+          <button class="btn-pane-action btn-pdf-toggle" id="btnTogglePdf">📄 View PDF</button>
           <button class="btn-pane-action btn-read-toggle" id="btnMarkOverviewRead">Mark as Read</button>
         </div>
       </div>
-      <div class="overview-container">
+      <div class="overview-container" id="overviewContainer">
         <div class="parchment-sheet" id="overviewDisplay">
           Select a topic or subtopic from the syllabus tree on the left.
         </div>
@@ -433,6 +485,7 @@
     let currentCaseIndex = -1;
     let flattenedCases = [];
     let allCollapsed = false;
+    let isPdfMode = false;
 
     function getReadCases() {
       try {
@@ -574,22 +627,36 @@
       });
     }
 
-    /* 1. Parser for Middle Pane (Overview) -> Includes Article Highlighter */
+    /* 1. Parser for Middle Pane (Overview) -> Bullets, --- Dividers, & Line-Start Article Badges */
     function formatOverviewMarkdown(text) {
       if (!text) return "";
       return text
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
-        .replace(/^####\s+(.*$)/gim, '<h4 style="font-size:1.35rem; font-weight:800; margin:14px 0 8px; color:var(--accent-yellow);">$1</h4>')
+        
+        // "---" on its own line marks the beginning of a new subtopic/section
+        .replace(/^\s*---+\s*$/gim, '<hr class="subtopic-divider">')
+        
+        // Headings (# through ####)
+        .replace(/^####\s+(.*$)/gim, '<h4 style="font-size:1.35rem; font-weight:800; margin:14px 0 8px; color:#b45309;">$1</h4>')
         .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.55rem; font-weight:800; margin:16px 0 10px; color:#1e293b;">$1</h3>')
         .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.75rem; font-weight:800; margin:18px 0 12px; color:#0f172a;">$1</h2>')
         .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:1.95rem; font-weight:900; margin:20px 0 14px; color:#0f172a;">$1</h1>')
-        .replace(/^\s*\*\s+(.*$)/gim, '<div style="margin-left: 18px; text-indent: -14px; margin-bottom: 6px;">• $1</div>')
+        
+        // Indented Sub-bullets (2+ spaces or tab followed by -, *, or •)
+        .replace(/^(?: {2,}|\t+)[-\*•]\s+(.*$)/gim, '<div class="overview-sub-bullet">◦ $1</div>')
+        
+        // Primary Bullet Points (- , * , or • at start of line)
+        .replace(/^\s*[-\*•]\s+(.*$)/gim, '<div class="overview-bullet">• $1</div>')
+        
+        // Bold & Italics
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
         .replace(/(^|[^\*])\*([^\*\n]+?)\*([^\*]|$)/g, '$1<em>$2</em>$3')
-        .replace(/\b(Arts?\.|Articles?)\s*(\d+[\d\w\-,\s\(\)]*?\b)/gi, function(match) {
-          return `<span class="article-badge">${match}</span>`;
+        
+        // Highlight ONLY articles that appear at the beginning of a line/provision
+        .replace(/^(\s*)(Arts?\.|Articles?)\s*(\d+[\d\w\-,\s\(\)]*?\b)/gim, function(match, spaces, prefix, num) {
+          return `${spaces}<span class="article-badge">${prefix} ${num}</span>`;
         });
     }
 
@@ -600,11 +667,12 @@
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
+        .replace(/^\s*---+\s*$/gim, '<hr style="border:0; height:1px; background:rgba(255,255,255,0.15); margin:18px 0;">')
         .replace(/^####\s+(.*$)/gim, '<h4 style="font-size:1.35rem; font-weight:800; margin:14px 0 8px; color:var(--accent-yellow);">$1</h4>')
         .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.55rem; font-weight:800; margin:16px 0 10px; color:#f8fafc;">$1</h3>')
         .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.75rem; font-weight:800; margin:18px 0 12px; color:#f8fafc;">$1</h2>')
         .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:1.95rem; font-weight:900; margin:20px 0 14px; color:#f8fafc;">$1</h1>')
-        .replace(/^\s*\*\s+(.*$)/gim, '<div style="margin-left: 18px; text-indent: -14px; margin-bottom: 6px;">• $1</div>')
+        .replace(/^\s*[-\*•]\s+(.*$)/gim, '<div style="margin-left: 18px; text-indent: -14px; margin-bottom: 6px;">• $1</div>')
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
         .replace(/(^|[^\*])\*([^\*\n]+?)\*([^\*]|$)/g, '$1<em>$2</em>$3');
     }
@@ -737,22 +805,76 @@
       };
     }
 
+    function getSubtopicPdfPath(subtopic) {
+      if (subtopic.pdf_file) return subtopic.pdf_file;
+      if (subtopic.subtopic_title) {
+        return `PDFs/${subtopic.subtopic_title}.pdf`;
+      }
+      return null;
+    }
+
+    function updatePdfToggleButton() {
+      const btn = document.getElementById('btnTogglePdf');
+      if (!currentSubtopicItem) {
+        btn.style.display = 'none';
+        return;
+      }
+      btn.style.display = 'inline-flex';
+      if (isPdfMode) {
+        btn.classList.add('active-pdf');
+        btn.textContent = '📝 View Overview';
+      } else {
+        btn.classList.remove('active-pdf');
+        btn.textContent = '📄 View PDF';
+      }
+    }
+
     async function loadOverviewText(subtopic) {
       currentSubtopicItem = subtopic;
+      isPdfMode = false;
+      updatePdfToggleButton();
+
       const subKey = subtopic.subtopic_id || subtopic.subtopic_title;
       updateOverviewReadButton(subKey);
 
-      const display = document.getElementById('overviewDisplay');
       document.getElementById('activeSubtopicLabel').textContent = subtopic.subtopic_title;
-      display.textContent = 'Loading outline...';
+      renderMiddlePaneContent();
+    }
 
-      if (!subtopic.overview_file) {
+    async function renderMiddlePaneContent() {
+      const container = document.getElementById('overviewContainer');
+      if (!currentSubtopicItem) return;
+
+      // Mode 1: PDF Viewer
+      if (isPdfMode) {
+        const pdfPath = getSubtopicPdfPath(currentSubtopicItem);
+        if (!pdfPath) {
+          container.innerHTML = `<div class="parchment-sheet">No PDF path configured for this subtopic.</div>`;
+          return;
+        }
+        const encodedPdf = encodeURI(pdfPath);
+        container.innerHTML = `
+          <iframe class="pdf-viewer-frame" src="${encodedPdf}">
+            <div class="parchment-sheet">
+              Your browser cannot display embedded PDFs directly. 
+              <a href="${encodedPdf}" target="_blank" style="color:#0369a1; font-weight:bold;">Click here to open the PDF in a new tab.</a>
+            </div>
+          </iframe>
+        `;
+        return;
+      }
+
+      // Mode 2: Default Text Overview
+      container.innerHTML = `<div class="parchment-sheet" id="overviewDisplay">Loading outline...</div>`;
+      const display = document.getElementById('overviewDisplay');
+
+      if (!currentSubtopicItem.overview_file) {
         display.textContent = 'No overview file linked for this subtopic.';
         return;
       }
 
       try {
-        const fileUrl = encodeURI(subtopic.overview_file);
+        const fileUrl = encodeURI(currentSubtopicItem.overview_file);
         const res = await fetch(fileUrl);
         if (!res.ok) {
           throw new Error(`HTTP ${res.status}: File not found`);
@@ -763,7 +885,7 @@
         display.innerHTML = `
           <div style="color: #64748b; font-size: 1.15rem; line-height: 1.6;">
             <strong style="color: #f59e0b;">Overview outline for this section is being prepared.</strong><br><br>
-            File path: <code>${subtopic.overview_file}</code><br><br>
+            File path: <code>${currentSubtopicItem.overview_file}</code><br><br>
             <em>Once the text file is added to your Overviews folder in GitHub, its contents will appear automatically.</em>
           </div>
         `;
@@ -815,7 +937,6 @@
     function parseDigestText(rawText, title, breadcrumb) {
       currentRatioText = "";
 
-      // Regex matches: KEY DOCTRINES, FACTS, ISSUE/ISSUES, HELD/RULING, RATIO, FALLO/DISPOSITIVE
       const pattern = /(?:^|\n)\s*(?:###\s*)?(KEY DOCTRINES?|DOCTRINES?|RELEVANT FACTS|FACTS|ISSUES?|HELD|RULINGS?|RATIO DECIDENDI|RATIO|FALLO|DISPOSITIVE PORTION)[:\s-]*/i;
       const parts = rawText.split(pattern);
 
@@ -900,6 +1021,13 @@
 
       return html;
     }
+
+    document.getElementById('btnTogglePdf').onclick = () => {
+      if (!currentSubtopicItem) return;
+      isPdfMode = !isPdfMode;
+      updatePdfToggleButton();
+      renderMiddlePaneContent();
+    };
 
     document.getElementById('btnMarkRead').onclick = () => {
       if (currentCaseItem) {
