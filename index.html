@@ -845,19 +845,48 @@
       const container = document.getElementById('overviewContainer');
       if (!currentSubtopicItem) return;
 
-      // Mode 1: PDF Viewer
+      // Mode 1: PDF Viewer (Auto-checks Title Case first, then ALL CAPS)
       if (isPdfMode) {
-        const pdfPath = getSubtopicPdfPath(currentSubtopicItem);
-        if (!pdfPath) {
+        const basePath = getSubtopicPdfPath(currentSubtopicItem);
+        if (!basePath) {
           container.innerHTML = `<div class="parchment-sheet">No PDF path configured for this subtopic.</div>`;
           return;
         }
-        const encodedPdf = encodeURI(pdfPath);
+
+        container.innerHTML = `<div class="parchment-sheet">Loading PDF...</div>`;
+
+        const upperFilenamePath = `PDFs/${currentSubtopicItem.subtopic_title.toUpperCase()}.pdf`;
+        const candidates = [basePath, upperFilenamePath];
+        let validUrl = null;
+
+        for (const path of candidates) {
+          const encoded = encodeURI(path);
+          try {
+            const check = await fetch(encoded, { method: 'HEAD' });
+            if (check.ok) {
+              validUrl = encoded;
+              break;
+            }
+          } catch (e) {}
+        }
+
+        if (!validUrl) {
+          container.innerHTML = `
+            <div class="parchment-sheet" style="color:#64748b;">
+              <strong style="color:#ef4444;">PDF not found in the PDFs/ folder.</strong><br><br>
+              Checked paths:<br>
+              • <code>${basePath}</code><br>
+              • <code>${upperFilenamePath}</code><br><br>
+              <em>Make sure the PDF file is uploaded inside the <code>PDFs/</code> folder on GitHub.</em>
+            </div>`;
+          return;
+        }
+
         container.innerHTML = `
-          <iframe class="pdf-viewer-frame" src="${encodedPdf}">
+          <iframe class="pdf-viewer-frame" src="${validUrl}">
             <div class="parchment-sheet">
               Your browser cannot display embedded PDFs directly. 
-              <a href="${encodedPdf}" target="_blank" style="color:#0369a1; font-weight:bold;">Click here to open the PDF in a new tab.</a>
+              <a href="${validUrl}" target="_blank" style="color:#0369a1; font-weight:bold;">Click here to open the PDF in a new tab.</a>
             </div>
           </iframe>
         `;
