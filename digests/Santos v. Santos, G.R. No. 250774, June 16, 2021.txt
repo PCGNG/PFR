@@ -1,38 +1,53 @@
-### Facts
+Facts
 
-Jose and Maria were married without executing any marriage settlement. During the subsistence of their marriage, landowners executed deeds of donation conveying a parcel of land to Jose, which were expressly designated as disturbance compensation for his tenancy rights over the landholding under the agrarian reform law. The title to the property was registered in the name of Jose, described as married to Maria.
+Jose Santos, an agricultural tenant of the Gaspar family, obtained a favorable DARAB decision recognizing his peaceful possession of the land he cultivated. After his first wife died (leaving eight children/grandchildren, including Edgardo Santos), Jose married Maria D. Santos in 2002 without a marriage settlement.
 
-Following Jose’s death, his heirs from a previous marriage filed an action for partition, arguing that the land was Jose’s exclusive property because it was acquired by lucrative title through deeds denominated as donations. Maria countered that the land formed part of their absolute community of property because it was acquired during the marriage as disturbance compensation for tenancy rights, making the acquisition onerous rather than gratuitous.
+Shortly after their marriage, the Gaspar family executed three documents denominated as "Deed of Donation" transferring 6,000 square meters of land to Jose as "Disturbance Compensation of Tenant". During the marriage, Jose executed a *Kasulatan ng Pagkakaloob Pala* gratuitously transferring a portion of said land to Maria. Upon further subdivision, a 694-square-meter parcel remained covered by TCT No. T-289268 registered in the name of "Jose L. Santos, Filipino, of legal age, widower, now married to Maria Santos".
 
----
-
-### Issue
-
-Does a parcel of land acquired during marriage through instruments denominated as "deeds of donation," but executed as disturbance compensation to an agricultural tenant, form part of the absolute community of property?
+When Jose died intestate, Edgardo and Jose’s descendants from his first marriage filed an action for partition against Maria. Edgardo's group argued that the 694-square-meter lot was Jose's exclusive property because it was acquired by him through gratuitous title from the Gaspar family during his marriage to Maria. Maria countered that she was the sole owner by virtue of the *Kasulatan ng Pagkakaloob Pala*, or, in the alternative, that the lot formed part of their Absolute Community of Property because it was acquired during their marriage as onerous disturbance compensation.
 
 ---
 
-### Ruling
+Issue
 
-#### Legal Basis Quoted Verbatim
+Is a parcel of land acquired by a spouse during marriage through documents denominated as "Deeds of Donation," but given as disturbance compensation to an agricultural tenant, excluded from the Absolute Community of Property under Article 92 of the Family Code as property acquired by gratuitous title?
 
-> "Since Jose and Maria were married without a marriage settlement, their property relations was governed by the Absolute Community of Property (ACP). Article 91 of the Family Code provides that the community property consists of all the property owned by the spouses at the time of the celebration of the marriage or acquired thereafter."
-> "Under Article 93 of the Family Code, '[p]roperty acquired during the marriage is presumed to belong to the community, unless it is proved that it is one of those excluded therefrom.' Article 92(1) of the Family Code excludes from the community property:
-> '(1) Property acquired during the marriage by gratuitous title by either spouse, and the fruits as well as the income thereof, if any, unless it is expressly provided by the donor, testator or grantor that they shall form part of the community property;'"
-> "Gratuitous title is defined as 'the acquisition of property made without any equivalent or compensation on the part of the donee, such as donations and legacies.' On the other hand, an onerous title is 'one where the property is acquired for a valuable consideration, such as by purchase, exchange, or cession in payment of debts.'"
-> "While the documents transferring the subject property to Jose were denominated as 'Deeds of Donation,' the deeds were not executed out of pure liberality. The deeds clearly state that the subject property was transferred to Jose as disturbance compensation for his tenancy rights over the land."
-> "Under Section 36(1) of Republic Act No. 3844, or the Agricultural Land Reform Code, an agricultural lessee is entitled to disturbance compensation equivalent to five years of the average gross harvests on the landholding if the land is converted to residential or industrial use. It is a statutory compensation for the dispossession of the tenant's right to cultivate the land."
-> "Since the subject property was given to Jose as disturbance compensation, it was acquired for a valuable consideration—the surrender of his rights as an agricultural tenant. Thus, the subject property was acquired through an onerous title during the marriage of Jose and Maria. It is not excluded under Article 92(1) of the Family Code and forms part of the absolute community of property of Jose and Maria."
+---
 
-#### Ratio Decidendi
+Ruling
 
-Under the regime of Absolute Community of Property, all property acquired during marriage is presumed to belong to the community unless proven to be acquired by gratuitous title under Article 92(1) of the Family Code.
+**No.**
 
-The true nature of an acquisition is determined not by the nomenclature or title given to an instrument, but by the actual consideration and character of the conveyance. Disturbance compensation is a statutory indemnity paid to an agricultural lessee for relinquishing cultivation and tenancy rights pursuant to the Agricultural Land Reform Code (Republic Act No. 3844). Because the transfer was granted in exchange for the surrender of vested tenancy rights rather than through pure liberality, the acquisition was onerous in character. Having been acquired for valuable consideration during the subsistence of the marriage, the property forms part of the absolute community of property.
+Quoting the Supreme Court’s legal basis verbatim:
 
-#### Fallo
+> "Jose's donation of the subject property through a document called *Kasulatan ng Pagkakaloob Pala* to Maria is null and void. Article 87 of the Family Code states:
+> 'Article 87. Every donation or grant of gratuitous advantage, direct or indirect, between the spouses during the marriage shall be void, except moderate gifts which the spouses may give each other on the occasion of any family rejoicing. The prohibition shall also apply to persons living together as husband and wife without a valid marriage.'"
 
-> "WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated August 22, 2019 and the Resolution dated December 10, 2019 of the Court of Appeals in CA-G.R. CV No. 109765 are AFFIRMED with MODIFICATION. The subject property, covered by Transfer Certificate of Title No. T-467468, is declared part of the absolute community of property of Jose Santos and respondent Maria D. Santos.
-> Respondent Maria D. Santos is declared entitled to one-half (1/2) portion of the subject property as her community share. The other one-half (1/2) portion of the subject property pertains to the estate of Jose Santos, to be divided equally among his compulsory heirs: respondent Maria D. Santos, petitioners Edgardo Santos, Lilia Santos-Ignacio, the heirs of deceased Ernesto Santos, the heirs of deceased Ruben Santos, and the heirs of deceased Alfredo Santos, per stirpes.
-> The Regional Trial Court of Balagtas, Bulacan, Branch 81, is DIRECTED to proceed with the partition of the estate of Jose Santos in accordance with this Decision.
+> "According to Article 93 of the Family Code, '[p]roperty acquired during the marriage is presumed to belong to the community, unless it is proved that it is one of those excluded therefrom.'"
+
+> "It is clear that the transaction is onerous in nature. The valuable consideration foregone by Jose in exchange for the subject property is his right to cultivate the subject landholding. ... The subject property was acquired by way of disturbance compensation. It shall form part of the community property of Jose and Maria and one-half of the property belongs to Maria."
+
+---
+
+#### *Provisions and Doctrines Relied Upon*
+
+* **Article 87 of the Family Code:** Declares every donation or grant of gratuitous advantage, direct or indirect, between spouses during the marriage to be void (except moderate gifts on the occasion of any family rejoicing).
+* **Article 91 of the Family Code:** Defines community property as consisting of all the property owned by the spouses at the time of the celebration of the marriage or acquired thereafter.
+* **Article 92(1) of the Family Code:** Excludes from the community property that which is acquired during the marriage by **gratuitous title** by either spouse, and the fruits as well as the income thereof, if any, unless it is expressly provided by the donor, testator, or grantor that they shall form part of the community property.
+* **Article 93 of the Family Code:** Establishes the presumption that property acquired during the marriage belongs to the community, unless proved to be one of those excluded therefrom.
+* **Section 36 of the Agricultural Land Reform Code (R.A. No. 3844):** Recognizes the right of an agricultural lessee to receive disturbance compensation upon termination of tenancy.
+* **Controlling Doctrine Cited by the Court (*Ace Foods, Inc. v. Micro Pacific Technologies Co., Ltd.*):** A contract is what the law defines it to be, taking into consideration its essential elements, and not what the contracting parties call it.
+
+---
+
+Ratio
+
+1. **Invalidity of Spousal Donation:** Maria cannot claim sole ownership of the property under the *Kasulatan ng Pagkakaloob Pala* because donations between spouses during the marriage are expressly prohibited and void *ab initio* under Article 87 of the Family Code.
+2. **Onerous Acquisition vs. Gratuitous Title:** Since Jose and Maria were married in 2002 without a marriage settlement, their property regime is the Absolute Community of Property, where property acquired during the marriage is presumed to belong to the community under Article 93 of the Family Code. Although the instruments transferring the land from the Gaspar family to Jose were captioned "Deed of Donation," the true nature of a contract is determined by its essential elements rather than its title. Because the land was given as "Disturbance Compensation of Tenant" in exchange for Jose surrendering his valuable agricultural cultivation rights, the acquisition was **onerous**, not gratuitous. Consequently, the property does not fall under the exclusion in Article 92(1) of the Family Code; it forms part of the Absolute Community of Property of Jose and Maria, entitling Maria to one-half (347 sq. m.) as her community share, while Jose's remaining one-half (347 sq. m.) forms part of his intestate estate to be divided among Maria and Jose's compulsory heirs.
+
+---
+
+Fallo
+
+> "WHEREFORE, premises considered, the Decision dated May 3, 2019 and the Resolution dated November 26, 2019 of the Court of Appeals in CA G.R. CV No. 110870 are SET ASIDE. The Court finds respondent Maria D. Santos as the owner of one-half portion of the 694-square-meter property covered by Transfer Certificate of Title No. T-289268 located in Poblacion, Bustos, Bulacan. In addition, Maria D. Santos, Zenaida Santos Herrera, Edgardo Santos, Armando Santos, Corazon Santos Cantilero, Sonia Santos Magpayo, and the heirs of Nestor Santos, namely: Cielito Santos Balmediano, Evelyn Santos Nicolas, and Felixberto Santos, and the heirs of Milagros Santos De Guzman, namely: Jerome Santos De Guzman and Jerick Santos De Guzman, and the heirs of Ruben Santos, namely: Maria Bettina Diaz Santos, and Reuben Joseph Santos shall divide equally the share of Ruben Santos. The case is REMANDED to the Regional Trial Court of Malolos, Bulacan, Branch 79, for purposes of partitioning the property in accordance with Rule 69 of the Rules of Court.
 > SO ORDERED."
