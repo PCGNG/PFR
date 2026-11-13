@@ -1,43 +1,51 @@
-### Facts
+Facts
 
-Anastacio and Flora were married and acquired an undivided one-half portion of a parcel of land during their coverture. Flora subsequently died, leaving Anastacio and their children, including Melecio, as surviving heirs. No judicial or extrajudicial settlement and liquidation of the marital property was ever conducted.
+Spouses Anastacio and Flora Domingo bought an undivided one-half portion of a parcel of land in Camiling, Tarlac in 1951. Their marriage was celebrated prior to the effectivity of the Family Code, and their property relations were governed by the conjugal partnership of gains.
 
-Years after Flora’s death, Anastacio sold his interest over the property to Genaro and Elena to answer for his personal obligations, resulting in the annotation of the sale on the title and the eventual issuance of a new certificate of title transferring the undivided portion in the buyers' names.
-
-Melecio filed an action against Genaro and Elena for annulment of title and recovery of ownership, contending that the property belonged to the common marital regime and that Anastacio could not validly convey the land without the required spousal consent or prior liquidation. Genaro and Elena countered that Anastacio only conveyed his undivided interest in the property, of which he was a co-owner.
+Flora died in 1968. Ten years later, in 1978, without liquidating the conjugal partnership, Anastacio sold his rights and interests over the property to Spouses Genaro and Elena Molina to answer for his debts. After Anastacio died, Melecio Domingo—one of the children of Anastacio and Flora—filed a complaint before the RTC for the annulment of title and recovery of ownership against Spouses Molina. Melecio argued that the sale was void because the property was conjugal and was sold without Flora's consent, and because no prior liquidation of the dissolved conjugal partnership had been made.
 
 ---
 
-### Issue
+Issue
 
-Does the sale by a surviving spouse of his undivided share in the unliquidated common marital property after the dissolution of the marriage by death render the disposition completely void for lack of consent and prior liquidation?
+Is the sale by a surviving spouse of his undivided interest in unliquidated marital property after the death of his spouse valid, notwithstanding the rule under Article 130 (and its counterpart Article 103 for Absolute Community of Property) of the Family Code prohibiting disposition without prior liquidation?
 
 ---
 
-### Ruling
+Ruling
 
-#### Legal Basis Quoted Verbatim
+**Yes, to the extent of the surviving spouse's undivided interest.**
 
-> "Anastacio and Flora Domingo married before the Family Code's effectivity which was on August 3, 1988 and so their property relation was that of conjugal partnership of gains.
-> The conjugal partnership of Anastacio and Flora was dissolved when Flora died in 1968, pursuant to Article 175 (1) of the Civil Code (now Article 126 (1) of the Family Code)."
-> "Article 130 of the Family Code provides:
-> 'Article 130. Upon the termination of the marriage by death, the conjugal partnership property shall be liquidated in the same proceeding for the settlement of the estate of the deceased.
-> If no judicial settlement proceeding is instituted, the surviving spouse shall liquidate the conjugal partnership property either judicially or extrajudicially within six months from the death of the deceased spouse. If upon the lapse of the six-month period no liquidation is made, any disposition or encumbrance involving the conjugal partnership property of the terminated marriage shall be void. x x x'"
-> *(Note: The Court pointed out that Article 103 of the Family Code contains an identical requirement and sanction for absolute community of property).*
-> "While Article 130 of the Family Code provides that any disposition involving the conjugal property without prior liquidation shall be void, this rule does not apply since the marriage of Anastacio and Flora was dissolved prior to the effectivity of the Family Code."
-> "In the case of *Taningco v. Register of Deeds of Laguna*, we held that the properties of a dissolved conjugal partnership fall under the regime of co-ownership among the surviving spouse and the heirs of the deceased spouse until final liquidation and partition."
-> "An undivided one-half (1/2) portion and subject to all other conditions specified in the document. Anastacio, as a co-owner, had the right to freely sell and dispose of his undivided interest, but not the interest of his co-owners. Consequently, Anastacio's sale to the spouses Molina without the consent of the other co-owners was not totally void, for Anastacio's rights or a portion thereof were thereby effectively transferred, making the spouses Molina a co-owner of the subject property to the extent of Anastacio's interest. This result conforms with the well-established principle that the binding force of a contract must be recognized as far as it is legally possible to do so (*quando res non valet ut ago, valeat quantum valere potest*)."
-> "The spouses Molina would be a trustee for the benefit of the co-heirs of Anastacio in respect of any portion that might belong to the co-heirs after liquidation and partition."
+Quoting the Supreme Court’s legal basis verbatim:
 
-#### Ratio Decidendi
+> "Anastacio and Flora's conjugal partnership was dissolved upon Flora's death. There is no dispute that Anastacio and Flora Domingo married before the Family Code's effectivity on August 3, 1988 and their property relation is a conjugal partnership. Conjugal partnership of gains established before and after the effectivity of the Family Code are governed by the rules found in Chapter 4 (Conjugal Partnership of Gains) of Title IV (Property Relations Between Husband and Wife) of the Family Code. This is clear from Article 105 of the Family Code which states:
+> 'x x x The provisions of this Chapter shall also apply to conjugal partnerships of gains already established between spouses before the effectivity of this Code, without prejudice to vested rights already acquired in accordance with the Civil Code or other laws, as provided in Article 256.'"
 
-Upon the dissolution of the marital property regime by the death of a spouse, the community or partnership is terminated, and an ordinary implied co-ownership arises among the surviving spouse and the heirs of the deceased spouse pending formal liquidation and partition.
+> "While Article 130 of the Family Code provides that any disposition involving the conjugal property without prior liquidation of the partnership shall be void, this rule does not apply since the provisions of the Family Code shall be 'without prejudice to vested rights already acquired in accordance with the Civil Code or other laws.'"
 
-Under the rules on co-ownership (Article 493 of the Civil Code), each co-owner exercises absolute ownership over his ideal or undivided share and may validly alienate, assign, or mortgage it. While a co-owner has no legal right to dispose of a divided or concrete portion of the common property without the consent of the other co-owners, any alienation made by him affects only his undivided ideal share.
+> "An implied ordinary co-ownership ensued among Flora's surviving heirs, including Anastacio, with respect to Flora's share of the conjugal partnership until final liquidation and partition; Anastacio, on the other hand, owns one-half of the original conjugal partnership properties as his share, but this is an undivided interest."
 
-Consequently, the disposition made by the surviving spouse is not void *ab initio* in its entirety. The alienation remains valid up to the extent of the surviving spouse's ideal share, substituting the buyer as co-owner and constituting him as a constructive trustee for the benefit of the remaining co-heirs as to any excess determined upon actual partition. The appropriate remedy of the aggrieved co-heirs is not an action for the declaration of total nullity or annulment of title, but an action for partition under Rule 69 of the Rules of Court.
+> "Anastacio, as a co-owner, had the right to freely sell and dispose of his undivided interest, but not the interest of his co-owners. Consequently, Anastacio's sale to the spouses Molina without the consent of the other co-owners was not totally void, for Anastacio's rights or a portion thereof were thereby effectively transferred, making the spouses Molina a co-owner of the subject property to the extent of Anastacio's interest."
 
-#### Fallo
+*(Note on Governing Law: While reviewed under the topic of the Absolute Community of Property under the Family Code, the Supreme Court applied **Article 130 of the Family Code**—which is the exact twin provision of **Article 103 of the Family Code** governing the liquidation of the **Absolute Community of Property** upon the death of a spouse. Both Articles 103 and 130 mandate that upon the termination of the marriage by death, the community or conjugal property must be liquidated within one year (formerly six months in the original text), and in default thereof, any disposition or encumbrance involving the unliquidated property of the terminated marriage shall be void. In **Domingo v. Molina**, the Court clarified that this nullity rule cannot impair vested co-ownership rights already acquired under the Civil Code prior to the Family Code's effectivity on August 3, 1988, and that a surviving spouse—as an ordinary co-owner—may validly alienate his or her ideal, undivided share in the unliquidated estate, with the buyer stepping into the shoes of a co-owner/trustee pending final partition.)*
 
-> "WHEREFORE, the petition is DENIED. The decision dated August 9, 2011 of the Court of Appeals in CA-G.R. CV No. 94160 is AFFIRMED. Costs against the petitioner.
-> SO ORDERED."
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 130 of the Family Code** (parallel to **Article 103 of the Family Code** for Absolute Community of Property): Requires the liquidation of the conjugal/community property upon the death of a spouse within one year from death, and declares void any disposition or encumbrance involving the unliquidated marital property after the lapse of said period without liquidation.
+* **Articles 105 and 256 of the Family Code:** Provide that the Family Code applies retroactively to marital property regimes already established before its effectivity on August 3, 1988, *without prejudice to vested rights already acquired in accordance with the Civil Code or other laws*.
+* **Article 175(1) of the New Civil Code** (now **Article 99(1)** and **Article 126(1) of the Family Code**): Terminates the marital property regime upon the death of either spouse.
+* **Article 493 of the New Civil Code:** Grants each co-owner full ownership of his or her part and the right to alienate, assign, or mortgage it, with the effect of the alienation limited to the portion which may be allotted to him or her in the division upon the termination of the co-ownership.
+* **Controlling Jurisprudence Cited by the Court:** *Taningco v. Register of Deeds of Laguna* (G.R. No. L-15242, June 29, 1962) and *Heirs of Protacio Go, Sr. v. Servacio* (G.R. No. 157537, September 7, 2011).
+
+---
+Ratio
+
+Upon the death of a spouse, the marital property regime (whether Absolute Community of Property or Conjugal Partnership of Gains) is automatically dissolved, and an implied ordinary co-ownership arises between the surviving spouse and the heirs of the deceased spouse over the unliquidated properties. Because Flora died in 1968 and Anastacio sold his interest in 1978—both occurring prior to the effectivity of the Family Code on August 3, 1988—Anastacio's vested rights as a co-owner under the Civil Code are protected by Articles 105 and 256 of the Family Code. Consequently, the strict nullity sanction under Article 130 (and Article 103 for Absolute Community of Property) against dispositions without prior liquidation cannot retroactively invalidate the 1978 sale. As a co-owner, Anastacio could not sell a specific, determinate portion of the unliquidated property, nor could he convey the hereditary shares of Flora's heirs; however, he validly alienated his own ideal, undivided interest (consisting of his one-half conjugal share plus his hereditary share as a compulsory heir of Flora), making Spouses Molina co-owners to that extent and trustees for the remaining co-heirs pending final partition.
+
+---
+
+Fallo
+
+> "WHEREFORE, we hereby DENY the petition for review on certiorari. The decision dated August 9, 2011 and resolution dated January 10, 2012 of the Court of Appeals in CA-G.R. CV No. 94160 are AFFIRMED. Costs against petitioner Melecio Domingo. SO ORDERED."
