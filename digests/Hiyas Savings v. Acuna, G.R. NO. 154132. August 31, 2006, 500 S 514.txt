@@ -1,0 +1,50 @@
+Facts
+
+Alberto Moreno filed a complaint before the RTC against his wife, Remedios Moreno, his daughter, Maria Luisa Moreno-Landrito, the Register of Deeds of Caloocan City, and Hiyas Savings and Loan Bank, Inc. (Hiyas Savings) for the cancellation of a real estate mortgage, damages, and preliminary injunction. Alberto alleged that his wife Remedios and daughter Maria Luisa conspired to fraudulently mortgage a parcel of land belonging to their conjugal partnership to Hiyas Savings without his knowledge and consent by forging his signature on the mortgage deed.
+
+Hiyas Savings moved to dismiss the complaint on the ground that Alberto failed to comply with a condition precedent—specifically, that he failed to allege in his complaint that earnest efforts toward a compromise had been made prior to the filing of the suit, considering that the action was between members of the same family (husband, wife, and daughter).
+
+---
+
+Issue
+
+Is an allegation of earnest efforts toward a compromise required as a condition precedent under Article 151 of the Family Code when a suit between members of the same family includes a stranger (such as a mortgagee bank) as a co-defendant?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "Article 151 of the Family Code provides as follows:
+> Art. 151. No suit between members of the same family shall prosper unless it should appear from the verified complaint or petition that earnest efforts toward a compromise have been made, but that the same have failed. If it is shown that no such efforts were in fact made, the case must be dismissed.
+> This rule shall not apply to cases which may not be the subject of compromise under the Civil Code."
+
+> "The appellate court did not commit any error in ruling that the requirement of earnest efforts toward a compromise does not apply to the instant case because a stranger is impleaded as a party defendant."
+
+> "Once a stranger becomes a party to a suit involving members of the same family, the law no longer makes it a condition precedent that earnest efforts be made toward a compromise before the action can prosper. In *Magbaleta v. Gonong*, this Court explained the reason for this rule, thus:
+> 'These considerations do not, however, weigh enough when a stranger is involved in the suit, because then the interest of such stranger may be opposed to that of the family members, or at least, not identical to theirs, and it would be unfair to require the stranger to undergo the process of conciliation or compromise, or to allow the family members to delay the proceedings on the pretext of attempting to reach a compromise among themselves.'"
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 151 of the Family Code** (formerly Article 222 of the New Civil Code): Mandates that no suit between members of the same family shall prosper unless the verified complaint or petition shows that earnest efforts toward a compromise have been made and have failed, except in cases that cannot be the subject of compromise under the Civil Code.
+* **Article 150 of the Family Code** (formerly Article 217 of the New Civil Code): Enumerates who are considered members of the same family: (1) between husband and wife; (2) between parents and children; (3) among other ascendants and descendants; and (4) among brothers and sisters, whether of the full or half-blood.
+* **Section 1(j), Rule 16 of the 1997 Rules of Civil Procedure** *(now an affirmative defense under Rule 8, Section 12(a)(5) of the 2019 Amendments to the Rules of Civil Procedure)*: Provides failure to comply with a condition precedent for filing the claim as a ground for dismissal.
+* **Controlling Jurisprudence Cited by the Court:** *Magbaleta v. Gonong* (G.R. No. L-44903, April 22, 1977) and *De Guzman v. Genato* (G.R. No. L-55129, July 29, 1983)—establishing that the presence of a stranger (one not enumerated in Article 150 of the Family Code) as a party to the suit removes the case from the ambit of Article 151, regardless of whether it is the family member or the stranger who raises the lack of earnest efforts as a defense.
+
+---
+
+Ratio
+
+The statutory requirement under Article 151 of the Family Code—that earnest efforts toward a compromise must first be made and alleged in a verified complaint before a suit between members of the same family can prosper—is designed to preserve family harmony and prevent domestic disputes from escalating into public litigation. However, this condition precedent applies **exclusively** to suits solely between or among members of the same family as enumerated in Article 150 of the Family Code (spouses, parents and children, ascendants and descendants, and full or half-blood siblings). Whenever a stranger—such as Hiyas Savings, a corporate mortgagee—is impleaded as a party, the suit ceases to be purely a family affair because the stranger has distinct legal interests that cannot be settled by familial conciliation. Consequently, earnest efforts toward a compromise are no longer required, and neither the family members nor the stranger may invoke Article 151 to seek the dismissal of the complaint.
+
+---
+
+Fallo
+
+> "WHEREFORE, the instant petition is DENIED. The Decision of the Court of Appeals dated March 14, 2002 and its Resolution dated June 13, 2002 in CA-G.R. SP No. 64117 are AFFIRMED. Costs against petitioner.
+> SO ORDERED."
