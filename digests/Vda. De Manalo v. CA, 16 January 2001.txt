@@ -1,0 +1,54 @@
+Facts
+Troadio Manalo died intestate, leaving behind real properties in Manila and Tarlac as well as a machine shop business. He was survived by his wife, Pilar S. Vda. de Manalo, and their eleven children, all of legal age.
+
+Eight of the surviving children—Purita, Milagros, Belen, Rosalina, Romeo, Roberto, Amalia, and Imelda—filed a petition before the RTC for the judicial settlement of Troadio's intestate estate and for the appointment of their brother, Romeo, as administrator. Pilar and her three remaining children—Antonio, Isabelita, and Orlando—opposed the petition and sought its dismissal for failure to comply with a condition precedent. They argued that the petition was essentially an adversarial ordinary civil action because it alleged that Antonio had been managing and controlling the estate properties to his own advantage without proper accounting, and therefore required a verified allegation that earnest efforts toward a compromise had been made among family members prior to its filing under Article 222 of the Civil Code (now Article 151 of the Family Code).
+
+---
+
+Issue
+Is an allegation of earnest efforts toward a compromise among members of the same family under Article 151 of the Family Code (formerly Article 222 of the Civil Code) required as a condition precedent in a petition for the judicial settlement of a decedent's estate?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "The above-quoted provision of the law is applicable only to ordinary civil actions. This is clear from the term 'suit' that it refers to an action by one person or persons against another or others in a court of justice in which the plaintiff pursues the remedy which the law affords him for the redress of an injury or the enforcement of a right, whether at law or in equity. A civil action is thus an action filed in a court of justice, whereby a party sues another for the enforcement of a right, or the prevention or redress of a wrong. Besides, an excerpt from the Report of the Code Commission unmistakably reveals the intention of the Code Commission to make that legal provision applicable only to civil actions which are essentially adversarial and involve members of the same family..."
+> "It must be emphasized that the oppositors (herein petitioners) are not being sued in SP. PROC. No. 92-63626 for any cause of action as in fact no defendant was impleaded therein. The Petition for Issuance of Letters of Administration, Settlement and Distribution of Estate in SP. PROC. No. 92-63626 is a special proceeding and, as such, it is a remedy whereby the petitioners therein seek to establish a status, a right, or a particular fact. The petitioners therein (private respondents herein) merely seek to establish the fact of death of their father and subsequently to be duly recognized as among the heirs of the said deceased so that they can validly exercise their right to participate in the settlement and liquidation of the estate of the decedent consistent with the limited and special jurisdiction of the probate court."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 151 of the Family Code** *(formerly Article 222 of the New Civil Code)*: Mandates that no suit between members of the same family shall prosper unless it appears from the verified complaint or petition that earnest efforts toward a compromise have been made and have failed.
+
+
+* **Section 1(j), Rule 16 of the Revised Rules of Court** *(now an affirmative defense under Rule 8, Section 12(a)(5) of the 2019 Amendments to the Rules of Civil Procedure)*: Provides failure to comply with a condition precedent for filing the claim as a ground for dismissal.
+
+
+* **Rule 1, Section 2 and Rule 72, Section 2 of the Rules of Court:** Distinguish between an **ordinary civil action** (where one party sues another for the enforcement or protection of a right, or the prevention or redress of a wrong) and a **special proceeding** (a remedy by which a party seeks to establish a status, a right, or a particular fact).
+* **Controlling Doctrines:**
+* The nature of an action or proceeding is determined by the averments in the complaint or petition and the character of the relief sought, not by the defenses or objections raised by the opposing party.
+
+
+* A trial court sitting as a probate court exercises limited and special jurisdiction and cannot adjudicate collateral matters properly belonging to an ordinary civil action.
+
+
+
+
+
+---
+
+Ratio
+
+The statutory requirement under Article 151 of the Family Code (formerly Article 222 of the Civil Code) requiring earnest efforts toward a compromise applies strictly to **ordinary civil actions**—adversarial "suits" where one family member sues another as a defendant for the redress of a wrong or enforcement of a right. A petition for the issuance of letters of administration and judicial settlement of an intestate estate is a **special proceeding**, not an ordinary civil action, because no defendant is sued for a cause of action; rather, the petitioners merely seek to establish the fact of the decedent's death and their status as legal heirs entitled to participate in the liquidation and distribution of the estate. Incidental allegations in the petition regarding one heir's unliquidated control over estate properties do not convert a special proceeding into an ordinary civil action, nor can they be used to defeat a valid probate petition for lack of earnest efforts toward a compromise.
+
+---
+
+Fallo
+
+> "WHEREFORE, the petition in the above-entitled case, is DENIED for lack of merit. Costs against petitioners.
+> SO ORDERED."
