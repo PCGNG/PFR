@@ -1,34 +1,45 @@
-### Facts
+Facts
 
-Jose married Rosario. During the subsistence of this marriage, Jose contracted a second marriage with Basilia, who was in good faith and had no knowledge of the prior existing marriage. Jose was an employee of the government and a member of the GSIS, contributing to its retirement insurance fund during his coverture with Basilia. Jose did not designate any beneficiary for his retirement insurance benefits.
+Jose Consuegra married Rosario Diaz in 1937 without a marriage settlement. While this first marriage was still subsisting, Jose contracted a second, bigamous marriage with Basilia Berdin in 1957, with whom he had seven children. Basilia married Jose in good faith, without knowledge of his prior subsisting marriage.
 
-Upon Jose’s death, both Rosario and Basilia filed competing claims before the GSIS for the proceeds of his retirement insurance. Rosario claimed that the entirety of the benefits belonged exclusively to the absolute community/conjugal partnership of the first and only valid marriage. Basilia countered that the benefits accrued during her coverture with Jose, entitling her and their children to a share in the proceeds.
+Jose worked as a shop foreman and was a member of the Government Service Insurance System (GSIS) until his death in 1965. Because Jose failed to designate a beneficiary for his retirement insurance benefits, GSIS divided the retirement proceeds equally between the two surviving wives—one-half to Rosario (the first wife) and one-half to Basilia and her children (the second family). Rosario contested this division, claiming that as the sole legitimate spouse, she was exclusively entitled to the entire retirement benefit.
+
+---
+Issue
+
+How should retirement benefits accrued during two successive marriages—the first valid and the second bigamous—be divided between the legitimate first wife and the second wife in good faith?
+
+---
+Ruling
+
+**Equally (one-half to the first wife and one-half to the second wife in good faith), by applying the rules on the simultaneous liquidation of marital properties of two marriages by analogy.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "In the case of *Lao and Lao vs. Dee Tim*, 45 Phil. 739, this Court held that where a man had married twice, and the second wife acted in good faith, not knowing that the husband had a prior subsisting marriage, both wives are entitled to inherit from the husband, and the conjugal properties acquired during the two marriages should be divided equally between the two wives."
+
+> "Article 189 of the Civil Code provides that 'Whenever the liquidation of the conjugal partnership of two or more marriages contracted by the same person should be carried out simultaneously, in order to determine the capital of each partnership every kind of proof in the absence of inventories shall be admitted; and in case of doubt, the partnership property shall be divided between or among the different partnerships in proportion to the duration of each and to the property belonging to the respective spouses.'"
+
+> "In the case at bar, it is not necessary to make a mathematical computation of the exact duration of the first and second marriages in relation to the service of the late Jose Consuegra, because it would be impossible to determine with exactitude what portion of the retirement benefits was earned during the first marriage and what portion was earned during the second marriage. Both the first wife and the second wife in good faith should share equally in the retirement benefits, one-half to the first wife and one-half to the second wife."
+
+### **(Note on Governing Law: While reviewed under the topic of the Absolute Community of Property under the Family Code, the Supreme Court resolved this 1971 case by applying **Article 189 of the New Civil Code** by analogy, alongside **Commonwealth Act No. 186 (GSIS Charter)**. Under the **Family Code**, the simultaneous liquidation of two or more marriages contracted by the same person before the effectivity of the Family Code is governed by **Article 104** for the **Absolute Community of Property** and **Article 131** for the **Conjugal Partnership of Gains**. Furthermore, for bigamous or void marriages under the Family Code, **Article 148** now strictly governs property relations, under which only actual joint contributions of money, property, or industry are recognized in proportion to respective contributions—superseding the old Civil Code doctrine of equal sharing in bigamous marriages even when the second spouse acted in good faith.)**
 
 ---
 
-### Issue
+### **Provisions and Doctrines Relied Upon**
 
-Do the retirement insurance benefits earned by a deceased spouse who contracted a void, bigamous marriage in good faith with a second wife belong exclusively to the absolute community/conjugal partnership of the first valid marriage?
+* **Article 189 of the New Civil Code** (now mirrored in **Article 104** for Absolute Community of Property and **Article 131** for Conjugal Partnership of Gains under the **Family Code**): Governs the simultaneous liquidation of the marital properties of two or more marriages contracted by the same person, providing that in case of doubt, the property shall be divided between or among the different partnerships in proportion to the duration of each and the property belonging to the respective spouses.
+* **Section 11(b) of Commonwealth Act No. 186 (as amended by R.A. No. 660):** Provides that if a GSIS member dies without designating a beneficiary for his retirement insurance benefits, the benefits shall be paid to his legal heirs in accordance with the law of intestate succession.
+* **Controlling Jurisprudence Cited by the Court:** *Lao and Lao v. Dee Tim* (45 Phil. 739) and *Gomez v. Lipana* (G.R. No. L-23214, June 30, 1970)—applying equitable equal division between a first legitimate wife and a second wife in good faith when a husband contracts a second marriage during the subsistence of the first.
 
 ---
 
-### Ruling
+Ratio
 
-#### Legal Basis Quoted Verbatim
+Retirement insurance benefits earned through a spouse's employment during marriage are not a mere gratuity, but an earned compensation forming part of the marital property regime. When a deceased employee leaves behind both a legitimate first wife and a second wife who contracted a bigamous marriage in complete good faith, and the retirement benefits accrued across both unions without an exact basis to apportion the contributions per period, equity and the rules on simultaneous liquidation of multiple marriages (Article 189 of the Civil Code, paralleled in Article 104 of the Family Code) dictate that the benefits be divided equally—one-half to the first wife and one-half to the second wife in good faith.
 
-> "When two women innocently and in good faith are united in marriage to the same man, they are both entitled to share equally in the property acquired by their joint effort, and in the absence of contrary evidence, the property will be divided equally between them."
-> "In the case of *Lao, et al. v. Dee Tim, et al.*, 45 Phil. 739, where the deceased Yap Siong contracted two marriages, this Court held that the estate of the deceased was to be divided between his two families, one-half for each, thus:
-> 'x x x as the conjugal partnership formed by the second marriage was dissolved before judicial declaration of its nullity, "[t]he only just and equitable solution in this case would be to recognize the right of the second wife to her share of one-half in the property acquired by her and her husband and consider the other half as pertaining to the conjugal partnership of the first marriage."'"
-> "Inasmuch as the deceased Jose Consuegra did not designate any beneficiary when he applied for retirement insurance benefits, the said benefits formed part of the estate of the deceased, and the legal heirs are entitled to receive the benefits. ...[T]he proceeds of the retirement insurance of the late Jose Consuegra should be divided equally between his first living wife Rosario Diaz, on the one hand, and his second wife Basilia Berdin and his children by her, on the other..."
+---
 
-#### Ratio Decidendi
+Fallo
 
-Retirement insurance benefits under the Government Service Insurance System form part of the estate of the deceased employee when no beneficiary is expressly designated.
-
-Where a person contracts a bigamous second marriage in good faith while the first marriage remains undissolved, the assets accumulated during the second union cannot be treated as exclusively belonging to the community or partnership of the first marriage. The first wife retains her status as a putative heir entitled to her conjugal/community interest in the deceased husband's share of the estate. In contrast, the second spouse in good faith is recognized as having acquired a one-half share in the property earned during the second coverture.
-
-Under principles of equity and established jurisprudence, the mass of unallocated retirement benefits representing the employee's earnings must be apportioned equally: one-half pertains to the first wife representing the undissolved first marital partnership, and the remaining one-half pertains to the second wife and her children under the dissolved second marital partnership.
-
-#### Fallo
-
-> "WHEREFORE, the decision appealed from is affirmed, with costs against petitioners-appellants. It is so ordered."
+> "WHEREFORE, the decision appealed from is affirmed, with costs against petitioners-appellants. SO ORDERED."
