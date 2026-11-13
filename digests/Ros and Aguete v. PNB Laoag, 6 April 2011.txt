@@ -1,43 +1,50 @@
-#### Facts
+**Spouses Jose Ros and Estrella Aguete v. Philippine National Bank - Laoag Branch**
+G.R. No. 170166 | 6 April 2011
+---
 
-Joe and Estrella were married. Joe obtained a loan of ₱115,000.00 from PNB to finance his business of buying and selling garlic and Virginia tobacco. To secure the loan, Joe executed a real estate mortgage over a parcel of land belonging to the conjugal partnership.
+### **Facts**
 
-Upon maturity, the loan remained unpaid, prompting PNB to extrajudicially foreclose the mortgage. PNB emerged as the highest bidder, and after the lapse of the redemption period, title was consolidated in its name.
+Jose Ros obtained a loan from Philippine National Bank - Laoag Branch (PNB) to finance his gravel and sand business. To secure the loan, Jose executed a Real Estate Mortgage over a parcel of land registered in his name as "Jose C. Ros, married to Estrella Aguete." Jose defaulted on the loan, prompting PNB to extrajudicially foreclose the mortgage and purchase the property as the highest bidder at the public auction.
 
-Estrella subsequently filed a complaint against PNB to annul the mortgage and foreclosure proceedings. She claimed that the mortgaged property was conjugal and that she never gave her consent to the encumbrance, arguing that her signatures on the loan and mortgage documents were forged and that the loan did not redound to the benefit of the family.
+After the lapse of the redemption period without the property being redeemed, Estrella Aguete filed an action before the RTC to annul the mortgage, foreclosure proceedings, and sale. Estrella claimed that she had no knowledge of the loan and that her signature on the mortgage documents was forged. She argued that the mortgage was void because the property belonged to their marriage and was encumbered without her valid consent, and that the loan did not redound to the benefit of their family.
 
 ---
 
-#### Issue
+### **Issue**
 
-1. Did the loan contracted by the husband redound to the benefit of the conjugal partnership so as to make the debt chargeable against the conjugal property?
-2. Is the mortgage executed by the husband over conjugal property valid even assuming the wife did not consent to the encumbrance?
-
----
-
-#### Ruling
-
-**1. Yes. Debts contracted by the husband for his business are chargeable against the conjugal partnership.**
-
-Under Article 161(1) of the Civil Code (which corresponds to Article 121[2] of the Family Code), the conjugal partnership is liable for:
-
-> *"All debts and obligations contracted by the husband for the benefit of the conjugal partnership, and those contracted by the wife, also for the same purpose, in the cases where she may legally bind the partnership."*
-
-The Supreme Court held that the husband does not need to show an actual realized profit from the transaction. It is sufficient that the transaction was entered into for the purpose of advancing or expanding a legitimate business or profession from which the family stands to benefit. Whether the business venture ultimately succeeds or fails is immaterial:
-
-> *"The husband is the administrator of the conjugal partnership... Where the husband contracts obligations on behalf of the family business, the law presumes, and rightly so, that such obligation will redound to the benefit of the conjugal partnership."*
-
-**2. Yes. Under the Civil Code, an encumbrance without the wife’s consent is merely voidable, not void ab initio, and the debt remains chargeable to the conjugal partnership.**
-
-Under Article 166 in relation to Article 173 of the Civil Code:
-
-* Alienations or encumbrances of conjugal real property made by the husband without the wife's consent during the effectivity of the Civil Code are **voidable** (in contrast to the rule under Article 124 of the Family Code, where disposition or encumbrance without written spousal consent is void).
-* However, because the debt itself was incurred for a business that legally bound the conjugal partnership under Article 161, the property was answerable for the satisfaction of the unpaid liability.
-* Moreover, Estrella failed to overcome the presumption of regularity of the notarized loan and mortgage instruments by clear and convincing evidence; mere self-serving denial is insufficient to prove forgery.
+May the property of the marriage be held liable for a loan obligation contracted by the husband alone for his business without the wife's consent?
 
 ---
 
-#### Fallo
+### **Ruling**
 
-> *"WHEREFORE, we DENY the petition. We AFFIRM the Decision of the Court of Appeals in CA-G.R. CV No. 76845 promulgated on 17 October 2005. Costs against petitioners.*
-> *SO ORDERED."*
+**Yes.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "The husband cannot alienate or encumber any conjugal real property without the consent, express or implied, of the wife. Should the husband do so, then the contract is voidable. Article 173 of the Civil Code allows Aguete to question Ros’ encumbrance of the subject property. However, the same article does not guarantee that the courts will declare the annulment of the contract. Annulment will be declared only upon a finding that the wife did not give her consent."
+> "Debts contracted by the husband for and in the exercise of the industry or profession by which he contributes to the support of the family cannot be deemed to be his exclusive and private debts. If the husband himself is the principal obligor in the contract, *i.e.*, he directly received the money and services to be used in or for his own business or his own profession, that contract falls within the term 'x x x x obligations for the benefit of the conjugal partnership.' Here, no actual benefit may be proved. It is enough that the benefit to the family is apparent at the signing of the contract. From the very nature of the contract of loan or services, the family stands to benefit from the loan facility or services to be rendered to the business or profession of the husband. It is immaterial, if in the end, the business or profession fails or does not succeed. Simply stated, where the husband contracts obligations on behalf of the family business, the law presumes, and rightly so, that such obligation will redound to the benefit of the conjugal partnership."
+
+*(Note on Governing Law: While reviewed under the topic of the Absolute Community of Property under the Family Code, the Supreme Court resolved the case under the **New Civil Code**—specifically **Articles 161, 166, and 173**—because the spouses were married and the mortgage was executed in January 1983, prior to the effectivity of the Family Code on August 3, 1988. Under the Family Code, these principles are mirrored and modified in **Articles 94 and 96** for the Absolute Community of Property and **Articles 121 and 124** for the Conjugal Partnership of Gains: under the Family Code, an encumbrance of community or conjugal property without the other spouse's consent is **void** rather than voidable, while debts and obligations contracted by either spouse without the consent of the other remain chargeable against the community property to the extent that the family may have been benefited thereby.)*
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 161(1) of the New Civil Code** (parallel to **Article 94(3)** and **Article 121(2) of the Family Code**): Charges the conjugal partnership (or absolute community) with all debts and obligations contracted by the husband (or either spouse) for the benefit of the conjugal partnership/family.
+* **Article 166 of the New Civil Code** (modified by **Article 96** and **Article 124 of the Family Code**): Prohibits the husband from alienating or encumbering real property of the marriage without the wife's consent.
+* **Article 173 of the New Civil Code**: Allows the wife to ask the courts for the annulment of any contract of the husband entered into without her consent during the marriage and within ten years from the transaction.
+* **Controlling Jurisprudence Cited by the Court:** *Ayala Investment & Development Corp. v. Court of Appeals* (G.R. No. 118305, February 12, 1998) — establishing the doctrine that loans directly received by a spouse for his or her own business or profession are presumed to redound to the benefit of the family without need of proving actual benefit.
+
+---
+
+### **Ratio Decidendi**
+
+When a spouse directly contracts a loan to finance the business or profession by which he or she contributes to the support of the family, the law presumes that the obligation redounds to the benefit of the marriage. Unlike cases where a spouse merely acts as a surety or guarantor for a third party's debt (which requires proof of actual benefit to the family), a direct loan for the family business carries an apparent benefit at the time of its signing, making it immaterial whether the business subsequently succeeds or fails. Furthermore, because the wife failed to prove by clear and convincing evidence that her signature on the mortgage was forged, and because the loan was contracted for the family's gravel and sand business, the property of the marriage was validly encumbered and properly held liable for the unpaid loan.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, we DENY the petition. The Decision of the Court of Appeals in CA-G.R. CV No. 76845 promulgated on 17 October 2005 and the Resolution promulgated on 6 February 2006 are AFFIRMED. Costs against petitioners.
+> SO ORDERED."
