@@ -1,0 +1,51 @@
+Facts
+Joanie Surposa Uy filed a petition before the RTC for the issuance of a decree of illegitimate filiation against Jose Ngo Chua, alleging that Jose, while married to another woman, had an illicit relationship with Joanie's mother, Irene Surposa, out of which Joanie and her brother Allan were born.
+
+Jose moved to dismiss the petition on the ground of *res judicata*. He presented a prior Decision rendered by another branch of the RTC approving a Compromise Agreement executed between him and Joanie in an earlier filiation case. Under that Compromise Agreement, Joanie received P2,000,000.00 in exchange for declaring and acknowledging that she had no blood relationship or filiation with Jose and waiving all future claims against him and his estate. Joanie opposed the dismissal, arguing that the prior Compromise Agreement was void because civil status, filiation, future support, and future legitime cannot be the subject of a valid compromise.
+
+---
+
+Issue
+
+May a compromise agreement involving a child's civil status and illegitimate filiation, even if approved by a court judgment, be valid and bar a subsequent action for illegitimate filiation under Article 151 of the Family Code in relation to Article 2035 of the Civil Code?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "Any compromise agreement that is contrary to law or public policy is null and void, and vests no rights in and holds no obligation for any party. It produces no legal effect at all."
+> "In connection with the foregoing, the Court calls attention to Article 2035 of the Civil Code, which states:
+> ART. 2035. No compromise upon the following questions shall be valid:
+> (1) The civil status of persons;
+> (2) The validity of a marriage or a legal separation;
+> (3) Any ground for legal separation;
+> (4) Future support;
+> (5) The jurisdiction of courts;
+> (6) Future legitime."
+> "Public policy demands that there be no compromise on the status and filiation of a child. Paternity and filiation or the lack of the same, is a relationship that must be judicially established, and it is for the Court to declare its existence or absence. It cannot be left to the will or agreement of the parties."
+> "A judgment void for want of jurisdiction is no judgment at all. It cannot be the source of any right or the creator of any obligation. All acts performed pursuant to it and all claims emanating from it have no legal effect. Hence, it can never become final, and any writ of execution based on it is void."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 151, second paragraph, of the Family Code:** Expressly excludes from the rule on family compromises *"cases which may not be the subject of compromise under the Civil Code."*
+* **Article 2035 of the New Civil Code:** Declares invalid any compromise upon: (1) the civil status of persons; (2) the validity of a marriage or a legal separation; (3) any ground for legal separation; (4) future support; (5) the jurisdiction of courts; and (6) future legitime.
+* **Controlling Jurisprudence Cited by the Court:** *Advincula v. Advincula* (G.R. No. L-19065, January 31, 1964) and *Francisco v. Zandueta* (61 Phil. 752)—holding that paternity, filiation, and civil status are matters of public policy that must be judicially established and cannot be left to the private stipulation or compromise of the parties, and that a court has no jurisdiction to approve a prohibited compromise.
+
+---
+
+Ratio
+
+While Article 151 of the Family Code generally encourages compromise among family members before litigation, its second paragraph explicitly carves out cases that cannot be compromised under Article 2035 of the Civil Code—foremost among which are the civil status of persons, future support, and future legitime. Paternity and filiation, or the lack thereof, involve a person's civil status governed by public policy and must be established by judicial declaration rather than contractual stipulation. Because the Compromise Agreement in the earlier case had Joanie renounce her filiation with Jose (and necessarily waive her future support and future legitime) in exchange for money, the agreement was void *ab initio*. Since no court possesses jurisdiction to approve a compromise that violates an express statutory prohibition, the prior RTC judgment approving the void Compromise Agreement was itself void, never attained finality, and could not operate as *res judicata* to bar Joanie's subsequent petition for illegitimate filiation (though any factual admissions made by Joanie therein may still be weighed as ordinary evidence by the trial court).
+
+---
+
+Fallo
+
+> "WHEREFORE, premises considered, the Resolution dated 25 June 2008 of the Regional Trial Court of Cebu City, Branch 24, in Special Proceeding No. 12562-CEB is REVERSED and set aside. This case is ordered REMANDED to the said trial court for further proceedings in accordance with the ruling of the Court herein. No costs.
+> SO ORDERED."
