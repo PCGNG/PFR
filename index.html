@@ -17,7 +17,7 @@
       --text-main: #f1f5f9;
       --text-muted: #8492a6;
       --read-green: #34d399;
-      --bookmark-red: #fb7185;
+      --bookmark-blue: #38bdf8;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -137,23 +137,28 @@
       cursor: pointer;
       text-transform: none;
       white-space: nowrap;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
     }
     .btn-tree-toggle:hover {
       color: #fff;
       border-color: #64748b;
     }
     .btn-jump-bookmark {
-      color: var(--bookmark-red);
-      border-color: rgba(251, 113, 133, 0.35);
+      color: var(--bookmark-blue);
+      border-color: rgba(56, 189, 248, 0.35);
     }
     .btn-jump-bookmark:hover:not(:disabled) {
-      background: rgba(251, 113, 133, 0.15);
-      border-color: var(--bookmark-red);
+      background: rgba(56, 189, 248, 0.15);
+      border-color: var(--bookmark-blue);
       color: #fff;
     }
     .btn-jump-bookmark:disabled {
       opacity: 0.35;
       cursor: not-allowed;
+      color: var(--text-muted);
+      border-color: var(--border-line);
     }
 
     /* Column 1: Collapsible Tree Styles */
@@ -201,25 +206,37 @@
       display: none;
     }
 
-    .subtopic-btn {
-      display: block;
-      width: 100%;
-      text-align: left;
-      font-size: 1.08rem;
-      color: var(--accent-cyan);
-      background: transparent;
-      border: none;
+    /* Subtopic Row with Bookmark */
+    .subtopic-row {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 6px;
       padding: 7px 10px;
       border-radius: 5px;
       cursor: pointer;
-      line-height: 1.35;
       margin-top: 3px;
+      border-left: 3px solid transparent;
+      transition: background 0.15s ease;
     }
-    .subtopic-btn:hover, .subtopic-btn.active {
+    .subtopic-row:hover, .subtopic-row.active {
       background: rgba(56, 189, 248, 0.15);
+    }
+    .subtopic-row.active .subtopic-label {
       font-weight: 700;
     }
-    .subtopic-btn.read-subtopic {
+    .subtopic-row.bookmarked-item {
+      border-left: 3px solid var(--bookmark-blue);
+      background: rgba(56, 189, 248, 0.10);
+    }
+    .subtopic-label {
+      flex: 1;
+      font-size: 1.08rem;
+      color: var(--accent-cyan);
+      line-height: 1.35;
+      word-break: break-word;
+    }
+    .subtopic-row.read-subtopic .subtopic-label {
       color: var(--read-green);
       opacity: 0.9;
     }
@@ -241,7 +258,7 @@
       align-items: flex-start;
       justify-content: space-between;
       gap: 6px;
-      border-left: 2px solid transparent;
+      border-left: 3px solid transparent;
       transition: background 0.15s ease;
     }
     .case-tree-item:hover, .case-tree-item.active {
@@ -256,9 +273,9 @@
     .case-tree-item.read-case:hover {
       color: #a7f3d0;
     }
-    .case-tree-item.bookmarked-case {
-      border-left: 3px solid var(--bookmark-red);
-      background: rgba(251, 113, 133, 0.10);
+    .case-tree-item.bookmarked-item {
+      border-left: 3px solid var(--bookmark-blue);
+      background: rgba(56, 189, 248, 0.12);
     }
 
     .case-title-label {
@@ -267,7 +284,7 @@
     }
 
     /* Star & Bookmark Icon Controls inside Syllabus */
-    .case-item-markers {
+    .item-markers {
       display: inline-flex;
       align-items: center;
       gap: 4px;
@@ -278,11 +295,14 @@
       background: transparent;
       border: none;
       cursor: pointer;
-      font-size: 1.02rem;
+      font-size: 1.05rem;
       line-height: 1;
       padding: 2px 3px;
       border-radius: 3px;
-      color: #475569;
+      color: #475569; /* Neutral gray default matching star */
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       transition: transform 0.12s ease, color 0.15s ease;
     }
     .marker-btn:hover {
@@ -295,8 +315,11 @@
       text-shadow: 0 0 6px rgba(245, 158, 11, 0.45);
     }
     .marker-btn.bookmarked {
-      color: var(--bookmark-red);
-      text-shadow: 0 0 6px rgba(251, 113, 133, 0.5);
+      color: var(--bookmark-blue); /* Bright blue when clicked */
+      filter: drop-shadow(0 0 4px rgba(56, 189, 248, 0.65));
+    }
+    .marker-btn.bookmarked svg {
+      fill: var(--bookmark-blue);
     }
 
     /* Column 2: Overview (Parchment Card & PDF Viewer) */
@@ -500,7 +523,10 @@
       <div class="pane-titlebar">
         <span>📁 Syllabus</span>
         <div class="pane-actions">
-          <button class="btn-tree-toggle btn-jump-bookmark" id="btnJumpBookmark" title="Jump to bookmarked case">🔖 Bookmark</button>
+          <button class="btn-tree-toggle btn-jump-bookmark" id="btnJumpBookmark" title="Jump to bookmarked position">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+            Bookmark
+          </button>
           <button class="btn-tree-toggle" id="btnToggleAll">Collapse All</button>
         </div>
       </div>
@@ -547,8 +573,11 @@
     let currentSubtopicItem = null;
     let currentCaseIndex = -1;
     let flattenedCases = [];
+    let flattenedSubtopics = [];
     let allCollapsed = false;
     let isPdfMode = false;
+
+    const BOOKMARK_SVG = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>`;
 
     /* --- LocalStorage Helpers --- */
     function getReadCases() {
@@ -581,19 +610,67 @@
       localStorage.setItem('pfr_starred_cases', JSON.stringify([...set]));
     }
 
-    function getBookmarkedCase() {
-      return localStorage.getItem('pfr_bookmarked_case') || "";
+    /* Unified Bookmark (supports both 'case' and 'subtopic') */
+    function getBookmark() {
+      try {
+        const raw = localStorage.getItem('pfr_bookmark_v2');
+        if (raw) return JSON.parse(raw);
+        // Migrate legacy case-only bookmark if present
+        const legacy = localStorage.getItem('pfr_bookmarked_case');
+        return legacy ? { type: 'case', id: legacy } : null;
+      } catch (e) { return null; }
     }
-    function setBookmarkedCase(caseId) {
-      if (caseId) {
-        localStorage.setItem('pfr_bookmarked_case', caseId);
+
+    function setBookmark(type, id) {
+      if (type && id) {
+        localStorage.setItem('pfr_bookmark_v2', JSON.stringify({ type, id }));
       } else {
-        localStorage.removeItem('pfr_bookmarked_case');
+        localStorage.removeItem('pfr_bookmark_v2');
       }
+      localStorage.removeItem('pfr_bookmarked_case');
       updateAllBookmarkUI();
     }
 
-    /* --- Toggle Handlers --- */
+    function toggleBookmark(type, id) {
+      const current = getBookmark();
+      if (current && current.type === type && current.id === id) {
+        setBookmark(null, null);
+      } else {
+        setBookmark(type, id);
+      }
+    }
+
+    function updateAllBookmarkUI() {
+      const bm = getBookmark();
+      const jumpBtn = document.getElementById('btnJumpBookmark');
+      jumpBtn.disabled = !bm;
+
+      // Update Case Items
+      document.querySelectorAll('.case-tree-item').forEach(li => {
+        const id = li.getAttribute('data-case-id');
+        const btn = li.querySelector('.bookmark-toggle-btn');
+        const isMatch = bm && bm.type === 'case' && bm.id === id;
+        li.classList.toggle('bookmarked-item', !!isMatch);
+        if (btn) {
+          btn.classList.toggle('bookmarked', !!isMatch);
+          btn.title = isMatch ? 'Bookmarked (Where I stopped) - Click to remove' : 'Bookmark this case';
+        }
+      });
+
+      // Update Subtopic Items
+      document.querySelectorAll('.subtopic-row').forEach(row => {
+        const id = row.getAttribute('data-sub-id');
+        const btn = row.querySelector('.bookmark-toggle-btn');
+        const isMatch = bm && bm.type === 'subtopic' && bm.id === id;
+        row.classList.toggle('bookmarked-item', !!isMatch);
+        if (btn) {
+          btn.classList.toggle('bookmarked', !!isMatch);
+          btn.title = isMatch ? 'Bookmarked (Where I stopped) - Click to remove' : 'Bookmark this subtopic';
+        }
+      });
+    }
+
+    /* --- Star & Read Toggles --- */
     function toggleStarCase(caseId) {
       const starred = getStarredCases();
       if (starred.has(caseId)) {
@@ -603,39 +680,6 @@
       }
       saveStarredCases(starred);
       updateCaseTreeItem(caseId);
-    }
-
-    function toggleBookmarkCase(caseId) {
-      const currentBookmark = getBookmarkedCase();
-      if (currentBookmark === caseId) {
-        setBookmarkedCase("");
-      } else {
-        setBookmarkedCase(caseId);
-      }
-    }
-
-    function updateAllBookmarkUI() {
-      const bookmarkedId = getBookmarkedCase();
-      const jumpBtn = document.getElementById('btnJumpBookmark');
-      jumpBtn.disabled = !bookmarkedId;
-
-      document.querySelectorAll('.case-tree-item').forEach(li => {
-        const id = li.getAttribute('data-case-id');
-        const bmBtn = li.querySelector('.bookmark-toggle-btn');
-        if (id === bookmarkedId) {
-          li.classList.add('bookmarked-case');
-          if (bmBtn) {
-            bmBtn.classList.add('bookmarked');
-            bmBtn.title = "Bookmarked (Where I stopped) - Click to remove";
-          }
-        } else {
-          li.classList.remove('bookmarked-case');
-          if (bmBtn) {
-            bmBtn.classList.remove('bookmarked');
-            bmBtn.title = "Set bookmark here";
-          }
-        }
-      });
     }
 
     function toggleCaseReadStatus(caseId) {
@@ -710,55 +754,41 @@
         titleSpan.textContent = isRead ? `✓ ${title}` : `# ${title}`;
       }
 
-      if (isRead) {
-        li.classList.add('read-case');
-      } else {
-        li.classList.remove('read-case');
-      }
+      li.classList.toggle('read-case', isRead);
 
       const starBtn = li.querySelector('.star-toggle-btn');
       if (starBtn) {
-        if (isStarred) {
-          starBtn.classList.add('starred');
-          starBtn.textContent = '★';
-          starBtn.title = 'Starred (Important) - Click to unstar';
-        } else {
-          starBtn.classList.remove('starred');
-          starBtn.textContent = '☆';
-          starBtn.title = 'Star as important';
-        }
+        starBtn.classList.toggle('starred', isStarred);
+        starBtn.textContent = isStarred ? '★' : '☆';
+        starBtn.title = isStarred ? 'Starred (Important) - Click to unstar' : 'Star as important';
       }
     }
 
     function updateSubtopicTreeItem(subId) {
-      const btn = document.querySelector(`.subtopic-btn[data-sub-id="${subId}"]`);
-      if (!btn) return;
+      const row = document.querySelector(`.subtopic-row[data-sub-id="${subId}"]`);
+      if (!row) return;
       const readSet = getReadSubtopics();
       const isRead = readSet.has(subId);
-      const title = btn.getAttribute('data-sub-title');
+      const title = row.getAttribute('data-sub-title');
 
-      if (isRead) {
-        btn.classList.add('read-subtopic');
-        btn.textContent = `✓ ${title}`;
-      } else {
-        btn.classList.remove('read-subtopic');
-        btn.textContent = `▪ ${title}`;
+      row.classList.toggle('read-subtopic', isRead);
+      const labelSpan = row.querySelector('.subtopic-label');
+      if (labelSpan) {
+        labelSpan.textContent = isRead ? `✓ ${title}` : `▪ ${title}`;
       }
     }
 
     function updateNextButton() {
       const btn = document.getElementById('btnNextCase');
-      if (currentCaseIndex >= 0 && currentCaseIndex < flattenedCases.length - 1) {
-        btn.disabled = false;
-      } else {
-        btn.disabled = true;
-      }
+      btn.disabled = !(currentCaseIndex >= 0 && currentCaseIndex < flattenedCases.length - 1);
     }
 
-    function buildFlattenedCases() {
+    function buildFlattenedLists() {
       flattenedCases = [];
+      flattenedSubtopics = [];
       currentSyllabus.forEach(topic => {
         topic.subtopics.forEach(sub => {
+          flattenedSubtopics.push({ subtopic: sub, topicTitle: topic.topic_title });
           if (sub.cases && sub.cases.length > 0) {
             sub.cases.forEach(c => {
               flattenedCases.push({
@@ -817,7 +847,7 @@
           throw new Error('HTTP ' + response.status + ' (' + response.statusText + ')');
         }
         currentSyllabus = await response.json();
-        buildFlattenedCases();
+        buildFlattenedLists();
         renderTree();
 
         if (flattenedCases.length > 0) {
@@ -842,7 +872,6 @@
       const readCases = getReadCases();
       const readSubtopics = getReadSubtopics();
       const starredCases = getStarredCases();
-      const bookmarkedId = getBookmarkedCase();
 
       currentSyllabus.forEach((topic, tIndex) => {
         const group = document.createElement('div');
@@ -875,20 +904,40 @@
           const subKey = sub.subtopic_id || sub.subtopic_title;
           const isSubRead = readSubtopics.has(subKey);
 
-          const sBtn = document.createElement('button');
-          sBtn.className = 'subtopic-btn' + 
-                           (tIndex === 0 && sIndex === 0 ? ' active' : '') +
-                           (isSubRead ? ' read-subtopic' : '');
-          sBtn.setAttribute('data-sub-id', subKey);
-          sBtn.setAttribute('data-sub-title', sub.subtopic_title);
-          sBtn.textContent = isSubRead ? `✓ ${sub.subtopic_title}` : `▪ ${sub.subtopic_title}`;
+          // Subtopic Row with Bookmark Icon
+          const subRow = document.createElement('div');
+          subRow.className = 'subtopic-row' + 
+                             (tIndex === 0 && sIndex === 0 ? ' active' : '') +
+                             (isSubRead ? ' read-subtopic' : '');
+          subRow.setAttribute('data-sub-id', subKey);
+          subRow.setAttribute('data-sub-title', sub.subtopic_title);
 
-          sBtn.onclick = () => {
-            document.querySelectorAll('.subtopic-btn').forEach(b => b.classList.remove('active'));
-            sBtn.classList.add('active');
+          const subLabel = document.createElement('span');
+          subLabel.className = 'subtopic-label';
+          subLabel.textContent = isSubRead ? `✓ ${sub.subtopic_title}` : `▪ ${sub.subtopic_title}`;
+
+          const subMarkers = document.createElement('div');
+          subMarkers.className = 'item-markers';
+
+          const subBmBtn = document.createElement('button');
+          subBmBtn.className = 'marker-btn bookmark-toggle-btn';
+          subBmBtn.innerHTML = BOOKMARK_SVG;
+          subBmBtn.title = 'Bookmark this subtopic';
+          subBmBtn.onclick = (e) => {
+            e.stopPropagation();
+            toggleBookmark('subtopic', subKey);
+          };
+
+          subMarkers.appendChild(subBmBtn);
+          subRow.appendChild(subLabel);
+          subRow.appendChild(subMarkers);
+
+          subRow.onclick = () => {
+            document.querySelectorAll('.subtopic-row').forEach(r => r.classList.remove('active'));
+            subRow.classList.add('active');
             loadOverviewText(sub);
           };
-          subContainer.appendChild(sBtn);
+          subContainer.appendChild(subRow);
 
           if (sub.cases && sub.cases.length > 0) {
             const ul = document.createElement('ul');
@@ -898,24 +947,20 @@
               const caseKey = c.id || c.title;
               const isRead = readCases.has(caseKey);
               const isStarred = starredCases.has(caseKey);
-              const isBookmarked = (bookmarkedId === caseKey);
 
               const li = document.createElement('li');
               li.className = 'case-tree-item' + 
                              (tIndex === 0 && sIndex === 0 && cIndex === 0 ? ' active' : '') +
-                             (isRead ? ' read-case' : '') +
-                             (isBookmarked ? ' bookmarked-case' : '');
+                             (isRead ? ' read-case' : '');
               li.setAttribute('data-case-id', caseKey);
               li.setAttribute('data-case-title', c.title);
 
-              // Case Title Text
               const titleSpan = document.createElement('span');
               titleSpan.className = 'case-title-label';
               titleSpan.textContent = isRead ? `✓ ${c.title}` : `# ${c.title}`;
 
-              // Star & Bookmark Buttons
               const markersDiv = document.createElement('div');
-              markersDiv.className = 'case-item-markers';
+              markersDiv.className = 'item-markers';
 
               const starBtn = document.createElement('button');
               starBtn.className = 'marker-btn star-toggle-btn' + (isStarred ? ' starred' : '');
@@ -927,12 +972,12 @@
               };
 
               const bmBtn = document.createElement('button');
-              bmBtn.className = 'marker-btn bookmark-toggle-btn' + (isBookmarked ? ' bookmarked' : '');
-              bmBtn.textContent = '🔖';
-              bmBtn.title = isBookmarked ? 'Bookmarked (Where I stopped) - Click to remove' : 'Set bookmark here';
+              bmBtn.className = 'marker-btn bookmark-toggle-btn';
+              bmBtn.innerHTML = BOOKMARK_SVG;
+              bmBtn.title = 'Bookmark this case';
               bmBtn.onclick = (e) => {
                 e.stopPropagation();
-                toggleBookmarkCase(caseKey);
+                toggleBookmark('case', caseKey);
               };
 
               markersDiv.appendChild(starBtn);
@@ -964,17 +1009,27 @@
       toggleAllBtn.onclick = () => {
         allCollapsed = !allCollapsed;
         document.querySelectorAll('.module-subtopics').forEach(el => {
-          if (allCollapsed) {
-            el.classList.add('collapsed');
-          } else {
-            el.classList.remove('collapsed');
-          }
+          el.classList.toggle('collapsed', allCollapsed);
         });
         document.querySelectorAll('.module-toggle-arrow').forEach(arr => {
           arr.textContent = allCollapsed ? '▶' : '▼';
         });
         toggleAllBtn.textContent = allCollapsed ? 'Expand All' : 'Collapse All';
       };
+    }
+
+    function expandParentOfElement(el) {
+      if (!el) return;
+      const parentModule = el.closest('.module-subtopics');
+      if (parentModule && parentModule.classList.contains('collapsed')) {
+        parentModule.classList.remove('collapsed');
+        const parentHeader = parentModule.previousElementSibling;
+        if (parentHeader) {
+          const arr = parentHeader.querySelector('.module-toggle-arrow');
+          if (arr) arr.textContent = '▼';
+        }
+      }
+      el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
 
     function getSubtopicPdfPath(subtopic) {
@@ -1008,6 +1063,13 @@
 
       const subKey = subtopic.subtopic_id || subtopic.subtopic_title;
       updateOverviewReadButton(subKey);
+
+      document.querySelectorAll('.subtopic-row').forEach(r => r.classList.remove('active'));
+      const activeSubRow = document.querySelector(`.subtopic-row[data-sub-id="${subKey}"]`);
+      if (activeSubRow) {
+        activeSubRow.classList.add('active');
+        expandParentOfElement(activeSubRow);
+      }
 
       document.getElementById('activeSubtopicLabel').textContent = subtopic.subtopic_title;
       renderMiddlePaneContent();
@@ -1104,16 +1166,7 @@
       const activeTreeItem = document.querySelector(`.case-tree-item[data-case-id="${caseKey}"]`);
       if (activeTreeItem) {
         activeTreeItem.classList.add('active');
-        const parentModule = activeTreeItem.closest('.module-subtopics');
-        if (parentModule && parentModule.classList.contains('collapsed')) {
-          parentModule.classList.remove('collapsed');
-          const parentHeader = parentModule.previousElementSibling;
-          if (parentHeader) {
-            const arr = parentHeader.querySelector('.module-toggle-arrow');
-            if (arr) arr.textContent = '▼';
-          }
-        }
-        activeTreeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        expandParentOfElement(activeTreeItem);
       }
 
       const display = document.getElementById('digestDisplay');
@@ -1222,12 +1275,19 @@
     }
 
     document.getElementById('btnJumpBookmark').onclick = () => {
-      const bmId = getBookmarkedCase();
-      if (!bmId) return;
-      const found = flattenedCases.find(item => (item.caseItem.id || item.caseItem.title) === bmId);
-      if (found) {
-        loadOverviewText(found.subtopic);
-        loadCaseFile(found.caseItem, found.subtopic.subtopic_title);
+      const bm = getBookmark();
+      if (!bm) return;
+      if (bm.type === 'case') {
+        const found = flattenedCases.find(item => (item.caseItem.id || item.caseItem.title) === bm.id);
+        if (found) {
+          loadOverviewText(found.subtopic);
+          loadCaseFile(found.caseItem, found.subtopic.subtopic_title);
+        }
+      } else if (bm.type === 'subtopic') {
+        const foundSub = flattenedSubtopics.find(item => (item.subtopic.subtopic_id || item.subtopic.subtopic_title) === bm.id);
+        if (foundSub) {
+          loadOverviewText(foundSub.subtopic);
+        }
       }
     };
 
