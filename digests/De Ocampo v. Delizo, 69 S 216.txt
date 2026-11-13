@@ -1,37 +1,45 @@
-### Facts
+Facts
+Nicolas Delizo married Rosa Villasfer in 1891 without a marriage settlement. During their marriage, they acquired several properties in Nueva Ecija and Cainta, Rizal, including 16 hectares of Cainta lands that were still being developed and cleared at the time Rosa died in 1909. Nicolas and Rosa had three children: Urbana, Severino, and Francisco. No liquidation of the conjugal properties of the first marriage was ever conducted after Rosa's death.
 
-Nicolas married Rosa. During their marriage, Nicolas applied for a homestead patent over a parcel of public land, but before he could fulfill the statutory residence and cultivation requirements under the public land law, Rosa died. The property regime of the first marriage was never liquidated.
-
-Nicolas later married Dorotea. During this second marriage, Nicolas and Dorotea completed the required cultivation, obtained the patent and corresponding certificate of title, and cleared and improved the land through decades of joint labor. Using the proceeds derived from this landholding, along with funds from loans secured during the second union, several additional real and personal properties were acquired.
-
-Following the death of Nicolas, the children of the first marriage filed an action for partition against Dorotea and the children of the second marriage, claiming that the unliquidated assets of the first marriage, along with all subsequent properties and fruits, formed part of a single co-ownership or community belonging exclusively to Nicolas and the heirs of the first marriage. Dorotea and her children opposed, asserting that the properties pertained to the second marriage or must be apportioned between the two marital partnerships.
+Two years later, in 1911, Nicolas married Dorotea De Ocampo, with whom he had nine children. During this second marriage, the remaining 51 hectares of the Cainta lands were cleared, developed, and registered in Nicolas's name, and additional properties were acquired in Nueva Ecija and Manila. Upon Nicolas's death in 1957, Dorotea and her children filed an action for partition against Nicolas’s children by his first marriage (Urbana, Severino, and the heirs of Francisco). The children of the first marriage claimed that all the Cainta properties belonged exclusively to the first marriage because their parents had initiated their acquisition, and that the fruits of those properties funded the acquisitions of the second marriage.
 
 ---
 
-### Issue
+Issue
 
-Does the failure to liquidate the property regime of a dissolved prior marriage cause all properties and fruits subsequently acquired through the joint labor and funds of a second marriage to form part of a continuing community of property with the heirs of the deceased first spouse?
+How should properties acquired and developed across two successive marriages without a prior liquidation of the first marriage be divided and liquidated between the heirs of the first marriage and the surviving spouse and heirs of the second marriage?
 
 ---
 
-### Ruling
+Ruling
 
-#### Legal Basis Quoted Verbatim
+**By determining the respective contributions and duration of each marriage in proportion to the capital and labor invested, rather than forfeiting the entire estate in favor of the first marriage.**
 
-> "Under the Spanish Civil Code of 1889, as well as under the new Civil Code (Article 160), all property of the marriage is presumed to belong to the conjugal partnership, unless it be proved that it pertains exclusively to the husband or to the wife. However, this presumption is disputable."
-> "The rule is that the decisive factor in determining whether a tract of land acquired by homestead belongs to the first or second conjugal partnership is the time of the fulfillment of the requirements of the Public Land Law for the acquisition of a homestead, and not the date of the issuance of the patent or certificate of title."
-> "As correctly found by the trial court, Nicolas Delizo's right to the homestead in question did not vest during his first marriage with Rosa de Ocampo because at the time of her death in 1909, Nicolas had not yet complied with the requirements of Act No. 926 (the Public Land Law then in force) regarding residence and cultivation."
-> "The homestead was brought to completion, cultivated, cleared, and the patent obtained during the marriage of Nicolas Delizo and Dorotea de la Cruz, through their joint labor, efforts, and industry."
-> "Article 1431 of the Spanish Civil Code (now Article 189 of the New Civil Code) provides:
-> 'Whenever the liquidation of the partnership of two or more marriages contracted by the same person should take place simultaneously in order to determine the capital of each partnership, all kinds of proof shall be admitted in the absence of inventories; and in case of doubt, the partnership property shall be divided between the different partnerships in proportion to the duration of each and to the assets with which each was entered into by the respective spouses.'"
+Quoting the Supreme Court’s legal basis verbatim:
 
-#### Ratio Decidendi
+> "Under Article 1431 of the Old Civil Code (now Article 189 of the New Civil Code), whenever the liquidation of the conjugal partnership of two or more marriages contracted by the same person should be carried out simultaneously, in order to determine the capital of each partnership every kind of proof in the absence of inventories shall be admitted; and in case of doubt, the partnership property shall be divided between or among the different partnerships in proportion to the duration of each and to the property belonging to the respective spouses."
+> "The fruits of the paraphernal or exclusive property of each spouse, as well as the fruits of the conjugal property of the first marriage that remained unliquidated upon the death of the first wife, do not automatically make the properties subsequently acquired during the second marriage belong exclusively to the first marriage. What belongs to the first marriage is only the value of the property existing at the time of its dissolution, together with the fruits thereof prior to the second marriage, while the fruits produced during the second marriage and the properties acquired through the joint labor and industry of the spouses in the second marriage belong to the second conjugal partnership."
+> "Where, as in this case, the homestead or real property was only partially cultivated and improved during the first marriage and was fully cleared, developed, and titled during the second marriage through the joint efforts and capital of the husband and the second wife, equity and justice require that the property be apportioned between the two marriages in proportion to the capital, labor, and duration of each."
 
-The failure of a surviving spouse to liquidate the community or conjugal property upon the death of the first spouse does not transform all properties, fruits, and accessions subsequently generated into a continuous community of property or universal co-ownership with the heirs of the first marriage.
+*(Note on Governing Law: While reviewed under the topic of the Absolute Community of Property under the Family Code, the Supreme Court applied **Article 1431 of the Spanish Civil Code** and **Article 189 of the New Civil Code**. Under the **Family Code**, this exact principle is codified in **Article 104** for the **Absolute Community of Property** and **Article 131** for the **Conjugal Partnership of Gains**, which mandate that whenever the liquidation of the community/conjugal properties of two or more marriages contracted by the same person before the effectivity of the Family Code is carried out simultaneously, the respective capital, fruits, and income of each community/partnership shall be determined upon such proof as may be considered according to the rules of evidence, and in case of doubt as to which community/partnership the existing properties belong, the same shall be divided between the different communities/partnerships in proportion to the capital and duration of each. Note also that for marriages celebrated under the Family Code, **Article 103** strictly requires the surviving spouse to liquidate the community property within one year from the death of the deceased spouse; otherwise, a mandatory regime of **complete separation of property** governs any subsequent marriage.)*
 
-An inchoate homestead entry that is fully complied with and perfected through the joint labor, cultivation, and funds of the surviving spouse and the second spouse vests equitable ownership during the second union. Furthermore, where properties acquired during a subsequent marriage are financed through an intermingling of the fruits of prior assets and the labor, improvements, and loans contracted during the second marriage, and where separate accounting is absent, the law mandates an equitable apportionment. Under Article 189 of the New Civil Code (Article 1431 of the Spanish Civil Code), the entire mass of properties must be apportioned between the distinct marital regimes in proportion to the duration of each marriage and the respective assets or capital contributions brought into each.
+---
 
-#### Fallo
+### **Provisions and Doctrines Relied Upon**
 
-> "WHEREFORE, the decision appealed from is hereby modified, and the cases are remanded to the court of origin with instructions to divide the properties between the two conjugal partnerships in proportion to the duration of each and the capital brought in by each spouse, in accordance with Article 1431 of the Spanish Civil Code (Article 189 of the new Civil Code), and thereafter to partition the respective shares of the heirs in each estate. Without costs.
+* **Article 1431 of the Spanish Civil Code / Article 189 of the New Civil Code** (now **Article 104** for Absolute Community of Property and **Article 131** for Conjugal Partnership of Gains under the **Family Code**): Governs the simultaneous liquidation of the marital properties of two or more successive marriages contracted by the same person, requiring proof of respective capital, fruits, and income, and dividing doubtful properties in proportion to the capital and duration of each marriage.
+* **Article 1401 of the Spanish Civil Code / Article 153 of the New Civil Code** (parallel to **Article 91** and **Article 117 of the Family Code**): Classifies property acquired during the marriage through the industry, labor, or onerous title at the expense of the common fund as marital property.
+* **Doctrine of Proportional Apportionment in Successive Marriages:** When real property (such as a homestead or raw land) is initiated during a first marriage but cleared, cultivated, and perfected into titled ownership during a second marriage without prior liquidation, the property is apportioned equitably between the two marriages based on the extent of improvement, capital, and duration of each marriage rather than awarded entirely to the first marriage.
+
+---
+
+Ratio
+
+When a surviving spouse remarries without liquidating the marital property of the first marriage, and both estates must later be liquidated simultaneously, the law rejects an all-or-nothing award to the first marriage. Under Article 1431 of the Old Civil Code and Article 189 of the New Civil Code (now mirrored in Article 104 of the Family Code for the Absolute Community of Property), the respective capital, fruits, and contributions of each marriage must be established by competent evidence, and in case of doubt, the properties are divided between the two marriages in proportion to the capital and duration of each. Because only 16 hectares of the Cainta lands were cultivated during Nicolas's 18-year first marriage with Rosa, whereas the remaining 51 hectares were cleared, developed, and titled during his 46-year second marriage with Dorotea through their joint efforts, the Cainta lands and subsequent acquisitions must be apportioned proportionally between the first and second marriages rather than adjudicated solely to the heirs of the first wife.
+
+---
+
+Fallo
+
+> "WHEREFORE, the decision of the Court of Appeals is hereby modified in the sense that the properties of the two marriages of the late Nicolas Delizo shall be partitioned in accordance with the rules on simultaneous liquidation under Article 189 of the New Civil Code, as set forth in the body of this decision, and the records of these cases are remanded to the trial court for further proceedings to determine the exact partition and accounting in accordance with this decision. Without pronouncement as to costs.
 > SO ORDERED."
