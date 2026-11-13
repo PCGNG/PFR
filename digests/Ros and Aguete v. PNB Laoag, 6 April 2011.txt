@@ -1,13 +1,3 @@
-### Case Brief: *Joe A. Ros and Estrella Aguete v. Philippine National Bank - Laoag Branch*
-
-**Citation:** G.R. No. 170166, April 6, 2011 (647 SCRA 334)
-
-**Ponente:** Carpio, *J.*
-
-**Subject Matter:** Conjugal Partnership of Gains; Charges Upon and Obligations of the Partnership; Debts Contracted by the Husband for Family Business (Civil Code, Arts. 161 & 166 vs. Family Code, Art. 121)
-
----
-
 #### Facts
 
 Joe and Estrella were married. Joe obtained a loan of ₱115,000.00 from PNB to finance his business of buying and selling garlic and Virginia tobacco. To secure the loan, Joe executed a real estate mortgage over a parcel of land belonging to the conjugal partnership.
@@ -18,7 +8,7 @@ Estrella subsequently filed a complaint against PNB to annul the mortgage and fo
 
 ---
 
-#### Issues
+#### Issue
 
 1. Did the loan contracted by the husband redound to the benefit of the conjugal partnership so as to make the debt chargeable against the conjugal property?
 2. Is the mortgage executed by the husband over conjugal property valid even assuming the wife did not consent to the encumbrance?
