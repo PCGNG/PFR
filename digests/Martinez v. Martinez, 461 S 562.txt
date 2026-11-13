@@ -1,0 +1,54 @@
+Facts
+
+Daniel Martinez, Sr. and Natividad de Guzman-Martinez were the absolute owners of two parcels of land in Sta. Cruz, Manila. During his lifetime, Daniel executed a Deed of Absolute Sale conveying the properties to his eldest son, Rodolfo Martinez. After Daniel and Natividad died intestate, Rodolfo registered the properties solely in his name.
+
+Subsequently, Rodolfo’s younger brother, Federico Martinez, Jr., together with his wife, Nelly Martinez, filed a complaint before the RTC against Rodolfo for the nullification of the Deed of Absolute Sale and cancellation of titles, alleging that the sale was simulated and deprived Federico of his legitime. Rodolfo moved to dismiss the complaint for failure to comply with a condition precedent under Article 151 of the Family Code, arguing that the verified complaint failed to allege that earnest efforts toward a compromise had been made between him and his brother Federico prior to filing suit. Federico countered that Article 151 did not apply because his wife, Nelly (Rodolfo's sister-in-law), was a co-plaintiff and was a stranger to the family under Article 150.
+
+---
+
+Issue
+
+Is an allegation of earnest efforts toward a compromise under Article 151 of the Family Code required when a brother sues his brother over an alleged inheritance and includes his wife (the defendant's sister-in-law) as a co-plaintiff?
+
+---
+
+Ruling
+
+**Yes.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "Article 151 of the Family Code provides:
+> Art. 151. No suit between members of the same family shall prosper unless it should appear from the verified complaint or petition that earnest efforts toward a compromise have been made, but that the same have failed. If it is shown that no such efforts were in fact made, the case must be dismissed.
+> This rule shall not apply to cases which may not be the subject of compromise under the Civil Code."
+
+> "The phrase 'members of the same family' found in Article 151 of the Family Code must be construed in relation to Article 150 thereof, which reads:
+> Art. 150. Family relations include those:
+> (1) Between husband and wife;
+> (2) Between parents and children;
+> (3) Among other ascendants and descendants; and
+> (4) Among brothers and sisters, whether of the full or half-blood."
+
+> "As pointed out by the petitioner, Nelly Martinez is the wife of respondent Federico Martinez, Jr., and the sister-in-law of the petitioner. She has no direct interest in the properties subject of the complaint. Her right to the properties is merely inchoate. Thus, she is not a real party-in-interest, and was merely impleaded as a nominal party to circumvent the requirement of Article 151 of the Family Code."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 151 of the Family Code:** Prohibits any suit between members of the same family from prospering unless it appears from the verified complaint or petition that earnest efforts toward a compromise have been made and have failed.
+* **Article 150 of the Family Code:** Exclusively enumerates who constitute "members of the same family" (spouses, parents and children, ascendants and descendants, and full or half-blood brothers and sisters). Collateral relatives by affinity, such as sisters-in-law, are not included.
+* **Section 2, Rule 3 of the 1997 Rules of Civil Procedure:** Defines a **real party-in-interest** as the party who stands to be benefited or injured by the judgment in the suit, or the party entitled to the avails of the suit.
+* **Controlling Doctrine:** While the presence of a stranger (one not enumerated in Article 150) ordinarily exempts a suit from Article 151, the stranger must be a **real party-in-interest** with a direct, material, and present legal interest in the subject matter. A spouse who merely has an inchoate or expectant interest in her husband's prospective inheritance is only a nominal or formal party, and impleading her cannot be used to evade the mandatory condition precedent under Article 151.
+
+---
+
+Ratio
+
+The enumeration of family relations in Article 150 of the Family Code is exclusive, meaning a sister-in-law (collateral relative by affinity) is legally a stranger to her husband's brother. However, for the "stranger exception" to excuse compliance with the earnest-efforts requirement under Article 151, the stranger must be an indispensable or necessary real party-in-interest who stands to directly benefit from or be injured by the judgment. Because the disputed properties were allegedly part of the intestate estate of Rodolfo and Federico's parents, only Federico—as a compulsory heir—held a direct interest in the action, whereas his wife Nelly possessed merely an inchoate right over her husband's future inheritance. Since Nelly was merely a nominal co-plaintiff with no direct legal interest, the suit remained in substance an action exclusively between brothers (members of the same family under Article 150[4]), requiring the dismissal of the complaint for failure to allege earnest efforts toward a compromise under Article 151.
+
+---
+
+Fallo
+
+> "WHEREFORE, the petition is GRANTED. The Decision and Resolution of the Court of Appeals in CA-G.R. SP No. 72060 are REVERSED and SET ASIDE. The Regional Trial Court of Manila, Branch 30, is DIRECTED to dismiss Civil Case No. 01-101909 without prejudice.
+> SO ORDERED."
