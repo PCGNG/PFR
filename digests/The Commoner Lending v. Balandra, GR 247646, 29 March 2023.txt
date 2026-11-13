@@ -1,25 +1,45 @@
-Facts:
-Alita mortgaged their conjugal property to Commoner Lending to secure a loan using a General Power of Attorney (GPA) where Rafael's signature was forged. Rafael was out of the country at the time and did not consent. 
+Facts
 
-Issue:
+Spouses Voltaire and Ella Balandra obtained a loan from The Commoner Lending Corporation (TCLC) in 2005, during the effectivity of the Family Code. To secure the loan, Voltaire executed a Real Estate Mortgage over a parcel of land registered in his name as "Voltaire G. Balandra, married to Ella Balandra." Because Ella was working abroad in Hong Kong at the time, she did not sign the mortgage deed; instead, Voltaire signed the instrument alone, presenting a handwritten letter purportedly from Ella authorizing him to mortgage the property.
 
-Ruling: 
-The Court has consistently held that a disposition or encumbrance of a conjugal property made by a spouse, without the written consent of the other, during the effectivity of the Family Code is void.35 Article 124 thereof reads:
+When Spouses Balandra defaulted on their loan, TCLC extrajudicially foreclosed the mortgage and purchased the property at the auction sale. Spouses Balandra then filed an action before the RTC to annul the Real Estate Mortgage and the subsequent foreclosure sale, arguing that the mortgage was void for lack of Ella's written consent under the Family Code. TCLC countered that the property belonged exclusively to Voltaire because it was registered solely in his name, and that the handwritten letter constituted Ella's valid consent.
 
-Article 124. The administration and enjoyment of the conjugal partnership property shall belong to both spouses jointly. In case of disagreement, the husband's decision shall prevail, subject to recourse to the court by the wife for proper remedy, which must be availed of within five years from the date of the contract implementing such decision.
+---
 
-In the event that one spouse is incapacitated or otherwise unable to participate in the administration of the conjugal properties, the other spouse may assume sole powers of administration. These powers do not include disposition or encumbrance without authority of the court or the written consent of the other spouse. In the absence of such authority or consent, the disposition or encumbrance shall be void. However, the transaction shall be construed as a continuing offer on the part of the consenting spouse and the third person, and may be perfected as a binding contract upon the acceptance by the other spouse or authorization by the court before the offer is withdrawn by either or both offerors. (Italics and underscoring supplied)
+Issue
 
-The contemplated encumbrance or disposition, albeit categorized as a "void" transaction, is further characterized distinctly from void contracts under Article 1409 of the Civil Code that are deemed inexistent and, consequently, incapable of ratification. Notably, void dispositions under Article 124 of the Family Code are expressly deemed as a continuing offer which may be perfected and accepted by consent of the previously non-consenting spouse.
+Is a real estate mortgage over community property executed by one spouse without the written consent of the other spouse void under the Family Code?
 
-In Spouses Cueno v. Spouses Bautista the Court noted the special nature of the void transactions under the Family Code, i.e., they can become binding contracts upon the acceptance by the other spouse or authorization by the court before the continuing offers are withdrawn by either or both spouses.39 In other words, a void contract under Article 124 of the Family, while not capable of ratification, is distinctively susceptible of perfection through acceptance by the non-consenting spouse.
+---
 
-In the case, the REM executed by Alita without the written consent or authority of respondent partook of a continuing offer from petitioner and Alita that a mortgage be constituted over the subject conjugal properties to secure the questioned loan. Respondent had the option of accepting or rejecting the offer before its withdrawal either by petitioner or Alita. As found by both the RTC and CA, respondent, instead of rejecting the offer, undertook to pay the outstanding loan obligation and made partial payments thereon. The circumstances establish respondent's acceptance of the offer, thereby perfecting the previously unauthorized REM into a binding undertaking on his part to constitute the mortgage over the subject conjugal properties as security for the loan.
-It bears underscoring that respondent's undertaking to settle the questioned loan, making partial payments thereon to prevent foreclosure, was relied upon by the petitioner. Pursuant to Article 1431 of the Civil Code,41 a representation is rendered conclusive upon the party making it, and this representation cannot be denied as against the person relying thereon. That respondent's undertaking to pay the loan proceeded from his vain effort to save the mortgaged properties from being foreclosed—is immaterial and irrelevant. There is nothing special or compelling about this reason as the foreclosure of a mortgage is a necessary consequence of the failure to settle the loan it secures.
+Ruling
 
-Ratio decidendi:
+**Yes.**
 
-Class Notes:
+Quoting the Supreme Court’s legal basis verbatim:
 
-Dispositive portion:
+> "Since the Spouses Balandra did not execute any marriage settlement, their property relations are governed by the regime of absolute community of property under Article 75 of the Family Code. Under Article 91 of the Family Code, the community property shall consist of all the property owned by the spouses at the time of the celebration of the marriage or acquired thereafter. Meanwhile, Article 93 of the same Code provides that property acquired during the marriage is presumed to belong to the community, unless it is proved that it is one of those excluded therefrom."
+> "Article 96 of the Family Code explicitly states that the administration and enjoyment of the community property shall belong to both spouses jointly, and that in the event that one spouse is incapacitated or otherwise unable to participate in the administration of the common properties, the other spouse may assume sole powers of administration. However, these powers do not include disposition or encumbrance without authority of the court or the written consent of the other spouse. In the absence of such authority or consent, the disposition or encumbrance shall be void."
+> "Furthermore, a special power of attorney is necessary when a spouse encumbers community property on behalf of the other spouse, pursuant to Article 1878(5) and (12) of the Civil Code. A mere handwritten letter, which was not even authenticated or notarized, cannot take the place of the required written consent or special power of attorney."
 
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 75 of the Family Code:** Establishes the regime of Absolute Community of Property as the default property regime in the absence of a marriage settlement or when the regime agreed upon is void.
+* **Article 91 of the Family Code:** Defines community property as consisting of all the property owned by the spouses at the time of the celebration of the marriage or acquired thereafter.
+* **Article 93 of the Family Code:** Presumes that property acquired during the marriage belongs to the community, unless proved to be excluded.
+* **Article 96 of the Family Code:** Mandates joint administration of community property by both spouses and declares that any disposition or encumbrance thereof without court authority or the written consent of the other spouse is **void** (and shall only be construed as a continuing offer on the part of the consenting spouse and the third person, which may be perfected as a binding contract upon the acceptance by the other spouse or authorization by the court before the offer is withdrawn by either or both offerors).
+* **Article 1878(5) and (12) of the Civil Code:** Requires a Special Power of Attorney (SPA) to enter into any contract by which the ownership of an immovable is transmitted or acquired, or to create or convey real rights over immovable property.
+
+---
+
+Ratio
+
+In the absence of a marriage settlement, spouses married under the Family Code are governed by the Absolute Community of Property, where all properties owned at the time of marriage or acquired thereafter form part of the community estate. Under Article 96 of the Family Code, neither spouse may encumber or dispose of community real property without court authority or the written consent of the other spouse. Where one spouse acts as agent for an absent spouse in mortgaging community property, the consent must be embodied in a valid Special Power of Attorney in accordance with Article 1878 of the Civil Code. An unauthenticated handwritten letter does not satisfy the statutory requirement of written consent. Consequently, the Real Estate Mortgage executed by Voltaire alone is void *ab initio*, rendering the subsequent extrajudicial foreclosure and sale likewise null and void.
+
+---
+
+Fallo
+
+> "WHEREFORE, the Petition is DENIED. The Decision dated January 25, 2019 and the Resolution dated May 15, 2019 of the Court of Appeals in CA-G.R. CV No. 05953 are AFFIRMED. SO ORDERED."
