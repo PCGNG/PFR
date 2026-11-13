@@ -1,0 +1,55 @@
+Facts
+
+Spouses Augusto and Maria Hontiveros filed a complaint for damages before the RTC against Augusto’s brother, Gregorio Hontiveros, and Gregorio’s wife, Teodora Hontiveros, alleging that Gregorio and Teodora unlawfully withheld possession and enjoyed the fruits of a parcel of agricultural land belonging to Augusto and Maria.
+
+Gregorio and Teodora moved to dismiss the complaint on the ground that the verified complaint failed to allege that earnest efforts toward a compromise had been made prior to the filing of the suit, invoking Article 151 of the Family Code because Augusto and Gregorio were brothers. Augusto and Maria opposed the dismissal, pointing out that Maria (Gregorio's sister-in-law) and Teodora (Augusto's sister-in-law) were parties to the suit as co-owners and co-possessors of the property, and were strangers to the family under Article 150.
+
+---
+
+Issue
+
+Is an allegation of earnest efforts toward a compromise under Article 151 of the Family Code required when a suit involves not only brothers, but also their respective wives (sisters-in-law) who are real parties-in-interest?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "Article 151 of the Family Code provides:
+> Art. 151. No suit between members of the same family shall prosper unless it should appear from the verified complaint or petition that earnest efforts toward a compromise have been made, but that the same have failed. If it is shown that no such efforts were in fact made, the case must be dismissed.
+> This rule shall not apply to cases which may not be the subject of compromise under the Civil Code."
+
+> "The phrase 'members of the same family' found in Art. 151 of the Family Code must be construed in relation to Art. 150 thereof, which reads:
+> Art. 150. Family relations include those:
+> (1) Between husband and wife;
+> (2) Between parents and children;
+> (3) Among other ascendants and descendants; and
+> (4) Among brothers and sisters, whether of the full or half-blood."
+
+> "Religious relationship and relationship by affinity are not given any legal effect in this jurisdiction. Consequently, private respondent Teodora Ayson, being the wife of private respondent Gregorio Hontiveros, and petitioner Maria Hontiveros, being the wife of petitioner Augusto Hontiveros, are strangers to the Hontiveros family for purposes of Art. 151 of the Family Code."
+
+> "Whenever a stranger is a party in a case involving family members, the requisite showing of earnest efforts to compromise is no longer mandatory."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 151 of the Family Code:** Requires a showing in the verified complaint or petition that earnest efforts toward a compromise have been made and have failed before a suit between members of the same family can prosper.
+* **Article 150 of the Family Code:** Exclusively defines "family relations" as those (1) between husband and wife; (2) between parents and children; (3) among other ascendants and descendants; and (4) among brothers and sisters, whether of the full or half-blood. Relationships by affinity (such as sisters-in-law) are excluded.
+* **Controlling Jurisprudence Cited by the Court:** *Gayon v. Gayon* (G.R. No. L-28394, November 26, 1970) and *Magbaleta v. Gonong* (G.R. No. L-44903, April 22, 1977)—establishing that a sister-in-law is a stranger with respect to her husband's brother under Article 150 (formerly Article 217 of the Civil Code), and that the presence of a stranger as a real party removes the suit from the mandatory operation of Article 151.
+
+---
+
+Ratio
+
+The enumeration of "family relations" under Article 150 of the Family Code is strict and exclusive; it does not include collateral relatives by affinity such as brothers-in-law or sisters-in-law. Because Maria Hontiveros and Teodora Hontiveros were sued and suing as direct co-owners and co-actors with their respective husbands over the disputed land—making them real parties-in-interest rather than mere nominal parties—they are legally "strangers" to each other's brothers-in-law for purposes of Article 151. Once a stranger who is a real party-in-interest is involved in a suit between family members, the condition precedent of alleging earnest efforts toward a compromise under Article 151 no longer applies.
+
+---
+
+Fallo
+
+> "WHEREFORE, the petition is GRANTED. The Order dated November 23, 1995 and the Order dated February 23, 1996 of the Regional Trial Court, Branch 25, Iloilo City in Civil Case No. 22661 are SET ASIDE and the case is REMANDED to the trial court for further proceedings not inconsistent with this decision.
+> SO ORDERED."
