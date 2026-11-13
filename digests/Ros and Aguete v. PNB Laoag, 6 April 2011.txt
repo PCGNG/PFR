@@ -1,22 +1,17 @@
-**Spouses Jose Ros and Estrella Aguete v. Philippine National Bank - Laoag Branch**
-G.R. No. 170166 | 6 April 2011
----
-
-### **Facts**
+Facts
 
 Jose Ros obtained a loan from Philippine National Bank - Laoag Branch (PNB) to finance his gravel and sand business. To secure the loan, Jose executed a Real Estate Mortgage over a parcel of land registered in his name as "Jose C. Ros, married to Estrella Aguete." Jose defaulted on the loan, prompting PNB to extrajudicially foreclose the mortgage and purchase the property as the highest bidder at the public auction.
 
 After the lapse of the redemption period without the property being redeemed, Estrella Aguete filed an action before the RTC to annul the mortgage, foreclosure proceedings, and sale. Estrella claimed that she had no knowledge of the loan and that her signature on the mortgage documents was forged. She argued that the mortgage was void because the property belonged to their marriage and was encumbered without her valid consent, and that the loan did not redound to the benefit of their family.
 
 ---
-
-### **Issue**
+Issue
 
 May the property of the marriage be held liable for a loan obligation contracted by the husband alone for his business without the wife's consent?
 
 ---
 
-### **Ruling**
+Ruling
 
 **Yes.**
 
@@ -38,13 +33,12 @@ Quoting the Supreme Court’s legal basis verbatim:
 
 ---
 
-### **Ratio Decidendi**
+Ratio
 
 When a spouse directly contracts a loan to finance the business or profession by which he or she contributes to the support of the family, the law presumes that the obligation redounds to the benefit of the marriage. Unlike cases where a spouse merely acts as a surety or guarantor for a third party's debt (which requires proof of actual benefit to the family), a direct loan for the family business carries an apparent benefit at the time of its signing, making it immaterial whether the business subsequently succeeds or fails. Furthermore, because the wife failed to prove by clear and convincing evidence that her signature on the mortgage was forged, and because the loan was contracted for the family's gravel and sand business, the property of the marriage was validly encumbered and properly held liable for the unpaid loan.
 
 ---
 
-### **Fallo**
+Fallo
 
-> "WHEREFORE, we DENY the petition. The Decision of the Court of Appeals in CA-G.R. CV No. 76845 promulgated on 17 October 2005 and the Resolution promulgated on 6 February 2006 are AFFIRMED. Costs against petitioners.
-> SO ORDERED."
+"WHEREFORE, we DENY the petition. The Decision of the Court of Appeals in CA-G.R. CV No. 76845 promulgated on 17 October 2005 and the Resolution promulgated on 6 February 2006 are AFFIRMED. Costs against petitioners. SO ORDERED."
