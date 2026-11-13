@@ -1,40 +1,47 @@
-### Facts
+Fact
 
-Heinz, a German national, married Elena, a Filipina. During their marriage, the spouses acquired a parcel of land in Antipolo, Rizal, which was titled solely in Elena's name. Using funds inherited by Heinz from his parents in Germany, the spouses constructed a residential house and other improvements on the land.
+Helmut Muller, a German national, married Elena Buenaventura, a Filipino citizen, in 1989 without a marriage settlement, thereby placing their property relations under the regime of Absolute Community of Property. During their marriage, Helmut purchased a parcel of land in Antipolo, Rizal using his own funds from the sale of his inherited properties in Germany. Because Helmut was a foreigner disqualified from owning land in the Philippines, the property was registered solely in the name of Elena.
 
-Following their separation, Heinz filed a petition for separation of property, demanding the partition of the Antipolo property as community property or, in the alternative, reimbursement of the funds he expended for its acquisition and construction. Elena opposed the claim, maintaining that Heinz, being an alien, is constitutionally disqualified from owning real property in the Philippines and cannot assert any community rights or claims for reimbursement over the land.
-
----
-
-### Issue
-
-Does real property acquired and improved during marriage using funds provided by an alien spouse form part of the absolute community of property, and may the alien spouse recover the funds expended on the property under the rules of equity?
+Later, Helmut filed a petition for separation of properties before the RTC. The RTC terminated their Absolute Community of Property regime and ordered Elena to reimburse Helmut the amount he spent to purchase the Antipolo property. Elena assailed the reimbursement order, arguing that Helmut was barred from acquiring land in the Philippines and was aware of the constitutional prohibition when he bought the property in her name.
 
 ---
 
-### Ruling
+Issue
 
-#### Legal Basis Quoted Verbatim
+May an alien spouse claim ownership or demand reimbursement of the funds used to purchase private land registered in the name of his Filipino spouse upon the dissolution of their Absolute Community of Property under the Family Code?
 
-> "Section 7, Article XII of the 1987 Constitution provides:
-> Sec. 7. Save in cases of hereditary succession, no private lands shall be transferred or conveyed except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain."
-> "Aliens, whether individuals or corporations, have been disqualified from acquiring lands of the public domain. Hence, by virtue of the aforecited constitutional provision, they are also disqualified from acquiring private lands. The primary purpose of this constitutional provision is the conservation of the national patrimony. Our fundamental law cannot be any clearer. The prohibition against alien ownership of private lands is absolute and admits of no exception, save in cases of hereditary succession."
-> "Respondent was well-aware of the constitutional prohibition for aliens to acquire lands in the Philippines. He was, in fact, advised by a certain Atty. Jose S. Raymundo that an alien cannot acquire lands in the Philippines. Consequently, he had the Antipolo property titled in the name of petitioner. For the same reason, the Antipolo property cannot be declared as conjugal property, and respondent cannot be granted reimbursement of the amount he invested in the acquisition of the Antipolo property and the construction of the house and other improvements thereon."
-> "In *Cheesman v. Intermediate Appellate Court*, the petitioner, an American citizen, bought a parcel of land in Subic, Zambales and had it registered in the name of his Filipino wife. Later, the wife sold the property to a third person without the knowledge and consent of the husband. The Court held that the petitioner cannot seek the annulment of the sale as he had no right to the land:
-> 'The fundamental law prohibits the sale to aliens of residential land. Section 14, Article XIV of the 1973 Constitution documents this policy, xxx
-> The trial court found that it had 'satisfactorily overcome the disputable presumption that all property of the marriage belongs to the conjugal partnership' and that the questioned property was in reality the paraphernal property of the wife. It was also of the view that 'the said presumption could not apply to petitioner, being an American citizen, disqualified under the Constitution from owning and acquiring alienable public and private lands in the Philippines.'
-> The trial court is right. Assuming that it was his intention to co-own the property, the same cannot be permitted because that is a clear violation of the constitutional provision. If the property were to be declared conjugal, this would accord the alien husband a substantial interest and right over the land, as he would then have a decisive vote as to its transfer or disposition. This is a right that the Constitution does not permit him to have.'"
-> "Respondent cannot seek refuge in Article 22 of the New Civil Code which provides:
-> 'Art. 22. Every person who through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter without just or legal ground, shall return the same to him.'
-> Nor may he invoke the principle of equity to reimburse him the amounts he invested in the Antipolo property. He who seeks equity and enters into an equity court must do so with clean hands. He who has done inequity shall not have equity."
+---
 
-#### Ratio Decidendi
+Ruling
 
-Under Section 7, Article XII of the Constitution, aliens are absolutely prohibited from acquiring private lands in the Philippines, except through hereditary succession. The statutory presumption of conjugality or absolute community under the Family Code cannot operate to defeat this fundamental constitutional prohibition.
+**No.**
 
-Declaring real property acquired during marriage as community property would confer substantial co-ownership rights, decisive administrative control, and proprietary interests upon an alien spouse—consequences strictly banned by the Constitution. Furthermore, an alien spouse who knowingly circumvents the constitutional bar by registering the land in the Filipino spouse's name cannot invoke equity or the principle against unjust enrichment under Article 22 of the Civil Code to claim reimbursement for the acquisition costs or value of the improvements. One who enters into a transaction designed to bypass the fundamental law comes to court with unclean hands and is entitled to neither co-ownership nor reimbursement.
+Quoting the Supreme Court’s legal basis verbatim:
 
-#### Fallo
+> "Section 7, Article XII of the 1987 Constitution states:
+> Save in cases of hereditary succession, no private lands shall be transferred or conveyed except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain."
+> "Aliens, whether individuals or corporations, are disqualified from acquiring lands of the public domain. Hence, they are also disqualified from acquiring private lands. The primary purpose of the constitutional provision is the conservation of the national patrimony."
+> "Respondent was aware of the constitutional prohibition and expressly admitted his knowledge thereof to this Court. He declared that he had the Antipolo property titled in the name of petitioner because of the said prohibition. His attempt at subsequently asserting or claiming a right on the said property cannot be sustained."
+> "Thus, in the instant case, respondent cannot seek reimbursement on the ground of equity where it is clear that he willingly and knowingly bought the property despite the constitutional prohibition."
 
-> "WHEREFORE, the petition is GRANTED. The Decision dated February 26, 2004 and the Resolution dated August 12, 2004 of the Court of Appeals in CA-G.R. CV No. 59571 are REVERSED and SET ASIDE. The Decision dated August 12, 1996 of the Regional Trial Court of Quezon City, Branch 86 in Civil Case No. Q-94-21875 is REINSTATED.
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Section 7, Article XII of the 1987 Philippine Constitution:** Prohibits private lands from being transferred or conveyed except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain (save in cases of hereditary succession).
+* **Article 92(3) of the Family Code** *(by necessary legal implication regarding exclusions from the Absolute Community of Property)*: Excludes from the community property that which is acquired before the marriage by either spouse who has legitimate descendants by a former marriage, as well as properties incapable of ownership by a spouse due to constitutional disqualification.
+* **Doctrine of *In Pari Delicto* / Equity Follows the Law:** He who seeks equity must do equity, and he who comes into equity must come with clean hands. Equity cannot be invoked to circumvent an express constitutional prohibition or to recover funds knowingly spent in violation of the Constitution.
+* **Controlling Jurisprudence Cited by the Court:** *Cheesman v. Intermediate Appellate Court* (G.R. No. 74833, January 21, 1991) and *Frenzel v. Catito* (G.R. No. 143958, July 11, 2003).
+
+---
+
+Ratio
+
+While spouses married after the effectivity of the Family Code without a marriage settlement are generally governed by the Absolute Community of Property—where all properties owned at the time of marriage or acquired thereafter form part of the community estate—this statutory regime cannot override Section 7, Article XII of the 1987 Constitution, which strictly disqualifies aliens from acquiring private lands in the Philippines. Consequently, the Antipolo lot could not legally form part of the spouses' Absolute Community of Property, and Helmut acquired no title or interest therein despite having financed its acquisition. Furthermore, because Helmut knowingly violated the constitutional prohibition by having the land registered in Elena's name to circumvent the ban, he cannot invoke equity or the dissolution of the Absolute Community of Property to demand reimbursement of the purchase price.
+
+---
+
+Fallo
+
+> "WHEREFORE, in view of the foregoing, the instant petition is GRANTED. The Decision dated February 26, 2001 of the Court of Appeals in CA-G.R. CV No. 59321 ordering petitioner Elena Buenaventura Muller to reimburse respondent Helmut Muller the amount of P528,000 for the acquisition of the Antipolo property and the amount of P2,300,000 for the construction of the house thereon, is REVERSED and SET ASIDE. The October 27, 1997 Decision of the Regional Trial Court of Quezon City, Branch 83 in Civil Case No. Q-94-21862 is REINSTATED.
 > SO ORDERED."
