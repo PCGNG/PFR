@@ -1,9 +1,9 @@
-**Evangeline D. Imani v. Metropolitan Bank & Trust Company**
+Evangeline D. Imani v. Metropolitan Bank & Trust Company
 G.R. No. 187023 | 17 November 2010
 
 ---
 
-### **Facts**
+Facts
 
 Evangeline Dazo-Imani, together with several co-sureties, executed a Continuing Suretyship Agreement in favor of Metropolitan Bank & Trust Company (Metrobank) to secure the loan obligations of C.P. Dazo Tannery, Inc. (CPDTI). When CPDTI defaulted on its loans, Metrobank filed a collection suit and obtained a favorable judgment from the RTC against CPDTI and its sureties, including Evangeline.
 
@@ -11,13 +11,13 @@ To satisfy the judgment, the sheriff levied upon a parcel of land registered in 
 
 ---
 
-### **Issue**
+Issue
 
 Is the registration of a parcel of land in the name of a spouse "married to" the other spouse sufficient to raise the presumption that the property belongs to the marriage, so as to exempt it from execution for a personal surety obligation?
 
 ---
 
-### **Ruling**
+Ruling
 
 **No.**
 
@@ -30,20 +30,20 @@ Quoting the Supreme Court’s legal basis verbatim:
 
 ---
 
-### **Provisions and Doctrines Relied Upon**
+Provisions and Doctrines Relied Upon
 
 * **Article 160 of the New Civil Code** (the statutory precursor to **Articles 93 and 116 of the Family Code**): *"All property of the marriage is presumed to belong to the conjugal partnership, unless it be proved that it pertains exclusively to the husband or to the wife."*
 * **Controlling Jurisprudence Cited by the Court:** *Francisco v. Court of Appeals* (G.R. No. 102330, November 25, 1998) and *Pintiano-Anno v. Anno* (G.R. No. 163743, January 27, 2006).
 
 ---
 
-### **Ratio Decidendi**
+Ratio
 
 The statutory presumption that property belongs to the marital regime (whether conjugal partnership or absolute community) is not automatic; it applies only to property shown to have been acquired during the marriage. Consequently, the party invoking the presumption bears the burden of first proving the time element—that the property was acquired during the coverture. Mere registration of the property in the name of one spouse with the descriptive phrase "married to" the other spouse does not prove when the property was acquired, as registration merely confirms an existing title rather than confers it. Because Evangeline failed to present competent evidence establishing that the land was acquired during her marriage to Sina Imani (her supporting affidavit being hearsay for lack of cross-examination and the check photocopies having no probative value), the presumption never arose, and the levy and execution sale of the property were valid.
 
 ---
 
-### **Fallo**
+Fallo
 
 > "WHEREFORE, the petition is DENIED. The Decision and the Resolution of the Court of Appeals in CA-G.R. SP No. 93061 sustaining the validity of the writ of execution, the auction sale, and the certificate of sale are AFFIRMED.
 > SO ORDERED."
