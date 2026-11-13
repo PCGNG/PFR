@@ -17,6 +17,7 @@
       --text-main: #f1f5f9;
       --text-muted: #8492a6;
       --read-green: #34d399;
+      --bookmark-red: #fb7185;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -79,7 +80,7 @@
     /* 3-Pane Workspace Grid */
     .reviewer-workspace {
       display: grid;
-      grid-template-columns: 360px 1.15fr 1.35fr;
+      grid-template-columns: 380px 1.15fr 1.35fr;
       gap: 14px;
       padding: 14px;
       flex: 1;
@@ -97,31 +98,31 @@
 
     .pane-titlebar {
       height: 48px;
-      padding: 0 16px;
+      padding: 0 14px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       border-bottom: 1px solid var(--border-line);
       background: rgba(11, 17, 28, 0.85);
-      font-size: 1.08rem;
+      font-size: 1.05rem;
       font-weight: 800;
       letter-spacing: 0.05em;
       text-transform: uppercase;
       flex-shrink: 0;
-      gap: 10px;
+      gap: 8px;
     }
 
     .pane-actions {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
       flex-shrink: 0;
     }
 
     .pane-content {
       flex: 1;
       overflow-y: auto;
-      padding: 16px;
+      padding: 14px;
     }
 
     /* Tree Header Toggle Controls */
@@ -129,16 +130,30 @@
       background: transparent;
       border: 1px solid var(--border-line);
       color: var(--text-muted);
-      font-size: 0.85rem;
+      font-size: 0.82rem;
       font-weight: 600;
       padding: 3px 8px;
       border-radius: 4px;
       cursor: pointer;
       text-transform: none;
+      white-space: nowrap;
     }
     .btn-tree-toggle:hover {
       color: #fff;
       border-color: #64748b;
+    }
+    .btn-jump-bookmark {
+      color: var(--bookmark-red);
+      border-color: rgba(251, 113, 133, 0.35);
+    }
+    .btn-jump-bookmark:hover:not(:disabled) {
+      background: rgba(251, 113, 133, 0.15);
+      border-color: var(--bookmark-red);
+      color: #fff;
+    }
+    .btn-jump-bookmark:disabled {
+      opacity: 0.35;
+      cursor: not-allowed;
     }
 
     /* Column 1: Collapsible Tree Styles */
@@ -179,7 +194,7 @@
 
     .module-subtopics {
       margin-top: 6px;
-      margin-left: 8px;
+      margin-left: 6px;
       display: block;
     }
     .module-subtopics.collapsed {
@@ -190,7 +205,7 @@
       display: block;
       width: 100%;
       text-align: left;
-      font-size: 1.10rem;
+      font-size: 1.08rem;
       color: var(--accent-cyan);
       background: transparent;
       border: none;
@@ -211,20 +226,23 @@
 
     .case-tree-list {
       list-style: none;
-      margin-left: 20px;
+      margin-left: 14px;
       margin-top: 4px;
       margin-bottom: 8px;
     }
     .case-tree-item {
-      font-size: 1.02rem;
+      font-size: 1.00rem;
       color: #94a3b8;
       padding: 5px 8px;
-      border-radius: 4px;
+      border-radius: 5px;
       cursor: pointer;
       line-height: 1.35;
       display: flex;
-      align-items: center;
+      align-items: flex-start;
+      justify-content: space-between;
       gap: 6px;
+      border-left: 2px solid transparent;
+      transition: background 0.15s ease;
     }
     .case-tree-item:hover, .case-tree-item.active {
       color: var(--accent-pink);
@@ -233,10 +251,52 @@
     }
     .case-tree-item.read-case {
       color: #6ee7b7;
-      opacity: 0.85;
+      opacity: 0.88;
     }
     .case-tree-item.read-case:hover {
       color: #a7f3d0;
+    }
+    .case-tree-item.bookmarked-case {
+      border-left: 3px solid var(--bookmark-red);
+      background: rgba(251, 113, 133, 0.10);
+    }
+
+    .case-title-label {
+      flex: 1;
+      word-break: break-word;
+    }
+
+    /* Star & Bookmark Icon Controls inside Syllabus */
+    .case-item-markers {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+    .marker-btn {
+      background: transparent;
+      border: none;
+      cursor: pointer;
+      font-size: 1.02rem;
+      line-height: 1;
+      padding: 2px 3px;
+      border-radius: 3px;
+      color: #475569;
+      transition: transform 0.12s ease, color 0.15s ease;
+    }
+    .marker-btn:hover {
+      transform: scale(1.2);
+      color: #cbd5e1;
+      background: rgba(255, 255, 255, 0.08);
+    }
+    .marker-btn.starred {
+      color: var(--accent-yellow);
+      text-shadow: 0 0 6px rgba(245, 158, 11, 0.45);
+    }
+    .marker-btn.bookmarked {
+      color: var(--bookmark-red);
+      text-shadow: 0 0 6px rgba(251, 113, 133, 0.5);
     }
 
     /* Column 2: Overview (Parchment Card & PDF Viewer) */
@@ -438,8 +498,11 @@
     <!-- Col 1: Left Pane (Syllabus Hierarchy) -->
     <section class="pane-card">
       <div class="pane-titlebar">
-        <span>📁 Syllabus Hierarchy</span>
-        <button class="btn-tree-toggle" id="btnToggleAll">Collapse All</button>
+        <span>📁 Syllabus</span>
+        <div class="pane-actions">
+          <button class="btn-tree-toggle btn-jump-bookmark" id="btnJumpBookmark" title="Jump to bookmarked case">🔖 Bookmark</button>
+          <button class="btn-tree-toggle" id="btnToggleAll">Collapse All</button>
+        </div>
       </div>
       <div class="pane-content" id="syllabusTree">Loading syllabus...</div>
     </section>
@@ -487,13 +550,12 @@
     let allCollapsed = false;
     let isPdfMode = false;
 
+    /* --- LocalStorage Helpers --- */
     function getReadCases() {
       try {
         const stored = localStorage.getItem('pfr_read_cases');
         return stored ? new Set(JSON.parse(stored)) : new Set();
-      } catch (e) {
-        return new Set();
-      }
+      } catch (e) { return new Set(); }
     }
     function saveReadCases(set) {
       localStorage.setItem('pfr_read_cases', JSON.stringify([...set]));
@@ -503,12 +565,77 @@
       try {
         const stored = localStorage.getItem('pfr_read_subtopics');
         return stored ? new Set(JSON.parse(stored)) : new Set();
-      } catch (e) {
-        return new Set();
-      }
+      } catch (e) { return new Set(); }
     }
     function saveReadSubtopics(set) {
       localStorage.setItem('pfr_read_subtopics', JSON.stringify([...set]));
+    }
+
+    function getStarredCases() {
+      try {
+        const stored = localStorage.getItem('pfr_starred_cases');
+        return stored ? new Set(JSON.parse(stored)) : new Set();
+      } catch (e) { return new Set(); }
+    }
+    function saveStarredCases(set) {
+      localStorage.setItem('pfr_starred_cases', JSON.stringify([...set]));
+    }
+
+    function getBookmarkedCase() {
+      return localStorage.getItem('pfr_bookmarked_case') || "";
+    }
+    function setBookmarkedCase(caseId) {
+      if (caseId) {
+        localStorage.setItem('pfr_bookmarked_case', caseId);
+      } else {
+        localStorage.removeItem('pfr_bookmarked_case');
+      }
+      updateAllBookmarkUI();
+    }
+
+    /* --- Toggle Handlers --- */
+    function toggleStarCase(caseId) {
+      const starred = getStarredCases();
+      if (starred.has(caseId)) {
+        starred.delete(caseId);
+      } else {
+        starred.add(caseId);
+      }
+      saveStarredCases(starred);
+      updateCaseTreeItem(caseId);
+    }
+
+    function toggleBookmarkCase(caseId) {
+      const currentBookmark = getBookmarkedCase();
+      if (currentBookmark === caseId) {
+        setBookmarkedCase("");
+      } else {
+        setBookmarkedCase(caseId);
+      }
+    }
+
+    function updateAllBookmarkUI() {
+      const bookmarkedId = getBookmarkedCase();
+      const jumpBtn = document.getElementById('btnJumpBookmark');
+      jumpBtn.disabled = !bookmarkedId;
+
+      document.querySelectorAll('.case-tree-item').forEach(li => {
+        const id = li.getAttribute('data-case-id');
+        const bmBtn = li.querySelector('.bookmark-toggle-btn');
+        if (id === bookmarkedId) {
+          li.classList.add('bookmarked-case');
+          if (bmBtn) {
+            bmBtn.classList.add('bookmarked');
+            bmBtn.title = "Bookmarked (Where I stopped) - Click to remove";
+          }
+        } else {
+          li.classList.remove('bookmarked-case');
+          if (bmBtn) {
+            bmBtn.classList.remove('bookmarked');
+            bmBtn.title = "Set bookmark here";
+          }
+        }
+      });
     }
 
     function toggleCaseReadStatus(caseId) {
@@ -573,15 +700,33 @@
       const li = document.querySelector(`.case-tree-item[data-case-id="${caseId}"]`);
       if (!li) return;
       const readSet = getReadCases();
+      const starredSet = getStarredCases();
       const isRead = readSet.has(caseId);
+      const isStarred = starredSet.has(caseId);
       const title = li.getAttribute('data-case-title');
-      
+
+      const titleSpan = li.querySelector('.case-title-label');
+      if (titleSpan) {
+        titleSpan.textContent = isRead ? `✓ ${title}` : `# ${title}`;
+      }
+
       if (isRead) {
         li.classList.add('read-case');
-        li.textContent = `✓ ${title}`;
       } else {
         li.classList.remove('read-case');
-        li.textContent = `# ${title}`;
+      }
+
+      const starBtn = li.querySelector('.star-toggle-btn');
+      if (starBtn) {
+        if (isStarred) {
+          starBtn.classList.add('starred');
+          starBtn.textContent = '★';
+          starBtn.title = 'Starred (Important) - Click to unstar';
+        } else {
+          starBtn.classList.remove('starred');
+          starBtn.textContent = '☆';
+          starBtn.title = 'Star as important';
+        }
       }
     }
 
@@ -634,27 +779,15 @@
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
-        
-        // "---" on its own line marks the beginning of a new subtopic/section
         .replace(/^\s*---+\s*$/gim, '<hr class="subtopic-divider">')
-        
-        // Headings (# through ####)
         .replace(/^####\s+(.*$)/gim, '<h4 style="font-size:1.35rem; font-weight:800; margin:14px 0 8px; color:#b45309;">$1</h4>')
         .replace(/^###\s+(.*$)/gim, '<h3 style="font-size:1.55rem; font-weight:800; margin:16px 0 10px; color:#1e293b;">$1</h3>')
         .replace(/^##\s+(.*$)/gim, '<h2 style="font-size:1.75rem; font-weight:800; margin:18px 0 12px; color:#0f172a;">$1</h2>')
         .replace(/^#\s+(.*$)/gim, '<h1 style="font-size:1.95rem; font-weight:900; margin:20px 0 14px; color:#0f172a;">$1</h1>')
-        
-        // Indented Sub-bullets (2+ spaces or tab followed by -, *, or •)
         .replace(/^(?: {2,}|\t+)[-\*•]\s+(.*$)/gim, '<div class="overview-sub-bullet">◦ $1</div>')
-        
-        // Primary Bullet Points (- , * , or • at start of line)
         .replace(/^\s*[-\*•]\s+(.*$)/gim, '<div class="overview-bullet">• $1</div>')
-        
-        // Bold & Italics
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
         .replace(/(^|[^\*])\*([^\*\n]+?)\*([^\*]|$)/g, '$1<em>$2</em>$3')
-        
-        // Highlight ONLY articles that appear at the beginning of a line/provision
         .replace(/^(\s*)(Arts?\.|Articles?)\s*(\d+[\d\w\-,\s\(\)]*?\b)/gim, function(match, spaces, prefix, num) {
           return `${spaces}<span class="article-badge">${prefix} ${num}</span>`;
         });
@@ -708,6 +841,8 @@
       container.innerHTML = '';
       const readCases = getReadCases();
       const readSubtopics = getReadSubtopics();
+      const starredCases = getStarredCases();
+      const bookmarkedId = getBookmarkedCase();
 
       currentSyllabus.forEach((topic, tIndex) => {
         const group = document.createElement('div');
@@ -762,14 +897,49 @@
             sub.cases.forEach((c, cIndex) => {
               const caseKey = c.id || c.title;
               const isRead = readCases.has(caseKey);
+              const isStarred = starredCases.has(caseKey);
+              const isBookmarked = (bookmarkedId === caseKey);
 
               const li = document.createElement('li');
               li.className = 'case-tree-item' + 
                              (tIndex === 0 && sIndex === 0 && cIndex === 0 ? ' active' : '') +
-                             (isRead ? ' read-case' : '');
+                             (isRead ? ' read-case' : '') +
+                             (isBookmarked ? ' bookmarked-case' : '');
               li.setAttribute('data-case-id', caseKey);
               li.setAttribute('data-case-title', c.title);
-              li.textContent = isRead ? `✓ ${c.title}` : `# ${c.title}`;
+
+              // Case Title Text
+              const titleSpan = document.createElement('span');
+              titleSpan.className = 'case-title-label';
+              titleSpan.textContent = isRead ? `✓ ${c.title}` : `# ${c.title}`;
+
+              // Star & Bookmark Buttons
+              const markersDiv = document.createElement('div');
+              markersDiv.className = 'case-item-markers';
+
+              const starBtn = document.createElement('button');
+              starBtn.className = 'marker-btn star-toggle-btn' + (isStarred ? ' starred' : '');
+              starBtn.textContent = isStarred ? '★' : '☆';
+              starBtn.title = isStarred ? 'Starred (Important) - Click to unstar' : 'Star as important';
+              starBtn.onclick = (e) => {
+                e.stopPropagation();
+                toggleStarCase(caseKey);
+              };
+
+              const bmBtn = document.createElement('button');
+              bmBtn.className = 'marker-btn bookmark-toggle-btn' + (isBookmarked ? ' bookmarked' : '');
+              bmBtn.textContent = '🔖';
+              bmBtn.title = isBookmarked ? 'Bookmarked (Where I stopped) - Click to remove' : 'Set bookmark here';
+              bmBtn.onclick = (e) => {
+                e.stopPropagation();
+                toggleBookmarkCase(caseKey);
+              };
+
+              markersDiv.appendChild(starBtn);
+              markersDiv.appendChild(bmBtn);
+
+              li.appendChild(titleSpan);
+              li.appendChild(markersDiv);
 
               li.onclick = (e) => {
                 e.stopPropagation();
@@ -787,6 +957,8 @@
         group.appendChild(subContainer);
         container.appendChild(group);
       });
+
+      updateAllBookmarkUI();
 
       const toggleAllBtn = document.getElementById('btnToggleAll');
       toggleAllBtn.onclick = () => {
@@ -845,7 +1017,6 @@
       const container = document.getElementById('overviewContainer');
       if (!currentSubtopicItem) return;
 
-      // Mode 1: PDF Viewer (Auto-checks Title Case first, then ALL CAPS)
       if (isPdfMode) {
         const basePath = getSubtopicPdfPath(currentSubtopicItem);
         if (!basePath) {
@@ -893,7 +1064,6 @@
         return;
       }
 
-      // Mode 2: Default Text Overview
       container.innerHTML = `<div class="parchment-sheet" id="overviewDisplay">Loading outline...</div>`;
       const display = document.getElementById('overviewDisplay');
 
@@ -1050,6 +1220,16 @@
 
       return html;
     }
+
+    document.getElementById('btnJumpBookmark').onclick = () => {
+      const bmId = getBookmarkedCase();
+      if (!bmId) return;
+      const found = flattenedCases.find(item => (item.caseItem.id || item.caseItem.title) === bmId);
+      if (found) {
+        loadOverviewText(found.subtopic);
+        loadCaseFile(found.caseItem, found.subtopic.subtopic_title);
+      }
+    };
 
     document.getElementById('btnTogglePdf').onclick = () => {
       if (!currentSubtopicItem) return;
