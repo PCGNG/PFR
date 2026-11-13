@@ -1,20 +1,35 @@
-### Facts
+Facts
 
-Husband and Wife were married without executing a marriage settlement. During the marriage, a parcel of land was acquired and titled in the name of Husband, described on the Transfer Certificate of Title as "married to Wife."
+Spouses Jorge and Herminia Escalona were married in 1960, prior to the effectivity of the Family Code, without a marriage settlement. During their marriage, they acquired two parcels of unregistered land in 1974 and 1982.
 
-Without the knowledge and written consent of Wife, Husband executed a Deed of Absolute Sale conveying the entire parcel of land to Buyer. Upon discovering the disposition, Wife filed an action to declare the sale null and void, asserting that the property formed part of their absolute community of property and could not be alienated by Husband alone. Buyer resisted the action, claiming to be an innocent purchaser for value who relied upon the sole authority of Husband over the titled land.
-
----
-
-### Issue
-
-Is the sale of real property forming part of the absolute community of property executed by one spouse without the written consent of the other spouse null and void in its entirety?
+In 1998, during the effectivity of the Family Code, Jorge executed a Deed of Absolute Sale selling the two parcels of land to Maria Alexander without Herminia’s consent. Herminia subsequently filed a complaint before the RTC to declare the sale null and void, arguing that the properties belonged to their marriage and were sold without her consent under the Family Code. Maria countered that the sale was valid, or at most merely voidable, and that Herminia’s action had already prescribed.
 
 ---
 
-### Ruling
+Issue
 
-#### Legal Basis and Statutory Provisions
+Is the sale of conjugal real property executed by one spouse without the other spouse's consent during the effectivity of the Family Code void *ab initio* under Article 124 (parallel to Article 96 for Absolute Community of Property), even if the marriage was celebrated and the property was acquired before the Family Code took effect?
+
+---
+
+Ruling
+
+**Yes.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "The effectivity of the Family Code on August 3, 1988, changed the rule on the alienation or encumbrance of conjugal or community property without the consent of the other spouse. Under Articles 96 and 124 of the Family Code, the disposition or encumbrance of community or conjugal property without the authority of the court or the written consent of the other spouse is void."
+> "The plain language of Article 256 of the Family Code provides that it shall have retroactive effect insofar as it does not prejudice or impair vested or acquired rights in accordance with the Civil Code or other laws. The husband’s right to administer and dispose of conjugal property under the Civil Code is not a vested right. It is a mere statutory privilege that may be modified or withdrawn by Congress at any time before it is exercised."
+> "Consequently, for marriages celebrated before the Family Code, any alienation or encumbrance of conjugal property made on or after August 3, 1988 without the written consent of the other spouse is governed by Article 124 of the Family Code, and is therefore void *ab initio*. An action to declare the nullity of a void contract is imprescriptible."
+
+---
+
+#### *Provisions and Doctrines Relied Upon*
+
+* **Article 124 of the Family Code** (mirroring **Article 96 of the Family Code** for the Absolute Community of Property): Provides that the administration and enjoyment of the conjugal partnership (or community property) shall belong to both spouses jointly, and that any disposition or encumbrance thereof without authority of the court or the written consent of the other spouse **shall be void** (and shall only be construed as a continuing offer on the part of the consenting spouse and the third person, which may be perfected as a binding contract upon the acceptance by the other spouse or authorization by the court before the offer is withdrawn by either or both offerors).
+* **Article 256 of the Family Code:** Gives the Family Code retroactive effect insofar as it does not prejudice or impair vested or acquired rights in accordance with the Civil Code or other laws.
+* **Article 1410 of the New Civil Code:** States that the action or defense for the declaration of the inexistence of a contract does not prescribe.
+* **Controlling Doctrine:** Harmonizing conflicting prior jurisprudence (*e.g.*, *Spouses Fuentes v. Roca*, *Heirs of Ayuste v. Court of Appeals*, and *Villanueva v. Chiong*), the Supreme Court *En Banc* definitively settled that the date of the **transaction** (alienation or encumbrance)—not the date of the marriage or the acquisition of the property—determines whether the Civil Code (voidable) or the Family Code (void *ab initio*) governs.
 
 * **Articles 75 and 88 of the Family Code:**
 In the absence of a marriage settlement or when the regime agreed upon is void, the system of Absolute Community of Property (ACP) governs the property relations of spouses married during the effectivity of the Family Code. Under Article 88, the absolute community commences at the exact moment the marriage is celebrated.
@@ -25,15 +40,20 @@ The administration and enjoyment of the community property belong to both spouse
 In the event that one spouse is incapacitated or otherwise unable to participate in the administration of the common properties, the other spouse may assume sole powers of administration. These powers do not include disposition or encumbrance without authority of the court or the written consent of the other spouse. In the absence of such authority or consent, the disposition or encumbrance shall be void. However, the transaction shall be construed as a continuing offer on the part of the consenting spouse and the third person, and may be perfected as a binding contract upon the acceptance by the other spouse or authorization by the court before the offer is withdrawn by either or both offerors.
 * **Applicable Jurisprudential Doctrines:**
 The SC applied the doctrine established in *Spouses Aggabao v. Parulan Jr.* and *Fuentes v. Roca*, reiterating that under the Family Code, alienations or encumbrances of community or conjugal property without the written consent of the other spouse are void *ab initio*, not merely voidable. The defense of being a buyer in good faith or an innocent purchaser for value cannot validate an alienation that the law expressly declares void, especially where the title itself puts the buyer on notice of the seller's civil status by describing him as "married to" the non-consenting spouse.
+---
 
-#### Ratio Decidendi
+Ratio
+
+The controlling law governing the validity of an alienation or encumbrance of community or conjugal property without spousal consent is the law in force at the time the transaction was executed. Under Article 256 of the Family Code, Articles 96 and 124 apply retroactively to marriages celebrated prior to August 3, 1988, because a husband's former authority under the Civil Code to dispose of marital property without his wife's consent is not a vested right, but a mere statutory privilege. Since Jorge sold the properties to Maria in 1998—well after the Family Code took effect—Article 124 (like Article 96 for Absolute Community of Property) applies, rendering the sale void *ab initio* for lack of Herminia's written consent or court authority. Because the sale is void, Herminia's action to annul it is imprescriptible.
 
 Under the Family Code, the property regime governing spouses who married without an ante-nuptial agreement is the Absolute Community of Property. Real property acquired during the subsistence of the marriage is part of this community.
 
 The administration and disposition of community property belong to both spouses jointly pursuant to Article 96 of the Family Code. Any disposition, conveyance, or encumbrance made by one spouse without the written consent of the other spouse, or without appropriate judicial authorization, is completely void—not merely voidable. Because the conveyance is void *ab initio*, the contract confers no rights and transfers no title to the buyer.
 
 The buyer cannot claim protection as an innocent purchaser for value because the face of the title expressly indicates the seller’s married status, which imposes a duty on the buyer to ascertain the required spousal consent. Until and unless the non-consenting spouse gives consent, or court authorization is obtained prior to withdrawal, the transaction remains an unperfected, continuing offer rather than a valid contract of sale.
+---
 
-#### Fallo
+Fallo
 
-The Supreme Court declared the Deed of Absolute Sale executed by Husband without the written consent of Wife null and void *ab initio* in its entirety, cancelled the resulting certificate of title issued to Buyer, and ordered the reinstatement of the original certificate of title in favor of the absolute community of property of the spouses.
+> "WHEREFORE, the Petition is DENIED. The Decision dated October 15, 2020 and the Resolution dated February 23, 2021 of the Court of Appeals in CA-G.R. CV No. 112649 are AFFIRMED. SO ORDERED."
+
