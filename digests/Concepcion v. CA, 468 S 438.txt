@@ -1,0 +1,55 @@
+**Gerardo B. Concepcion v. Court of Appeals and Ma. Theresa Almonte**
+G.R. No. 123450 | 31 August 2005 (468 SCRA 438)
+
+---
+
+### **Facts**
+
+Gerardo B. Concepcion and Ma. Theresa Almonte were married in December 1989, and less than a year later, Ma. Theresa gave birth to a son, Jose Gerardo. Later, Gerardo discovered that Ma. Theresa had previously married Mario Gopiao in December 1980, and that Mario was still alive and residing in Loyola Heights, Quezon City.
+
+Gerardo filed a petition before the RTC to have his marriage to Ma. Theresa annulled on the ground of bigamy. The RTC declared the marriage between Gerardo and Ma. Theresa null and void *ab initio* for being bigamous, and declared Jose Gerardo to be an illegitimate child, awarding custody to Ma. Theresa while granting visitation rights to Gerardo. Ma. Theresa moved for reconsideration regarding the child's status and Gerardo's visitation rights, arguing that because her marriage to Gerardo was void, Jose Gerardo was an illegitimate child over whom she had sole parental authority. On appeal, the CA ruled that Jose Gerardo was neither Gerardo's legitimate child nor his illegitimate child, because Ma. Theresa's first marriage to Mario Gopiao was still valid and subsisting when Jose Gerardo was conceived and born.
+
+---
+
+### **Issue**
+
+Is a child conceived and born during a second, bigamous marriage presumed to be the legitimate child of the mother's first husband under Article 164 of the Family Code, thereby barring the second husband from claiming paternity and visitation rights?
+
+---
+
+### **Ruling**
+
+**Yes.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "The law is clear. Under Article 164 of the Family Code, '[c]hildren conceived or born during the marriage of the parents are legitimate.' This presumption becomes conclusive in the absence of proof that there was physical impossibility of access between the spouses during the first 120 days of the 300 days which immediately preceded the birth of the child."
+
+> "Under Article 167 of the Family Code, '[t]he child shall be considered legitimate although the mother may have declared against its legitimacy or may have been sentenced as an adulteress.'"
+
+> "The status and filiation of a child cannot be compromised. Article 164 of the Family Code is clear. A child who is conceived or born during the marriage of his parents is legitimate. As a guaranty in favor of the child and to protect his status of legitimacy, Article 167 of the Family Code goes even further and provides that the child shall be considered legitimate although the mother may have declared against its legitimacy or may have been sentenced as an adulteress."
+
+> "Finally, under Article 170 and Article 171 of the Family Code, only the husband (or, in exceptional cases, his heirs) can impugn the legitimacy of a child. Neither Gerardo nor Ma. Theresa can impugn the legitimacy of Jose Gerardo."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 164 of the Family Code:** Establishes that children conceived or born during the marriage of the parents are legitimate.
+* **Article 166(1) of the Family Code:** Provides that the legitimacy of a child may be impugned only on the ground that it was physically impossible for the husband to have sexual intercourse with his wife within the first 120 days of the 300 days immediately preceding the birth of the child.
+* **Article 167 of the Family Code:** Mandates that the child shall be considered legitimate although the mother may have declared against its legitimacy or may have been sentenced as an adulteress.
+* **Articles 170 and 171 of the Family Code:** Restrict the right to impugn the legitimacy of a child exclusively to the husband (Mario Gopiao), or in exceptional cases, his heirs, within strict prescriptive periods.
+* **Doctrinal Rule on Bigamous Marriages and Paternity:** Sexual union between a wife and a paramour in a void bigamous marriage does not create legal filiation between the paramour and the child; as long as the wife's first valid marriage subsists and no physical impossibility of access between the lawful spouses is proven by the lawful husband, the child is conclusively presumed legitimate as to the first husband.
+
+---
+
+### **Ratio Decidendi**
+
+Because Ma. Theresa's first marriage to Mario Gopiao was valid and subsisting when Jose Gerardo was conceived and born, the bigamous marriage between Gerardo and Ma. Theresa was void *ab initio* and produced no legal marital tie. Under Article 164 of the Family Code, Jose Gerardo—having been conceived and born during the valid marriage of Ma. Theresa and Mario—is presumed to be the legitimate child of Mario Gopiao. Under Article 167, Ma. Theresa's admissions and bigamous cohabitation with Gerardo cannot strip Jose Gerardo of his legitimate status. Furthermore, under Articles 170 and 171, only the lawful husband, Mario Gopiao (or his heirs in proper cases), has legal standing to impugn Jose Gerardo's legitimacy. Since Mario never impugned the child's legitimacy and no physical impossibility of access between Mario and Ma. Theresa (who both resided in Quezon City) was established, Jose Gerardo remained the legitimate child of Mario Gopiao. Consequently, Gerardo—being a legal stranger to the child—had no parental authority or visitation rights over Jose Gerardo.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the petition is hereby DENIED. The September 14, 1995 decision and January 10, 1996 resolution of the Court of Appeals in CA-G.R. CV No. 40651 are AFFIRMED. Costs against petitioner.
+> SO ORDERED."
