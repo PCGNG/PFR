@@ -1,0 +1,45 @@
+Facts
+
+Danilo Pangilinan, Rodolfo Sumang, Lucrecio Bautista, and Rolando Antenor won an illegal dismissal case before the Labor Arbiter against E.M. Ramos Electric, Inc. and its owner, Ernesto M. Ramos. To satisfy the judgment award, the NLRC sheriff levied upon a parcel of land registered in Ernesto’s name in Pandacan, Manila, and sold it at public auction to Danilo's group.
+
+Ernesto and the company moved to quash the writ of execution, alleging that the Pandacan property had been occupied by the Ramos family since 1944 and was exempt from execution as a family home. Danilo's group opposed the motion, asserting that the property served as the company's business address and was never constituted as a family home. When Ernesto died, his surviving spouse, Juanita Trinidad-Ramos, and their children substituted him and reiterated the claim of family home exemption, adding that the property formed part of the spouses' conjugal partnership/community property.
+
+---
+
+Issue
+
+Is a family residence occupied prior to the effectivity of the Family Code on August 3, 1988, without judicial or extrajudicial constitution under the Civil Code, exempt from execution as a family home?
+
+---
+
+Ruling
+**No.**
+
+*Note: In strict compliance with copyright guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is set forth below:*
+
+The Supreme Court ruled that to determine whether a family home is exempt from execution, a distinction must be made based on **when it was constituted** and **what statutory requirements apply**:
+
+1. **Family homes constituted before August 3, 1988 (effectivity of the Family Code):** These are governed by the New Civil Code (Articles 225, 229–231, 233, and 240–241), which required the owner to formally constitute the family home either **judicially** (by verified petition and court approval recorded in the Registry of Property) or **extrajudicially** (by recording a sworn public declaration in the Registry of Property). Failure to comply with either mode bars the claimant from invoking the exemption.
+2. **Family homes constituted on or after August 3, 1988:** Under Article 153 of the Family Code, a family home is deemed constituted on a house and lot by operation of law from the time it is occupied as a family residence, without need of judicial or extrajudicial constitution, and remains exempt for as long as any beneficiary under Article 154 actually resides therein—subject to the conditions that: (a) it belongs to the absolute community or conjugal partnership, or to the exclusive property of either spouse with the latter's consent (Article 156); (b) its actual value at the time of constitution does not exceed the statutory limits of P300,000 in urban areas or P200,000 in rural areas (Article 157); and (c) the debt for which it is levied does not fall under the exceptions in Article 155 and was incurred after August 3, 1988.
+3. **Burden of Proof:** Under both regimes, it is insufficient for a claimant to merely allege that a property is a family home; the claim for exemption must be timely set up and proved before the execution sale. Because Juanita and her children claimed the Pandacan property had been their family home since 1944 but failed to present any proof of its judicial or extrajudicial constitution under the Civil Code—or even proof of its market value at the time of constitution—the property was not exempt from execution.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Articles 153, 154, 155, 156, 157, and 160 of the Family Code:** Govern the automatic constitution of the family home upon actual occupancy as a family residence, its beneficiaries, its exemption from execution (and the exceptions thereto), its ownership prerequisites, and its maximum statutory valuation limits.
+* **Articles 225, 229–231, 233, and 240–241 of the New Civil Code:** Prescribed the mandatory judicial and extrajudicial procedures for constituting a family home prior to the effectivity of the Family Code on August 3, 1988.
+* **Article 160 of the New Civil Code / Article 116 of the Family Code:** Requires proof that property was acquired during the marriage before any presumption of conjugal/community ownership can arise (rejecting Juanita's unsupported claim that the property was conjugal when the title was registered solely in Ernesto's name as a widower/married man without proof of acquisition during marriage).
+* **Controlling Jurisprudence Cited by the Court:** *Kelley, Jr. v. Planters Products, Inc.* (G.R. No. 172263, July 9, 2008), *Josef v. Santos* (G.R. No. 165060, November 27, 2008), and *Spouses Versola v. Court of Appeals* (G.R. No. 164740, July 31, 2006).
+
+---
+
+Ratio
+
+Article 153 of the Family Code does not operate retroactively to dispense with the Civil Code's formal registration requirements for family homes allegedly established prior to August 3, 1988. Where the claimants assert that their residence became a family home before the Family Code took effect (here, as early as 1944), they must prove that it was duly constituted either judicially or extrajudicially in accordance with the Civil Code; otherwise, the property enjoys no exemption from execution. Moreover, exemption from execution is a personal privilege that is never presumed—it must be affirmatively set up and proven with competent evidence (including compliance with statutory valuation ceilings and proof of actual occupancy by beneficiaries), which Juanita and her children failed to establish.
+
+---
+
+Fallo
+
+The Supreme Court **denied** the petition of Juanita Trinidad Ramos, et al., and **affirmed** the Decision and Resolution of the Court of Appeals upholding the validity of the levy and execution sale of the Pandacan property.
