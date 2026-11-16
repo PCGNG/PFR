@@ -1,0 +1,43 @@
+Facts
+
+Alfonso P. Ortillo, Jr. (predecessor-in-interest of Letecia and Lisette Ortillo) entered into a contract to sell an 8,760-square-meter parcel of land in Aguilar, Pangasinan to Felicidad Salvador Ortiz (predecessor-in-interest of Urduja Ortiz-Aquino) on an installment basis. Felicidad paid partial installments but failed to pay the full purchase price, though Urduja and her family occupied a portion of the land and built their residence thereon.
+
+Letecia and Lisette subsequently filed a complaint for quieting of title and recovery of possession before the RTC against Urduja and her co-defendants. The RTC rendered a final and executory decision canceling the contract to sell for non-payment of the full purchase price, confirming that ownership of the land remained with Letecia and Lisette, and ordering Urduja’s group to surrender possession of the property. When the RTC issued a writ of execution to enforce the judgment, Urduja opposed the execution, claiming that the house and portion of the land they occupied constituted their family home and were therefore exempt from execution under the Family Code.
+
+---
+
+Issue
+
+May a party invoke the family home exemption from execution under the Family Code over a house and lot adjudged to be owned by another person?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "Certainly, jurisprudence dictates that a family home must be constituted on property owned by the persons constituting it. This is based on the first paragraph of Article 156 of the Family Code, which reads:
+> Art. 156. The family home must be part of the properties of the absolute community or the conjugal partnership, or of the exclusive properties of either spouse with the latter's consent. It may also be constituted by an unmarried head of a family on his or her own property."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 156 of the Family Code:** Requires that a family home be constituted on property forming part of the absolute community or conjugal partnership, or on the exclusive property of either spouse with the latter's consent, or on the unmarried head of a family's own property.
+* **Article 153 and Article 155 of the Family Code:** Provide for the automatic constitution of a family home from the time it is occupied as a family residence and its exemption from execution, forced sale, or attachment (subject to statutory exceptions)—protections that presuppose valid ownership by the person constituting the family home.
+* **Controlling Jurisprudence Cited by the Court:** *Taneo, Jr. v. Court of Appeals* (G.R. No. 108532, March 9, 1999)—establishing that a family home can only be constituted on property owned by the persons constituting it, and that family-home status must be proved by competent evidence rather than bare allegation.
+
+---
+
+Ratio
+
+Under Article 156 of the Family Code, ownership of the property by the person or spouses constituting it is an indispensable prerequisite for the valid constitution of a family home. Because the agreement between Alfonso and Felicidad was merely a contract to sell that was judicially cancelled for failure to pay the full purchase price, ownership of the land never transferred to Felicidad or Urduja and remained vested in Letecia and Lisette. Since Urduja and her family did not own the land on which they resided, no valid family home could be constituted thereon, and they could not invoke the family home exemption under the Family Code to defeat the execution of a final judgment ordering them to surrender possession to the rightful owners.
+
+---
+
+Fallo
+
+> "WHEREFORE, the Petition is DENIED for lack of merit. The Decision dated December 9, 2020, and the Resolution dated May 17, 2021 of the Court of Appeals in CA-G.R. SP No. 161884 are AFFIRMED.
+> SO ORDERED."
