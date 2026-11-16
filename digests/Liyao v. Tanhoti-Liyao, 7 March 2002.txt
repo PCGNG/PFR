@@ -1,0 +1,50 @@
+**William Liyao, Jr., represented by his mother Corazon Garcia v. Juanita Tanhoti-Liyao, Pearl Margaret Yulo, Tita Rose Yulo, and Pablo Yulo**
+G.R. No. 138961 | 7 March 2002 (378 SCRA 563)
+
+---
+
+Facts
+
+Corazon Garcia was legally married to Ramon Yulo, and they had two legitimate children, Enrique and Bernadette. Later, Corazon and Ramon separated in fact. While her marriage to Ramon remained valid and subsisting, Corazon cohabited with William Liyao, a married man, with whom she had a son, William Liyao, Jr. (Billy). Billy's birth certificate recorded him as the legitimate child of Corazon and Ramon Yulo, although he was raised and financially supported by William Liyao until the latter's death.
+
+After William Liyao died intestate, Billy, represented by his mother Corazon, filed an action before the RTC for compulsory recognition as an illegitimate child of the late William Liyao against William's surviving spouse, Juanita Tanhoti-Liyao, and his legitimate children, Pearl Margaret, Tita Rose, and Pablo Yulo. Juanita and her children moved to dismiss the complaint, arguing that Billy was conceived and born during the valid marriage of Corazon and Ramon Yulo, and therefore was presumed to be Ramon Yulo's legitimate child whose legitimacy could only be impugned by Ramon Yulo himself.
+
+---
+
+Issue
+
+May a child conceived and born during the valid and subsisting marriage of his mother and her lawful husband bring an action for compulsory recognition to establish his illegitimate filiation with his mother's paramour, notwithstanding the presumption of legitimacy under Article 164 (formerly Article 255 of the Civil Code) and the exclusive standing of the husband to impugn legitimacy under Articles 170 and 171 of the Family Code?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "Under the New Civil Code, a child born and conceived during a valid marriage is presumed to be legitimate. The presumption of legitimacy of children does not only flow out from a declaration contained in the statute but is based on the broad principles of natural justice and the supposed virtue of the mother. The presumption is grounded in a policy to protect innocent offspring from the odium of illegitimacy."
+> "Impugning the legitimacy of the child is a strictly personal right of the husband, or in exceptional cases, his heirs for the simple reason that he is the one directly confronted with the scandal and ridicule which the infidelity of his wife produces and he should be the one to decide whether to conceal that infidelity or expose it in view of the moral and economic interest involved. It is only in exceptional cases that his heirs are allowed to contest such legitimacy. Outside of these cases, none - even his heirs - can impugn legitimacy; that would amount to an insult to his memory."
+> "Thus, a child born to a husband and wife during a valid marriage is presumed legitimate. As a guaranty in favor of the child and to protect his status of legitimacy, Article 256 of the Civil Code (now Article 167 of the Family Code) provides that the child shall be considered legitimate although the mother may have declared against its legitimacy or may have been sentenced as an adulteress. Furthermore, the child himself cannot choose his own filiation. If the husband, presumed to be the father does not impugn the legitimacy of the child, then the status of the child is fixed, and the latter cannot choose to be the child of his mother's alleged paramour."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 255 of the New Civil Code** *(now **Article 164 of the Family Code**)*: Establishes the presumption that children conceived or born during the marriage of the parents are legitimate, rebuttable only by proof of physical impossibility of sexual access during the first 120 days of the 300 days preceding birth.
+* **Article 256 of the New Civil Code** *(now **Article 167 of the Family Code**)*: Mandates that the child shall be considered legitimate although the mother may have declared against its legitimacy or may have been sentenced as an adulteress.
+* **Articles 262 and 263 of the New Civil Code** *(now **Articles 170 and 171 of the Family Code**)*: Restrict the right to impugn a child's legitimacy strictly to the lawful husband (or, in exceptional cases, his heirs) within fixed prescriptive periods.
+* **Doctrinal Rule That a Child Cannot Choose His Own Filiation:** The right to impugn legitimacy belongs exclusively to the lawful husband; neither the mother nor the child himself can repudiate the child's presumed legitimate status in order to claim illegitimate filiation with another man so as to inherit from the latter's estate.
+
+---
+
+Ratio
+
+Because Corazon's marriage to Ramon Yulo was never dissolved or annulled when Billy was conceived and born, the law presumes Billy to be the legitimate child of Ramon Yulo. Under Article 256 of the Civil Code (now Article 167 of the Family Code), Corazon's testimony that William Liyao was Billy's biological father cannot overcome this presumption, and under Articles 262 and 263 (now Articles 170 and 171), only Ramon Yulo (or his heirs under specified conditions) had the strictly personal right to impugn Billy's legitimacy. Because Ramon Yulo never impugned Billy's legitimacy, Billy's status as Ramon's legitimate child became fixed and unassailable. A child cannot choose his own filiation or discard his legitimate status to establish illegitimate filiation with his mother's paramour for purposes of succession.
+
+---
+
+Fallo
+
+> "WHEREFORE, the instant petition is DENIED. The assailed Decision of the Court of Appeals in CA-G.R. CV No. 45394 is AFFIRMED. Costs against petitioner.
+> SO ORDERED."
