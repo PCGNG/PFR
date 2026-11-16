@@ -1,0 +1,53 @@
+**Bernie Santiago v. Rommel C. Jornacion and the City Civil Registrar of Marikina City**
+G.R. No. 230049 | 6 October 2021
+
+---
+
+### **Facts**
+
+Magdalena O. Gabutin was legally married to Rommel C. Jornacion, though the two were separated in fact. During their separation, Magdalena entered into a romantic relationship and cohabited as husband and wife with Bernie Santiago, out of which a daughter, Maria Sofia Jornacion (Sofia), was born. To spare Magdalena from social shame, Rommel—her lawful husband—was registered as Sofia's father in her Certificate of Live Birth, giving Sofia the surname "Jornacion."
+
+Bernie raised and financially supported Sofia as his biological daughter and underwent a foreign DNA test confirming his paternity. Subsequently, Bernie filed a petition under Rule 108 of the Rules of Court before the RTC (later seeking leave to admit an Amended Petition impleading Rommel, Sofia, and other interested relatives) to establish his paternity over Sofia and correct the entries in her Certificate of Live Birth to reflect him as her biological father. The RTC dismissed the petition—and the CA affirmed—ruling that Bernie had no legal personality to impugn Sofia's legitimacy under Articles 170 and 171 of the Family Code (which restrict the right to impugn legitimacy exclusively to the husband, Rommel, or his heirs) and that a Rule 108 proceeding cannot be used to collaterally attack a child's legitimacy.
+
+---
+
+### **Issue**
+
+May a biological father establish his paternity and correct entries in his child's birth certificate through an adversarial petition under Rule 108 of the Rules of Court, notwithstanding the presumption of legitimacy under Article 164 of the Family Code in favor of the mother's estranged husband?
+
+---
+
+### **Ruling**
+
+**Yes.**
+
+*Note: In compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+The Supreme Court reversed the dismissal and remanded the case to the RTC for further proceedings, including court-supervised DNA testing, anchoring its ruling on the following legal principles:
+
+1. **Propriety of Rule 108 for Substantial Corrections Affecting Filiation:** Citing *Republic v. Valencia* and *Lee v. Court of Appeals*, the Court reiterated that a special proceeding under **Rule 108 of the Rules of Court**, when conducted as a full-blown adversarial proceeding where all indispensable and interested parties (including the recorded husband, Rommel, the child, Sofia, and the civil registrar) are impleaded and notified, is an appropriate remedy to effect substantial corrections and changes in the civil register—including questions involving paternity and filiation.
+2. **Rebuttable Nature of the Presumption of Legitimacy and Best Interests of the Child:** While **Article 164 of the Family Code** presumes children conceived or born during marriage to be legitimate, and **Articles 170 and 171** generally limit actions to impugn legitimacy to the husband or his heirs, the presumption of legitimacy is **disputable**, not absolute. Guided by the constitutional mandate to protect children and the **United Nations Convention on the Rights of the Child (UNCRC)**—which requires that in all actions concerning children, the **best interests of the child** shall be a primary consideration—a putative biological father should not be barred at the threshold from proving true biological paternity when the mother and her estranged husband have long been separated in fact and the biological father has openly supported the child.
+3. **Admissibility and Probative Value of DNA Evidence:** Under **Article 175 in relation to Article 172(2), second paragraph, of the Family Code** (which allows proof of filiation through *"any other means allowed by the Rules of Court and special laws"*) and **Section 9(c) of the Rule on DNA Evidence (A.M. No. 06-11-5-SC)**, DNA testing results showing a Probability of Paternity of 99.9% or higher create a disputable presumption of paternity (and DNA results excluding a putative parent constitute conclusive proof of non-paternity). However, because Bernie's foreign DNA test lacked proper authentication under the Rules of Evidence, the case had to be remanded for proper reception of evidence and court-supervised DNA testing with due notice to Rommel.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Articles 164, 166, 167, 170, and 171 of the Family Code:** Establish the disputable presumption of legitimacy of children born during marriage, the grounds to impugn legitimacy (such as physical impossibility of access due to separation in fact under Article 166[1][b]), and the general standing rules for impugning legitimacy.
+* **Articles 172 and 175 of the Family Code:** Allow illegitimate children (and their putative parents) to establish filiation through *"any other means allowed by the Rules of Court and special laws,"* including scientific DNA testing.
+* **Rule 108 of the Rules of Court:** Governs the cancellation or correction of entries in the civil registry, which permits substantial changes involving civil status and filiation provided all procedural requirements for an adversarial proceeding are strictly observed.
+* **Section 9(c) of the Rule on DNA Evidence (A.M. No. 06-11-5-SC):** Establishes the evidentiary weight of DNA testing results in determining paternity or non-paternity.
+* **Article 3(1) of the UN Convention on the Rights of the Child (UNCRC):** Mandates that in all actions concerning children before courts of law, the best interests of the child shall be a primary consideration.
+* **Controlling Jurisprudence Cited by the Court:** *Republic v. Valencia* (G.R. No. L-32181, March 5, 1986) and *Lee v. Court of Appeals* (G.R. No. 118387, October 11, 2001).
+
+---
+
+### **Ratio Decidendi**
+
+The statutory presumption of legitimacy under Article 164 of the Family Code is intended to protect the child's welfare and identity, not to trap a child in a legal fiction that contradicts biological reality and deprives her of support and true parentage when her mother and the recorded husband were living separately in fact. Where the putative biological father initiates an adversarial proceeding under Rule 108—impleading the recorded husband, the child, and all affected parties—and offers scientific DNA evidence to prove his paternity, the trial court should not summarily dismiss the petition for lack of standing. Prioritizing the best interests of the child and recognizing modern scientific proof under the Rule on DNA Evidence, the court must admit the amended petition, summon the recorded husband, and conduct a full adversarial hearing to determine the child's true filiation.
+
+---
+
+### **Fallo**
+
+The Supreme Court **granted** Bernie Santiago's Petition for Review on Certiorari, **reversed and set aside** the Decision and Resolution of the Court of Appeals, **directed** the Regional Trial Court of Marikina City to admit Bernie's Amended Petition, summon the participation of Rommel C. Jornacion, and conduct further proceedings including DNA testing in accordance with A.M. No. 06-11-5-SC.
