@@ -1,5 +1,4 @@
-
-### **Facts**
+FACTS
 
 Albina Simbajon Felias obtained a favorable judgment in an ejectment suit against Florencia M. Salazar. To satisfy the judgment award, the sheriff levied upon a parcel of land with a residential house in Butuan City registered in Florencia's name, and sold it at public auction to Albina as the highest bidder.
 
@@ -7,13 +6,13 @@ After the lapse of the redemption period and the issuance of a final deed of sal
 
 ---
 
-### **Issue**
+ISSUE
 
 Is a residential house and lot occupied prior to August 3, 1988—and lacking proof of formal constitution under the Civil Code or compliance with the statutory value ceiling under the Family Code—exempt from execution as a family home?
 
 ---
 
-### **Ruling**
+RULING
 
 **No.**
 
@@ -42,12 +41,12 @@ Furthermore, because Florencia alleged that the house had been their family resi
 
 ---
 
-### **Ratio Decidendi**
+RATIO
 
 The statutory exemption of a family home from execution is not self-executing upon a mere allegation of residency; the judgment debtor bears the strict burden of proving all five statutory requisites under Articles 152 to 157 of the Family Code, and must assert the claim in a timely manner before the property is sold at public auction. Because Florencia neither proved formal judicial or extrajudicial constitution under the Civil Code for her pre-1988 occupancy nor submitted competent evidence of the property's actual value on August 3, 1988 to establish compliance with the P300,000 urban valuation ceiling under Article 157—and furthermore raised the exemption only after the auction sale and redemption period had lapsed—her claim of family home exemption failed.
 
 ---
 
-### **Fallo**
+FALLO
 
 The Supreme Court **denied** Florencia M. Salazar's petition for review on certiorari and **affirmed** the Decision and Resolution of the Court of Appeals upholding the validity of the execution sale and the transfer of title in favor of Albina Simbajon Felias's heirs.
