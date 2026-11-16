@@ -1,0 +1,53 @@
+
+### **Facts**
+
+Albina Simbajon Felias obtained a favorable judgment in an ejectment suit against Florencia M. Salazar. To satisfy the judgment award, the sheriff levied upon a parcel of land with a residential house in Butuan City registered in Florencia's name, and sold it at public auction to Albina as the highest bidder.
+
+After the lapse of the redemption period and the issuance of a final deed of sale, Florencia filed an action before the RTC to annul the auction sale and cancel Albina's certificate of title. Florencia claimed that the levied property had been occupied by her and her family as their residence since 1968 and was therefore exempt from execution as a family home. To support her claim, she presented her bare testimony, tax declarations, and the testimony of a barangay official, without submitting proof of the property's actual market value at the time of its alleged constitution or proof of formal registration prior to August 3, 1988.
+
+---
+
+### **Issue**
+
+Is a residential house and lot occupied prior to August 3, 1988—and lacking proof of formal constitution under the Civil Code or compliance with the statutory value ceiling under the Family Code—exempt from execution as a family home?
+
+---
+
+### **Ruling**
+
+**No.**
+
+*Note: In strict compliance with copyright guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized accurately below:*
+
+The Supreme Court held that a claim for exemption of a family home from execution is never presumed; it is a personal privilege granted to the judgment debtor that must be affirmatively claimed and proved by competent evidence before the execution sale.
+
+To successfully invoke the family home exemption under the Family Code, the claimant must prove the concurrence of all statutory requisites:
+
+1. The house and lot were duly constituted as a family home;
+2. It was constituted jointly by the husband and the wife, or by an unmarried head of a family (Article 152);
+3. It is actually resided in by the family or any of the beneficiaries enumerated in Article 154;
+4. It forms part of the absolute community or conjugal partnership, or of the exclusive property of either spouse with the latter's consent, or of the unmarried head's own property (Article 156); and
+5. Its actual value at the time of constitution does not exceed the statutory limits of **P300,000 in urban areas** or **P200,000 in rural areas** (Article 157).
+
+Furthermore, because Florencia alleged that the house had been their family residence since 1968 (prior to the effectivity of the Family Code on August 3, 1988), she was required to prove that it was formally constituted either judicially or extrajudicially under the New Civil Code. Even if deemed automatically constituted upon the effectivity of the Family Code on August 3, 1988 under Article 153, Florencia failed to prove the property's actual value at the time of constitution to show that it fell within the statutory ceiling under Article 157, and she belatedly raised the exemption only after the execution sale and expiration of the redemption period had already been completed.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Articles 152, 153, 154, 155, 156, and 157 of the Family Code:** Define the family home, its automatic constitution upon actual occupancy as a family residence, its beneficiaries, its exemption from execution (and statutory exceptions), its ownership prerequisites, and its maximum valuation limits at the time of constitution (P300,000 in urban areas and P200,000 in rural areas).
+* **Articles 225, 229–231, and 233 of the New Civil Code:** Prescribed the mandatory judicial and extrajudicial registration procedures for constituting a family home prior to August 3, 1988.
+* **Five Requisites to Prove Family Home Exemption:** Established the landmark five-point evidentiary checklist requiring proof of (1) constitution, (2) joint spousal or unmarried head-of-family capacity, (3) actual occupancy by beneficiaries, (4) qualifying ownership, and (5) compliance with the statutory value ceiling at the time of constitution.
+* **Controlling Jurisprudence Cited by the Court:** *Modequillo v. Breva* (G.R. No. 86355, May 31, 1990), *Manacop v. Court of Appeals* (G.R. No. 97898, August 11, 1997), and *Spouses Versola v. Court of Appeals* (G.R. No. 164740, July 31, 2006)—holding that exemption from execution must be timely set up and proved before the auction sale; otherwise, the right to claim the exemption is deemed waived.
+
+---
+
+### **Ratio Decidendi**
+
+The statutory exemption of a family home from execution is not self-executing upon a mere allegation of residency; the judgment debtor bears the strict burden of proving all five statutory requisites under Articles 152 to 157 of the Family Code, and must assert the claim in a timely manner before the property is sold at public auction. Because Florencia neither proved formal judicial or extrajudicial constitution under the Civil Code for her pre-1988 occupancy nor submitted competent evidence of the property's actual value on August 3, 1988 to establish compliance with the P300,000 urban valuation ceiling under Article 157—and furthermore raised the exemption only after the auction sale and redemption period had lapsed—her claim of family home exemption failed.
+
+---
+
+### **Fallo**
+
+The Supreme Court **denied** Florencia M. Salazar's petition for review on certiorari and **affirmed** the Decision and Resolution of the Court of Appeals upholding the validity of the execution sale and the transfer of title in favor of Albina Simbajon Felias's heirs.
