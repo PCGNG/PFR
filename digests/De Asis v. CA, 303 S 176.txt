@@ -1,0 +1,50 @@
+**Manuel De Asis v. Court of Appeals, Hon. Jaime T. Hamoy, Branch 130, RTC, Kalookan City, and Glen Camil Andres de Asis represented by her mother/guardian Vircel D. Andres**
+G.R. No. 127578 | 15 February 1999 (303 SCRA 176)
+
+---
+
+### **Facts**
+
+Vircel D. Andres, in her capacity as legal guardian of her minor daughter, Glen Camil Andres de Asis, filed an action for maintenance and support before the RTC against Manuel De Asis, alleging that Manuel was the father of Glen Camil and had refused to provide financial support despite repeated demands. Manuel denied paternity and filed a motion to dismiss for insufficiency of the complaint.
+
+Subsequently, Vircel and Manuel entered into a Joint Manifestation and Motion stating that they had mutually agreed to move for the dismissal of the complaint with prejudice because Manuel had denied paternity and Vircel had agreed not to pursue the case further, prompting the RTC to dismiss the complaint with prejudice. Years later, Vircel, again on behalf of minor Glen Camil, filed a new complaint for maintenance and support against Manuel before another branch of the RTC. Manuel moved to dismiss the second complaint on the ground of *res judicata*, invoking the prior dismissal with prejudice.
+
+---
+
+### **Issue**
+
+May a mother/guardian validly waive or renounce a minor child's right to future support and filiation through a compromise or joint motion to dismiss with prejudice so as to bar a subsequent action for support by *res judicata*?
+
+---
+
+### **Ruling**
+
+**No.**
+
+*Note: In strict compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+The Supreme Court anchored its ruling on **Article 2035 of the New Civil Code** (in relation to **Article 151, second paragraph, of the Family Code**), which expressly prohibits any compromise upon **(1) the civil status of persons** and **(4) future support**, and on **Article 1306 of the New Civil Code**, which invalidates stipulations contrary to law, morals, good customs, public order, or public policy.
+
+The Court emphasized that the right to receive support can neither be renounced nor transmitted to a third person, and future support cannot be the subject of a valid compromise. Because paternity and filiation—upon which the legal obligation to give support is founded—involve the civil status of a person, they cannot be bargained away by a parent on behalf of a minor child. Furthermore, since Vircel acted merely as a guardian *ad litem* who had no legal authority to renounce or compromise her minor child's substantive right to support and civil status without judicial approval (and even a court lacks jurisdiction to approve a prohibited compromise), the Joint Manifestation and Motion agreeing to a dismissal with prejudice was null and void *ab initio*. Being void, the earlier order of dismissal could not attain finality or operate as *res judicata* to bar Glen Camil's subsequent action for support.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 2035(1) and (4) of the New Civil Code** *(in relation to Article 151, second paragraph, of the Family Code)*: Expressly prohibits any compromise upon the civil status of persons and future support.
+* **Article 194 and Article 195 of the Family Code:** Define support and establish the reciprocal obligation of parents and their legitimate or illegitimate children to support each other.
+* **Article 1306 of the New Civil Code:** Allows contracting parties to establish stipulations, clauses, terms, and conditions as they may deem convenient, provided they are not contrary to law, morals, good customs, public order, or public policy.
+* **Article 1409(1) of the New Civil Code:** Declares contracts whose cause, object, or purpose is contrary to law, morals, good customs, public order, or public policy to be inexistent and void from the beginning.
+* **Controlling Jurisprudence Cited by the Court:** *Advincula v. Advincula* (G.R. No. L-19065, January 31, 1964) and *Mendoza v. Court of Appeals* (G.R. No. L-23102, April 24, 1967)—holding that future support and civil status cannot be waived or compromised, and that an agreement purporting to do so is void *ab initio* and cannot give rise to *res judicata*.
+
+---
+
+### **Ratio Decidendi**
+
+The right to future support is indispensable to the survival and well-being of a minor child and is intimately tied to the child's civil status and filiation. Under Article 2035 of the Civil Code (and Article 151 of the Family Code), neither the civil status of a person nor the right to future support may be the subject of a valid compromise or renunciation. A parent acting as a minor's guardian cannot bargain away the child's substantive right to establish filiation and demand future support in exchange for a dismissal with prejudice. Because the parties' Joint Manifestation and Motion amounted to an illegal waiver and compromise of future support and civil status, it was void *ab initio*; consequently, the trial court's order dismissing the first complaint with prejudice never acquired the force of *res judicata* and could not bar the child's subsequent action for maintenance and support.
+
+---
+
+### **Fallo**
+
+The Supreme Court **denied** Manuel De Asis's petition for certiorari for lack of merit, **affirmed** the Decision of the Court of Appeals upholding the denial of his motion to dismiss, and ordered the trial court to proceed with the hearing of the complaint for maintenance and support.
