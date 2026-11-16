@@ -1,0 +1,56 @@
+Facts
+
+Marcelino V. Dario died intestate, leaving behind his surviving spouse, Perla G. Patricio, and their two sons, Marcelino Marc Dario and Marcelino G. Dario III. Among the properties left in his estate was a residential house and lot in Cubao, Quezon City, which served as the family home.
+
+Eventually, Perla and her elder son, Marcelino Marc, formally advised Marcelino III of their intention to partition the property and terminate the co-ownership. When Marcelino III refused to participate in the partition, Perla and Marcelino Marc filed an action for partition before the RTC. Marcelino III opposed the partition, arguing that the house and lot remained a family home under Article 159 of the Family Code and could not be partitioned for ten years or for as long as there was a minor beneficiary living therein—specifically pointing to his own minor son (Marcelino V. Dario's grandson), who resided with him in the house.
+
+---
+
+Issue
+
+Is a grandchild who is supported by his own father—and not dependent upon the deceased grandparent for support—a beneficiary of the family home under Article 154 of the Family Code so as to bar the partition of the family home under Article 159?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "To be a beneficiary of the family home, three requisites must concur: (1) they must be among the relationships enumerated in Art. 154 of the Family Code; (2) they live in the family home; and (3) they are dependent for legal support upon the head of the family."
+> "Moreover, Article 199 of the Family Code provides that:
+> Whenever two or more persons are obliged to give support, the liability shall devolve upon the following persons in the order herein provided:
+> (1) The spouse;
+> (2) The descendants in the nearest degree;
+> (3) The ascendants in the nearest degree; and
+> (4) The brothers and sisters."
+> "Thus, the obligation to give support to a minor child rests primarily on his parents, and only in default of the parents does the obligation devolve upon the grandparents. Since Marcelino Lorenzo R. Dario IV is the legitimate minor son of private respondent Marcelino G. Dario III, who is alive and capable of supporting him, the minor is dependent for legal support upon his father, and not upon his late grandfather, Marcelino V. Dario, who constituted the family home."
+> "Consequently, the minor grandson cannot be considered a beneficiary of the family home under Article 154 of the Family Code, and Article 159 does not bar the partition of the subject property."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 154 of the Family Code:** Enumerates the beneficiaries of a family home: (1) the husband and wife, or an unmarried person who is the head of a family; and (2) their parents, ascendants, descendants, brothers and sisters, whether the relationship be legitimate or illegitimate, who are living in the family home and who depend upon the head of the family for legal support.
+* **Article 159 of the Family Code:** Mandates that the family home shall continue despite the death of one or both spouses or of the unmarried head of the family for a period of ten years or for as long as there is a minor beneficiary, and the heirs cannot partition the same unless the court finds compelling reasons therefor.
+* **Article 199 of the Family Code:** Establishes the order of liability for legal support: (1) the spouse; (2) descendants in the nearest degree; (3) ascendants in the nearest degree; and (4) brothers and sisters.
+* **Three Requisites to be a Beneficiary of the Family Home:**
+1. The claimant must fall within the relationships enumerated in Article 154 of the Family Code;
+2. The claimant must actually reside in the family home; and
+3. The claimant must be **dependent for legal support upon the head of the family** who constituted the family home.
+
+
+
+---
+
+Ratio
+
+Under Article 159 of the Family Code, the prohibition against partitioning a family home after the death of the spouse(s) who constituted it applies only when a minor **beneficiary** under Article 154 continues to live therein. To qualify as a beneficiary under Article 154, mere blood relationship (such as being a descendant) and actual residence in the family home are not enough; the claimant must also be **dependent for legal support upon the head of the family** who constituted the home. Under the order of liability for support in Article 199 of the Family Code, a minor's primary source of legal support is his own parents—not his grandparents. Because Marcelino III's minor son depended for legal support upon his living father (Marcelino III) rather than his deceased grandfather (Marcelino V. Dario), the grandson was not a beneficiary of the family home. With no minor beneficiary remaining, Article 159 posed no legal obstacle to the partition of the property among the co-heirs.
+
+---
+
+Fallo
+
+> "WHEREFORE, the petition is GRANTED. The Decision of the Court of Appeals in CA-G.R. CV No. 80680 dated October 19, 2005 and its Resolution dated December 9, 2005 are REVERSED and SET ASIDE. The Decision of the Regional Trial Court of Quezon City, Branch 91, dated October 3, 2002 is REINSTATED.
+> SO ORDERED."
