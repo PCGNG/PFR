@@ -1,0 +1,58 @@
+**Nancy T. Yap v. Leonora T. Yap, Shirley Y. Reyes, Ma. Elena Y. Ang, and Benjamin T. Yap, Jr.**
+G.R. No. 222259 | 17 October 2022
+
+---
+
+Facts
+
+Spouses Benjamin Yap, Sr. and Emilia Yap had five legitimate children: Nancy, Leonora, Shirley, Ma. Elena, and Benjamin, Jr. Later, during the subsistence of his marriage to Emilia, Benjamin, Sr. entered into an extramarital relationship with Rosanna Sy, out of which a child, Marvin Yap, was born.
+
+When Benjamin, Sr. died intestate, Nancy filed a petition for the issuance of letters of administration and settlement of his estate before the RTC, naming her four legitimate siblings—Leonora, Shirley, Ma. Elena, and Benjamin, Jr.—as co-heirs, but omitting Marvin. Later, Nancy moved to include Marvin as an illegitimate compulsory heir of Benjamin, Sr. Her four legitimate siblings opposed Marvin's inclusion, questioning his illegitimate filiation. During the estate proceedings, Nancy presented Marvin’s birth certificate (signed by Benjamin, Sr. as informant/father) and testimonial evidence showing that Benjamin, Sr. openly treated Marvin as his son, financially supported him, and paid for his schooling.
+
+---
+
+Issue
+
+May the illegitimate filiation of a child be proven and recognized within a special proceeding for the settlement of a decedent's estate through his birth certificate and open and continuous possession of the status of an illegitimate child under Article 175 in relation to Article 172 of the Family Code?
+
+---
+
+Ruling
+
+**Yes.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "Article 175 of the Family Code states that illegitimate children may establish their illegitimate filiation in the same way and on the same evidence as legitimate children. In turn, Article 172 of the Family Code provides:
+> Art. 172. The filiation of legitimate children is established by any of the following:
+> (1) The record of birth appearing in the civil register or a final judgment; or
+> (2) An admission of legitimate filiation in a public document or a private handwritten instrument and signed by the parent concerned.
+> In the absence of the foregoing evidence, the legitimate filiation shall be proved by:
+> (1) The open and continuous possession of the status of a legitimate child; or
+> (2) Any other means allowed by the Rules of Court and special laws."
+
+> "Under Article 175 of the Family Code, the action must be brought within the same period specified in Article 173, except when the action is based on the second paragraph of Article 172, in which case the action may be brought during the lifetime of the alleged parent."
+
+> "A probate court, in the exercise of its jurisdiction to distribute the estate of a deceased person, has the power to determine who the heirs of the decedent are, including the determination of the filiation of a person claiming to be an heir, without need of a separate independent civil action."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 175 of the Family Code:** Provides that illegitimate children may establish their illegitimate filiation in the same way and on the same evidence as legitimate children, and sets the prescriptive period: within the same period specified in Article 173 (during the lifetime of the child) if proven under the first paragraph of Article 172 (record of birth, final judgment, public document, or signed private handwritten instrument), or **only during the lifetime of the alleged parent** if proven under the second paragraph of Article 172 (open and continuous possession of status or other means under the Rules of Court).
+* **Article 172 of the Family Code:** Enumerates the primary and secondary proofs of filiation.
+* **Doctrinal Rule on Probate Court Jurisdiction over Filiation:** A trial court acting as a probate or intestate estate court is vested with authority to resolve incidental questions as to who the lawful heirs of the deceased are—including the determination of a claimant's legitimate or illegitimate filiation—so that the estate may be properly distributed, without requiring the filing of a separate ordinary civil action.
+* **Distinction Between Primary Proof (Art. 172, par. 1) and Secondary Proof (Art. 172, par. 2) After Parent's Death:** When an illegitimate child seeks to establish filiation *after* the death of the putative parent, the claim can no longer rely solely on secondary evidence under the second paragraph of Article 172 (such as open and continuous possession of status), as such action must be brought during the lifetime of the alleged parent; however, where the child possesses primary proof under the first paragraph of Article 172—such as a **Certificate of Live Birth signed by the putative father**—the action may be brought at any time during the lifetime of the child, even after the father's death.
+
+---
+
+Ratio
+
+Under Article 175 in relation to Article 172 of the Family Code, an illegitimate child's right to establish filiation after the death of the putative parent depends on the nature of the proof presented. While an action anchored solely on secondary evidence under the second paragraph of Article 172 (such as open and continuous possession of status) prescribes upon the death of the alleged parent, an action supported by primary evidence under the first paragraph of Article 172—specifically, a record of birth appearing in the civil register bearing the putative father's signature—may be filed during the lifetime of the child, even after the putative father has died. Furthermore, the intestate estate court has full authority to receive such evidence and adjudicate Marvin's illegitimate filiation within the estate settlement proceedings without need of a separate civil action. Because Marvin's Certificate of Live Birth bore Benjamin, Sr.'s signature acknowledging paternity—corroborated by consistent acts of support and recognition—his illegitimate filiation was duly established.
+
+---
+
+Fallo
+
+> "WHEREFORE, the Petition is GRANTED. The Decision dated June 26, 2015 and the Resolution dated January 7, 2016 of the Court of Appeals in CA-G.R. CV No. 101857 are REVERSED and SET ASIDE. The Order dated July 24, 2013 of the Regional Trial Court of Manila, Branch 27, in Special Proceedings No. 03-107157, declaring Marvin Yap as an illegitimate child of the late Benjamin Yap, Sr., is REINSTATED.
+> SO ORDERED."
