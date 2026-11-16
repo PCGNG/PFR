@@ -1,0 +1,50 @@
+**Rita K. Lee, Leoncio K. Lee, Lucia K. Lee-Ong, Julian K. Lee, Martin K. Lee, Rosa Lee-Vanderlek, Melody Lee-Chin, Henry K. Lee, Natividad Lee-Miguel, Victoriano K. Lee, and Thomas K. Lee, represented by Rita K. Lee, as Attorney-in-Fact v. Emma Lee**
+G.R. No. 180802 | 1 August 2022
+
+---
+
+Facts
+
+Dr. Juvencio P. Ortañez and Juliana Salgado Ortañez were legally married and had three legitimate children: Rafael, Jose, and Ma. Divina. During the subsistence of his marriage to Juliana, Dr. Ortañez maintained an extramarital relationship with Ligaya Novicio, out of which several illegitimate children were born, including Emma Lee.
+
+Following the deaths of Dr. Ortañez and Juliana, Emma Lee filed a petition before the RTC for the cancellation of the Certificates of Live Birth of Rita K. Lee and her ten siblings, alleging that although they were registered in the civil registry as the legitimate children of Spouses Marcelo Lee and Keh Shiok Cheng, they were actually the illegitimate children of Dr. Ortañez and his paramour, Keh Shiok Cheng. To prove her allegations, Emma Lee sought the issuance of a subpoena *ad testificandum* and *duces tecum* compelling Keh Shiok Cheng (then already elderly and suffering from severe health issues) to appear in court and testify against her own children's legitimacy. Rita K. Lee and her siblings moved to quash the subpoena, invoking the parental and filial privilege rule under Article 215 of the Family Code and Rule 130 of the Rules of Court.
+
+---
+
+Issue
+
+May a biological parent be compelled to testify in court against her registered children's legitimacy in an action instituted by a third party, notwithstanding the parental and filial privilege rule under Article 215 of the Family Code and the prohibition against a mother declaring against her child's legitimacy under Article 167?
+
+---
+
+Ruling
+
+**No.**
+
+*Note: In strict compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+The Supreme Court granted the petition of Rita K. Lee and her siblings and quashed the subpoena against Keh Shiok Cheng on the following legal grounds:
+
+1. **Parental and Filial Privilege (Article 215, Family Code; Section 25, Rule 130, Rules of Court):** Under **Article 215 of the Family Code**, no descendant shall be compelled, in a criminal case, to testify against his parents and grandparents, except when such testimony is indispensable in a crime against the descendant or by one parent against the other. Under **Rule 130, Section 25 of the Rules of Court** (parental and filial privilege rule), no person may be compelled to testify against his or her parents, other direct ascendants, children, or other direct descendants. Because Emma Lee expressly alleged that Keh Shiok Cheng was the biological mother of Rita K. Lee and her siblings, Keh Shiok Cheng could not be compelled to testify against her own children to strip them of their registered legitimate status and inheritance rights.
+2. **Prohibition Against Impugning Legitimacy and Collateral Attacks (Articles 164, 167, 170, and 171, Family Code):** Under **Article 164 of the Family Code**, children conceived or born during the marriage of the parents (here, the valid marriage of Spouses Marcelo Lee and Keh Shiok Cheng) are presumed legitimate. Under **Article 167**, the child shall be considered legitimate even though the mother may have declared against its legitimacy or may have been sentenced as an adulteress. Furthermore, under **Articles 170 and 171**, only the husband (Marcelo Lee) or, in exceptional cases, his heirs may bring a direct action to impugn the legitimacy of a child within strict prescriptive periods. Emma Lee—a complete stranger to the marriage of Marcelo Lee and Keh Shiok Cheng—had no legal standing to impugn the legitimacy of Rita K. Lee and her siblings, whether directly or through a Rule 108 petition for cancellation of birth certificates.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 215 of the Family Code** and **Section 25, Rule 130 of the Rules of Court:** Enshrine the **parental and filial privilege rule**, protecting family solidarity by prohibiting the compulsion of a parent or direct ascendant to testify against his or her child or direct descendant (and vice versa).
+* **Article 164 and Article 167 of the Family Code:** Establish the presumption of legitimacy of children conceived or born during marriage, and declare that a child remains legitimate notwithstanding any declaration by the mother against the child's legitimacy.
+* **Articles 170 and 171 of the Family Code:** Restrict legal standing to impugn a child's legitimacy exclusively to the husband (or his heirs under specified conditions) through a direct action filed within strict statutory periods.
+* **Doctrinal Rule Against Collateral Attack on Legitimacy (*Braza v. City Civil Registrar of Himamaylan City*, G.R. No. 181174, December 4, 2009):** A petition for cancellation or correction of entries in the civil registry under Rule 108 cannot be utilized by a third party as a backdoor or collateral attack to impugn the legitimate status of children born within a subsisting marriage.
+
+---
+
+Ratio
+
+The statutory protection accorded to family relationships under the Family Code operates both substantively and procedurally to shield children from attempts by strangers to bastardize them. Substantively, because Rita K. Lee and her siblings were born during the valid marriage of Spouses Marcelo Lee and Keh Shiok Cheng, they enjoy the presumption of legitimacy under Article 164—which neither their mother's testimony (Article 167) nor a stranger's Rule 108 petition (Articles 170 and 171) can overthrow. Procedurally, under the parental and filial privilege rule in Article 215 of the Family Code and Rule 130 of the Rules of Court, a mother cannot be compelled through a judicial subpoena to take the witness stand and give testimony adverse to her own children's status and proprietary interests. Consequently, the trial court gravely abused its discretion in issuing a subpoena compelling Keh Shiok Cheng to testify against her children.
+
+---
+
+Fallo
+
+The Supreme Court **granted** the Petition for Review on Certiorari of Rita K. Lee, et al., **reversed and set aside** the Decision and Resolution of the Court of Appeals, and **quashed** the subpoena *ad testificandum* and *duces tecum* issued against Keh Shiok Cheng.
