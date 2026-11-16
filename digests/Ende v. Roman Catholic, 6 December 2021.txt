@@ -1,0 +1,51 @@
+**Amlayon Ende and Quezon Ende, surviving children and legitimate heirs of Spouses Butas Ende and Damagi Arog, represented by their co-heir and Attorney-in-Fact, Letecia Ende-Bacalso v. Roman Catholic Prelate of the Prelature Nullius of Cotabato, Inc., Fr. Ronilo Villamor, Jose Rabang and/or Jesus Acosta, Welhilmina Vda. de Generalla, Eliza and Juanito Diaz, and Jessie and Corazon Flores**
+G.R. No. 191867 | 6 December 2021 (917 Phil. 401)
+
+---
+
+Facts
+
+Spouses Butas Ende and Damagi Arog—both members of the Bagobo/Manobo indigenous cultural community—were the registered owners of a 223,877-square-meter parcel of land in Sudapin, Kidapawan, Cotabato, covered by Original Certificate of Title (OCT) No. P-46114. Following the deaths of Butas and Damagi, several third parties—including the Roman Catholic Prelate of the Prelature Nullius of Cotabato, Inc., Welhilmina Vda. de Generalla, Spouses Eliza and Juanito Diaz, and Spouses Jessie and Corazon Flores—occupied substantial portions of the titled land on the strength of unregistered deeds of sale allegedly executed after Butas's death or without the mandatory approval of the Commission on National Integration / National Commission on Indigenous Peoples (NCIP).
+
+In August 1995, a group claiming to be the nieces and nephews of the allegedly childless spouses (Amado Ende, Daniel Ende Ano, Felipe Mendoza, and Pilar Sunga) filed an action before the RTC for quieting of title and recovery of possession against the occupants. In January 1996, Amlayon Ende and Quezon Ende intervened in the action, asserting that they were the true surviving legitimate children and forced heirs of Spouses Butas and Damagi, that the original plaintiffs were impostors, and that they had been forcibly driven away from the land by relatives after their parents' deaths and only recovered a copy of OCT No. P-46114 in 1994. Because Spouses Butas and Damagi were unlettered indigenous natives whose marriage and births of children occurred decades earlier without civil registry records, Amlayon and Quezon proved their legitimate filiation through witness testimonies on family reputation and tradition regarding pedigree and open cohabitation of their parents. The RTC ruled in favor of Amlayon and Quezon, declaring them the legitimate children and lawful heirs of Spouses Ende and ordering the occupants (except Welhilmina up to 7.4625 hectares) to vacate. On appeal, the CA reversed and dismissed Amlayon and Quezon's intervention, holding that a prior declaration of heirship in a separate special proceeding was necessary and that their claim was barred by laches.
+
+---
+
+Issue
+
+1. May legitimate filiation and heirship be proven in an ordinary civil action for quieting of title and recovery of possession—without a prior declaration of heirship in a special proceeding—through secondary evidence under Article 172, second paragraph, of the Family Code in relation to Rule 130 of the Rules of Court (such as witness testimonies on family reputation/tradition regarding pedigree and open cohabitation)?
+2. Does laches bar legitimate heirs from recovering registered land covered by a Torrens title against occupants relying on void and unregistered conveyances?
+
+---
+
+Ruling
+
+**1. Yes (legitimate filiation and heirship may be established directly in the ordinary civil action through secondary evidence under Article 172 and Rule 130).**
+**2. No (laches does not apply against registered owners/heirs in favor of occupants holding void conveyances).**
+
+*Note: In strict compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+1. **Proof of Legitimate Filiation via Secondary Evidence (Article 172, Family Code; Rule 130, Rules of Court):** Under **Article 172, second paragraph, of the Family Code**, in the absence of primary records (record of birth in the civil register, final judgment, public document, or signed private handwritten instrument), legitimate filiation shall be proved by: (1) open and continuous possession of the status of a legitimate child, or (2) **any other means allowed by the Rules of Court and special laws**. Under **Rule 130 of the Rules of Court** (specifically Section 39/41 on **Act or Declaration About Pedigree** and Section 40/42 on **Family Reputation or Tradition Regarding Pedigree**, as well as the disputable presumption under **Rule 131, Section 3[aa]** that a man and woman deporting themselves as husband and wife have entered into a lawful contract of marriage), testimonial evidence from credible witnesses regarding family pedigree, community reputation, and open cohabitation sufficiently establishes legitimate filiation—especially where the parents were unlettered indigenous peoples lacking formal civil registry records.
+2. **No Need for Prior Declaration of Heirship in a Special Proceeding (*Treyes v. Larlar*):** Relying on **Article 777 of the New Civil Code** and the *En Banc* ruling in ***Treyes v. Larlar*** (G.R. No. 232579, September 8, 2020), the Court reiterated that rights to succession are transmitted from the moment of death of the decedent. Unless there is a pending special proceeding for the settlement of the decedent's estate, legal heirs may directly assert their rights of ownership and recover property in an ordinary civil action without first securing a separate judicial declaration of heirship in a special proceeding.
+3. **Inapplicability of Prescription and Laches to Torrens-Titled Land and Void Conveyances:** Under **Section 47 of Presidential Decree No. 1529** (Property Registration Decree), no title to registered land in derogation of the title of the registered owner shall be acquired by prescription or adverse possession, and the right to recover possession of registered land is equally imprescriptible. Moreover, the equitable defense of **laches** cannot be invoked by occupants who acted in bad faith or whose claims rest on **void *ab initio* conveyances** (such as deeds executed after the registered owner's death or lacking mandatory statutory approval for transfers involving indigenous cultural communities).
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 172, Second Paragraph, of the Family Code:** Authorizes proof of legitimate filiation, in the absence of civil registry records or signed written admissions, through open and continuous possession of status or **"any other means allowed by the Rules of Court and special laws."**
+* **Rule 130 (Sections 39 and 40, now Sections 41 and 42) and Rule 131, Section 3(aa) of the Rules of Court:** Admit declarations and family reputation or tradition regarding pedigree (including birth, marriage, and relationship) and establish the disputable presumption of marriage from open cohabitation as husband and wife.
+* **Article 777 of the New Civil Code and the *Treyes v. Larlar* Doctrine (G.R. No. 232579, September 8, 2020):** Establish that successional rights vest instantaneously at the moment of death, dispensing with any requirement for a prior declaration of heirship in a special proceeding before heirs can sue to recover estate property in an ordinary civil action.
+* **Section 47 of P.D. No. 1529 (Property Registration Decree):** Protects Torrens-titled land against acquisitive prescription and adverse possession, and precludes the invocation of laches by possessors relying on void *ab initio* deeds.
+
+---
+
+Ratio
+
+Where primary civil registry records of marriage and birth do not exist—particularly in cases involving unlettered members of indigenous cultural communities—Article 172, second paragraph, of the Family Code in relation to Rule 130 of the Rules of Court permits claimants to prove their legitimate filiation through competent testimonial evidence of family reputation and tradition regarding pedigree and open parental cohabitation. Once legitimate filiation is proven, successional rights vest automatically upon the parents' deaths under Article 777 of the Civil Code; following *Treyes v. Larlar*, the heirs need not institute a separate special proceeding for declaration of heirship before filing or intervening in an ordinary civil action to quiet title and recover possession. Finally, because OCT No. P-46114 is registered under the Torrens system and the occupants' purported deeds of sale were void *ab initio* and unregistered, neither acquisitive prescription nor laches could defeat the legitimate heirs' imprescriptible right to recover their inherited land.
+
+---
+
+Fallo
+
+The Supreme Court **granted** the Petition for Review on Certiorari of Amlayon Ende and Quezon Ende, **reversed and set aside** the Decision and Resolution of the Court of Appeals, **reinstated** the Decision of the Regional Trial Court recognizing Amlayon Ende and Quezon Ende as the legitimate children and rightful heirs of Spouses Butas Ende and Damagi Arog, ordered the respondents occupying portions without valid title to vacate and surrender possession, and remanded the case to the trial court for proper partition and accounting of improvements.
