@@ -1,0 +1,50 @@
+**James Cua Ko v. Republic of the Philippines**
+G.R. No. 210984 | 12 April 2023
+
+---
+Facts
+
+Shalimar Abellera was married to Kerwin Cruz Par. While separated in fact from Kerwin, Shalimar filed a petition for declaration of nullity of their marriage before the RTC. During the pendency of the nullity case—before her marriage to Kerwin was declared void—Shalimar gave birth to a baby girl named Jamie Shaye. In Jamie Shaye's Certificate of Live Birth, Shalimar named James Cua Ko as the child's father, and James executed an Affidavit of Acknowledgment/Admission to support the entry.
+
+After Shalimar's marriage to Kerwin was eventually declared void by the RTC and the Local Civil Registrar changed Jamie Shaye's surname to "Ko," James filed a Petition for Judicial Approval of Voluntary Recognition of a Minor Natural Child before the RTC. The RTC denied the petition—and the CA affirmed—holding that because Jamie Shaye was born during the subsistence of Shalimar's valid marriage to Kerwin, she was presumed legitimate, and James's petition constituted an improper collateral attack on her legitimacy.
+
+---
+
+Issue
+
+May a putative biological father obtain judicial approval of voluntary recognition over a child born during the subsistence of the mother's prior marriage, notwithstanding the presumption of legitimacy in favor of the mother's husband under Article 164 of the Family Code?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "Article 164 of the Family Code provides that 'children conceived or born during the marriage are legitimate.' While this presumption is disputable, it may only be challenged through a direct action. Further, Article 170 provides that only the husband and, in some instances, his heirs can bring this direct action but only on specified grounds. Even the mother is prohibited by law from declaring against her child's legitimacy."
+> "Legitimacy and filiation are two different concepts. Therefore, while the law grants the husband the sole right to impugn his child's legitimacy, the same child may bring an action to establish that she is not filiated to her mother's husband."
+> "In *Estate of Ong*, a legitimate child was allowed to establish her filiation to a person, not her mother's husband. In the same way that the child in *Estate of Ong* was allowed to bring an action to establish filiation, Jamie Shaye should likewise be allowed to establish her filiation to petitioner. However, for now, petitioner has no standing to impugn Jamie Shaye's legitimacy. He also has no standing to establish Jamie Shaye's filiation. Therefore, his Petition for voluntary recognition was correctly denied."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 164 of the Family Code:** Establishes that children conceived or born during the marriage of the parents are legitimate.
+* **Article 166 of the Family Code:** Enumerates the exclusive grounds upon which the legitimacy of a child may be impugned (physical impossibility of sexual intercourse within the first 120 days of the 300 days preceding birth, biological or other scientific reasons, or vitiated consent in artificial insemination).
+* **Article 167 of the Family Code:** Provides that the child shall be considered legitimate although the mother may have declared against its legitimacy or may have been sentenced as an adulteress.
+* **Articles 170 and 171 of the Family Code:** Restrict the right to bring a direct action to impugn the legitimacy of a child exclusively to the husband (or, in specific instances, his heirs) within strict prescriptive periods.
+* **Articles 172, 173, and 175 of the Family Code:** Govern the proof and prescriptive periods for actions to claim legitimate or illegitimate filiation, vesting the right of action in the child.
+* **Doctrinal Distinction Between Legitimacy and Filiation (*Estate of Rogelio Ong v. Diaz*, G.R. No. 171713, December 17, 2007):** Legitimacy is a civil status conferred by law upon children born within marriage, which only the husband (or his heirs) may directly impugn; filiation is the actual biological parent-child relationship. While a putative biological father has no legal standing to impugn a child's legitimacy or compel voluntary recognition over a child presumed legitimate, this does not prejudice the **child's** own right to bring a proper action to establish her true filiation to her biological father.
+
+---
+
+Ratio
+
+Because Jamie Shaye was born while Shalimar's marriage to Kerwin was still valid and subsisting (prior to the finality of the judgment declaring their marriage void), Article 164 of the Family Code presumes her to be the legitimate child of Kerwin. Under Article 167, Shalimar's declaration naming James as the biological father cannot destroy this presumption, and under Articles 170 and 171, only Kerwin (or his heirs) possesses the exclusive legal standing to impugn Jamie Shaye's legitimacy in a direct action. Consequently, James—a third party to the marriage—had no standing to impugn Jamie Shaye's legitimacy or seek judicial approval of voluntary recognition, as doing so amounted to an impermissible collateral attack on her legitimate status. Nevertheless, because legitimacy and filiation are conceptually distinct, the denial of James's petition is without prejudice to Jamie Shaye's personal right to establish her true filiation to James should she choose to do so.
+
+---
+
+Fallo
+> "ACCORDINGLY, the Petition for Review on Certiorari for the Judicial Approval of Voluntary Recognition of a Minor Natural Child is DENIED for being a collateral attack against the legitimacy of minor Jamie Shaye Ko. The September 10, 2023 Decision and January 14, 2014 Resolution of the Court of Appeals in CA-G.R. CV No. 98417 are AFFIRMED.
+> SO ORDERED."
