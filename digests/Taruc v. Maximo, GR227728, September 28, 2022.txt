@@ -1,0 +1,53 @@
+### **Facts**
+
+Angelina Maximo, Maricel Buenaventura, George Jordan, and Jennifer Burgos obtained a favorable monetary judgment in a labor dispute before the Labor Arbiter against their employer, Cesar Taruc. To satisfy the judgment award, the sheriff levied upon a 240-square-meter parcel of land registered in Cesar's name.
+
+Cesar moved to lift the levy, claiming that the land was his family home and therefore exempt from execution under the Family Code. To support his claim, he presented a Building Permit issued in May 1998 showing he was authorized to build a residential structure on the lot, and later submitted electricity and water bills bearing the property's address. The Labor Arbiter, the NLRC, and the CA all rejected Cesar's claim of exemption, with the CA noting that Cesar failed to establish judicial or extrajudicial constitution of the family home.
+
+---
+
+### **Issue**
+
+Is the presentation of a building permit and utility bills sufficient to prove that a residential property is a family home exempt from execution under the Family Code?
+
+---
+
+### **Ruling**
+
+**No.**
+
+*Note: In strict compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is set forth accurately below:*
+
+First, the Supreme Court clarified that the CA erred in applying the Civil Code's requirement of formal judicial or extrajudicial constitution, because Cesar allegedly constructed the residential structure in May 1998—well after the effectivity of the Family Code on August 3, 1988. Under **Article 153 of the Family Code**, a family home is deemed constituted on a house and lot from the time it is occupied as a family residence, without need of formal judicial or extrajudicial constitution.
+
+However, the Court emphasized that the exemption from execution under **Article 153** is a personal privilege granted to the judgment debtor that is never presumed; it must be affirmatively claimed and proved by competent evidence before the execution sale. Adopting the standard in *Salazar v. Felias*, the claimant must establish that:
+
+1. The house and lot were duly constituted as a family home (i.e., actually occupied as a family residence);
+2. It was constituted jointly by the husband and the wife, or by an unmarried head of a family;
+3. It is actually resided in by the family or any of the beneficiaries enumerated in Article 154;
+4. It forms part of the absolute community or conjugal partnership, or of the exclusive property of either spouse with the latter's consent, or of the unmarried head's own property (Article 156); and
+5. Its actual value at the time of constitution does not exceed the statutory limits of P300,000 in urban areas or P200,000 in rural areas (Article 157).
+
+Cesar's evidence fell fatally short: the May 1998 building permit merely proved authority to construct a structure, while the utility bills only showed electricity and water consumption at the address. Neither document established actual, continuous occupancy as a family residence by Cesar and his beneficiaries, nor did they prove the property's actual value at the time of constitution.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 152 and Article 153 of the Family Code:** Define the family home and provide that it is deemed constituted by operation of law from the time it is occupied as a family residence, without need of judicial or extrajudicial registration, and is exempt from execution, forced sale, or attachment (subject to the exceptions in Article 155).
+* **Article 154 of the Family Code:** Enumerates the qualified beneficiaries of a family home who must actually reside therein and depend upon the head of the family for legal support.
+* **Article 155 of the Family Code:** Lists the debts and obligations for which the family home is not exempt from execution (nonpayment of taxes, debts incurred prior to its constitution, debts secured by mortgages on the premises, and debts due to laborers, mechanics, architects, builders, and materialmen).
+* **Article 156 and Article 157 of the Family Code:** Require that the family home be constituted on property owned by the spouses or unmarried head of the family, and prescribe the maximum statutory value ceilings at the time of constitution (P300,000 in urban areas and P200,000 in rural areas).
+* **Controlling Jurisprudence Cited by the Court:** *Salazar v. Felias* (G.R. No. 213972, February 5, 2018), *Modequillo v. Breva* (G.R. No. 86355, May 31, 1990), and *Josef v. Santos* (G.R. No. 165060, November 27, 2008)—distinguishing *Josef* because in that case the trial court completely ignored the exemption claim without hearing, whereas here Cesar was afforded multiple hearings by the Labor Arbiter yet failed to submit sufficient proof.
+
+---
+
+### **Ratio Decidendi**
+
+Although Article 153 of the Family Code dispenses with judicial or extrajudicial registration for family residences established on or after August 3, 1988, automatic constitution still requires actual, real occupancy of the property as a family residence by the owner and his or her statutory beneficiaries, alongside compliance with the ownership and valuation requisites under Articles 156 and 157. Because exemption from execution is a personal privilege that cannot be presumed, the judgment debtor bears the burden of proving every statutory requisite by clear and convincing evidence. A mere building permit and utility bills do not prove actual family occupancy, civil status/head-of-family qualification, or statutory value limits, leaving the levied property subject to execution.
+
+---
+
+### **Fallo**
+
+The Supreme Court **denied** Cesar D. Taruc's petition for review on certiorari and **affirmed** the Decision and Resolution of the Court of Appeals upholding the denial of his Motion to Lift Levy on the subject property.
