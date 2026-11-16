@@ -1,0 +1,49 @@
+**Rodolfo S. Fernandez v. Romeo S. Fernandez, Potenciano S. Fernandez, Francisco S. Fernandez, Julita S. Fernandez, William S. Fernandez, Mary Rose Fernandez-Garcia, and The Honorable Court of Appeals**
+G.R. No. 143256 | 28 August 2001 (363 SCRA 811)
+
+---
+
+### **Facts**
+
+Dr. Jose K. Fernandez and Generosa A. Fernandez owned several real properties, including a parcel of land in Dagupan City. During his lifetime, Dr. Jose Fernandez allegedly executed a Deed of Extrajudicial Partition and a Deed of Absolute Sale conveying the Dagupan City property to one of his sons, Rodolfo S. Fernandez.
+
+After the deaths of Dr. Jose and Generosa Fernandez, Rodolfo’s siblings—Romeo, Potenciano, Francisco, Julita, William, and Mary Rose—filed an action before the RTC for the declaration of nullity of the deeds, partition, and reconveyance, alleging that their father's signatures on the instruments were forged and that the conveyances were simulated to deprive them of their hereditary shares. Rodolfo moved to dismiss the complaint on the ground that the verified complaint failed to allege that earnest efforts toward a compromise had been made among the siblings prior to filing suit, as required under Article 151 of the Family Code (formerly Article 222 of the Civil Code). However, the records showed that prior to the filing of the complaint, the siblings had already held a family meeting and corresponded through counsel in an unsuccessful attempt to settle the dispute amicably, and the trial court even referred the case for amicable settlement during pre-trial, which likewise failed.
+
+---
+
+### **Issue**
+
+Should a suit among siblings be dismissed for failure to strictly allege earnest efforts toward a compromise in the complaint under Article 151 of the Family Code, where the records clearly show that earnest efforts to compromise were in fact made prior to the suit and failed?
+
+---
+
+### **Ruling**
+
+**No.**
+
+*Note: In strict compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+The Supreme Court ruled that while **Article 151 of the Family Code** (formerly Article 222 of the New Civil Code) mandates that no suit between members of the same family shall prosper unless it appears from the verified complaint or petition that earnest efforts toward a compromise have been made and have failed, the law does not require an empty, hyper-technical ritual when the underlying purpose of the statute has already been satisfied.
+
+Where the evidence on record demonstrates that the parties actually exerted earnest efforts to settle their controversy amicably before resorting to litigation—such as holding family conferences and exchanging settlement proposals—and that all such efforts proved futile, the failure to state that fact in the exact words of Article 151 in the body of the complaint is a mere formal defect that does not justify the dismissal of the action. Moreover, because the complaint also sought the declaration of nullity of allegedly forged and simulated deeds affecting the parties' hereditary rights, the trial court properly proceeded to resolve the controversy on the merits rather than dismissing it on a technicality.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 151 of the Family Code** *(formerly Article 222 of the New Civil Code)*: Requires that earnest efforts toward a compromise be made and shown to have failed before a suit between members of the same family (including brothers and sisters under Article 150[4]) can prosper.
+* **Article 150(4) of the Family Code:** Includes relationships among brothers and sisters, whether of the full or half-blood, within the definition of "family relations."
+* **Rule 1, Section 6 of the Rules of Court (Liberal Construction):** Mandates that procedural rules be liberally construed in order to promote their objective of securing a just, speedy, and inexpensive disposition of every action and proceeding.
+* **Controlling Doctrine:** The purpose of Article 151 is to encourage family reconciliation and prevent public family feuds; when actual earnest efforts toward a compromise have in fact been undertaken and failed prior to litigation, the substantive spirit of Article 151 is fulfilled, and the absence of a formal averment in the complaint is curable by the evidence on record and does not warrant dismissal.
+
+---
+
+### **Ratio Decidendi**
+
+The statutory requirement under Article 151 of the Family Code that earnest efforts toward a compromise must precede any suit between members of the same family is substantive in purpose—designed to preserve family solidarity—rather than a mere trap of pleading technicalities. When the record establishes that the siblings actually met and attempted in good faith to settle their dispute out of court, and that those efforts failed before the complaint was filed, the policy of Article 151 has been fully served. Dismissing the case solely because the complaint omitted an explicit ritualistic allegation of earnest efforts would elevate form over substance and needlessly prolong intra-family litigation.
+
+---
+
+### **Fallo**
+
+The Supreme Court **denied** Rodolfo S. Fernandez's petition for review on certiorari and **affirmed** the Decision of the Court of Appeals upholding the nullification of the disputed deeds and the partition of the estate among the siblings.
