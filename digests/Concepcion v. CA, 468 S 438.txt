@@ -3,7 +3,7 @@ G.R. No. 123450 | 31 August 2005 (468 SCRA 438)
 
 ---
 
-### **Facts**
+Facts
 
 Gerardo B. Concepcion and Ma. Theresa Almonte were married in December 1989, and less than a year later, Ma. Theresa gave birth to a son, Jose Gerardo. Later, Gerardo discovered that Ma. Theresa had previously married Mario Gopiao in December 1980, and that Mario was still alive and residing in Loyola Heights, Quezon City.
 
@@ -11,13 +11,13 @@ Gerardo filed a petition before the RTC to have his marriage to Ma. Theresa annu
 
 ---
 
-### **Issue**
+Issue
 
 Is a child conceived and born during a second, bigamous marriage presumed to be the legitimate child of the mother's first husband under Article 164 of the Family Code, thereby barring the second husband from claiming paternity and visitation rights?
 
 ---
 
-### **Ruling**
+Ruling
 
 **Yes.**
 
@@ -43,13 +43,13 @@ Quoting the Supreme Court’s legal basis verbatim:
 
 ---
 
-### **Ratio Decidendi**
+Ratio
 
 Because Ma. Theresa's first marriage to Mario Gopiao was valid and subsisting when Jose Gerardo was conceived and born, the bigamous marriage between Gerardo and Ma. Theresa was void *ab initio* and produced no legal marital tie. Under Article 164 of the Family Code, Jose Gerardo—having been conceived and born during the valid marriage of Ma. Theresa and Mario—is presumed to be the legitimate child of Mario Gopiao. Under Article 167, Ma. Theresa's admissions and bigamous cohabitation with Gerardo cannot strip Jose Gerardo of his legitimate status. Furthermore, under Articles 170 and 171, only the lawful husband, Mario Gopiao (or his heirs in proper cases), has legal standing to impugn Jose Gerardo's legitimacy. Since Mario never impugned the child's legitimacy and no physical impossibility of access between Mario and Ma. Theresa (who both resided in Quezon City) was established, Jose Gerardo remained the legitimate child of Mario Gopiao. Consequently, Gerardo—being a legal stranger to the child—had no parental authority or visitation rights over Jose Gerardo.
 
 ---
 
-### **Fallo**
+Fallo
 
 > "WHEREFORE, the petition is hereby DENIED. The September 14, 1995 decision and January 10, 1996 resolution of the Court of Appeals in CA-G.R. CV No. 40651 are AFFIRMED. Costs against petitioner.
 > SO ORDERED."
