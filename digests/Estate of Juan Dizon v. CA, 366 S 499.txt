@@ -1,0 +1,52 @@
+**Estate of Juan Dizon (represented by Josefa Bautista Vda. de Dizon) v. Court of Appeals, Spouses Eduardo Dizon and Josefina Dizon, et al.**
+G.R. No. 139729 | 26 September 2001 (366 SCRA 499)
+
+---
+
+Facts
+
+Juan Dizon and Josefa Bautista were legally married and had several legitimate children. During his lifetime, Juan Dizon also sired illegitimate children outside of wedlock. Upon Juan Dizon's death intestate, proceedings for the settlement of his estate were instituted before the RTC, with his surviving spouse, Josefa Bautista Vda. de Dizon, acting as administratrix.
+
+During the estate proceedings, claimants asserting to be the illegitimate children of Juan Dizon intervened and sought recognition as compulsory heirs entitled to inherit from his estate. To establish their filiation after Juan Dizon's death, the claimants presented baptismal certificates, school records, photographs, and testimonial evidence showing that Juan Dizon treated them as his children and provided them financial support during his lifetime, without presenting any record of birth signed by Juan Dizon, final judgment, public document, or private handwritten instrument signed by him acknowledging paternity. Josefa opposed their inclusion, contending that an action to establish illegitimate filiation based on open and continuous possession of status can no longer be brought after the putative father's death under Article 175 of the Family Code.
+
+---
+
+Issue
+
+May an action to establish illegitimate filiation based on secondary evidence—such as open and continuous possession of the status of an illegitimate child—be brought after the death of the putative parent under Article 175 of the Family Code?
+
+---
+
+Ruling
+
+**No.**
+
+*Note: In strict compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+The Supreme Court anchored its ruling on **Article 175 of the Family Code** in relation to **Article 172 thereof**, which strictly distinguishes between the prescriptive periods for establishing illegitimate filiation depending on the nature of the evidence presented:
+
+1. **Primary Evidence (Article 172, First Paragraph):** Where the illegitimate child establishes filiation through (a) the record of birth appearing in the civil register or a final judgment, or (b) an admission of filiation in a public document or a private handwritten instrument signed by the parent concerned, the action may be brought **within the same period specified in Article 173**—that is, during the lifetime of the child (and even after the death of the putative parent).
+2. **Secondary Evidence (Article 172, Second Paragraph):** In the absence of primary evidence, where the illegitimate child seeks to prove filiation through (a) **open and continuous possession of the status** of an illegitimate child, or (b) **any other means allowed by the Rules of Court and special laws** (such as baptismal certificates, photographs, school records, and witness testimonies), **Article 175, second paragraph, of the Family Code** expressly mandates that **"the action may be brought during the lifetime of the alleged parent."**
+
+Because the claimants possessed none of the primary proofs enumerated in the first paragraph of Article 172 and relied solely on secondary evidence under the second paragraph of Article 172, their right of action to compel recognition or establish illegitimate filiation prescribed upon the death of Juan Dizon and could no longer be entertained in the intestate estate proceedings.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 175 of the Family Code:** Provides that illegitimate children may establish their illegitimate filiation in the same way and on the same evidence as legitimate children, and mandates that when the action is based on the second paragraph of Article 172 (open and continuous possession of status or other secondary evidence), **the action must be brought during the lifetime of the alleged parent**.
+* **Article 172 of the Family Code:** Enumerates the primary proofs (record of birth in the civil register, final judgment, public document, or signed private handwritten instrument) and secondary proofs (open and continuous possession of status, or other means under the Rules of Court and special laws) of filiation.
+* **Article 173 of the Family Code:** Establishes the general lifetime prescriptive period for actions to claim legitimacy, applicable to illegitimate children *only* when relying on primary evidence under the first paragraph of Article 172.
+* **Doctrinal Rule on Probative Value of Baptismal Certificates and Secondary Evidence:** Baptismal certificates, school records, photographs, and testimonies are mere secondary evidence under the second paragraph of Article 172; they cannot substitute for a civil registry birth record signed by the father or a signed handwritten/public acknowledgment, and any claim anchored on them is extinguished upon the putative father's death.
+
+---
+
+Ratio
+
+While the Family Code relaxed the rules on proving illegitimate filiation by allowing illegitimate children to use the same kinds of evidence as legitimate children under Article 172, Article 175 imposes a strict temporal safeguard to protect a deceased person's estate from spurious or fraudulent paternity claims that the decedent can no longer personally refute. Thus, an illegitimate child who relies on secondary evidence under the second paragraph of Article 172—such as open and continuous possession of status, baptismal certificates, or testimonial evidence—must institute the action **during the lifetime of the alleged parent**. Once the putative father dies without having executed a primary acknowledgment (such as signing the birth certificate, a public document, or a private handwritten instrument), any action to establish illegitimate filiation via secondary evidence is barred by prescription.
+
+---
+
+Fallo
+
+The Supreme Court **granted** the petition of the Estate of Juan Dizon, **reversed and set aside** the assailed ruling allowing the belated paternity claim based solely on secondary evidence after the putative father's death, and **disallowed** the claimants' recognition as illegitimate heirs of the late Juan Dizon.
