@@ -1,0 +1,50 @@
+**Teofista Babiera v. Presentacion B. Catotal**
+G.R. No. 138493 | 15 June 2000 (333 SCRA 487)
+
+---
+
+Facts
+
+Eugenio Babiera and Hermogena Cariñosa were legally married and had only one child, Presentacion B. Catotal. During their marriage, Eugenio and Hermogena acquired several properties and employed a housemaid named Flora Guinto, who gave birth to a daughter, Teofista Babiera.
+
+Upon Hermogena's death—and after Eugenio also passed away—Presentacion discovered a Certificate of Live Birth purporting to show that Teofista was the legitimate daughter of Eugenio and Hermogena, born when Hermogena was already 54 years old. The birth certificate was not signed by either Eugenio or Hermogena, nor by the attending physician or midwife, and instead bore the signature of Flora Guinto's mother as informant. Presentacion filed a petition before the RTC for the cancellation of Teofista's birth certificate, alleging that Teofista was not the biological child of her parents and that the birth record was simulated and falsified. Teofista moved to dismiss the petition, arguing that Presentacion had no legal standing to impugn her legitimacy and that the action had already prescribed under Articles 170 and 171 of the Family Code.
+
+---
+
+Issue
+
+Do the standing and prescriptive period limitations under Articles 170 and 171 of the Family Code for impugning a child's legitimacy apply to an action filed by a legitimate heir to cancel a simulated and falsified birth certificate showing that a third person is her parents' legitimate child?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "The present action involves the cancellation of petitioner's Birth Certificate; it does not impugn her legitimacy. Thus, the prescriptive period set forth in Article 170 of the Family Code does not apply. Verily, the action to nullify the Birth Certificate does not prescribe, because it was allegedly void *ab initio*."
+
+> "Article 171 of the Family Code is not applicable to the present case. A close reading of this provision shows that it applies to instances in which the father impugns the legitimacy of his wife's child. The provision, however, presupposes that the child was the undisputed offspring of the mother. The present case alleges and shows that Hermogena did not give birth to petitioner. In other words, the prayer herein is not to declare that petitioner is an illegitimate child of Hermogena, but to establish that the former is not the latter's child at all. Verily, the present action does not impugn petitioner's filiation to Spouses Eugenio and Hermogena Babiera, because there is no blood relation to impugn in the first place."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 170 and Article 171 of the Family Code:** Govern the prescriptive periods and standing of the husband (or his heirs) to impugn the legitimacy of a child born to the wife; applicable *only* when the child is undisputedly the biological offspring of the mother and the issue is whether the husband is the father.
+* **Rule 108 of the Rules of Court:** Authorizes an adversarial proceeding for the cancellation or correction of substantial entries in the civil registry—including the nullification of a simulated or falsified Certificate of Live Birth where no biological filiation exists at all.
+* **Section 2, Rule 3 of the Rules of Court:** Defines a **real party-in-interest** as the party who stands to be benefited or injured by the judgment in the suit; Presentacion, as the sole legitimate child and compulsory heir of Eugenio and Hermogena, is a real party-in-interest because a falsified birth certificate falsely claiming another legitimate child directly diminishes her hereditary share.
+* **Doctrinal Distinction Between Impugning Legitimacy and Simulation of Birth:** Impugning legitimacy presupposes that the woman actually gave birth to the child and challenges only the husband's paternity; where the allegation is that the supposed mother never gave birth to the child at all (simulation of birth), there is no biological filiation to impugn, and an action to declare the simulated birth certificate void *ab initio* is imprescriptible.
+
+---
+
+Ratio
+
+Articles 170 and 171 of the Family Code—which limit the standing and prescribe short periods (one, two, or three years) for impugning a child's legitimacy—apply strictly to cases where the child is undeniably the biological child of the wife and the controversy centers on whether the husband is the father. Those provisions have no application where the plaintiff seeks to prove that the supposed mother (Hermogena, then 54 years old) never gave birth to the claimant at all, and that the Certificate of Live Birth was wholly simulated and falsified. Because there was no biological blood relationship between Teofista and Spouses Eugenio and Hermogena Babiera in the first place, Presentacion's petition was not an action to impugn legitimacy, but an action to cancel a void *ab initio* civil registry entry—an action that is imprescriptible and may be brought by Presentacion as a legitimate heir whose hereditary rights were directly prejudiced by the fraud.
+
+---
+
+Fallo
+
+> "WHEREFORE, the Petition is hereby DENIED and the assailed Decision of the Court of Appeals AFFIRMED. Costs against petitioner.
+> SO ORDERED."
