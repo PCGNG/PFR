@@ -1,0 +1,49 @@
+**Eugenio R. Geronimo v. Karen Santos**
+G.R. No. 197099 | 28 September 2015 *(decided September 28, 2015; 771 SCRA 508)*
+
+---
+
+Facts
+
+Rufino and Caridad Geronimo died intestate without leaving any direct biological descendants, leaving behind a parcel of land in Bulacan. Rufino's surviving brothers, Eugenio and Emiliano Geronimo, executed an Extrajudicial Settlement of Estate adjudicating the entire property to themselves as Rufino's sole intestate heirs.
+
+Karen Santos filed an action before the RTC for the annulment of the extrajudicial settlement, reconveyance, and damages against Eugenio and Emiliano, claiming that she was the sole legitimate biological child of Rufino and Caridad. To prove her filiation, Karen presented her Certificate of Live Birth registered 13 years after her birth, an affidavit of acknowledgment signed by Rufino, school records, and testimonies showing she lived with and was raised by the spouses. Eugenio and Emiliano countered that Karen was not the biological child of Rufino and Caridad, presenting proof that Caridad was medically barren due to a prior hysterectomy and that Karen was merely a ward whose birth was simulated. The RTC and CA ruled in Karen's favor, holding that Eugenio and Emiliano were barred from impugning Karen's legitimacy under Articles 170 and 171 of the Family Code.
+
+---
+
+Issue
+
+Do the standing and prescriptive period limitations under Articles 170 and 171 of the Family Code for impugning a child's legitimacy bar collateral relatives from proving in an action for reconveyance that the claimant is not the biological child of the deceased spouses at all, but a child of simulated birth?
+
+---
+
+Ruling
+
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "There is no dispute that the filiation of the respondent is being questioned in the present case. The petitioner and his deceased brother, Emiliano, assert that the respondent is not the biological child of Rufino and Caridad, and that she is merely a ward whose birth was simulated. In *Benitez-Badua v. Court of Appeals*, this Court held that Articles 164, 166, 170 and 171 of the Family Code cannot be applied to a case where the petitioner is not the biological child of the spouses, and where the question is not whether the child is legitimate or illegitimate, but whether the child is the biological offspring of the alleged parents in the first place."
+
+> "A careful reading of Article 170 and Article 171 of the Family Code shows that they apply to instances in which the father impugns the legitimacy of his wife's child. The provisions presuppose that the child was the undisputed offspring of the mother. In the present case, the petitioner does not seek to establish that the respondent is an illegitimate child of Caridad, but rather that she is not the biological child of Rufino and Caridad at all. Thus, the prescriptive period and the limitation on who may file the action under Articles 170 and 171 do not apply."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Articles 164, 166, 170, and 171 of the Family Code:** Establish the presumption of legitimacy of children born during marriage and restrict standing and prescriptive periods to impugn legitimacy exclusively to the husband (or his heirs under specified conditions)—provisions that apply *only* when the child is undisputedly the biological child of the mother and the sole dispute is the husband's paternity.
+* **Article 172 of the Family Code:** Enumerates the proofs of legitimate filiation (record of birth, final judgment, admission in a public or signed private handwritten instrument, or open and continuous possession of status), which can be defeated by clear and convincing proof that the birth certificate was late-registered and simulated and that the alleged mother never gave birth to the child.
+* **Controlling Jurisprudence Cited by the Court:** *Benitez-Badua v. Court of Appeals* (G.R. No. 105625, January 24, 1994) and *Babiera v. Catotal* (G.R. No. 138493, June 15, 2000)—reaffirming that collateral relatives challenging a simulated birth are not impugning legitimacy under Articles 170 and 171, and that a simulated birth without formal judicial adoption confers no hereditary rights.
+
+---
+
+Ratio
+
+Articles 170 and 171 of the Family Code—which bar third parties from impugning a child's legitimacy and impose strict prescriptive periods—apply only when the child is indisputably the biological child of the wife and the controversy is whether the husband fathered the child. Where collateral heirs (such as the deceased husband's surviving brothers) assert that the deceased wife never gave birth to the claimant at all and that her late-registered birth certificate was merely simulated, there is no biological filiation to protect under the presumption of legitimacy. Because Karen's birth certificate was belatedly registered 13 years after her birth without medical proof of childbirth, and clear evidence established that Caridad had undergone a hysterectomy rendering her incapable of bearing children, Karen was neither the biological child nor the legally adopted daughter of Rufino and Caridad. Consequently, Eugenio and Emiliano were not barred by Articles 170 and 171 from proving the absence of biological filiation, and they validly inherited Rufino's estate as his sole intestate heirs.
+
+---
+
+Fallo
+
+> "WHEREFORE, the petition is GRANTED. The Decision dated January 17, 2011 and Resolution dated May 24, 2011 of the Court of Appeals in CA-G.R. CV No. 88650 are REVERSED and SET ASIDE. The Complaint in Civil Case No. 268-M-2001 before the Regional Trial Court of Malolos, Bulacan, Branch 8 is DISMISSED for lack of merit.
+> SO ORDERED."
