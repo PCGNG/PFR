@@ -1,0 +1,48 @@
+FACTS
+
+Spouses Charlie and Ofelia Fortaleza obtained a P1,200,000.00 loan from Spouses Rolando and Amparo Lapitan, secured by a Real Estate Mortgage over their residential house and lot in Los Baños, Laguna. When Charlie and Ofelia defaulted on the loan, the creditors extrajudicially foreclosed the mortgage. At the public auction sale, the creditors' son, Dr. Raul Lapitan, and his wife, Rona Lapitan, emerged as the highest bidders and were issued a Certificate of Sale.
+
+After the one-year redemption period expired without Charlie and Ofelia redeeming the property, Raul and Rona consolidated ownership, secured a new title in their names, and filed an *ex parte* petition for a writ of possession before the RTC. The RTC granted the writ. Charlie and Ofelia moved for reconsideration and opposed the writ, claiming for the first time that the foreclosed property was their family home and was therefore exempt from forced sale under the Family Code.
+
+---
+
+ISSUE
+Is a residential house and lot voluntarily mortgaged by the spouses exempt from extrajudicial foreclosure and forced sale as a family home under Article 155 of the Family Code, especially when the claim of exemption is raised only after the public auction and expiration of the redemption period?
+
+---
+
+RULING
+**No.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "As elucidated in *Honrado v. Court of Appeals*:
+> While it is true that the family home is constituted on a house and lot from the time it is occupied as a family residence and is exempt from execution or forced sale under Article 153 of the Family Code, such claim for exemption should be set up and proved to the Sheriff before the sale of the property at public auction. Failure to do so would estop the party from later claiming the exemption. As this Court ruled in *Gomez v. Gealone*:
+> 'Although the Rules of Court does not prescribe the period within which to claim the exemption, the rule is, nevertheless, well-settled that the right of exemption is a personal privilege granted to the judgment debtor and as such, it must be claimed not by the sheriff, but by the debtor himself at the time of the levy or within such reasonable period thereafter as may be fixed by the rules of court in the absence of statutory provision. The reason for this is that the right to exemption may be waived by the debtor, and if he fails to claim it in time, he is deemed to have waived it.'"
+
+> "Furthermore, even if the subject property is a family home, it is not exempt from foreclosure because Article 155(3) of the Family Code explicitly provides that the family home shall be exempt from execution, forced sale or attachment except for '[d]ebts secured by mortgages on the premises before or after such constitution.'"
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 153 of the Family Code:** Deems a family home constituted on a house and lot from the time it is occupied as a family residence and exempts it from execution, forced sale, or attachment, except as provided in Article 155.
+* **Article 155(3) of the Family Code:** Expressly excludes from the family home's exemption from execution, forced sale, or attachment **"debts secured by mortgages on the premises before or after such constitution."**
+* **Act No. 3135, Section 7 (as amended by Act No. 4118):** Entitles the purchaser at an extrajudicial foreclosure sale to a writ of possession as a matter of right after the consolidation of ownership upon the expiration of the one-year redemption period, making the issuance of the writ a ministerial duty of the court.
+* **Controlling Jurisprudence Cited by the Court:** *Honrado v. Court of Appeals* (G.R. No. 166333, November 25, 2005) and *Gomez v. Gealone* (G.R. No. 58281, November 13, 1991)—establishing that the family home exemption is a personal privilege that is deemed waived or barred by estoppel if not set up and proved before the sheriff prior to the public auction sale.
+
+---
+
+RATIO
+
+The claim that a property is exempt from execution or forced sale as a family home fails on two independent grounds under the Family Code:
+
+1. **Substantive Exception (Mortgage Exception):** Under Article 155(3) of the Family Code, the exemption of a family home from forced sale does not apply to debts secured by mortgages on the premises, whether the mortgage was constituted before or after the establishment of the family home. Because Charlie and Ofelia voluntarily encumbered their house and lot with a Real Estate Mortgage to secure their P1.2 million loan, the property was fully subject to extrajudicial foreclosure upon default.
+2. **Procedural Estoppel and Waiver:** Even where an exemption is otherwise available, the family home exemption is a personal privilege that must be affirmatively claimed and proved before the sheriff prior to the public auction sale. Having failed to assert the exemption before the foreclosure sale—raising it only after the one-year redemption period had lapsed and title had been consolidated in Raul and Rona's names—Charlie and Ofelia were estopped from invoking the exemption to defeat the ministerial issuance of a writ of possession.
+
+---
+
+FALLO
+
+> "WHEREFORE, premises considered, the petition is DENIED. The Decision dated January 10, 2007 and Resolution dated June 6, 2007 of the Court of Appeals in CA-G.R. CV No. 86287 are AFFIRMED.
+> SO ORDERED."
