@@ -1,0 +1,44 @@
+**Marissa Benitez-Badua v. Court of Appeals, Victoria Benitez-Lirio, and Feodor Benitez Aguilar**
+G.R. No. 105625 | 24 January 1994 (229 SCRA 468)
+
+---
+
+Facts
+
+Spouses Vicente Benitez and Isabel Chipongian owned various real properties in Laguna. Isabel died intestate, followed later by Vicente, who also died intestate. Thereafter, Vicente’s surviving sister, Victoria Benitez-Lirio, and his nephew, Feodor Benitez Aguilar, instituted a special proceeding before the RTC for the issuance of letters of administration over Vicente's estate, alleging that Vicente and Isabel died without leaving any surviving descendants.
+
+Marissa Benitez-Badua opposed the petition, claiming that she was the sole legitimate biological daughter of Vicente and Isabel, and presented her Certificate of Live Birth, baptismal certificate, school records, and testimonies of relatives showing that the spouses raised and treated her as their own daughter. However, Victoria and Feodor proved that Marissa's birth certificate was registered late (when she was already 22 years old), that Isabel was already 52 years old and medically incapable of bearing children at the time of Marissa's alleged birth, and that Marissa was actually the biological child of another couple whom Vicente and Isabel merely reared and simulated as their own.
+
+---
+Issue
+Do Articles 164, 166, 170, and 171 of the Family Code—which establish the presumption of legitimacy and restrict standing and prescriptive periods to impugn legitimacy—apply where collateral relatives prove that the claimant was not born of the alleged mother at all, but was merely raised through a simulated birth?
+
+---
+
+Ruling
+
+**No.**
+
+The Supreme Court affirmed the CA's ruling that Articles 164, 166, 170, and 171 of the Family Code do not govern a situation where a person is proven not to be the biological child of the alleged parents in the first place.
+
+The Court explained that **Articles 164, 166, 170, and 171 of the Family Code** contemplate a scenario where the wife actually gave birth to the child during the marriage, and the controversy centers solely on whether the husband is the biological father—thereby restricting the right to impugn legitimacy to the husband (or his heirs in specified instances) within strict prescriptive periods. Those provisions have no application where the evidence overwhelmingly shows that the alleged mother (Isabel, who was 52 years old and barren) never gave birth to the claimant at all, and that the birth record was merely simulated. Because Marissa was neither the biological child nor the legally adopted child of Vicente and Isabel, she could not claim legitimate filiation or inherit from Vicente's intestate estate, leaving Vicente's collateral relatives (his sister Victoria and nephew Feodor) as his lawful intestate heirs.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Articles 164, 166, 170, and 171 of the Family Code:** Establish the presumption of legitimacy of children conceived or born during marriage, the exclusive grounds to impugn legitimacy, and the standing and prescriptive periods for the husband (or his heirs) to challenge paternity—all of which presuppose that the child is undeniably the biological offspring of the mother.
+* **Article 172 of the Family Code:** Enumerates the proofs of legitimate filiation (record of birth, final judgment, admission in a public or signed private handwritten instrument, or open and continuous possession of status), which can be overcome by competent evidence showing that the birth registration was simulated and that no biological parent-child relationship ever existed.
+* **Doctrinal Rule on Simulated Births vs. Impugning Legitimacy:** Mere rearing of a child and registration of a late or simulated birth certificate—without undergoing formal judicial adoption proceedings—does not confer legitimate filiation or hereditary rights. When collateral relatives challenge a claimant's status on the ground that the decedent's wife never gave birth to the claimant, they are not impugning legitimacy under Articles 170 and 171, but proving the complete absence of biological filiation.
+
+---
+
+Ratio
+
+The statutory safeguards restricting who may impugn a child's legitimacy and within what period under Articles 170 and 171 of the Family Code apply strictly when the wife is undisputedly the biological mother and the only question is the husband's paternity. Where clear and convincing evidence establishes that the deceased wife never gave birth to the claimant and that the claimant's late-registered birth certificate was fabricated to simulate biological parentage, no blood relationship exists to be protected by the presumption of legitimacy. Since Philippine law does not recognize adoption by mere simulation of birth or open treatment as a child without judicial decree, Marissa was not a legitimate descendant of Vicente and Isabel, and Vicente's collateral relatives validly inherited his intestate estate.
+
+---
+
+Fallo
+
+The Supreme Court **dismissed** Marissa Benitez-Badua's petition for review on certiorari for lack of merit and **affirmed** the Decision of the Court of Appeals declaring her not to be the biological or adopted child of Spouses Vicente Benitez and Isabel Chipongian and appointing Feodor Benitez Aguilar as administrator of Vicente's estate.
