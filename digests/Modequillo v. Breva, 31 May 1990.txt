@@ -1,0 +1,46 @@
+Facts
+
+In January 1988, the CA rendered a final and executory judgment ordering Jose Modequillo and Benito Malubay to pay damages to Spouses Francisco and Floripis Salinas and Juanito Culan-Culan arising from a vehicular accident that occurred in March 1976. To satisfy the judgment, the deputy sheriff levied upon a parcel of residential land and a parcel of agricultural land located in Malalag, Davao del Sur, both registered in Jose’s name.
+
+Jose moved to quash the levy and execution sale, arguing that the residential land was occupied as his family home since 1969 and had become automatically exempt from execution upon the effectivity of the Family Code on August 3, 1988. He likewise contended that the agricultural land was exempt as a homestead, or at the very least, was conjugal property that could not be held liable for his personal liability without prior proof that it redounded to the benefit of his family.
+
+---
+
+Issue
+
+Is a residential house and lot occupied prior to August 3, 1988—and never constituted as a family home under the Civil Code—exempt from execution under Article 153 and Article 155 of the Family Code for a judgment debt incurred before the Family Code took effect?
+
+---
+
+Ruling
+
+**No.**
+
+*Note: In compliance with copyright guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+The Supreme Court held that Article 153 of the Family Code—which deems a family home constituted on a house and lot from the time it is occupied as a family residence without need of judicial or extrajudicial constitution—does not apply retroactively to residences established prior to the Family Code’s effectivity on August 3, 1988, so as to defeat debts incurred before that date. Under the New Civil Code (which governed prior to August 3, 1988), a family home had to be formally constituted either judicially or extrajudicially; without such constitution, the property remained subject to execution.
+
+Even assuming *arguendo* that the residential property became a family home by operation of law upon the effectivity of the Family Code on August 3, 1988, it still could not be exempted from execution because **Article 155(1) of the Family Code** expressly excludes **"debts incurred prior to the constitution of the family home"** from the exemption. Because Jose's liability for damages arose from a 1976 vehicular accident and became final in January 1988—both occurring prior to August 3, 1988—the debt was incurred before the alleged constitution of the family home under the Family Code.
+
+Furthermore, with respect to the agricultural land, the Court ruled that Jose failed to prove it was acquired under the Public Land Act as a homestead, and that under the Civil Code, fines and pecuniary indemnities imposed upon the husband may be enforced against conjugal partnership assets after the responsibilities enumerated in Article 161 have been covered.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 152 and Article 153 of the Family Code:** Define the family home and establish that it is deemed constituted on a house and lot from the time it is occupied as a family residence, without need of judicial or extrajudicial constitution, starting upon the effectivity of the Family Code on August 3, 1988.
+* **Article 155(1) of the Family Code:** Expressly exempts from the family home's immunity from execution **debts incurred prior to the constitution of the family home** (alongside nonpayment of taxes, debts secured by mortgages on the premises before or after such constitution, and debts due to laborers, mechanics, architects, builders, materialmen, and others who have rendered service or furnished material for the construction of the building).
+* **Article 162 of the Family Code:** Provides that the provisions of Chapter 2 (The Family Home) shall also govern existing family residences insofar as said provisions are applicable—which operates prospectively from August 3, 1988, and cannot impair pre-existing creditor rights.
+* **Articles 225, 229–231, and 233 of the New Civil Code:** Required judicial or extrajudicial constitution for a family home to exist prior to August 3, 1988.
+* **Article 163 of the New Civil Code** *(now mirrored in Article 94[9] and Article 122 of the Family Code)*: Allows the enforcement of fines and pecuniary indemnities imposed upon a spouse against the partnership/community assets after covering primary family support obligations, provided the spouse has no exclusive property or the same is insufficient.
+
+---
+
+Ratio
+
+While Article 153 of the Family Code dispenses with the formal judicial or extrajudicial registration required under the Civil Code by automatically constituting an occupied family residence as a family home upon the Code's effectivity on August 3, 1988, this automatic constitution takes effect only from August 3, 1988 onward—it does not retroact to the date the family first occupied the house (1969). Because Jose never constituted his Malalag residence as a family home under the Civil Code, the earliest date it could be deemed a family home was August 3, 1988. Under Article 155(1) of the Family Code, a family home is expressly not exempt from execution for **debts incurred prior to its constitution**. Since Jose's judgment debt originated from a 1976 tort and crystallized into a final judgment in January 1988—both predating August 3, 1988—the residential property remained fully subject to levy and execution sale.
+
+---
+Fallo
+
+The Supreme Court **dismissed** Jose Modequillo's petition for lack of merit, **affirmed** the orders of the Regional Trial Court denying the motion to quash the levy and execution sale, and assessed costs against him.
