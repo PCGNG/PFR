@@ -1,0 +1,61 @@
+**Edgardo A. Tijing and Bienvenida R. Tijing v. Court of Appeals (Seventh Division) and Angelita Diamante**
+G.R. No. 125901 | 8 March 2001 (354 SCRA 17)
+
+---
+
+### **Facts**
+
+Spouses Edgardo and Bienvenida Tijing had six children, the youngest being Edgardo Tijing, Jr. (Edgardo, Jr.), who was delivered at the clinic of midwife and registered nurse Lourdes Vasquez, as supported by clinical records including a logbook and discharge order. Bienvenida worked as a laundrywoman for Angelita Diamante. One day, Bienvenida left her four-month-old son, Edgardo, Jr., under Angelita’s care while she did some marketing. When Bienvenida returned, Angelita and Edgardo, Jr. had disappeared.
+
+Four years later, upon learning of the death of Angelita's common-law husband, Tomas Lopez, Bienvenida went to Hagonoy, Bulacan, where she found her missing son living with Angelita under the name "John Thomas Lopez." Angelita refused to return the boy, claiming he was her natural child with Tomas Lopez and presenting a birth certificate registered late by Tomas Lopez (who falsely stated they were legally married). Edgardo and Bienvenida filed a petition for *habeas corpus* before the RTC to recover custody of their son. During trial, they presented midwife Lourdes Vasquez with her clinic logbook and discharge order, Tomas Lopez’s brother Benjamin Lopez (who testified that Tomas was sterile and had no children in either his 15-year legal marriage or 14-year relationship with Angelita), medical evidence that Angelita had undergone a tubal ligation and could no longer bear children, and the child himself, whose facial features, eyes, eyebrows, and head shape strongly resembled Bienvenida.
+
+---
+
+### **Issue**
+
+May legitimate parentage and filiation be established through clinical delivery records, physical resemblance between the child and the alleged parent, and proof of the claimants' biological incapacity and birth-certificate irregularities under Article 172 of the Family Code in relation to the Rules of Court?
+
+---
+
+### **Ruling**
+
+**Yes.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "A close scrutiny of the records of this case reveals that the evidence presented by Bienvenida is sufficient to establish that John Thomas Lopez is actually her missing son, Edgardo Tijing, Jr."
+
+> "First, there is evidence that Angelita could no longer bear children."
+
+> "Second, there is strong evidence that Tomas Lopez is no longer capable of siring a son."
+
+> "Third, we find unusual the fact that the birth certificate of John Thomas Lopez was filed by Tomas Lopez instead of the midwife, and on August 4, 1989, four months after the alleged birth of the child. Under the law, the attending physician or midwife in attendance at birth should cause the registration of such birth. Only in default of the physician or midwife, can the parent register the birth of his child. The certificate must be filed with the local civil registrar within thirty days after the birth. Moreover, a false entry puts to doubt the other data in said birth certificate."
+
+> "Fourth, the trial court observed several times that when the child and Bienvenida were both in court, the two had strong similarities in their faces, eyes, eyebrows and head shapes. Resemblance between a minor and his alleged parent is competent and material evidence to establish parentage."
+
+> "Fifth, Lourdes Vasquez testified that she assisted in Bienvenida's giving birth to Edgardo Tijing, Jr., at her clinic. Unlike private respondent, she presented clinical records consisting of a log book, discharge order and the signatures of petitioners."
+
+> "All these considered, we are constrained to rule that subject minor is indeed the son of petitioners. The writ of habeas corpus is proper to regain custody of said child."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 172, Second Paragraph (2) of the Family Code** *(in relation to **Rule 130 of the Rules of Court**)*: Allows legitimate filiation to be proved, in the absence of a valid civil registry record of birth or written admission, by **"any other means allowed by the Rules of Court and special laws."**
+* **Section 4 of Act No. 3753 (Civil Register Law):** Mandates that the attending physician or midwife in attendance at birth shall cause the registration of such birth with the local civil registrar within 30 days after birth, and only in default of the physician or midwife may the parent register the birth; false entries and irregular late registration cast serious doubt on the veracity of a birth certificate.
+* **Rule 102, Section 1 of the Rules of Court:** Extends the writ of *habeas corpus* to all cases where the rightful custody of any person is withheld from the person entitled thereto, making it the proper remedy for parents to regain custody of a minor child from a third party, with the threshold question of filiation and identity resolved therein.
+* **Doctrinal Rule on Physical Resemblance as Proof of Parentage (*Chua Yeng v. Collector of Customs*, 28 Phil. 591 [1914]):** Physical resemblance between a minor child and his alleged parent—as observed by the trial court—is competent and material object evidence to establish parentage.
+* **Judicial Recognition of DNA Testing:** The Court noted that while conventional methods of proof sufficed in this case, courts should not hesitate in appropriate cases to admit and apply scientific DNA testing to resolve parentage and identity disputes.
+
+---
+
+### **Ratio Decidendi**
+
+When a child's true civil registry identity has been obscured by abduction and a fraudulent birth registration, legitimate parentage may be proved under Article 172, second paragraph, of the Family Code through any competent means allowed by the Rules of Court and special laws. A birth certificate executed in violation of Section 4 of Act No. 3753—registered belatedly by an alleged father rather than the attending midwife and containing false statements regarding marital status—loses its prima facie weight when contradicted by clear, convincing evidence. Taken together, the clinical logbook and discharge order authenticated by the attending midwife, the biological sterility and tubal ligation of the putative abductors, and the striking physical resemblance between the child and his biological mother conclusively proved that "John Thomas Lopez" and Edgardo Tijing, Jr. were one and the same legitimate son of Spouses Edgardo and Bienvenida Tijing.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the instant petition is GRANTED. The assailed DECISION of the Court of Appeals is REVERSED and decision of the Regional Trial Court is REINSTATED. Costs against the private respondent.
+> SO ORDERED."
