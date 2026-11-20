@@ -1,0 +1,50 @@
+**Maria Jeanette C. Tecson and Felix B. Desiderio, Jr. v. The Commission on Elections, Ronald Allan Kelley Poe (a.k.a. Fernando Poe, Jr.), and Victorino X. Fornier** *(consolidated with G.R. No. 161634, **Zoilo Antonio G. Velez v. Ronald Allan Kelley Poe**, and G.R. No. 161824, **Victorino X. Fornier v. Hon. Commission on Elections and Ronald Allan Kelley Poe**)*
+G.R. Nos. 161434, 161634, and 161824 | 3 March 2004 (424 SCRA 277)
+
+---
+
+### **Facts**
+
+Ronald Allan Kelley Poe, popularly known as Fernando Poe, Jr. (FPJ), filed his Certificate of Candidacy (COC) for President of the Philippines in the May 2004 national elections, representing himself as a natural-born Filipino citizen born in Manila on August 20, 1939 to Allan F. Poe and Bessie Kelley. Victorino X. Fornier (Fornier) filed a petition before the COMELEC to disqualify FPJ and cancel his COC for alleged material misrepresentation.
+
+Fornier contended that FPJ was not a natural-born Filipino citizen because: (1) FPJ's paternal grandfather, Lorenzo Pou, was a Spanish subject who never became a Filipino citizen, so Allan F. Poe was likewise not a Filipino citizen; and (2) even assuming Allan F. Poe was a Filipino citizen, he could not transmit Philippine citizenship to FPJ because FPJ was an illegitimate child born out of wedlock to an American mother, Bessie Kelley—alleging that Allan F. Poe had previously married Paulita Gomez in 1936 and married Bessie Kelley only in September 1940, one year after FPJ's birth. The COMELEC dismissed Fornier's petition for lack of merit, prompting Fornier to elevate the case to the SC via certiorari, while Maria Jeanette C. Tecson, Felix B. Desiderio, Jr., and Zoilo Antonio G. Velez filed separate direct petitions before the SC assailing COMELEC's jurisdiction.
+
+---
+
+### **Issue**
+
+Do the Civil Code and Family Code distinctions between legitimate and illegitimate children—and their rules on proof of filiation or voluntary acknowledgment—prevent an illegitimate child from deriving the rights and status of citizenship from a Filipino father under the 1935 Constitution?
+
+---
+
+### **Ruling**
+
+**No.**
+
+*Note: In strict compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+1. **Civil Law Distinctions Between Legitimate and Illegitimate Children Do Not Impinge on Political Rights:** The SC held that the distinctions between legitimate and illegitimate children codified in the Spanish Civil Code, the New Civil Code, and the Family Code were designed solely to define private family relations, parental authority, support, and successional/proprietary rights within the sphere of civil law. Those civil law classifications remain strictly within the realm of private civil law and do not curtail or impinge upon political law or a child's relationship with the State.
+2. **Equal Transmission of Citizenship to Legitimate and Illegitimate Children of Filipino Fathers (Article IV, Section 1[3], 1935 Constitution):** Because FPJ was born in 1939 during the effectivity of the 1935 Constitution, his citizenship was governed by Article IV, Section 1(3) thereof, which simply declared as citizens of the Philippines *"[t]hose whose fathers are citizens of the Philippines"* without distinguishing between legitimate and illegitimate offspring. As long as paternity is established, an illegitimate child of a Filipino father and an alien mother acquires natural-born Philippine citizenship at birth in the same manner as a legitimate child.
+3. **Proof of Paternity and Filiation Outside Family/Successional Disputes (Civil Code, Family Code, and Rule 130, Rules of Court):** The SC further explained that the strict statutory requirements for voluntary recognition or proof of filiation under the Civil Code and Family Code (such as Articles 172 and 175 of the Family Code) are meant to govern private family and inheritance claims—not to preclude ordinary rules of evidence in public or political law controversies. Under **Rule 130, Section 39 (now Section 41) of the Rules of Court** (Act or Declaration About Pedigree), declarations made by deceased persons related by birth or marriage—coupled with FPJ's official Certificate of Live Birth naming Allan F. Poe as his father and the 1940 marriage certificate of Allan F. Poe and Bessie Kelley—sufficiently established Allan F. Poe's paternity over FPJ. Since Lorenzo Pou resided in San Carlos, Pangasinan as a Spanish subject on April 11, 1899 and benefited from the *en masse* Filipinization under the Philippine Bill of 1902 and the Jones Law of 1916, he transmitted Philippine citizenship to Allan F. Poe, who in turn transmitted natural-born Philippine citizenship to FPJ.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article IV, Section 1(3) of the 1935 Constitution:** Confers Philippine citizenship upon all persons *"whose fathers are citizens of the Philippines,"* making no distinction between legitimate and illegitimate children.
+* **Articles 172, 173, 175, and 256 of the Family Code** *(in relation to the Spanish Civil Code and New Civil Code provisions on legitimacy and recognition)*: Govern private family, support, and hereditary rights between parents and children, and do not operate as an exclusionary bar to proving paternity in political or citizenship proceedings.
+* **Rule 130, Section 39 (now Section 41) of the Rules of Court:** Admits acts or declarations about pedigree by deceased relatives as competent proof of relationship and parentage.
+* **Section 4 of the Philippine Bill of 1902 and Section 2 of the Jones Law of 1916:** Granted Philippine citizenship *en masse* to inhabitants of the Philippine Islands who were Spanish subjects on April 11, 1899 and continued to reside therein, as well as their children.
+* **Section 78 in relation to Section 74 of the Omnibus Election Code:** Requires that a false representation in a Certificate of Candidacy must be both material and deliberately made with intent to deceive the electorate to warrant cancellation.
+
+---
+
+### **Ratio Decidendi**
+
+The legal distinction between legitimate and illegitimate children under the Civil Code and the Family Code belongs exclusively to the domain of private civil law—governing support, parental authority, and succession—and cannot be imported into political law to deprive an illegitimate child of the constitutional right to acquire citizenship from a Filipino father. Under Article IV, Section 1(3) of the 1935 Constitution, any person whose father is a citizen of the Philippines is a natural-born Filipino citizen regardless of whether the child was born inside or outside of valid wedlock. Moreover, the strict Civil Code and Family Code rules on compulsory or voluntary recognition do not bar the use of ordinary evidentiary rules on pedigree under Rule 130 of the Rules of Court to prove biological paternity in citizenship disputes. Because competent evidence established that Lorenzo Pou acquired Philippine citizenship under the Philippine Bill of 1902 and transmitted it to his son Allan F. Poe, who in turn was proven to be FPJ's father, FPJ was a natural-born Filipino citizen and committed no material misrepresentation in his Certificate of Candidacy.
+
+---
+
+### **Fallo**
+
+The Supreme Court **dismissed** G.R. No. 161434 (Tecson, et al.) and G.R. No. 161634 (Velez) for want of jurisdiction and prematurity, and **dismissed** G.R. No. 161824 (Fornier) for failure to show grave abuse of discretion on the part of the Commission on Elections in dismissing the petition to disqualify Fernando Poe, Jr.
