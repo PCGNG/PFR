@@ -1,0 +1,47 @@
+**Adelaida S. Tayag v. Felicidad A. Tayag-Gallor**
+G.R. No. 174680 | 24 March 2008 (549 SCRA 68)
+
+---
+
+### **Facts**
+
+Felicidad A. Tayag-Gallor (Felicidad) filed a petition before the RTC for the issuance of letters of administration over the intestate estate of Ismael Tayag (Ismael), claiming to be Ismael's illegitimate daughter born out of wedlock to Ismael and Ester Angeles (Ester), who were never married to each other. Felicidad alleged that Ismael died leaving no will and survived by his widow, Adelaida S. Tayag (Adelaida), and two acknowledged illegitimate children, including herself.
+
+Adelaida opposed the petition and moved to dismiss it, arguing that Felicidad had no legal personality to institute the intestate proceedings because Ismael had not voluntarily recognized her as his illegitimate child in accordance with Article 172 of the Family Code, and that Felicidad could no longer establish her illegitimate filiation after Ismael's death under Article 175. In her opposition, however, Adelaida admitted that Ismael had extended financial support to Felicidad during his lifetime, while Felicidad asserted in her pleadings that she possessed a signed admission of paternity and other proofs of recognition by Ismael—facts requiring a full-blown hearing to establish whether voluntary recognition existed. The RTC denied Adelaida's motion to dismiss, and the CA affirmed, holding that Felicidad's petition sufficiently stated a cause of action and that the question of voluntary recognition could only be resolved after trial on the merits.
+
+---
+
+### **Issue**
+
+May a trial court summarily dismiss a petition for letters of administration filed by an alleged illegitimate child on the ground of lack of voluntary recognition prior to trial on the merits, when the pleadings raise factual issues regarding the putative father's voluntary acknowledgment and support under Articles 172 and 175 of the Family Code?
+
+---
+
+### **Ruling**
+
+**No.**
+
+*Note: In strict compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+1. **Distinction Between Voluntary Recognition and Compulsory Recognition (Articles 172 and 175 of the Family Code):** Under **Article 175 in relation to Article 172 of the Family Code**, an illegitimate child establishes filiation either through **voluntary recognition** under the first paragraph of Article 172—namely, (1) the record of birth appearing in the civil register or a final judgment, or (2) an admission of filiation in a public document or a private handwritten instrument and signed by the parent concerned—or, in their absence, through **compulsory recognition** (secondary proof) under the second paragraph of Article 172 via open and continuous possession of the status of an illegitimate child or any other means allowed by the Rules of Court and special laws. Where voluntary recognition exists under the first paragraph of Article 172, the child need not file a separate action to compel recognition and may enforce hereditary rights even after the putative parent's death; conversely, if the claim rests solely on secondary evidence under the second paragraph of Article 172, the action must be brought during the putative parent's lifetime pursuant to Article 175.
+2. **Sufficiency of Cause of Action and Necessity of Trial on the Merits:** In resolving a motion to dismiss for failure to state a cause of action, the trial court must hypothetically admit the truth of the material allegations in the complaint or petition. Because Felicidad expressly alleged in her petition that she was an **acknowledged illegitimate child** of Ismael—and Adelaida herself admitted in her opposition that Ismael had financially supported Felicidad during his lifetime—the petition sufficiently stated a cause of action as an "interested person" under Rule 79, Section 2 of the Rules of Court. Whether Felicidad actually possessed competent proof of voluntary recognition under the first paragraph of Article 172 (as opposed to time-barred secondary evidence under the second paragraph) is an evidentiary matter that cannot be adjudicated on a mere motion to dismiss, but must be determined after a full-blown hearing on the merits.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Articles 172 and 175 of the Family Code:** Establish the primary modes of proving voluntary recognition (civil registry record of birth, final judgment, public document, or signed private handwritten admission) which subsist beyond the parent's death, as distinguished from secondary proofs (open and continuous possession of status or other means under the Rules of Court) which must be asserted during the lifetime of the alleged parent.
+* **Section 2, Rule 79 of the Rules of Court:** Requires that a petition for letters of administration be filed by an **"interested person"**—one who would be benefited by the estate, such as an heir—whose status as a voluntarily recognized illegitimate child is properly thresholded and proven during the hearing of the petition.
+* **Doctrinal Rule on Motion to Dismiss vs. Proof of Voluntary Recognition:** Where a claimant expressly alleges voluntary acknowledgment by the decedent in a petition for letters of administration, the trial court cannot prematurely dismiss the petition for lack of proof of filiation without first conducting an evidentiary hearing to allow the claimant to present primary proof of voluntary recognition under Article 172, first paragraph, of the Family Code.
+
+---
+
+### **Ratio Decidendi**
+
+Under Articles 172 and 175 of the Family Code, an illegitimate child who has been voluntarily recognized by the putative father through any of the primary proofs in the first paragraph of Article 172 (a signed birth record, final judgment, public document, or signed private handwritten instrument) need not bring an action during the father's lifetime and is entitled to assert hereditary rights in the settlement of his estate. Because Felicidad explicitly alleged in her petition that she was Ismael's acknowledged illegitimate daughter, her petition stated a valid cause of action as an interested person under Rule 79 of the Rules of Court. Consequently, the trial court properly denied Adelaida's motion to dismiss so that the factual issue of whether Felicidad was indeed voluntarily recognized by Ismael could be resolved through reception of evidence at trial.
+
+---
+
+### **Fallo**
+
+The Supreme Court **denied** Adelaida S. Tayag's Petition for Review on Certiorari for lack of merit and **affirmed** the Decision and Resolution of the Court of Appeals upholding the denial of her motion to dismiss.
