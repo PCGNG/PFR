@@ -1,0 +1,52 @@
+**William Go Kim Huy v. Santiago Go Kim Huy, Bonifacio Go Kim & Sons, Santiago Go Kim & Sons, Co., Tomas Tan Go, Jose Tan Go, Roberto Tan Go, Basilia Tan Go, and Leoncio Tan Go**
+G.R. No. 137674 | 20 September 2001 (365 SCRA 490)
+
+---
+
+### **Facts**
+
+Bonifacio Go Kim died in 1974. Claiming to be the legitimate son and compulsory heir of Bonifacio Go Kim, William Go Kim Huy (William) filed an action for partition, accounting, and reconveyance before the RTC against Santiago Go Kim Huy (Santiago) and the other members of the Go family and their family corporations.
+
+To establish his legitimate filiation to Bonifacio Go Kim, William did not present any record of birth appearing in the civil register, final judgment, or authentic/public or signed handwritten document executed by Bonifacio acknowledging him as a son. Instead, William relied primarily on a certification issued by the Bureau of Immigration and Deportation (BID/CID) indicating that Bonifacio's alien registration records listed William as his son—a certification that was later cancelled and corrected by the BID after finding that William was not Bonifacio's son—alongside secondary evidence purportedly showing open and continuous possession of status. The RTC dismissed William's complaint for insufficiency of evidence and ordered him to pay P200,000.00 in moral damages, which the CA affirmed *in toto*.
+
+---
+
+### **Issue**
+
+Did William sufficiently prove his legitimate filiation to the late Bonifacio Go Kim through cancelled immigration certifications and secondary evidence of continuous possession of status under Articles 265 to 268 of the New Civil Code (now Article 172 of the Family Code)?
+
+---
+
+### **Ruling**
+
+**No.**
+
+*Note: In strict compliance with copyright guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is set forth accurately below:*
+
+The Supreme Court held that while heirs acquire a definite right to the inheritance from the moment of the decedent's death in 1974, the claimant bears the burden of proving his affirmative allegation that the decedent is his father. Evaluating William's proof under **Articles 265 to 268 of the New Civil Code** (the operative law prior to the effectivity of the Family Code in 1988, now codified in **Article 172 of the Family Code**), the Court explained the strict hierarchy of proving legitimate filiation:
+
+1. **Primary Proof (Article 265 of the Civil Code / Article 172, First Paragraph, of the Family Code):** Legitimate filiation is established by (a) the record of birth appearing in the civil register or a final judgment, or (b) an admission of legitimate filiation in an authentic/public document or a private handwritten instrument signed by the parent concerned.
+2. **Secondary Proof (Articles 266 and 267 of the Civil Code / Article 172, Second Paragraph, of the Family Code):** In the absence of the foregoing primary titles, legitimate filiation must be proved by (a) the **continuous possession of the status of a legitimate child** (demonstrated by direct, consistent acts of the father or his family, such as bearing the father's surname, receiving support and education as a legitimate child, and being treated and presented to the public as such), or (b) **any other means allowed by the Rules of Court and special laws**.
+
+William failed to produce any civil registry record of birth, final judgment, or authentic/public or signed handwritten instrument from Bonifacio Go Kim. Moreover, the immigration certification he relied upon had been validly cancelled and corrected by the BID, and administrative entries in immigration records are neither conclusive on the courts nor sufficient to substitute for statutory proof of filiation. Absent clear and convincing proof of continuous possession of the status of a legitimate child or other competent evidence under the Rules of Court, William failed to discharge his burden of proving legitimate filiation. However, the Court deleted the P200,000.00 award of moral damages because the protracted litigation was not solely imputable to William.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Articles 265, 266, 267, and 268 of the New Civil Code** *(now **Articles 172 and 173 of the Family Code**)*: Prescribe the hierarchical modes of proving legitimate filiation—first, through a civil registry record of birth, final judgment, or signed authentic/public or private handwritten admission; and only in their absence, through continuous possession of the status of a legitimate child or any other means allowed by the Rules of Court and special laws.
+* **Article 777 of the New Civil Code:** Establishes that successional rights are transmitted from the moment of the decedent's death, which presupposes that the claimant first proves his status as a lawful heir.
+* **Rule 131, Section 1 of the Rules of Court (Burden of Proof):** Places the burden of proof upon the party who asserts the affirmative of an issue—requiring a person claiming to be a legitimate heir to prove his filiation by preponderance of clear and convincing evidence.
+* **Doctrinal Rule on Immigration Records vs. Judicial Proof of Filiation:** Administrative entries or certifications in immigration records are not binding upon the courts on questions of paternity and filiation; courts must adjudicate filiation strictly based on the evidentiary standards prescribed by the Civil Code/Family Code and the Rules of Court.
+
+---
+
+### **Ratio Decidendi**
+
+A person claiming hereditary rights as a legitimate child bears the affirmative burden of proving his legitimate filiation under the statutory hierarchy established by Articles 265 to 268 of the New Civil Code (now Article 172 of the Family Code). Where the claimant presents no civil registry record of birth, final judgment, or authentic/public or signed handwritten admission executed by the putative father, and relies instead on cancelled immigration certifications and uncorroborated allegations that fall short of proving continuous possession of the status of a legitimate child, his claim of legitimate filiation fails for insufficiency of evidence.
+
+---
+
+### **Fallo**
+
+The Supreme Court **affirmed** the Decision of the Court of Appeals dismissing William Go Kim Huy's complaint for insufficiency of evidence, **with the modification** that the award of P200,000.00 in moral damages against him was **deleted**.
