@@ -1,0 +1,50 @@
+**Spouses Jaime and Natividad Balintec v. Marlyn Tubera** *(Note: Also indexed in Supreme Court reports as **Balintec v. Tubera**, G.R. No. 235701, 15 February 2023)*
+G.R. No. 235701 | 15 February 2023
+
+---
+
+### **Facts**
+
+Marlyn Tubera (Marlyn) was born out of wedlock to her mother and putative father, the late Juan Balintec (Juan). Following Juan's death, Marlyn filed an action before the RTC for partition, accounting, and recovery of her hereditary share in Juan's estate against Juan's surviving relatives, Spouses Jaime and Natividad Balintec (Jaime and Natividad), claiming to be Juan's voluntarily recognized illegitimate daughter and compulsory heir.
+
+To prove her voluntary recognition by Juan, Marlyn presented her Certificate of Live Birth—which was **not signed by Juan** as informant or acknowledging father, and was instead signed only by her mother or a third-party informant—alongside baptismal certificates, school records, photographs, and witness testimonies showing that Juan lived with her mother and treated Marlyn as his child during his lifetime. Jaime and Natividad opposed the claim, arguing that Marlyn failed to establish voluntary recognition through any of the primary proofs required under Article 172, first paragraph, of the Family Code, and that an action to establish illegitimate filiation based on open and continuous possession of status had already prescribed upon Juan's death under Article 175.
+
+---
+
+### **Issue**
+
+May an illegitimate child claim voluntary recognition and enforce hereditary rights after the putative father's death based on an unsigned Certificate of Live Birth and secondary evidence of open and continuous possession of status under Articles 172 and 175 of the Family Code?
+
+---
+
+### **Ruling**
+
+**No.**
+
+*Note: In strict compliance with content guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+1. **Requirement of Signature/Participation for Voluntary Recognition in a Record of Birth (Article 172, First Paragraph, of the Family Code):** Under **Article 175 in relation to Article 172, first paragraph, of the Family Code**, an illegitimate child establishes filiation through primary proof consisting of: (1) the record of birth appearing in the civil register or a final judgment; or (2) an admission of filiation in a public document or a private handwritten instrument and signed by the parent concerned. Settled jurisprudence establishes that a **Certificate of Live Birth that is not signed by the putative father**—or in whose preparation and registration the father did not participate—does not constitute voluntary recognition or competent proof of paternity, because a mother or civil registrar cannot unilaterally bind an alleged father to an admission of paternity he never executed or signed.
+2. **Prescription of Actions Anchored on Secondary Evidence After the Putative Parent's Death (Article 175, Second Paragraph, of the Family Code):** In the absence of primary proof under the first paragraph of Article 172, an illegitimate child may prove filiation through secondary evidence under the second paragraph—namely, open and continuous possession of the status of an illegitimate child, or any other means allowed by the Rules of Court and special laws (such as baptismal certificates, school records, photographs, and witness testimonies). However, **Article 175, second paragraph, of the Family Code** expressly mandates that when the action is based on the second paragraph of Article 172, **"the action may be brought during the lifetime of the alleged parent."**
+
+Because Marlyn's Certificate of Live Birth did not bear Juan's signature and she presented no final judgment, public document, or private handwritten instrument signed by Juan acknowledging paternity, her claim rested solely on secondary evidence of open and continuous possession of status. Having instituted her action only *after* Juan's death, her right of action to establish illegitimate filiation had already prescribed under Article 175, depriving her of standing to claim an intestate share in Juan's estate.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 175 of the Family Code:** Governs the proof and prescriptive periods for establishing illegitimate filiation; mandates that when the action is based on secondary evidence under the second paragraph of Article 172, **the action must be brought during the lifetime of the alleged parent**.
+* **Article 172 of the Family Code:** Establishes the two-tiered evidentiary standard for filiation—primary proof under paragraph 1 (record of birth in the civil register signed by the acknowledging parent, final judgment, public document, or signed private handwritten instrument) and secondary proof under paragraph 2 (open and continuous possession of status, or any other means allowed by the Rules of Court and special laws).
+* **Article 173 of the Family Code:** Permits an action to claim filiation during the lifetime of the child *only* when supported by primary proof under the first paragraph of Article 172.
+* **Doctrinal Rule on Unsigned Birth Certificates and Baptismal Records (*Cabatania v. Court of Appeals*, G.R. No. 124814, October 21, 2004; *Perla v. Baring*, G.R. No. 172471, November 12, 2012):** A Certificate of Live Birth lacking the putative father's signature—as well as baptismal certificates, school records, and photographs—constitutes at best secondary evidence under the second paragraph of Article 172 and cannot prove voluntary recognition in an action filed after the putative father's death.
+
+---
+
+### **Ratio Decidendi**
+
+Voluntary recognition of an illegitimate child under Article 172, first paragraph, of the Family Code requires an unequivocal, affirmative act of acknowledgment by the putative parent—such as signing the Certificate of Live Birth, executing a public document, or signing a private handwritten instrument admitting paternity. An unsigned Certificate of Live Birth, together with baptismal records, photographs, and testimonies of open support, does not establish voluntary recognition under the first paragraph of Article 172, but merely constitutes secondary evidence of open and continuous possession of status under the second paragraph thereof. Under the explicit restriction in Article 175, second paragraph, of the Family Code, an action to prove illegitimate filiation through secondary evidence must be filed **during the lifetime of the alleged parent**. Consequently, an illegitimate child who possesses no primary written acknowledgment from the putative father can no longer institute an action to establish filiation and claim hereditary rights after the putative father has died.
+
+---
+
+### **Fallo**
+
+The Supreme Court **granted** the Petition for Review on Certiorari of Spouses Jaime and Natividad Balintec, **reversed and set aside** the assailed ruling of the Court of Appeals, and **dismissed** Marlyn Tubera's complaint for partition and recovery of hereditary share for lack of proof of voluntary recognition and prescription under Article 175 of the Family Code.
