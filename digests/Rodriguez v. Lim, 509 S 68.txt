@@ -1,0 +1,105 @@
+I didn't find an uploaded file (the uploads folder is empty), so I pulled the decision from the Supreme Court's published text. It matches the case name and the 2006 date of your 509 SCRA citation, but I couldn't confirm the SCRA page number. If your .txt file is a different case, send it again and I'll redo the brief.
+
+# CASE BRIEF
+
+**Rodriguez v. Lim**
+G.R. No. 135817, November 30, 2006 (First Division, Callejo, Sr., J.)
+
+**Topic:** Voluntary recognition of illegitimate children
+
+---
+
+## FACTS
+
+Dominga married Frisco, but he left her after eleven months and never returned. They had no children. Dominga then cohabited with Pablo Lim as common-law spouses and had a son, Pablo Jr., who was never subjected to any judicial inquiry on his filiation.
+
+Dominga later bought two parcels of land, TCT No. T-2857 in her name. She died intestate, and Pablo Jr. took possession of the lots and of the owner's duplicate title.
+
+Years after her death, a lawyer got Frisco to execute several documents:
+- an affidavit adjudicating the lots to himself;
+- a petition and affidavit of loss to obtain a second owner's duplicate of the title, although the original had never been lost; and
+- an affidavit stating that Pablo Jr. was not Dominga's son.
+
+Frisco then sold the lots to Victa, who sold them to the Spouses Rodriguez. All the title transfers were registered on the same day, and TCT No. T-128607 was issued to the Spouses Rodriguez.
+
+Pablo Jr. sued to cancel the title. The Spouses Rodriguez denied that Dominga was his mother and argued that he was never recognized by her. Pablo Jr. presented:
+- his birth certificate naming Dominga as his mother;
+- Dominga's statement of assets, income and liabilities listing him as her son; and
+- Dominga's income tax returns claiming an exemption for him as her son.
+
+The Spouses Rodriguez did not refute the authenticity of these documents. Pablo Jr. died during trial and was substituted by his wife and children (the Lims).
+
+---
+
+## ISSUE
+
+Was Pablo, an illegitimate child, validly recognized by his mother Dominga through his birth record, her statement of assets, income and liabilities, and her income tax returns, so that his filiation was established without need of a separate judicial action for recognition?
+
+---
+
+## RULING OF THE COURT (verbatim)
+
+**Answer to the issue**
+
+> "Petitioners assail the filiation of Pablo Goyma Lim, Jr. stating that he was not duly acknowledged or recognized by either of his parents. This contention is erroneous. It is axiomatic that factual findings of the trial court, especially when affirmed by the appellate court, are conclusive and binding on the Court. In this case, the court a quo and the appellate court are in agreement that, based on the evidence presented, Pablo Goyma Lim, Jr. was the illegitimate and acknowledged son of Dominga Goyma."
+> (*citing* Santos v. Alana, G.R. No. 154942, August 16, 2005, 467 SCRA 176)
+
+**Doctrine on how filiation of illegitimate children is established and on voluntary recognition**
+
+> "The Court has laid down the manner of establishing the filiation of children, whether legitimate or illegitimate, as follows:
+>
+> The filiation of illegitimate children, like legitimate children, is established by (1) the record of birth appearing in the civil register or a final judgment; or (2) an admission of legitimate filiation in a public document or a private handwritten instrument and signed by the parent concerned. In the absence thereof, filiation shall be proved by (1) the open and continuous possession of the status of a legitimate child; or (2) any other means allowed by the Rules of Court and special laws. The due recognition of an illegitimate child in a record of birth, a will, a statement before a court of record, or in, any authentic writing is, in itself, a consummated act of acknowledgment of the child, and no further action is required. In fact, any authentic writing is treated not just a ground for compulsory recognition; it is in itself a voluntary recognition that does not require a separate action for judicial approval."
+> (*citing* Eceta v. Eceta, G.R. No. 157037, May 20, 2004, 428 SCRA 782)
+
+**Provisions of the Civil Code mentioned in the decision (successional rights of the recognized child)**
+
+> "ART. 777. The rights to the succession are transmitted from the moment of the death of the decedent."
+
+> "ART. 960. Legal or intestate succession takes place: (1) If a person dies without a will, or with a void will, or one which has subsequently lost its validity; x x x"
+
+> "ART. 998. If a widow or widower survives with illegitimate children, such widow or widower shall be entitled to one-half of the inheritance, and the illegitimate children or their descendants, whether legitimate or illegitimate, to the other half."
+
+*Note: The Court cited no article of the Civil Code or Family Code for the recognition itself. It relied on the Eceta doctrine above. The articles quoted here are the Civil Code provisions on succession that the decision mentions.*
+
+---
+
+## RATIO DECIDENDI (verbatim)
+
+**1. The documents proffered amount to recognition by Dominga**
+
+> "Various documentary evidence were proffered by Pablo Goyma Lim, Jr. to prove that he was the illegitimate and acknowledged son of Dominga Goyma. Among them were his certificate of birth (Exhibit "B") indicating that his mother was Dominga Goyma; statement of assets, income and liabilities for 1958 (Exhibit "C") of Dominga Goyma indicating him as her son and; income tax returns for calendar years 1953 up to 1955 (Exhibits "D" to "F")) of Dominga Goyma where she invariably claimed personal exemption as head of the family and stated therein that she was "separated" from her husband and claimed an exemption for her son, Pablo Goyma Lim, Jr. These pieces of documentary evidence, whose authenticity were not refuted by petitioners, were properly considered by the court a quo and the appellate court to establish that Pablo Goyma Lim, Jr. was acknowledged by Dominga Goyma to be her illegitimate son."
+
+**2. The appellate court's holding on voluntary acknowledgment and the transmission of succession rights**
+
+> "It stressed that Pablo Goyma Lim, Jr. was the son of the decedent Dominga Goyma as evidenced by a voluntary acknowledgment made in his record of birth (Exhibit "C") and in the other documentary evidence presented during trial. His right to succession was transmitted when Dominga Goyma passed away on July 19, 1971 following Article 777 of the Civil Code."
+
+**3. Stipulated facts at pre-trial**
+
+> "3. that according to plaintiff Pablo Goyma Lim, Jr., he is an illegitimate child other than natural of the deceased Dominga Goyma;"
+>
+> "6. that previous to the instant case, there has been no judicial inquiry as to the maternity or filiation of plaintiff Pablo Goyma Lim, Jr."
+
+**4. Illegitimate child's share in intestate succession, applied by the trial court**
+
+> "The court a quo explained that since Dominga Goyma died on July 19, 1971 without a will, legal or intestate succession takes place following paragraph (1) of Article 960 of the Civil Code. Under the law on intestacy, particularly Article 998 thereof, the widower or widow who survives with illegitimate children shall be entitled to one-half of the inheritance and the illegitimate children to the other half."
+
+---
+
+## FALLO (verbatim)
+
+> "WHEREFORE, the petition is DENIED. The Decision dated July 18, 1995 and Resolution dated October 5, 1998 of the Court of Appeals in CA-G.R. CV No. 27440 are AFFIRMED in toto.
+>
+> SO ORDERED."
+
+---
+
+## CONTROLLING PRINCIPLES (review points)
+
+1. The filiation of illegitimate children, like that of legitimate children, is established by:
+   - the record of birth appearing in the civil register or a final judgment; or
+   - an admission of filiation in a public document, or a private handwritten instrument signed by the parent concerned.
+2. Without those, filiation is proved by open and continuous possession of the status of a child, or by any other means allowed by the Rules of Court and special laws.
+3. **Voluntary recognition** can be made in a record of birth, a will, a statement before a court of record, or any authentic writing. It is "in itself, a consummated act of acknowledgment of the child, and no further action is required."
+4. An authentic writing is not just a ground for compulsory recognition. It is itself voluntary recognition and does not require a separate action for judicial approval.
+5. Applied here, the birth certificate naming Dominga as mother, her statement of assets, income and liabilities listing Pablo Jr. as her son, and her tax returns claiming an exemption for him established her acknowledgment of him. The Spouses Rodriguez never refuted the authenticity of these documents.
+6. Factual findings of the trial court, when affirmed by the appellate court, are conclusive and binding on the Court.
