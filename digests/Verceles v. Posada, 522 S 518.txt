@@ -1,0 +1,52 @@
+**Teofisto I. Verceles v. Maria Clarissa Posada, in her own behalf and as mother of minor Verna Aiza Posada**
+G.R. No. 159785 | 27 April 2007 (522 SCRA 518)
+
+---
+
+### **Facts**
+
+Maria Clarissa Posada (Clarissa), a young college graduate, worked as an Election Field Officer in Catanduanes while Teofisto Verceles (Teofisto), a married man, was the Provincial Election Supervisor. During their employment, Teofisto courted Clarissa, took her to Manila and hotels, and had sexual relations with her, resulting in Clarissa's pregnancy. Upon learning of her pregnancy, Teofisto sent Clarissa several handwritten letters—addressed to "My Dearest" and signed "Love, Andy" or "Daddy"—explicitly acknowledging that he was the father of her unborn child, expressing his intention to support the child, and sending her cash through a messenger for her maternity expenses.
+
+Clarissa subsequently gave birth to a baby girl, Verna Aiza Posada (Verna Aiza). Clarissa, on her own behalf and as mother of minor Verna Aiza, filed an action for damages and support *pendente lite* before the RTC against Teofisto. The RTC ordered Teofisto to pay monthly support for Verna Aiza alongside moral and exemplary damages, which the CA affirmed. Teofisto elevated the case to the SC, arguing that Verna Aiza was not entitled to support because her illegitimate filiation had not been established in accordance with Article 172 of the Family Code, as he did not sign her Certificate of Live Birth and his handwritten letters were written *before* Verna Aiza was born.
+
+---
+
+### **Issue**
+
+Do handwritten letters executed and signed by a putative father *prior* to the child's birth, expressing joy over the pregnancy and acknowledging paternity of the unborn child, constitute valid voluntary recognition of illegitimate filiation under Article 172(2), first paragraph, in relation to Article 175 of the Family Code?
+
+---
+
+### **Ruling**
+
+**Yes.**
+
+Quoting the Supreme Court’s legal basis verbatim:
+
+> "Article 175 of the Family Code provides that illegitimate children may establish their illegitimate filiation in the same way and on the same evidence as legitimate children. Under Article 172 of the same Code, the filiation of legitimate children is established by any of the following: (1) the record of birth appearing in the civil register or a final judgment; or (2) an admission of legitimate filiation in a public document or a private handwritten instrument and signed by the parent concerned. In the absence of the foregoing evidence, the legitimate filiation shall be proved by: (1) the open and continuous possession of the status of a legitimate child; or (2) any other means allowed by the Rules of Court and special laws."
+
+> "The due recognition of an illegitimate child in a record of birth, a will, a statement before a court of record, or in any authentic writing is, in itself, a consummated act of acknowledgment of the child, and no further court action is required. In fact, any authentic writing is treated not just a ground for compulsory recognition; it is in itself a voluntary recognition that does not require a separate action for judicial approval."
+
+> "Petitioner's letters to Clarissa are authentic writings within the contemplation of Article 172(2) of the Family Code. They are private handwritten instruments signed by petitioner, who is the parent concerned, containing an admission of his paternity of the child Clarissa was carrying in her womb."
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Article 175 in relation to Article 172(2), First Paragraph, of the Family Code:** Allows illegitimate children to establish filiation through **"an admission of legitimate [or illegitimate] filiation in a public document or a private handwritten instrument and signed by the parent concerned."**
+* **Article 195(4) of the Family Code:** Obligates parents and their illegitimate children to support each other once filiation is established.
+* **Article 21 of the New Civil Code:** Holds liable for damages any person who willfully causes loss or injury to another in a manner contrary to morals, good customs, or public policy (applicable where a married man abuses his position of authority to seduce and impregnate a subordinate).
+* **Doctrinal Rule on Voluntary Recognition via Private Handwritten Instrument (*De Jesus v. Estate of Decedent Juan Gamboa Dizon*, G.R. No. 142877, October 2, 2001):** A private handwritten instrument signed by the putative parent admitting paternity—even if written while the child is still conceived in the mother's womb and signed using a nickname or term of endearment—is a **consummated act of voluntary recognition** in itself that requires no further judicial approval or separate action for compulsory recognition, and serves as a sufficient basis to compel support.
+
+---
+
+### **Ratio Decidendi**
+
+Under Article 175 in relation to Article 172(2), first paragraph, of the Family Code, a private handwritten instrument signed by the parent concerned admitting paternity constitutes a consummated act of voluntary recognition in itself, dispensing with the need for a separate action for compulsory recognition. The law does not require that the written admission be executed only after the child's birth or that it bear the father's full formal signature, so long as the authenticity of the handwriting and the father's unequivocal acknowledgment of paternity over the conceived child are clearly established. Because Teofisto's handwritten letters to Clarissa unequivocally admitted his paternity of the child in her womb and were corroborated by his financial remittances for maternity expenses, Verna Aiza's illegitimate filiation was voluntarily recognized, entitling her to compulsory support from Teofisto.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the petition is DENIED. The Decision of the Court of Appeals dated February 18, 2002 in CA-G.R. CV No. 54203 is AFFIRMED. Costs against petitioner.
+> SO ORDERED."
