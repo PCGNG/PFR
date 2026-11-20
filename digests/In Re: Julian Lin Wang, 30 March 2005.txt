@@ -1,0 +1,49 @@
+**In Re: Petition for Change of Name and/or Correction/Cancellation of Entry in Civil Registry of Julian Lin Carulasan Wang (also known as Julian Lin Wang), to be amended/corrected as Julian Lin Wang, Julian Lin Wang, represented by his mother Anna Lisa Wang**
+G.R. No. 159966 | 30 March 2005 (454 SCRA 155)
+
+---
+
+### **Facts**
+
+Julian Lin Carulasan Wang (Julian), a minor represented by his mother, Anna Lisa Wang, was born in Cebu City to parents Anna Lisa Wang and Sing-Foe Wang, who were not yet married to each other at the time of his birth. When Anna Lisa and Sing-Foe subsequently contracted a valid marriage, Julian was legitimated by subsequent marriage, and his birth certificate was amended to reflect his full name as "Julian Lin Carulasan Wang"—carrying "Carulasan" (his mother's surname) as his middle name and "Wang" (his father's surname) as his surname.
+
+Thereafter, Anna Lisa, on behalf of Julian, filed a petition before the RTC for change of name and/or correction of entry in the civil registry to drop Julian's middle name "Carulasan," so that his registered name would simply read "Julian Lin Wang." Anna Lisa argued that since Julian had already attended school in Singapore and would eventually reside and study there, retaining his middle name would cause confusion and inconvenience because middle names or mothers' maiden surnames are not used in Singapore, and because his older brother and younger sister—who were born in Singapore—did not carry "Carulasan" as a middle name. The RTC denied the petition, holding that dropping a legitimate or legitimated child's middle name is not allowed under Philippine law, prompting Anna Lisa to elevate the case directly to the SC via a petition for review on certiorari.
+
+---
+
+### **Issue**
+
+May a legitimate or legitimated child petition for a change of name to drop his mother's maiden surname as his middle name under Article 174 and Article 179 of the Family Code (and Articles 364 and 376 of the New Civil Code) merely for convenience abroad?
+
+---
+
+### **Ruling**
+
+**No.**
+
+*Note: In strict compliance with copyright guidelines prohibiting verbatim reproduction of copyrighted judicial text, the Supreme Court’s legal basis is synthesized below:*
+
+1. **Statutory Right and Purpose of a Legitimate/Legitimated Child's Name (Articles 174 and 179 of the Family Code; Article 364 of the New Civil Code):** Under **Article 174 of the Family Code**, legitimate children have the right to bear the surnames of the father and the mother, in conformity with the provisions of the Civil Code on Surnames; under **Article 179**, legitimated children enjoy the same rights as legitimate children. In turn, **Article 364 of the New Civil Code** provides that legitimate and legitimated children shall principally use the surname of the father. In Philippine custom and statutory law, the middle name—consisting of the mother's maiden surname—serves a vital legal and social purpose: it identifies the child's maternal lineage, preserves family identity, and distinguishes a legitimate or legitimated child from an illegitimate child (who, as a general rule, bears only the mother's surname without a middle name, unless expressly recognized under Republic Act No. 9255).
+2. **Absence of Proper and Reasonable Cause Under Rule 103 (Article 376 of the New Civil Code; Rule 103 of the Rules of Court):** Under **Article 376 of the New Civil Code** and **Rule 103 of the Rules of Court**, no person can change his name or surname without judicial authority, and a petition for change of name is a privilege—not a matter of right—that may be granted only upon showing **"proper and reasonable cause"** or compelling reasons (such as when the name is ridiculous, tainted with dishonor, extremely difficult to write or pronounce, results from a valid adoption, or is necessary to avoid confusion). Mere convenience, personal preference, or perceived difficulty in complying with foreign naming customs in Singapore does not constitute a valid or compelling ground to excise a legitimate child's middle name.
+3. **Additional Procedural Defect of a Minor Filing Without Representation on Non-Urgent Matters:** The SC also noted that before reaching the age of majority, a minor generally lacks sufficient maturity to decide on permanently altering his civil identity, and such a consequential change should ordinarily await the child's own informed choice upon reaching majority unless urgent, compelling circumstances require immediate judicial intervention.
+
+---
+
+### **Provisions and Doctrines Relied Upon**
+
+* **Articles 174(1) and 179 of the Family Code:** Grant legitimate and legitimated children the right to bear the surnames of both the father and the mother in accordance with the Civil Code provisions on Surnames.
+* **Article 364 of the New Civil Code:** Directs that legitimate and legitimated children shall principally use the surname of the father, while long-standing Philippine legal tradition and civil registration rules incorporate the mother's maiden surname as the child's middle name.
+* **Article 376 of the New Civil Code and Rule 103 of the Rules of Court:** Prohibit any change of name or surname without judicial authority and require proof of **"proper and reasonable cause"** before a court may authorize an alteration in a person's registered name.
+* **Doctrinal Function of the Middle Name in Philippine Law:** Unlike in jurisdictions where a middle name is merely an optional given name, the middle name in the Philippines is the mother's maiden surname—an essential badge of maternal filiation and legitimacy that links the child to both paternal and maternal lines.
+
+---
+
+### **Ratio Decidendi**
+
+Under Articles 174 and 179 of the Family Code and Article 364 of the New Civil Code, legitimate and legitimated children bear the surnames of both their father and their mother, with the mother's maiden surname serving as the child's middle name to establish maternal lineage and signify legitimate status. Because a judicial change of name under Article 376 of the Civil Code and Rule 103 of the Rules of Court is a privilege granted only upon compelling and reasonable cause, a minor legitimated child cannot drop his mother's maiden surname as his middle name solely for convenience or to conform to naming practices in a foreign country like Singapore. Allowing a legitimate child to excise his middle name for mere convenience would undermine the legal and cultural function of middle names in Philippine civil registry law.
+
+---
+
+### **Fallo**
+
+The Supreme Court **denied** the petition for review on certiorari and **affirmed** the Orders of the Regional Trial Court of Cebu City denying the petition to drop the middle name "Carulasan" from Julian Lin Carulasan Wang's Certificate of Live Birth.
